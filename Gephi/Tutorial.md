@@ -100,7 +100,7 @@ In network analysis, it is recommended to have a node table and an edge table th
 Each row in the node table describes a single node and should include a node label. You can also add a unique identifier (such as the **ID** column shown in the example sheet below), which helps simplify the creation of the edge table. Additional relevant attributes can be added as needed.
 
 Example:  
-![][image1]
+![Gephi screenshot](https://github.com/polina-postnikova/DKU-Library-Data-Visualization-Tools/upload/main/Gephi/images/image1)
 
 ## **Edge Table** {#edge-table}
 
