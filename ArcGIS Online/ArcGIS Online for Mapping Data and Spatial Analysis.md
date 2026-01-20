@@ -333,21 +333,25 @@ Not just a tool, ArcGIS Online is also a rich source of map data, with contribut
 
 2. Next, select **Labels** under the editing toolbar to start editing. Make sure you toggle on **Enable labels** and select **Name** field as the **Label field** to show the name of each province (since we turned them off in the basemap). You can also adjust the settings to customize their look.
 
-![][image31]
+<img width="699" height="531" alt="image20" src="https://github.com/user-attachments/assets/f7593b1e-b031-494e-b795-47a4e47256dd" />
+
 
 ### **Pop-ups** {#pop-ups}
 
 1. Click on a random data point on the map — this will trigger a pop-up displaying all associated information for that specific point.
 
-![][image32]
+<img width="564" height="422" alt="image22" src="https://github.com/user-attachments/assets/7349595b-a457-4987-af5e-7c9beba0f8f0" />
+
 
 2. To configure the pop-ups or edit the displayed information in the pop-up, first make sure that you have selected the target layer under **Layers**. A blue strip will appear on the left of the selected layer’s title.
 
-![][image33]
+<img width="393" height="171" alt="image113" src="https://github.com/user-attachments/assets/093281f5-b5ff-4646-8d18-7eb93dae73dd" />
+
 
 3. Next, go to **Pop-ups** under the editing toolbar to customize the content displayed.
 
-![][image34]
+<img width="392" height="431" alt="image24" src="https://github.com/user-attachments/assets/4da2cf5c-6a21-4ee0-a627-adaeb09fd8c8" />
+
 
 ## **Save a Map** {#save-a-map}
 
@@ -355,19 +359,23 @@ ArcGIS Online does **not** save your map project automatically, so be sure to ma
 
 1. To save a new-created map project, go to the contents toolbar, click **Save and open**, then **Save as**.
 
-![][image35]
+<img width="223" height="266" alt="image25" src="https://github.com/user-attachments/assets/9db69e5c-f4e2-4616-bede-481c1863aa30" />
+
 
 2. Name the project as **China Airport Map Project**, add other details if needed, and click **Save**.
 
-![][image36]
+<img width="516" height="578" alt="image26" src="https://github.com/user-attachments/assets/71d2245e-1537-469a-8cd2-f7cc4aa2eb7b" />
+
 
 3. Click the hamburger (3-line) icon in the top left corner, then select **Content** \- this is where your saved work will be stored. You can also find it under the main menu.
 
-![][image37]
+<img width="351" height="607" alt="image27" src="https://github.com/user-attachments/assets/66c12702-9231-4728-ae69-b6b3a3914a27" />
+
 
 4. Every time before quitting the project, go to the contents toolbar, click **Save and open**, then click **Save** to apply your changes.
 
-![][image38]
+<img width="199" height="242" alt="image28" src="https://github.com/user-attachments/assets/e50079af-8837-4845-ab14-39834aa1e9a5" />
+
 
 ## **Share a Map** {#share-a-map}
 
@@ -377,27 +385,33 @@ You can also set up a group to make your project or items visible or editable to
 
 1. Go to **Content**, then **My content**. Locate the item you want to share, and click on its title.
 
-![][image39]
+<img width="1281" height="347" alt="image29" src="https://github.com/user-attachments/assets/e75fa705-98c5-43ee-b806-aeb260d95c36" />
+
 
 2. Alternatively, click on the ellipsis (3-dot) icon next to the item and select **View details**.
 
-![][image40]
+<img width="222" height="296" alt="image30" src="https://github.com/user-attachments/assets/d45c9701-113d-4a7a-9d9c-e82072285328" />
+
 
 3. From the right-hand pane, click **Share** to open the sharing options.
 
-![][image41]
+<img width="312" height="368" alt="image1" src="https://github.com/user-attachments/assets/c1554cd2-7cbe-45ca-9a71-e765414f2e6e" />
+
 
 4. Choose **Everyone (public)** under sharing options, and click **Save**.
 
-![][image42]
+<img width="509" height="624" alt="image2" src="https://github.com/user-attachments/assets/aa6cd518-e98d-4838-8479-cf2855439564" />
+
 
 5. Click **Review sharing** to check the items whose sharing permissions will be updated accordingly.
 
-![][image43]
+<img width="509" height="177" alt="image3" src="https://github.com/user-attachments/assets/c1e44369-7431-4dac-b8db-ad5910d1825e" />
+
 
 6. Click **Update sharing** to confirm the changes.
 
-![][image44]
+<img width="1005" height="453" alt="image4" src="https://github.com/user-attachments/assets/80b03445-fa19-4edd-bef5-cf08341c6655" />
+
 
 7. Now, your map should be visible by the public.
 
@@ -407,31 +421,38 @@ For each layer created or added to a map project, you can export it as a shapefi
 
 1. Go to **Content**, then **My content**. Make sure the item you select is of the “Feature layer (hosted)” type \- otherwise, it will not support shapefile export.
 
-![][image45]
+<img width="1494" height="348" alt="image5" src="https://github.com/user-attachments/assets/a4eef91c-3543-441b-956e-708073dbbf0e" />
+
 
 2. Click on the ellipsis (3-dot) icon next to the item title, select **View details**. You can also do it by clicking on the item title.
 
-![][image46]
+<img width="183" height="300" alt="image6" src="https://github.com/user-attachments/assets/8b4f2fef-aa92-40cd-9e2f-c07872489eec" />
+
 
 3. Under the **Overview** tab, click **Export data** from the right pane.
 
-![][image47]
+<img width="318" height="503" alt="image7" src="https://github.com/user-attachments/assets/4c876f64-e0a9-44c7-a2d9-a442dc58ec1f" />
+
 
 4. Then, select **Export to shapefile** from the dropdown menu.
 
-![][image48]
+<img width="317" height="337" alt="image8" src="https://github.com/user-attachments/assets/42a4fea0-b029-42c6-9ed6-f64d38ef606e" />
+
 
 5. Name the new file as **China Airport Dataset**, add other details if needed, and click **Export**.
 
-![][image49]
+<img width="514" height="572" alt="image9" src="https://github.com/user-attachments/assets/2ccc4cf5-b228-48f1-aa83-97a0de549ba7" />
+
 
 6. Once the export is complete, a new page will appear showing the file type as “Shapefile”. You can also find it under the **Content** tab.
 
-![][image50]
+<img width="871" height="315" alt="image10" src="https://github.com/user-attachments/assets/0c0107b2-84b7-49b9-9f53-5db0e3fb73c2" />
+
 
 7. Click **Download** on the right pane to save the file in your local computer.
 
-![][image51]
+<img width="323" height="330" alt="image41" src="https://github.com/user-attachments/assets/f3cbf523-ea48-4464-9dbb-9986e219764c" />
+
 
 # **Part 2: Analyzing Data with Maps** {#part-2:-analyzing-data-with-maps}
 
@@ -453,71 +474,88 @@ Since the two datasets we need to answer this question are currently separate, w
 
 1. Go to the Editing toolbar, click on **Analysis**.
 
-![][image52]
+<img width="386" height="532" alt="image15" src="https://github.com/user-attachments/assets/49d2a774-27a2-4e39-9bf0-7a11f77c680c" />
+
 
 2. Select **Tools**. Alternatively, click the tool icon in the header menu.
 
-![][image53]
+<img width="327" height="481" alt="image39" src="https://github.com/user-attachments/assets/f8e09fe9-508f-4d12-a552-98cd988a2666" />
+
 
 3. Under **Summarize data**, select **Join Features**.
 
-![][image54]
+<img width="778" height="283" alt="image42" src="https://github.com/user-attachments/assets/2ce9e158-923f-43f6-930f-8ef7a245f588" />
+
 
 4. Now, let’s configure our input and output. First, for the **Target layer**, select **China Province Boundaries** layer from the dropdown.
 
-![][image55]
+<img width="701" height="537" alt="image43" src="https://github.com/user-attachments/assets/4a98475e-ce0a-4b91-b63a-5764ebf1856d" />
+
 
 5. For the **Join layer**, select **China Airport Dataset** layer from the dropdown.
 
-![][image56]
+<img width="699" height="536" alt="image44" src="https://github.com/user-attachments/assets/edb2e595-8187-4027-9287-d2e943418e9b" />
+
 
 6. Under the **Join settings**, toggle on **Use spatial relationship**.
 
-![][image57]
+<img width="366" height="180" alt="image45" src="https://github.com/user-attachments/assets/bc104541-69cd-46aa-81e5-ce98cc182481" />
+
 
 7. For the **Spatial relationship**, select **Completely contains** from the dropdown menu.
 
-![][image58]
+<img width="363" height="156" alt="image46" src="https://github.com/user-attachments/assets/dd074114-dda6-430c-ae7e-00c74960dc84" />
+
 
 8. For the **Join operation**, select **Join one to one** from the dropdown menu.
 
-![][image59]
+<img width="365" height="127" alt="image47" src="https://github.com/user-attachments/assets/49700d62-789f-441c-9bce-a9e86dfb4781" />
+
 
 9. Since we are analyzing the density of airports across provinces, we first need to calculate the number of airports in each province. Under the **Multiple matching records**, select **Calculate count only**.
 
-![][image60]
+<img width="366" height="134" alt="image48" src="https://github.com/user-attachments/assets/6ac3d9da-8be8-4f84-b57f-4f8db3fee39a" />
+
 
 10. For the **Join type**, make sure **Inner join** is highlighted.
 
-![][image61]
+<img width="363" height="82" alt="image40" src="https://github.com/user-attachments/assets/d199fa8e-f712-4f12-bc3c-1a4770bb24f7" />
+
 
 11. Under the **Result layer**, give a name to the new layer in the **Output name** field, and select the designated folder to save the output. Note that the name should be unique across the organization no matter where you save the layer. Example: **Count of Airports in Provinces\_\[Your NetID\]**.
 
-![][image62]
+<img width="370" height="247" alt="image33" src="https://github.com/user-attachments/assets/4525c84f-abf4-4115-b8cd-f21135ae3eb1" />
+
 
 12. Click **Run** to start processing.
 
-![][image63]
+<img width="382" height="117" alt="image21" src="https://github.com/user-attachments/assets/8da86f3e-c2de-4f3d-947b-d5326cea43eb" />
+
 
 13. To check the progress, click on the history icon in the header menu.
 
-![][image64]
+<img width="382" height="108" alt="image34" src="https://github.com/user-attachments/assets/bbcca6f5-151d-41e7-af7b-50d2d15baf8c" />
+
 
 14. Once the analysis is completed successfully, a new layer named **Count of airports in provinces** will appear in the **Layers** and the map. Let’s focus on this layer by hiding the other two layers and keep only the newly created one visible.
 
-![][image65]
+<img width="432" height="289" alt="image35" src="https://github.com/user-attachments/assets/f1fdc83d-b19c-404a-9ae7-37ef0ee8304b" />
+
 
 15. The new layer called **Count of airports in provinces** will show up in the **Layers** pane. When you click on a province polygon, the pop-up will display a new attribute called **Join\_Count**, followed by the total number of airports in the corresponding province.
 
-![][image66]
+<img width="1022" height="617" alt="image36" src="https://github.com/user-attachments/assets/34265b67-3cf2-446f-bc25-b1c7de0fe8d7" />
+
 
 16. Click the ellipsis (3-dot) icon next to **Count of airports in provinces** layer and select **Show table**. 
 
-![][image67]
+<img width="162" height="180" alt="image37" src="https://github.com/user-attachments/assets/7ed00588-0633-4d04-9ca2-7babf98e0d9b" />
+
 
 17. The data table attached to this layer will appear with two new attributes named **Join\_Count** and **Admin Name**. **Join\_Count** indicates the number of airports in each corresponding province, **Admin Name** represents the administrative region used in the spatial analysis.
 
-![][image68]
+<img width="992" height="548" alt="image38" src="https://github.com/user-attachments/assets/f7602074-aa70-41ea-856b-3cbfeb6c3c3c" />
+
 
 ### **Find by Attributes and Locations** {#find-by-attributes-and-locations}
 
@@ -527,51 +565,63 @@ To answer this, we can use the **Find by Attributes and Location** tool. This to
 
 1. Go to the Editing toolbar, click on **Analysis**.
 
-![][image69]
+<img width="386" height="532" alt="image15" src="https://github.com/user-attachments/assets/77560eb1-dc65-4bfd-a170-f1856acf8708" />
+
 
 2. Select **Tools**. Alternatively, click the tool icon in the header menu.
 
-![][image70]
+<img width="327" height="481" alt="image39" src="https://github.com/user-attachments/assets/522b2623-fb37-4b46-8e10-5191d2c3f9d5" />
+
 
 3. Under the **Find locations**, select **Find by Attributes and Location**.
 
-![][image71]
+<img width="820" height="424" alt="image31" src="https://github.com/user-attachments/assets/e3ebd615-ff67-4ab1-8d4d-6e4a1c253aa1" />
+
 
 4. Click on **\+ Build new query** under **Criteria**.
 
-![][image72]
+<img width="367" height="257" alt="image32" src="https://github.com/user-attachments/assets/8f847450-480a-41ef-80c5-7c734e813eae" />
+
 
 5. For **Find features from**, select **China Airport Dataset** layer from the dropdown, then select **Attribute expression**, click **Next**.
 
-![][image73]
+<img width="956" height="431" alt="image61" src="https://github.com/user-attachments/assets/483372ec-c2e7-486c-b9aa-7fb649bd6946" />
+
 
 6. For **Where** fields, we will define the criteria. First, choose **All of the following are true**. Then, set **Province\_EN** as the field, select **equal** as the operator, and select or enter **Jiangsu** as the value. Once the condition is set, click **Add** to apply it.
 
-![][image74]
+<img width="953" height="429" alt="image62" src="https://github.com/user-attachments/assets/df777c36-8479-4f67-afc6-2a7c8340872b" />
+
 
 7. Under the **Result layer**, give the new item a name in the **Output name** field, and select the designated folder to save the output. Note that the name should be unique across the organization no matter where you save the layer. Example: Airports in Jiangsu\_\[Your NetID\].
 
-![][image75]
+<img width="371" height="280" alt="image63" src="https://github.com/user-attachments/assets/880c7c3a-036a-4c84-80a5-e92fba03f43d" />
+
 
 8. Click **Run** to start processing.
 
-![][image76]
+<img width="382" height="117" alt="image21" src="https://github.com/user-attachments/assets/848b0642-3ea6-496f-b762-5f4735356c97" />
+
 
 9. To check the progress, click on the history icon in the header menu.
 
-![][image77]
+<img width="382" height="108" alt="image34" src="https://github.com/user-attachments/assets/7ce58704-2a81-4f35-b7ab-88d1f4416e45" />
+
 
 10. Once the analysis is completed successfully, a new layer named **Airports in Jiangsu** will appear in the **Layers** and the map. Let’s focus on this layer by hiding the other layers and keep only the newly created one visible.
 
-![][image78]
+<img width="282" height="267" alt="image64" src="https://github.com/user-attachments/assets/d88c55ae-d6f8-4033-8373-87cb8690c88a" />
+
 
 11. The map will update to show the new layer we just created, automatically zooming into Jiangsu province.
 
-![][image79]
+<img width="1358" height="859" alt="image65" src="https://github.com/user-attachments/assets/f52135b1-53c4-47a4-a3f3-6ffdfe2f984c" />
+
 
 12. Click the ellipsis (3-dot) icon next to **Airports in Jiangsu** layer and select **Show table**. 
 
-![][image80]
+<img width="162" height="180" alt="image37" src="https://github.com/user-attachments/assets/4982341f-0d35-4b58-980d-3201a181d31b" />
+
 
 13. There should be 11 records in the table, meaning that there are 11 airports in Jiangsu province.
 
