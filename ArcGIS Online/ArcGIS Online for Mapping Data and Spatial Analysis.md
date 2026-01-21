@@ -66,7 +66,7 @@ This tutorial introduces how to create, visualize, analyze, and share data-drive
 
 # 
 
-# **Before we start** {#before-we-start}
+## Before we start
 
 ## **Introduction** {#introduction}
 
@@ -922,37 +922,43 @@ Lastly, the analysis tools allow exporting layers in CSV, file geodatabase, shap
 
 5. Under **Result layer,** select CSV as the output data format, name the new output as **Top 3 closest airports**, and select the designated folder to save the output.
 
+<img width="404" height="420" alt="image" src="https://github.com/user-attachments/assets/891aebf7-76e4-45f2-9992-bee4c1e67f1e" />
 
 
 ---
 
 6. Click **Run** to start processing.
 
+<img width="556" height="174" alt="image" src="https://github.com/user-attachments/assets/45183db8-242b-4120-b52d-d22d5b424613" />
 
 
 ---
 
 7. Click on the history icon in the header menu to check the progress. Then, click on the ellipsis (3-dot) icon next to the processing record, and click **View details**.
 
-<img width="368" height="242" alt="image19" src="https://github.com/user-attachments/assets/f0c72f6c-74f0-4fa2-a84e-736e2d8a0e1e" />
+<img width="497" height="329" alt="image" src="https://github.com/user-attachments/assets/e9d53d1e-bf7b-415c-ad5f-b57c5a514dd3" />
+
 
 ---
 
 8. Click on the ellipsis (3-dot) icon next to **Top 3 closest airports**, then **Open item details**.
 
-<img width="944" height="524" alt="image14" src="https://github.com/user-attachments/assets/2c55d640-0ce4-4308-8d37-3e8fa4b5490c" />
+<img width="918" height="389" alt="image" src="https://github.com/user-attachments/assets/1d1e8bd4-b61b-4f97-8064-49ed2f21f2b7" />
+
 
 ---
 
 9. A new item page will open. Click on the **Download** button in the right pane to download and save the file in your local computer.
 
-<img width="1294" height="426" alt="image13" src="https://github.com/user-attachments/assets/3cae393d-28e5-4015-99ad-336b05dc4466" />
+<img width="979" height="325" alt="image" src="https://github.com/user-attachments/assets/3878a0a5-ad83-4b92-9482-a4cb9454a681" />
+
 
 ---
 
 10. Open the **Nearest\_Features** file in Excel to view the ranked list of airports closest to the DKU campus. Note that Chinese text may not always export correctly.
 
-<img width="431" height="141" alt="image16" src="https://github.com/user-attachments/assets/b782b7d0-cf41-43a4-ac3c-f34a10284428" />
+<img width="548" height="182" alt="image" src="https://github.com/user-attachments/assets/d8cb9cd6-fbc2-4ebe-a1ce-82141c9e02cc" />
+
 
 
 
@@ -972,85 +978,99 @@ In this demo, we will answer this question: which provinces in China have more t
 
 2. Click on **Analysis**.
 
-<img width="386" height="532" alt="image15" src="https://github.com/user-attachments/assets/924b979a-e0c4-4a47-a1d6-9d9455e8f9e2" />
+<img width="398" height="500" alt="image" src="https://github.com/user-attachments/assets/49c063cb-7245-49ad-ac87-451a85dbb87c" />
+
 
 ---
 
 3. Select **ModelBuilder**. Alternatively, click the Model Builder icon in the header menu.
 
-<img width="380" height="435" alt="image12" src="https://github.com/user-attachments/assets/f26deab3-072b-45ec-91a7-772689806abc" />
+<img width="399" height="360" alt="image" src="https://github.com/user-attachments/assets/4902ad3a-3d04-475e-9f2b-21681fd03e3a" />
+
 
 ---
 
 4. Click **Connect** to continue.
 
-<img width="380" height="397" alt="image11" src="https://github.com/user-attachments/assets/48df63ea-57b5-49e7-af5d-c6007c57a6fd" />
+<img width="409" height="417" alt="image" src="https://github.com/user-attachments/assets/454c72c5-bafe-4b8f-8a1d-b27973c9dd1c" />
+
 
 ---
 
 5. Make sure the **Disconnect** button is showing up, then click **Create model**.
 
-<img width="375" height="307" alt="image78" src="https://github.com/user-attachments/assets/afb24f68-0a4d-4bcc-90b7-4c4a52bfbaf5" />
+<img width="440" height="362" alt="image" src="https://github.com/user-attachments/assets/343e85de-122f-48ab-b331-4d1002a6aa69" />
+
 
 ---
 
 6. For the model, let’s call it **Provinces with over 10 airports**, then click **Save**.
 
-<img width="507" height="470" alt="image72" src="https://github.com/user-attachments/assets/b9704b12-7ca3-445c-9147-483e49462d42" />
+<img width="770" height="714" alt="image" src="https://github.com/user-attachments/assets/27df2c1c-e2e5-4c83-969c-5eb10200e297" />
+
 
 ---
 
 7. In the new window, click on the **Add tools** icon.
 
-<img width="278" height="192" alt="image71" src="https://github.com/user-attachments/assets/c974c048-6eb5-4b39-a699-1cac19bb0989" />
+<img width="619" height="356" alt="image" src="https://github.com/user-attachments/assets/3591bc48-d179-426d-abce-eb8ed9029f07" />
+
 
 ---
 
 8. Select 2 tools: **Join Features** and **Filter by Attributes**, then click **Add**. 
 
-<img width="509" height="557" alt="image74" src="https://github.com/user-attachments/assets/9e0599dd-fe60-4325-8342-08c703730f46" />
+<img width="644" height="704" alt="image" src="https://github.com/user-attachments/assets/92e0edc9-2370-4151-b337-e21e1926eee5" />
+
 
 ---
 
 9. The tools will be added to the canvas and displayed in grey. Double-click on the **Join Features** box. 
 
-<img width="511" height="247" alt="image73" src="https://github.com/user-attachments/assets/3b5ec593-28fa-4e9b-8503-35eb3f230848" />
+<img width="930" height="435" alt="image" src="https://github.com/user-attachments/assets/8fac3bf1-c311-453d-83b7-38b9af7625e4" />
+
 
 ---
 
 10. In the pop-up, select **China Province Boundaries** as the target layer, and **China Airport Dataset** as the join layer.
 
-<img width="287" height="317" alt="image68" src="https://github.com/user-attachments/assets/382cb152-f30b-4825-8d8c-8c0265ab299e" />
+<img width="480" height="521" alt="image" src="https://github.com/user-attachments/assets/ec45cb37-71e2-448c-a247-89a354ecdd34" />
+
 
 ---
 
 11. Next, toggle on **Use spatial relationship** and select **Completely contains**. For the **Join operation**, choose **Join one to one**, and ensure that **Calculate count only** under the **Multiple matching records** option is selected.
 
-<img width="289" height="399" alt="image67" src="https://github.com/user-attachments/assets/61efa4f6-97bf-4a83-8a24-527c532f5c29" />
+<img width="486" height="598" alt="image" src="https://github.com/user-attachments/assets/1308d9e9-e5e4-48d5-861f-bb6a71f6034e" />
+
 
 ---
 
 12. For **Join type**, select **Inner join**. For the **Result type**, select **Create intermediate data** from the dropdown \- this means the output from this analysis tool will not be saved as a permanent layer. Click **Confirm**.
 
-<img width="285" height="316" alt="image70" src="https://github.com/user-attachments/assets/556b858f-2c0d-410e-934b-bc978774c8ff" />
+<img width="523" height="582" alt="image" src="https://github.com/user-attachments/assets/f102c26c-9d6e-4e76-b0ca-6c1fb99b612a" />
+
 
 ---
 
 13. Now, the canvas should show two additional items in blue, representing the datasets we just configured. In addition, the tool box appears in yellow, and the output box appears in green.
 
-<img width="733" height="332" alt="image69" src="https://github.com/user-attachments/assets/0574d18c-aa79-49e3-b344-c367d89508d1" />
+<img width="969" height="433" alt="image" src="https://github.com/user-attachments/assets/a8bb0b95-ce24-4fb8-b722-c22b45323900" />
+
 
 ---
 
 14. Next, double-click on **Filter by Attributes**.
 
-<img width="960" height="427" alt="image" src="https://github.com/user-attachments/assets/78223674-a7c0-4b99-8243-1a9e4a7de63b" />
+<img width="960" height="427" alt="image" src="https://github.com/user-attachments/assets/12b94550-8b68-4593-9a60-52686a2a72a3" />
+
 
 ---
 
 15. For the **Input dataset**, select **Join result**. 
 
-<img width="682" height="759" alt="image" src="https://github.com/user-attachments/assets/fe019d5b-e409-4fdb-a1fa-e1f37e6672a2" />
+<img width="682" height="759" alt="image" src="https://github.com/user-attachments/assets/dadce1e4-1d8c-4a65-bf31-6e8d9d7e8eca" />
+
 
 ---
 
