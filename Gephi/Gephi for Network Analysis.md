@@ -43,7 +43,7 @@ This tutorial introduces the basics of network analysis and how to use Gephi to 
 
  - [Statistics	](#statistics)
 
-[**Export the Graph	](#export-the-graph)
+[Export the Graph	](#export-the-graph)
 
  - [Capture the current view	](#capture-the-current-view)
 
@@ -630,4 +630,5 @@ There are multiple ways to export a project from Gephi. You can export the graph
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)  
 * [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets)  
 * [Network Datasets](http://networkrepository.com/networks.php)
+
 
