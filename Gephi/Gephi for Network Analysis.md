@@ -7,57 +7,57 @@
 
 This tutorial introduces the basics of network analysis and how to use Gephi to import and visualize data, apply different layouts, install and use plugins, and export the graphs. For demonstration, we will use a subset of character relationships from Sherlock Holmes stories.
 
-[**Before we start	2**](#before-we-start)
+[Before we start	](#before-we-start)
 
-[Introduction	2](#introduction)
+ - [Introduction	](#introduction)
 
-[Glossary	2](#glossary)
+ - [Glossary	](#glossary)
 
-[About the tool	3](#about-the-tool)
+ - [About the tool	](#about-the-tool)
 
-[Setup	3](#setup)
+ - [Setup	](#setup)
 
-[Datasets	3](#datasets)
+ - [Datasets	](#datasets)
 
-[Node Table	3](#node-table)
+ - [Node Table	](#node-table)
 
-[Edge Table	4](#edge-table)
+ - [Edge Table	](#edge-table)
 
-[**Install Plugins	4**](#install-plugins)
+[Install Plugins	](#install-plugins)
 
-[**Import Network Data	5**](#import-network-data)
+[Import Network Data	](#import-network-data)
 
-[**Visualize Data	8**](#visualize-data)
+[Visualize Data	](#visualize-data)
 
-[Left Toolbar	8](#left-toolbar)
+ - [Left Toolbar	](#left-toolbar)
 
-[Appearance	15](#appearance)
+ - [Appearance	](#appearance)
 
-[Bottom Toolbar	26](#bottom-toolbar)
+ - [Bottom Toolbar	](#bottom-toolbar)
 
-[Layout	28](#layout)
+ - [Layout	](#layout)
 
-[**Filters & Statistics	39**](#filters-&-statistics)
+[Filters & Statistics	](#filters-&-statistics)
 
-[Filters	40](#filters)
+ - [Filters	](#filters)
 
-[Statistics	43](#statistics)
+ - [Statistics	](#statistics)
 
-[**Export the Graph	45**](#export-the-graph)
+[**Export the Graph	](#export-the-graph)
 
-[Capture the current view	45](#capture-the-current-view)
+ - [Capture the current view	](#capture-the-current-view)
 
-[Save the graph	46](#save-the-graph)
+ - [Save the graph	](#save-the-graph)
 
-[Export as a website	50](#export-as-a-website)
+ - [Export as a website	](#export-as-a-website)
 
-[Publish to GitHub	52](#publish-to-github)
+ - [Publish to GitHub	](#publish-to-github)
 
-[**Learning Resources	52**](#resources)
+[Learning Resources	](#resources)
 
-# **Before we start** {#before-we-start}
+# Before we start
 
-## **Introduction** {#introduction}
+## Introduction
 
 In this tutorial, you will learn the basic concepts of network analysis and how to use Gephi to create network graphs for qualitative research,from importing and visualizing data to installing plugins, applying different layouts, and exporting the final graphs. For demonstration purposes, we will use a subset of character relationships from the Sherlock Holmes stories.
 
@@ -65,7 +65,7 @@ To give you a sense of its wide applicability, network analysis can be used in m
 
 For any questions about network analysis and Gephi, contact the Data and Visualization Librarian, Siti Lei ([siti.lei@dukekunshan.edu.cn](mailto:siti.lei@dukekunshan.edu.cn)) for support. 
 
-## **Glossary** {#glossary}
+## Glossary
 
 **Network analysis** is a method used to study how different items (**nodes**) and their connections (**edges**) form patterns and relationships. A network graph visually represents these connections, helping audiences understand how things are linked, how information or influence flows, and which nodes play important roles within a system.
 
@@ -79,15 +79,15 @@ For any questions about network analysis and Gephi, contact the Data and Visuali
 
 **Weight** refers to the strength, frequency, or importance of an edge between two nodes. A higher weight means the two nodes interact more often or have a stronger relationship. 
 
-## **About the tool** {#about-the-tool}
+## About the tool
 
 We will use Gephi, an open-source and free software compatible with Windows, Mac, and Linux devices, in this workshop. Visit [Gephi](https://gephi.org/about/) for more information about the tool. 
 
-## **Setup** {#setup}
+## Setup
 
 Download [Gephi](https://gephi.org/desktop/) and complete the installation on your local computer.
 
-## **Datasets** {#datasets}
+## Datasets
 
 Download the sample datasets: [Workshop\_Files.zip](https://duke.box.com/s/91jya5x407qpdql8w1mptu70zqb3h00i)
 
@@ -95,12 +95,12 @@ Download the sample datasets: [Workshop\_Files.zip](https://duke.box.com/s/91jya
 
 In network analysis, it is recommended to have a node table and an edge table that complement each other. A node table lists all the individual elements in your network. An edge table describes how those nodes are connected.
 
-## **Node Table** {#node-table}
+## Node Table
 
 Each row in the node table describes a single node and should include a node label. You can also add a unique identifier (such as the **ID** column shown in the example sheet below), which helps simplify the creation of the edge table. Additional relevant attributes can be added as needed.
 
 Example:  
-![][image1]
+
 
 ## **Edge Table** {#edge-table}
 
@@ -630,3 +630,4 @@ There are multiple ways to export a project from Gephi. You can export the graph
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)  
 * [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets)  
 * [Network Datasets](http://networkrepository.com/networks.php)
+
