@@ -7,73 +7,73 @@
 
 This 1.5-hour tutorial introduces how to conduct qualitative data analysis using a tool called NVivo in Windows devices, starting from importing qualitative data files, coding, running queries, to analyzing and visualizing codes. We will use a selection of text and image files from the project Data Center Energy Efficiency Focus Groups and Interviews (by U.S. Environmental Protection Agency) and the sample project in NVivo in this tutorial for demonstration. 
 
-[**Before we start	2**](#before-we-start)
+[Before we start	](#before-we-start)
 
-[Introduction	2](#introduction)
+[Introduction	](#introduction)
 
-[About the tool	2](#about-the-tool)
+[About the tool	](#about-the-tool)
 
-[Setup	3](#setup)
+[Setup	](#setup)
 
-[Datasets	3](#datasets)
+[Datasets	](#datasets)
 
-[**Before we started	3**](#before-we-started)
+[Before we started	](#before-we-started)
 
-[**Create a Project	5**](#create-a-project)
+[Create a Project	](#create-a-project)
 
-[**Import Files	8**](#import-files)
+[Import Files	](#import-files)
 
-[Files	8](#files)
+[Files	](#files)
 
-[NCapture	10](#ncapture)
+[NCapture	](#ncapture)
 
-[**Text Coding	10**](#text-coding)
+[Text Coding	](#text-coding)
 
-[Deductive Coding	10](#deductive-coding)
+[Deductive Coding	](#deductive-coding)
 
-[Inductive Coding	14](#inductive-coding)
+[Inductive Coding	](#inductive-coding)
 
-[Mixed Coding	16](#mixed-coding)
+[Mixed Coding	](#mixed-coding)
 
-[Parent & Child Code	16](#parent-&-child-code)
+[Parent & Child Code	](#parent-&-child-code)
 
-[Uncoding	20](#uncoding)
+[Uncoding	](#uncoding)
 
-[**Highlighter & Coding Stripes	21**](#highlighter-&-coding-stripes)
+[Highlighter & Coding Stripes	](#highlighter-&-coding-stripes)
 
-[**Memos & Annotation	24**](#memos-&-annotation)
+[Memos & Annotation	](#memos-&-annotation)
 
-[**Image Coding	29**](#image-coding)
+[Image Coding	](#image-coding)
 
-[**Save the Project	30**](#save-the-project)
+[Save the Project	](#save-the-project)
 
-[**Audio & Video Coding	32**](#audio-&-video-coding)
+[Audio & Video Coding	](#audio-&-video-coding)
 
-[**Case Classification & Cases	36**](#case-classification-&-cases)
+[Case Classification & Cases	](#case-classification-&-cases)
 
-[**Query	41**](#query)
+[Query	](#query)
 
-[Word Frequency Query	42](#word-frequency-query)
+[Word Frequency Query	](#word-frequency-query)
 
-[Text Search Query	52](#text-search-query)
+[Text Search Query	](#text-search-query)
 
-[Matrix Coding Query	57](#matrix-coding-query)
+[Matrix Coding Query	](#matrix-coding-query)
 
-[**Export Codes	64**](#export-codes)
+[Export Codes	](#export-codes)
 
-[Code List	64](#code-list)
+[Code List	](#code-list)
 
-[Codebook	66](#codebook)
+[Codebook	](#codebook)
 
-[Individual Code	67](#individual-code)
+[Individual Code	](#individual-code)
 
-[**Resources	69**](#resources)
+[Resources	](#resources)
 
 # 
 
-# **Before we start** {#before-we-start}
+# Before we start
 
-## **Introduction** {#introduction}
+## Introduction
 
 This tutorial is designed for the Windows version of NVivo 14\. If you are using a Mac device, check out here (coming soon). 
 
@@ -89,38 +89,42 @@ By the end of this tutorial, you will understand how NVivo can be used in qualit
 
 For any questions about the NVivo 14, contact the Data and Visualization Librarian, Siti Lei ([siti.lei@dukekunshan.edu.cn](mailto:siti.lei@dukekunshan.edu.cn)) for support. 
 
-## **About the tool** {#about-the-tool}
+## About the tool
 
 We will use NVivo 14 in this tutorial. Visit the [Qualitative Data Analysis guide](https://library.dukekunshan.edu.cn/qualitative-data-analysis/) for more information about NVivo.
 
-## **Setup** {#setup}
+## Setup
 
 Follow the instructions in [Downloading, Installing and Licensing NVivo 14](https://library.dukekunshan.edu.cn/qualitative-data-analysis/) to download the NVivo 14 Windows version on your computer.
 
-## **Datasets** {#datasets}
+## Datasets
 
 Download the sample datasets: [Workshop\_Files.zip](https://duke.box.com/s/91jya5x407qpdql8w1mptu70zqb3h00i)
 
-# **Before we started** {#before-we-started}
+# Before we started
 
 1. Create a new folder in your computer and name it as **NVivo Workshop**.
 
-![][image1]
+<img width="681" height="323" alt="image" src="https://github.com/user-attachments/assets/85f8de07-7692-492b-8b38-3963b3db16e8" />
+
 
 2. Download the sample dataset [Workshop\_Files.zip](https://duke.box.com/s/91jya5x407qpdql8w1mptu70zqb3h00i).
 
 3. Unzip the file by right-clicking and select **Extra All**. Select where the files are extracted.
 
-![][image2]
+<img width="669" height="428" alt="image" src="https://github.com/user-attachments/assets/8d6c894d-02d8-4735-a147-37d03f58ad5b" />
+
 
 4. Click on **Browse** if you need to adjust the saving path. Once it’s finished, click **Extract**.  
    * Alternatively, you might first install a great little program called [7-Zip](https://www.7-zip.org/) \-  that is helpful to use when working with zip files. Then you should be able to right-click on the zip file and select **7-Zip**, then **Extract** **Here** to extract its files
 
-![][image3]
+<img width="856" height="713" alt="image" src="https://github.com/user-attachments/assets/f1364bee-7f3a-416d-a61a-c03ab22665d6" />
+
 
 5. Copy or move the unzipped sample data folder into the **NVivo Workshop** folder. 
 
-![][image4]
+<img width="846" height="295" alt="image" src="https://github.com/user-attachments/assets/81b23c69-c8e4-4bbb-8737-312690f63e89" />
+
 
 # **Create a Project** {#create-a-project}
 
@@ -128,7 +132,8 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
 
 1. Open NVivo 14 on your desktop. Then, click on **\+ New Project**. Note that NVivo runs locally in your device, so you don’t have to login to your NVivo account to use the software.
 
-![][image5]
+<img width="933" height="631" alt="image" src="https://github.com/user-attachments/assets/363435bb-1e76-4364-907d-7c346b1fc679" />
+
 
 2. First, enter **NVivo Workshop** as the project title.
 
@@ -136,15 +141,18 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
 
 4. If the content you plan to analyze is not primarily in English, change the **Text content language** accordingly. Then click **Next** to continue.
 
-![][image6]
+<img width="949" height="602" alt="image" src="https://github.com/user-attachments/assets/a8977401-b0d8-444a-89b1-d0fa64788ff9" />
+
 
 5. In the next pop-up window, review or adjust your saving options as needed, then click **Create Project** to continue.
 
-![][image7]
+<img width="950" height="596" alt="image" src="https://github.com/user-attachments/assets/b545c40e-4070-4be3-b1bb-c8d5c21ada08" />
+
 
 6. When the welcome pop-up appears, click **SKIP TOUR** to close it.
 
-![][image8]
+<img width="707" height="475" alt="image" src="https://github.com/user-attachments/assets/1c0def21-16ef-4173-bd3a-7253d47fd01f" />
+
 
 7. The interface of NVivo includes:  
    1) Ribbon  
@@ -155,126 +163,148 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
    6) Quick Coding Bar  
    7) Status Bar
 
-![][image9]  
+<img width="663" height="463" alt="image" src="https://github.com/user-attachments/assets/d3069b29-a569-48f1-8c41-f31fffcd5e24" />
+ 
 *Image Source: [The workspace](https://help-nv.qsrinternational.com/14/win/Content/about-nvivo/nvivo-workspace.htm)*
 
-# **Import Files** {#import-files}
+# Import Files
 
 NVivo supports the analysis of various qualitative data file types, including surveys, notes, emails, codebooks, reports, and more. 
 
-## **Files** {#files}
+## Files
 
 1. Go to **Files** under **Data**, right-click on **Files** and select **New Folder…**.
 
-![][image10]
+<img width="461" height="276" alt="image" src="https://github.com/user-attachments/assets/0bb9f4d2-d232-48e7-82c6-0ad387771017" />
+
 
 2. In the pop-up, enter **Interview** in the “Name” field, and click **OK**.
 
-![][image11]
+<img width="656" height="282" alt="image" src="https://github.com/user-attachments/assets/2043ccde-0b34-4ba4-9ec4-8f44be521433" />
+
 
 3. Make sure the **Interview** under **Files** is selected, then go to the **Import** menu, click on **Files**.
 
-![][image12]
+<img width="953" height="325" alt="image" src="https://github.com/user-attachments/assets/cef3e668-c3c5-47ac-b5e8-c8035a2c32ec" />
+
 
 4. Under ‘File Type’, make sure **Support Files** is selected.
 
-![][image13]
+<img width="938" height="286" alt="image" src="https://github.com/user-attachments/assets/5376ef21-c8cc-4559-a6fe-cf767979e65a" />
+
 
 5. In the pop-up window, navigate to the workshop folder, open the Workshop\_Files folder, select all items that begin with “Interview”, and click **Import**.
 
-![][image14]
+<img width="933" height="691" alt="image" src="https://github.com/user-attachments/assets/36ae24e6-beab-4208-b9cf-74280180dfc7" />
+
 
 6. Repeat the same steps for the focus group files. Create a new folder named **Focus Group**, then go to **Import** \> **Files** \> **Documents**. In the Workshop\_Files folder, select all items that begin with “FG”, and click **Import** to continue.
 
 7. The **Interview** and **Focus Group** folders should now appear under **Files**. Double-click each folder to view all the imported documents within it.
 
-![][image15]
+<img width="788" height="432" alt="image" src="https://github.com/user-attachments/assets/f9cb5d6f-b93e-42a7-9c9e-ea0ae829df27" />
 
-## **NCapture** {#ncapture}
+
+## NCapture
 
 **NCapture** is a browser extension that allows collecting web and social media content for import into NVivo for qualitative analysis. Follow the instructions [here](https://help-nv.qsrinternational.com/20/win/Content/ncapture/ncapture.htm) to install and use NCapture, and to import captured files into NVivo.
 
-# **Text Coding** {#text-coding}
+# Text Coding
 
 NVivo is a tool not only for qualitative data analysis but also for project management. It supports the entire qualitative research process from collecting and organizing materials to coding, analyzing, visualizing, and sharing results. 
 
 While NVivo offers features such as auto-coding and visualization, researchers still **lead** the analysis and interpretation; NVivo is an assistive tool, not an automated one.
 
-## **Deductive Coding** {#deductive-coding}
+## Deductive Coding
 
 Deductive coding is a top-down qualitative analysis approach where you start with a set of predefined codes, and then go through your files, applying those codes to the relevant snippets.
 
 1. To create codes, click **Codes** under **Coding**, then click **Close** to close the introduction page.
 
-![][image16]
+<img width="936" height="478" alt="image" src="https://github.com/user-attachments/assets/a36e627c-9aef-44ba-be3d-16e3d5c449cb" />
+
 
 2. Right-click on **Codes** under **Coding**, select **New Code…** from the menu.
 
-![][image17]
+<img width="482" height="199" alt="image" src="https://github.com/user-attachments/assets/6a3b6d1b-e64d-4bc7-b1e6-db1d66efae60" />
+
 
 3. Enter **Energy** in the ‘Name’ field, then click **OK**. Our first code **Energy** is now created.
 
-![][image18]
+<img width="768" height="490" alt="image" src="https://github.com/user-attachments/assets/a612c663-a1fa-470f-a6a4-2323debebce3" />
+
 
 4. Now, go to **Interview** under the **Files**. Double-click on **Interview dec4\_2014 2\_02pm** to open the file located at the top.
 
-![][image19]
+<img width="979" height="573" alt="image" src="https://github.com/user-attachments/assets/c18b5650-4ebf-4103-8ca1-475bc8936d88" />
+
 
 5. Files imported into NVivo are automatically opened in protected mode, meaning they cannot be edited. To make changes, select **Edit** to turn on editing view.
 
-![][image20]
+<img width="504" height="243" alt="image" src="https://github.com/user-attachments/assets/0b54a203-f05f-418b-81a9-b45aa45455e0" />
+
 
 6. Remember to uncheck it once you’re finished.
 
-![][image21]
+<img width="495" height="246" alt="image" src="https://github.com/user-attachments/assets/50128933-b599-43ae-95be-1a0b48c8eb33" />
+
 
 7. Now, select a text snippet in the **Interview dec4\_2014 2\_02pm** file right-click, and select **Code Selection** from the menu.
 
-![][image22]
+<img width="531" height="170" alt="image" src="https://github.com/user-attachments/assets/60f18096-bf4a-4ea5-9ab9-a26b5c323b88" />
+
 
 8. In the pop-up, select **Energy,** and click **Code Selection to ‘Energy’**.
 
-![][image23]
+<img width="506" height="694" alt="image" src="https://github.com/user-attachments/assets/cbbe6afc-06d1-4cbd-956b-469e5c9d104d" />
+
 
 9. Select another snippet in the same file and right-click to open the content menu. This time, go to **Code to Recent Codes** \> **Energy**.
 
-![][image24]
+<img width="901" height="234" alt="image" src="https://github.com/user-attachments/assets/c436bd75-0310-4517-a4ed-ecba8e6d9217" />
+
 
 10. Alternatively, if you have the **Codes** open in the navigation view, you can drag and drop the text snippet directly onto the corresponding code. Let’s try this method with another new snippet.
 
-![][image25]
+<img width="979" height="434" alt="image" src="https://github.com/user-attachments/assets/9045cb24-4f45-4932-a8b4-914577d16465" />
+
 
 11. Go to **Codes** in the navigation view, you should see the **Imported Products** code has 1 file and 3 references.
 
-![][image26]
+<img width="556" height="202" alt="image" src="https://github.com/user-attachments/assets/315bfc97-e3c1-4938-9ead-fee50ba469fc" />
 
-## **Inductive Coding** {#inductive-coding}
+
+## Inductive Coding
 
 Inductive coding is a bottom-up approach where you may want to read through the material first, let ideas and themes emerge naturally, and then create codes based on what you find in the data.
 
 1. In the **Interview dec4\_2014 2\_02pm** file, select one text snippet and right-click, select **Code Selection…** from the menu.
 
-![][image27]
+<img width="796" height="193" alt="image" src="https://github.com/user-attachments/assets/c1b13fdc-1152-4d42-b958-02524ea789fe" />
+
 
 2. Go to **Top-Level Code** under **Create New**.
 
-![][image28]
+<img width="445" height="617" alt="image" src="https://github.com/user-attachments/assets/52e6f0b0-923b-44d2-97fa-914d300f2be0" />
+
 
 3. Enter **Cost** as the new code, and click **Code Selection to ‘Cost’**.
 
-![][image29]
+<img width="450" height="619" alt="image" src="https://github.com/user-attachments/assets/99d82c14-a8c7-485d-be12-d4a576854878" />
+
 
 4. Select another snippet in the same file, code it to **Cost**.
 
 5. Go to **Codes** in the navigation view, see the **Cost** code has 1 file and 2 references.
 
-![][image30]
+<img width="547" height="207" alt="image" src="https://github.com/user-attachments/assets/7ee587a4-8d1d-4f08-b4ea-9e393f2313f6" />
 
-## **Mixed Coding** {#mixed-coding}
+
+## Mixed Coding
 
 Mixed coding combines deductive and inductive approaches. For example, you can start coding with some predefined codes and then add new ones as patterns and insights while reading through the data. 
 
-## **Parent & Child Code** {#parent-&-child-code}
+## Parent & Child Code
 
 Within NVivo, codes can be organized hierarchically by creating parent and child codes.
 
@@ -282,59 +312,71 @@ Within NVivo, codes can be organized hierarchically by creating parent and child
 
 2. Now, select a text snippet and right-click, select **Code Selection…** from the menu.
 
-![][image31]
+<img width="896" height="182" alt="image" src="https://github.com/user-attachments/assets/0b2f3c21-8093-4039-b65e-8b2e2d51630f" />
+
 
 3. Select **Energy**, then click on **Child Code** on the right pane.
 
-![][image32]
+<img width="447" height="613" alt="image" src="https://github.com/user-attachments/assets/198565b7-7e3d-4aa0-9904-da0aa97e997c" />
+
 
 4. Enter **Efficiency** as the new code, then click **Code Selection to ‘Efficiency’**.
 
-![][image33]
+<img width="450" height="619" alt="image" src="https://github.com/user-attachments/assets/b4fcc64b-9ec4-4905-a449-e980a00f9132" />
+
 
 5. Repeat the same steps to create another 2 child codes under **Energy**: **Network**, **Air**, and code 2 snippets under each newly created child code.
 
 6. Go to **Codes** in the navigation view. Click on the **\+** icon next to **Energy** \- 3 child codes will appear.
 
-![][image34]
+<img width="552" height="308" alt="image" src="https://github.com/user-attachments/assets/5bed19e4-b550-4b11-a392-5d690b413575" />
+
 
 7. Double click on a code, the snippet will show up in the detail view with some quantitative information about each snippet.
 
-![][image35]
+<img width="979" height="308" alt="image" src="https://github.com/user-attachments/assets/deeb650b-93ac-47ec-b4bf-d64b355729ce" />
+
 
 8. Now, although the 3 child codes (**Air**, **Efficiency**, **Network**) are underneath one parent code (**Energy**), the counts for **Files** and **References** are not aggregated \- this is because NVivo treats parent code and its child codes separately as defaults. 
 
-![][image36]
+<img width="576" height="318" alt="image" src="https://github.com/user-attachments/assets/2622865b-fa5b-43b2-b86d-3bd53db09428" />
+
 
 9. To aggregate them, right-click on **Energy**, then **Code Properties**.
 
-![][image37]
+<img width="610" height="449" alt="image" src="https://github.com/user-attachments/assets/028d351c-fed4-40a8-af24-046f03d2b936" />
+
 
 10. Check **Aggregate coding from children**, and click **OK**.
 
-![][image38]
+<img width="703" height="410" alt="image" src="https://github.com/user-attachments/assets/4ac6b07b-ab77-42bb-b7b0-c523caf0bb5a" />
+
 
 11. The count of files and references of **Energy** should be updated with the total counts.
 
-![][image39]
+<img width="551" height="295" alt="image" src="https://github.com/user-attachments/assets/56b67d30-ceae-45ed-afdb-44224463d4a2" />
 
-## **Uncoding** {#uncoding}
+
+## Uncoding
 
 Uncoding means removing a coded snippet from a code that disconnects that piece of data from the theme or category it was assigned to.
 
 1. Double-click on **Network** code \- the snippet of coded text will show up.
 
-![][image40]
+<img width="494" height="282" alt="image" src="https://github.com/user-attachments/assets/3375044b-b198-4c0b-89c8-4243e1afcc57" />
+
 
 2. Select the entire of one snippets, right-click, then select **Uncode From This Code**.
 
-![][image41]
+<img width="689" height="405" alt="image" src="https://github.com/user-attachments/assets/a8a482a3-2c82-439f-821d-d53661e7ec33" />
+
 
 3. The coded text will now be removed. Next, click the **×** on each of the file title tabs to close all open windows.
 
-![][image42]
+<img width="726" height="286" alt="image" src="https://github.com/user-attachments/assets/8bc80cc9-8bf6-4f62-82c8-052e62a56bbd" />
 
-# **Highlighter & Coding Stripes** {#highlighter-&-coding-stripes}
+
+# Highlighter & Coding Stripes
 
 The highlighter and coding stripes help visualize and track your coding work in NVivo.
 
@@ -342,135 +384,164 @@ The highlighter and coding stripes help visualize and track your coding work in 
 
 2. In the detail view, click on the highlighter icon, and select **All Coding**.
 
-![][image43]
+<img width="256" height="300" alt="image" src="https://github.com/user-attachments/assets/c7988caa-2e4c-4df7-9bbb-65392853e495" />
+
 
 3. The snippet you’ve coded will be highlighted in yellow.
 
-![][image44]
+<img width="831" height="350" alt="image" src="https://github.com/user-attachments/assets/aa998369-dffb-4989-8473-07332c896d52" />
+
 
 4. In the detail view, click on the coding stripes icon, and select **All**.
 
-![][image45]
+<img width="424" height="267" alt="image" src="https://github.com/user-attachments/assets/0f81e43e-006b-43ae-ac48-40209c565fed" />
+
 
 5. Now, a new pane with multiple colored bars alongside the file shows which part of the text has been coded and which codes were applied.
 
-![][image46]
+<img width="840" height="623" alt="image" src="https://github.com/user-attachments/assets/b33724aa-69a1-4180-b170-c45c66af5d86" />
+
 
 6. To change the color of each code, go to **Codes** under **Coding**, select **Energy** code and right-click, go **Color**, and select **Red** as the new color.
 
-![][image47]
+<img width="816" height="547" alt="image" src="https://github.com/user-attachments/assets/2baa2092-d82e-408c-91c2-cdb27a648c10" />
+
 
 7. Repeat the same steps and change the colors of the Cost code to a color other than red.
 
 8. Now, click the coding stripes icon again, and select **Item Colors**.
 
-![][image48]
+<img width="370" height="469" alt="image" src="https://github.com/user-attachments/assets/09e24ed8-95c7-47aa-b8c8-92d9e72ead4d" />
+
 
 9. The color of each code now will appear as the color you selected.
 
-![][image49]
+<img width="245" height="664" alt="image" src="https://github.com/user-attachments/assets/43093dce-6b61-4f07-92e9-6936a41317ed" />
+
 
 10. Let’s turn off the coding stripes and highlighter by clicking both icons and selecting **None** for now, and close the **Interview dec4\_2014 2\_02pm** file.
 
-![][image50]
+<img width="266" height="329" alt="image" src="https://github.com/user-attachments/assets/e09bca7d-edf1-4e8b-a1af-8e5940255873" />
 
-# **Memos & Annotation** {#memos-&-annotation}
+
+# Memos & Annotation
 
 Memos and annotations help capture your thoughts and insights during analysis. Memos record broader reflections about your data, codes, or project, while annotations act as in-line comments attached to specific text or sections.
 
 1. To create a memo, go to **Interview** under **Files**, right-click on **Interview dec4\_2014 2\_02pm**. Then, **select Link to New Memo…**.
 
-![][image51]
+<img width="907" height="455" alt="image" src="https://github.com/user-attachments/assets/b282b1ea-6e46-4bf6-a252-f6f8593e2416" />
+
 
 2. Enter **Interview Memo** as the name and click **OK**.
 
-![][image52]
+<img width="673" height="492" alt="image" src="https://github.com/user-attachments/assets/71902624-de85-4436-a0c8-cd226e035fb5" />
+
 
 3. A blank page will appear where a detailed memo about the file can be written. For example, noting the interview was conducted in a noisy cafe shop. You can note that here.
 
-![][image53]
+<img width="736" height="212" alt="image" src="https://github.com/user-attachments/assets/f99f1222-10e4-4615-a27b-f0a1cd5c31cf" />
+
 
 4. Once you close the window, the memo will be automatically saved and linked to this file. You should see a small icon next to the interview in the list for the memo link when you have the interview list opened completely (with no other files open to the right of it). 
 
-![][image54]
+<img width="812" height="299" alt="image" src="https://github.com/user-attachments/assets/bbc9ea00-e204-45f3-a704-e804584c7089" />
+
 
 5. To view the memo link, right-click on the file again, select **Memo Link** and then **Open Linked Memo**.
 
-![][image55]
+<img width="881" height="593" alt="image" src="https://github.com/user-attachments/assets/97f66c9c-5e68-492c-b78e-5b4997aea5ab" />
+
 
 6. To create an annotation for a snippet, go to **Interview** under **Files**, double-click on **Interview may13\_2015**.
 
-![][image56]
+<img width="830" height="530" alt="image" src="https://github.com/user-attachments/assets/6afae701-0454-4d4b-b4b0-0a7adb77256d" />
+
 
 7. In the detail view, select a text snippet, then select **New Annotation**.
 
-![][image57]
+<img width="842" height="288" alt="image" src="https://github.com/user-attachments/assets/f8d08130-5951-4ead-a90f-12be8e444394" />
+
 
 8. A new box will appear at the bottom. Enter your annotation for this snippet. For example, “This part hasn't been cleaned yet.” Click anywhere outside of the box to save the annotation.
 
-![][image58]
+<img width="685" height="209" alt="image" src="https://github.com/user-attachments/assets/8b9e00c0-7d39-4e04-9943-10ed20d49a4f" />
+
 
 9. To see memos and annotations you have created all in one place, using the left navigation menu, under **Notes**.
 
-![][image59]
+<img width="422" height="235" alt="image" src="https://github.com/user-attachments/assets/1bf8ea5c-8722-4bc6-9792-9f0370cbd0aa" />
+
 
 10. Finally, you can also create a note that applies to the entire project, for example, maybe some ideas you have about how the research is going or new themes that are emerging. Right-click on **Memos** and select **New Memo**.
 
-![][image60]
+<img width="638" height="188" alt="image" src="https://github.com/user-attachments/assets/f2f8115e-3225-4e2c-a820-14b960a141e5" />
+
 
 11. Give it a name, such as **Project Memo** and click **OK**.
 
-![][image61]
+<img width="911" height="609" alt="image" src="https://github.com/user-attachments/assets/7d1dba68-19fc-49c0-93b2-cf2d06dd5d7b" />
+
 
 12. Type some notes, such as “The project needs to be reviewed” and then close it to save. You can always double click on it from the list of memos to re-open it.
 
-![][image62]
+<img width="855" height="242" alt="image" src="https://github.com/user-attachments/assets/595903e6-8583-4c53-8e7d-9e6954ebe3d4" />
 
-# **Image Coding** {#image-coding}
+
+# Image Coding
 
 NVivo allows analyzing visual data by selecting and coding specific areas within an image. You can zoom in, highlight relevant parts of an image, and assign them to existing or new codes, making it possible to integrate visual analysis alongside textual and audio data within the same project.
 
 1. Go to **Files** and click on **FG1 Questionnaire 14** to open the PDF file.
 
-![][image63]
+<img width="979" height="300" alt="image" src="https://github.com/user-attachments/assets/fba10c70-6e63-4943-9c27-efef75a70f2b" />
+
 
 2. Note that NVivo 14 does not support **Optical Character Recognition (OCR)**. If your image files contain text that you want to code, make sure they are OCR-processed before importing them into NVivo. For text that cannot be OCRed (like handwriting or signatures), you can manually draw a square around the area you wish to code.
 
 3. Under the **PDF** menu, select **Region**.
 
-![][image64]
+<img width="445" height="218" alt="image" src="https://github.com/user-attachments/assets/dc2d25d7-dcd0-4c4b-b2bc-872f9034e5d7" />
+
 
 4. Draw a square around the area you want to code, then right-click and select **Code to Recent Codes**, then **Energy (Codes)**.
 
-![][image65]
+<img width="951" height="217" alt="image" src="https://github.com/user-attachments/assets/7ca0ba16-95da-4bca-bd17-23567ec16031" />
+
 
 5. Now, go to **Codes** and double-click on **Energy**. In the detail view, instead of showing the image snippet, NVivo will display the coordinates of the selected image area. (On Mac, this will appear as a screenshot of the selected region.)
 
-![][image66]
+<img width="821" height="460" alt="image" src="https://github.com/user-attachments/assets/b29169e5-cea4-4dc3-bce0-b4a9eb251bcd" />
+
 
 # **Save the Project** {#save-the-project}
 
 1. During your work, the **Save Reminder** pop-up will appear periodically to remind you about the saving. Click **Yes** to confirm.
 
-![][image67]
+<img width="607" height="274" alt="image" src="https://github.com/user-attachments/assets/117cc2ad-e728-4da5-98dd-ebab1b79e546" />
+
 
 2. When you are done working on a project it is important to remember to save manually. First, go to the **File** menu.
 
-![][image68]
+<img width="748" height="225" alt="image" src="https://github.com/user-attachments/assets/28b61042-be30-4b3f-82cf-5dad258aca6f" />
+
 
 3. Select **Save** to save the current project.
 
-![][image69]
+<img width="866" height="401" alt="image" src="https://github.com/user-attachments/assets/cbc72e38-9d36-4ccb-a535-d96bd06cc3a6" />
+
 
 4. Alternatively, you can save a project by clicking on the floppy disk icon on the top right of the menu bar, or pressing **CTRL+S** on your keyboard.
 
-![][image70]
+<img width="930" height="118" alt="image" src="https://github.com/user-attachments/assets/ad8540e4-62a6-465d-91f3-3210b0eff725" />
+
 
 5. Finally, you can close a project to return to the NVivo main screen. Once your project is saved, go back to the **File** menu and select **Close**.
 
-![][image71]
+<img width="883" height="442" alt="image" src="https://github.com/user-attachments/assets/9c3197b2-e8b5-4bb1-a88e-d5fbc9d9585f" />
 
-# **Audio & Video Coding** {#audio-&-video-coding}
+
+# Audio & Video Coding
 
 NVivo allows the import and analysis of audio and video files through coding specific time segments within those recordings. 
 
@@ -478,65 +549,79 @@ Please note that the **Transcription** feature in NVivo is not included in our s
 
 1. From the main screen, click on **Sample Project (Multi-method)**. We will use this sample project for the rest of the workshop.
 
-![][image72]
+<img width="825" height="396" alt="image" src="https://github.com/user-attachments/assets/edf42407-3cbb-457f-9a04-b4f9034a6bac" />
+
 
 2. When the welcome pop-up appears, click **SKIP TOUR** to close it.
 
-![][image73]
+<img width="697" height="485" alt="image" src="https://github.com/user-attachments/assets/0f04cf93-1e11-4461-87a3-8316559301c6" />
+
 
 3. Go to **Files**, then **Interviews** folder. Double click to open the **Betty and Paul** file \- this is a video recording from an interview.
 
-![][image74]
+<img width="640" height="439" alt="image" src="https://github.com/user-attachments/assets/374a90df-9245-4cbc-b126-fc7d509b76b7" />
+
 
 4. Opening this video recording gives us three panels: the audio waveform, the video playback window, and a content panel showing timestamps along with the transcript. Note that the layout may vary depending on the video \- some files may not include a transcript or have timestamps.
 
-![][image75]
+<img width="831" height="624" alt="image" src="https://github.com/user-attachments/assets/eb8fa2ae-2202-4ca8-a471-38068d4ecae0" />
+
 
 5. Now, go back to the **Interviews** folder, double-click on the **Helen** file \- this is an audio format file. 
 
-![][image76]
+<img width="690" height="496" alt="image" src="https://github.com/user-attachments/assets/b6581961-7225-4e57-ae70-77d6e6dc373a" />
+
 
 6. Unlike the video format file, the audio recording gives us two panels: the audio waveform and a content panel showing timestamps along with the transcript. 
 
-![][image77]
+<img width="916" height="641" alt="image" src="https://github.com/user-attachments/assets/7cbadba7-80f7-4fe5-94ed-18dfbc423219" />
+
 
 7. To code the segment, drag the **playhead** in the waveform window to the starting point, then click the **Start Selection** icon at the bottom to begin selecting the segment.
 
-![][image78]
+<img width="720" height="217" alt="image" src="https://github.com/user-attachments/assets/2c5c39a6-e63b-4587-b984-c5b58bc642fc" />
+
 
 8. When it ends, click the **Finish Selection** icon to complete the coding range.
 
-![][image79]
+<img width="722" height="223" alt="image" src="https://github.com/user-attachments/assets/eb275c0f-f4b7-4f02-ba48-5c9499960c4d" />
+
 
 9. Then, right-click and select **Code Selection**. 
 
-![][image80]
+<img width="685" height="413" alt="image" src="https://github.com/user-attachments/assets/5643ffad-3088-4f09-b646-71b3aafca594" />
+
 
 10. Select the code. For example, let’s select **Memorable quotes** in this case, and click **Code Selection to ‘Memorable qu…’** to confirm.
 
-![][image81]
+<img width="422" height="567" alt="image" src="https://github.com/user-attachments/assets/bb6eb6c2-ad51-41f0-a9eb-d2efee69e25d" />
+
 
 11. Go to **Codes**, **Memorable quotes**. The timestamp of the segment we just coded will appear.
 
-![][image82]
+<img width="995" height="606" alt="image" src="https://github.com/user-attachments/assets/cefa0792-b5d5-4cf5-b0c1-98f27be66ca3" />
+
 
 12. To uncode a segment, click on the segment reference and go back to the source file.
 
-![][image83]
+<img width="622" height="204" alt="image" src="https://github.com/user-attachments/assets/5d805391-48bc-413f-a619-f37ac478c451" />
+
 
 13. From the audio wavement, locate to the coded segment, right-click it and select **Uncode** from the menu.
 
-![][image84]
+<img width="676" height="283" alt="image" src="https://github.com/user-attachments/assets/c529f69e-9c1d-4251-a174-9427412e9641" />
+
 
 14. Select and check **Memorable quotes** from the pop-up, and click **OK**.
 
-![][image85]
+<img width="979" height="429" alt="image" src="https://github.com/user-attachments/assets/83915421-59a1-4a82-8b4b-1a274d699d51" />
+
 
 15. Now the coded segment should be removed.
 
 16. Audio coding follows the same steps as video coding.
 
-# **Case Classification & Cases** {#case-classification-&-cases}
+# Case Classification & Cases
 
 Cases are a special type of code that represents the individuals in your study. If you have demographics or other important attributes that you want to incorporate into your study, case classifications and cases can help. For example, if you were analyzing interview transcripts, you might want to create a case classification called “Person” with attributes such as their name, age, education, job title, etc. Once your case classification is in place that defines what characteristics you want to capture for your interviewees, you could then create one case for each interviewee with those attributes filled in. 
 
@@ -546,71 +631,84 @@ You can manually create case classifications and cases by using the left menu, u
 
 1. Under **Cases**, go to **Cases**, then **People.** Expand **Interview Participants** \- this will give us a list of interview participants.
 
-![][image86]
+<img width="979" height="673" alt="image" src="https://github.com/user-attachments/assets/c47202d6-a0fa-4f4e-b3aa-0851be7065b3" />
+
 
 2. Right-click on the name **Barbara**, select **Open Classification Sheet**.
 
-![][image87]
+<img width="979" height="404" alt="image" src="https://github.com/user-attachments/assets/e4c8e097-9bd7-4606-8b8f-bf10a12a4607" />
+
 
 3. A table of all the information about the participants will appear, with different attributes about their background, like the neighborhood they live in, their gender, age range, etc. You can edit the data here.
 
-![][image88]
+<img width="979" height="595" alt="image" src="https://github.com/user-attachments/assets/21628576-c97c-4138-9de6-512df4d68bc3" />
+
 
 4. We can take advantage of NVivo’s autocoding features to identify the parts of interviewee and interviewers in a file and code them automatically into the appropriate case. Using the left menu, under **Data**, then **Files**, go to the **Interviews** folder and right-click on the interview transcript titled “Barbara”. Select **Autocode…**.
 
-![][image89]
+<img width="979" height="473" alt="image" src="https://github.com/user-attachments/assets/11159aa4-2fbe-429f-9d6e-182edfd5b149" />
+
 
 5. A wizard with different autocoding features will appear, which I encourage you to explore on your own. For now, let’s select the **Speaker name**. This is going to automatically code text based on the speaker name. Then click **Next**.
 
-![][image90]
+<img width="746" height="661" alt="image" src="https://github.com/user-attachments/assets/1871c00c-bd07-425c-8821-a2bb667d6c72" />
+
 
 6. The “Barbara” document is formatted in a consistent manner so we can always pick out who is speaking because the person’s name is bolded followed by the words they speak. We need to specify who the unique speakers are in this document. Under **Enter all speakers**, type in **HENRY** and hit **Enter**. Then type in **BARBARA** and hit the **TAB** key. You should check the preview below to confirm that NVivo is picking up each unique speaker by highlighting them in different colours. If it looks correct, click on **Next**.
 
-![][image91]
+<img width="620" height="592" alt="image" src="https://github.com/user-attachments/assets/f6432558-0cce-47c6-a032-bd843f2bfee2" />
+
 
 7. Make sure **Add to existing classification** is selected and from the drop-down next to it, **Person** is selected. Then click on **Finish**. This should code everything that Henry or Barbara said in the transcript with their cases.
 
-![][image92]
+<img width="652" height="588" alt="image" src="https://github.com/user-attachments/assets/722ab68e-d9b2-4770-9515-455daa9ff1f4" />
+
 
 8. Go to **Cases**, then go to **Cases**. 
 
-![][image93]
+<img width="373" height="168" alt="image" src="https://github.com/user-attachments/assets/f89a26bc-3be4-4b3e-81b4-e79de4156318" />
+
 
 9. Double click on the **BARBARA** case. You should see everything that Barbara said in her interview. These words are coded to this case. The BARBARA case code is now linked to Barbara’s interview responses.
 
-![][image94]
+<img width="979" height="492" alt="image" src="https://github.com/user-attachments/assets/03f3c2df-d030-45ab-afe9-1adecc848bfd" />
+
 
 10. Close all the tabs.
 
-# **Query** {#query}
+# Query
 
 Instead of manually searching through large volumes of coded material, queries in NVivo are powerful tools that help you to quickly grab insight from the data by solving specific questions about your data such as how often certain words/phrases/themes appear, which participants expressed particular attitudes, or how concepts overlap.
 
 This tutorial will not go through all of them in this workshop, but if you are interested in learning more, visit Windows version’s [Queries](https://help-nv.qsrinternational.com/14/win/Content/queries/queries.htm) page for additional resources. 
 
-## **Word Frequency Query** {#word-frequency-query}
+## Word Frequency Query
 
 Word frequency query allows you to identify and analyze the most frequently used words across your sources.
 
 1. First, let’s see what are the options we have. Go to the **Explore** menu to see all available query options. 
 
-![][image95]
+<img width="979" height="112" alt="image" src="https://github.com/user-attachments/assets/d9c12183-29a7-422a-91d7-0f448e9cf15c" />
+
 
 2. For Windows users, NVivo includes a feature called the **Query Wizard**, which assists in choosing the right query for your task and breaks down each option to help you understand how it works. Let’s try that first. Click on **Query Wizard**.
 
-![][image96]
+<img width="530" height="280" alt="image" src="https://github.com/user-attachments/assets/25d988a2-3d24-4947-83e3-64551a3a76ef" />
+
 
 3. The pop-up gives 4 options corresponding to the four query types. Let’s select the second option \- **Word Frequency** query, which is described as “Identify frequently occurring terms in content.” You can also use Work Frequency query by clicking on **Work Frequency** under the **Explore** menu.
 
-![][image97]
+<img width="795" height="395" alt="image" src="https://github.com/user-attachments/assets/7f92b73a-a2cc-429a-915b-889a3d0638a6" />
+
 
 4. But now, let’s use **Query Wizard**. Select the second option, and click **Next**.
 
-![][image98]
+<img width="817" height="586" alt="image" src="https://github.com/user-attachments/assets/c2111ac7-16fe-4983-9079-58199c876e30" />
+
 
 5. Set the “Display Words” field to 50, and keep the “Minimum Word Length” field set to 3\.
 
-![][image99]
+
 
 6. The **Grouping** option helps identify and organize similar or related terms in your text data to varying degrees. Same stem means words that share the same root or base form \- for example, talk, talking, talks, and talked all share the stem “talk.” Now, drag the bar to the second level, which groups words by the same stem, and click **Next**.
 
