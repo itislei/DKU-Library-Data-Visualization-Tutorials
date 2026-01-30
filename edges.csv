@@ -1,0 +1,31 @@
+Source,Target,Type,Id,Label,Weight
+1,5,Undirected,0,Family Member,4
+1,7,Undirected,1,Family Member,4
+1,15,Undirected,2,Family Member,2
+1,16,Undirected,3,Family Member,2
+1,8,Undirected,4,Landlady & Tenant,3
+2,3,Undirected,5,Family Member,4
+2,17,Undirected,6,Family Member,4
+3,17,Undirected,7,Family Member,4
+1,2,Undirected,8,Partner & Colleague,5
+1,11,Undirected,9,Partner & Colleague,3
+1,12,Undirected,10,Partner & Colleague,3
+1,13,Undirected,11,Partner & Colleague,3
+1,14,Undirected,12,Partner & Colleague,2
+1,4,Undirected,13,Enermy,4
+1,6,Undirected,14,Special Connection,5
+1,9,Undirected,15,Partner & Colleague,3
+1,10,Undirected,16,Enermy,4
+9,12,Undirected,17,Partner & Colleague,3
+9,13,Undirected,18,Partner & Colleague,3
+9,14,Undirected,19,Partner & Colleague,2
+12,13,Undirected,20,Partner & Colleague,2
+12,14,Undirected,21,Partner & Colleague,2
+13,14,Undirected,22,Partner & Colleague,2
+4,10,Undirected,23,Mastermind & Henchman,4
+15,16,Undirected,24,Family Member,4
+7,15,Undirected,25,Family Member,3
+7,16,Undirected,26,Family Member,3
+5,15,Undirected,27,Family Member,3
+5,16,Undirected,28,Family Member,3
+5,7,Undirected,29,Family Member,4
