@@ -3,8 +3,10 @@
 ## Dataset:
 "Sample Dataset"
 
-### Description:
+## Description:
+
 This dataset is adapted from the U.S. Environmental Protection Agency’s Data Center Energy Efficiency Focus Groups and Interviews dataset. A subset of files was selected for the NVivo tutorial and renamed for clarity and consistency. File contents remain unchanged; only file names and organization were modified.
+
 ---
 
 ## Data Sources:
