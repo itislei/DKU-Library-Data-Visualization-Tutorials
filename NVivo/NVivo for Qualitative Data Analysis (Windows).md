@@ -99,7 +99,7 @@ Follow the instructions in [Downloading, Installing and Licensing NVivo 14](http
 
 ## Datasets
 
-Download the sample datasets: [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/aa6cad3a86a7a69a9ff490f1dbb7d2fc37376a38/NVivo/Dataset)
+Download the zip file: [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/aa6cad3a86a7a69a9ff490f1dbb7d2fc37376a38/NVivo/Dataset)
 
 # Before we started
 
