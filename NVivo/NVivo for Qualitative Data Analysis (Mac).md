@@ -120,7 +120,7 @@ Download the sample datasets below:
 <img width="723" height="413" alt="image" src="https://github.com/user-attachments/assets/c276600b-1962-403d-ba17-1413505704f2" />
 
 
-5. Copy or move the unzipped **Workshop\_Files** folder into the **NVivo Workshop** folder. 
+5. Copy or move the unzipped **Sample\_Dataset** folder into the **NVivo Workshop** folder. 
 
 <img width="1017" height="322" alt="image" src="https://github.com/user-attachments/assets/bca30b4f-57b1-43c0-b374-825f29f17a91" />
 
@@ -202,12 +202,12 @@ NVivo supports organizing files in a hierarchical structure and analyzing a wide
 <img width="228" height="236" alt="image" src="https://github.com/user-attachments/assets/82a815b6-7028-4967-84df-953d37d2a6e0" />
 
 
-5. In the pop-up window, navigate to the workshop folder, open the Workshop\_Files folder, select all items that begin with “Interview”, and click **Import**.
+5. In the pop-up window, navigate to the workshop folder, open the Sample\_Dataset folder, select all items that begin with “Interview”, and click **Import**.
 
 <img width="864" height="484" alt="image" src="https://github.com/user-attachments/assets/55f17e3d-8e8e-4f68-9bf9-855e1249f8ed" />
 
 
-6. Repeat the same steps for the focus group files. Create a new folder named **Focus Group**, then go to **Import** \> **Files** \> **Documents**. In the Workshop\_Files folder, select all items that begin with “FG”, and click **Import** to continue.
+6. Repeat the same steps for the focus group files. Create a new folder named **Focus Group**, then go to **Import** \> **Files** \> **Documents**. In the Sample\_Dataset folder, select all items that begin with “FG”, and click **Import** to continue.
 
 7. The **Interview** and **Focus Group** folders should now appear under **Files**. Double-click each folder to view all the imported documents within it.
 
