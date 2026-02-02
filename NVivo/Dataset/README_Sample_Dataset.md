@@ -1,0 +1,107 @@
+# README
+
+## Dataset:
+"Sample Dataset"
+
+### Description:
+This dataset contains survey responses and transcribed interviews with data center managers, facility directors, and sustainability leaders regarding energy efficiency investments, technology adoption, and decision-making factors in data center operations.
+
+---
+
+## Data Sources:
+- Online questionnaire responses from two focus groups (FG1 and FG2) collected in March 2015.
+- In-depth interview transcripts conducted between October 2014 and May 2015 with data center professionals.
+- Participants were recruited from conferences such as DCD Converged and industry networks.
+
+---
+
+## Files Included:
+
+| File Name                         | Description                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| `FG1_Questionnaire_1.docx`        | Completed survey from John C (Mega data centers, multiple sectors)          |
+| `FG1_Questionnaire_7.pdf`         | Completed survey from Janice M (Localized data centers, health care)        |
+| `FG1_Questionnaire_14.pdf`        | Partially completed survey form (template)                                  |
+| `FG2_Questionnaire_9.docx`        | Completed survey from David L (Education sector, 7 data centers)            |
+| `FG2_Questionnaire_15.pdf`        | Partially completed survey (30 data centers, enterprise focus)              |
+| `FG2_Questionnaire_16.pdf`        | Partially completed survey with detailed technology checklist               |
+| `Interview_dec4_2014_2_02pm.docx` | Transcript with Internet company sustainability director                    |
+| `Interview_dec4_2014_8_52am.docx` | Transcript with EMC Director of Data Center Services                        |
+| `Interview_may13_2015.docx`       | Transcript with colocation facility operations director                     |
+
+---
+
+## Key Topics Covered:
+
+### Survey Questions (FG1/FG2):
+- **Role & Scope**: Involvement in purchasing/maintenance decisions, number of data centers managed.
+- **Facility Characteristics**: Size, rack count, server count, sectors supported, locations.
+- **Upgrade Cycles**: Frequency of server replacement, infrastructure upgrades.
+- **Energy Monitoring**: Tracking of energy use, PUE, server utilization.
+- **Leasing & Outsourcing**: Renting/leasing space, equipment, facility management.
+- **Technology Adoption**: Use of efficiency strategies (cold/hot aisle containment, economizers, virtualization, etc.).
+- **Pricing Models**: For multi-tenant data centers (space-based, power-based pricing).
+
+### Interview Themes:
+- **Decision Factors**: Energy efficiency, uptime, cost, location, connectivity, client demand.
+- **Technology Evaluation**: Vendor relations, in-house testing, peer feedback, ROI calculations.
+- **Barriers & Trade-offs**: Reliability vs. efficiency, climate constraints, financing, tenant contracts.
+- **Organizational Structure**: Budget silos vs. integrated teams, internal chargeback models.
+- **Industry Trends**: Free cooling, flywheel UPS, containment strategies, modular design.
+
+---
+
+## Data Dictionary (Survey Fields):
+
+| Field Name               | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| Q1: Name                 | First name and last initial (anonymized)                                    |
+| Q2: Purchase Decisions   | Whether respondent participates in equipment purchasing decisions           |
+| Q3: Maintenance Decisions| Whether respondent participates in maintenance decisions                    |
+| Q4: Number of DCs        | Total data centers, server rooms, closets owned/operated                    |
+| Q5: DCs Involved         | Number of data centers involved in for major purchase/maintenance decisions |
+| Q6: DC Size              | Majority size category (server closet to mega data center)                  |
+| Q7: Avg Racks            | Average number of racks per data center                                     |
+| Q8: Total Servers        | Total servers in organization                                               |
+| Q9: DC Types             | Types operated (enterprise, cloud, colocation, etc.)                        |
+| Q10: Sectors Supported   | Top three industry sectors supported                                        |
+| Q11: States Located      | States where data centers are located                                       |
+| Q12: Last Major Upgrade  | When last major equipment purchase/upgrade occurred                         |
+| Q13: Server Replacement  | Frequency of server replacement                                             |
+| Q14: Infrastructure Upgrades | Frequency of major infrastructure upgrades                               |
+| Q15: Energy Programs     | Participation in EnergySTAR, Green Grid, etc.                               |
+| Q16: Energy Audit        | Whether a third-party energy audit was performed in last 3 years            |
+| Q17: Track Energy Use    | Whether energy use is tracked regularly                                     |
+| Q18: Typical Consumption | Typical electricity consumption (kWh) of one data center                    |
+| Q19: Track PUE           | Whether PUE or other efficiency metrics are tracked                         |
+| Q20: Avg PUE             | Average PUE of data centers                                                 |
+| Q21: Track Server Utilization | Whether server utilization is tracked                                   |
+| Q22: Avg Utilization     | Average server utilization rate                                             |
+| Q23: Rent Space          | Whether data center space is rented from another company                    |
+| Q24: % Needs Met by Rent | Percentage of data center needs met by renting                              |
+| Q25: Lease Elements      | Whether servers, facility management, or maintenance are leased/outsourced  |
+| Q26: Lease to Others     | Whether space is leased to other companies                                  |
+| Q27: % Racks Leased      | Percentage of racks leased to others                                        |
+| Q28: Tenant Pays Electricity | Whether tenant or owner typically pays electricity costs                |
+| Q29–Q32: Technology Adoption | Use/consideration of specific efficiency technologies (facility, servers, pricing models) |
+| Q30: Typical Temperature | Typical facility temperature set point                                       |
+
+---
+
+## Usage Notes:
+- Data is qualitative and self-reported; some responses are incomplete or skipped.
+- Interviews provide rich contextual insights into survey responses.
+- Useful for research on energy efficiency adoption, organizational behavior, technology diffusion, and sustainable IT management.
+
+---
+
+## Citation Request:
+If using this dataset, please cite the original study and acknowledge participants’ contributions. Data is anonymized but should be used ethically and in compliance with research integrity guidelines.
+
+---
+
+## Archive Format:
+All files are provided in a ZIP archive:  
+`Sample_Dataset.zip`
+
+---
