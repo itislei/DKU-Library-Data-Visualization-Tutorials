@@ -1048,3 +1048,6 @@ When your analysis is complete, you can export your codes from NVivo in various 
 ## **Support**
 
 If you have any questions about the tool or this tutorial, don’t hesitate to reach out to the Data and Visualization Librarian, Siti Lei ([siti.lei@dukekunshan.edu.cn](mailto:siti.lei@dukekunshan.edu.cn)) for further support.
+
+## Acknowledgement
+This tutorial adapts content from the [Map & Data Library, University of Toronto](https://mdl.library.utoronto.ca/).
