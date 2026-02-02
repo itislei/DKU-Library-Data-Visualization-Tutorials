@@ -15,7 +15,7 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 
  - [Datasets	](#datasets)
 
-**[Before we start	](#before-we-start)**
+**[Before we Start	](#before-we-start)**
 
 **[Create a Project	](#create-a-project)**
 
@@ -95,7 +95,7 @@ Follow the instructions in [Downloading, Installing and Licensing NVivo 14](http
 
 Download and save the zip file in your computer: [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/aa6cad3a86a7a69a9ff490f1dbb7d2fc37376a38/NVivo/Dataset)
 
-# Before we start
+# Before we Start
 
 1. Create a new folder in your computer and name it as **NVivo Workshop**. We will be using this folder to store all the files created in this tutorial.
 
