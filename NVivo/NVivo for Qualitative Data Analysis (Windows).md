@@ -99,7 +99,7 @@ Follow the instructions in [Downloading, Installing and Licensing NVivo 14](http
 
 ## Datasets
 
-Download the sample datasets: [Workshop\_Files.zip](https://duke.box.com/s/91jya5x407qpdql8w1mptu70zqb3h00i)
+Download the sample datasets: [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/aa6cad3a86a7a69a9ff490f1dbb7d2fc37376a38/NVivo/Dataset)
 
 # Before we started
 
@@ -108,7 +108,7 @@ Download the sample datasets: [Workshop\_Files.zip](https://duke.box.com/s/91jya
 <img width="681" height="323" alt="image" src="https://github.com/user-attachments/assets/85f8de07-7692-492b-8b38-3963b3db16e8" />
 
 
-2. Download the sample dataset [Workshop\_Files.zip](https://duke.box.com/s/91jya5x407qpdql8w1mptu70zqb3h00i).
+2. Download the sample dataset [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/aa6cad3a86a7a69a9ff490f1dbb7d2fc37376a38/NVivo/Dataset).
 
 3. Unzip the file by right-clicking and select **Extra All**. Select where the files are extracted.
 
@@ -193,12 +193,12 @@ NVivo supports the analysis of various qualitative data file types, including su
 <img width="938" height="286" alt="image" src="https://github.com/user-attachments/assets/5376ef21-c8cc-4559-a6fe-cf767979e65a" />
 
 
-5. In the pop-up window, navigate to the workshop folder, open the Workshop\_Files folder, select all items that begin with “Interview”, and click **Import**.
+5. In the pop-up window, navigate to the workshop folder, open the Sample\_Dataset folder, select all items that begin with “Interview”, and click **Import**.
 
 <img width="933" height="691" alt="image" src="https://github.com/user-attachments/assets/36ae24e6-beab-4208-b9cf-74280180dfc7" />
 
 
-6. Repeat the same steps for the focus group files. Create a new folder named **Focus Group**, then go to **Import** \> **Files** \> **Documents**. In the Workshop\_Files folder, select all items that begin with “FG”, and click **Import** to continue.
+6. Repeat the same steps for the focus group files. Create a new folder named **Focus Group**, then go to **Import** \> **Files** \> **Documents**. In the Sample\_Dataset folder, select all items that begin with “FG”, and click **Import** to continue.
 
 7. The **Interview** and **Focus Group** folders should now appear under **Files**. Double-click each folder to view all the imported documents within it.
 
