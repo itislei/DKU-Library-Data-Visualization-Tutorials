@@ -75,7 +75,7 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 
 ## Introduction
 
-This tutorial is designed for the Windows version of NVivo 14\. If you are using a Mac device, check out here (coming soon). 
+This tutorial is designed for the Windows version of NVivo 14\. If you are using a Mac device, check out [here](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/ad7aadd2c3d59b03f3d3a8bc767082fb69df9184/NVivo/NVivo%20for%20Qualitative%20Data%20Analysis%20(Mac).md). 
 
 While Lumivero, the company who produces NVivo, has also released a Mac version, it currently includes fewer features than the Windows version. Therefore, it is recommended to use a Windows device for working with NVivo. To learn more about the differences between versions and platforms, see the comparison page [here](https://techcenter.qsrinternational.com/Content/nv12/TOC_older_client_versions.htm).
 
