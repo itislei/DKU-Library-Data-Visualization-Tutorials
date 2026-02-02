@@ -7,9 +7,7 @@
 
 This 1.5-hour tutorial introduces how to conduct qualitative data analysis using a tool called NVivo in Mac devices, starting from importing qualitative data files, coding, running queries, to analyzing and visualizing codes. We will use a selection of text and image files from the project Data Center Energy Efficiency Focus Groups and Interviews (by U.S. Environmental Protection Agency) and the sample project in NVivo in this tutorial for demonstration. 
 
-**[Before we start	](#before-we-start)**
-
- - [Introduction	](#introduction)
+**[Introduction	](#introduction)**
 
  - [About the tool	](#about-the-tool)
 
@@ -69,9 +67,7 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 
 **[Resources	](#resources)**
 
-# Before we start
-
-## Introduction
+# Introduction
 
 This tutorial is designed for the Mac version of NVivo 14\. If you are using a Windows device, check out [the Windows tutorial here](https://docs.google.com/document/d/1esYrHgOCILlQWpgB5S-ImPCj6XCOwmn4pq6RiV3tD3E/edit?usp=sharing). 
 
