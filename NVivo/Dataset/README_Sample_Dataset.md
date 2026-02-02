@@ -1,7 +1,7 @@
 # README
 
 ## Title
-"Sample Dataset"
+Sample_Dataset
 
 ## Description
 
@@ -88,7 +88,7 @@ Original dataset: U.S. Environmental Protection Agency. _Data Center Energy Effi
 ---
 
 ## Notes on Use
-This sample dataset is intended solely for instructional use in this NVivo tutorial.
+This sample dataset is intended solely for instructional use in the NVivo 14 Windows and Mac tutorial.
 
 ---
 
@@ -98,6 +98,6 @@ If using this dataset, please cite the original study and acknowledge participan
 ---
 
 ## Archive Format:
-All files are provided in a ZIP archive: `Sample_Dataset.zip`
+All files are provided in a ZIP file: [Sample_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/4f9b708b6a84a5b70ba087d85e186007a304786b/NVivo/Dataset/Sample_Dataset.zip)
 
 ---
