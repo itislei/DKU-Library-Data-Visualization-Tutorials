@@ -88,7 +88,7 @@ Original dataset: U.S. Environmental Protection Agency. _Data Center Energy Effi
 ---
 
 ## Notes on Use
-This sample dataset is intended solely for instructional use in the NVivo 14 Windows and Mac tutorial.
+This sample dataset is intended solely for instructional use in the NVivo 14 [Windows](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/fcfdd758c69251cf5a2532605ed8ad6c090f9275/NVivo/NVivo%20for%20Qualitative%20Data%20Analysis%20(Windows).md) and [Mac](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/fcfdd758c69251cf5a2532605ed8ad6c090f9275/NVivo/NVivo%20for%20Qualitative%20Data%20Analysis%20(Mac).md) tutorial.
 
 ---
 
