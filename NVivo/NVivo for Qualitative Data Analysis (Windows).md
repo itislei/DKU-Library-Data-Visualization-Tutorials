@@ -15,7 +15,7 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 
  - [Datasets	](#datasets)
 
-**[Before we started	](#before-we-started)**
+**[Before we start	](#before-we-start)**
 
 **[Create a Project	](#create-a-project)**
 
@@ -68,9 +68,7 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 **[Resources	](#resources)**
 # 
 
-# Before we start
-
-## Introduction
+# Introduction
 
 This tutorial is designed for the Windows version of NVivo 14\. If you are using a Mac device, check out [the Mac tutorial here](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/ad7aadd2c3d59b03f3d3a8bc767082fb69df9184/NVivo/NVivo%20for%20Qualitative%20Data%20Analysis%20(Mac).md). 
 
@@ -98,7 +96,7 @@ Follow the instructions in [Downloading, Installing and Licensing NVivo 14](http
 
 Download and save the zip file in your computer: [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/aa6cad3a86a7a69a9ff490f1dbb7d2fc37376a38/NVivo/Dataset)
 
-# Before we started
+# Before we start
 
 1. Create a new folder in your computer and name it as **NVivo Workshop**.
 
