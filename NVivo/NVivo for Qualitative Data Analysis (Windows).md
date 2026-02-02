@@ -7,7 +7,7 @@
 
 This 1.5-hour tutorial introduces how to conduct qualitative data analysis using a tool called NVivo in Windows devices, starting from importing qualitative data files, coding, running queries, to analyzing and visualizing codes. We will use a selection of text and image files from the project Data Center Energy Efficiency Focus Groups and Interviews (by U.S. Environmental Protection Agency) and the sample project in NVivo in this tutorial for demonstration. 
 
-[Introduction	](#introduction)
+**[Introduction	](#introduction)**
 
  - [About the tool	](#about-the-tool)
 
@@ -15,17 +15,17 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 
  - [Datasets	](#datasets)
 
-[Before we started	](#before-we-started)
+**[Before we started	](#before-we-started)**
 
-[Create a Project	](#create-a-project)
+**[Create a Project	](#create-a-project)**
 
-[Import Files	](#import-files)
+**[Import Files	](#import-files)**
 
  - [Files	](#files)
 
  - [NCapture	](#ncapture)
 
-[Text Coding	](#text-coding)
+**[Text Coding	](#text-coding)**
 
  - [Deductive Coding	](#deductive-coding)
 
@@ -37,19 +37,19 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 
  - [Uncoding	](#uncoding)
 
-[Highlighter & Coding Stripes	](#highlighter--coding-stripes)
+**[Highlighter & Coding Stripes	](#highlighter--coding-stripes)**
 
-[Memos & Annotation	](#memos--annotation)
+**[Memos & Annotation	](#memos--annotation)**
 
-[Image Coding	](#image-coding)
+**[Image Coding	](#image-coding)**
 
-[Save the Project	](#save-the-project)
+**[Save the Project	](#save-the-project)**
 
-[Audio & Video Coding	](#audio--video-coding)
+**[Audio & Video Coding	](#audio--video-coding)**
 
-[Case Classification & Cases	](#case-classification--cases)
+**[Case Classification & Cases	](#case-classification--cases)**
 
-[Query	](#query)
+**[Query	](#query)**
 
  - [Word Frequency Query	](#word-frequency-query)
 
@@ -57,7 +57,7 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 
  - [Matrix Coding Query	](#matrix-coding-query)
 
-[Export Codes	](#export-codes)
+**[Export Codes	](#export-codes)**
 
  - [Code List	](#code-list)
 
@@ -65,8 +65,8 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 
  - [Individual Code	](#individual-code)
 
-[Resources	](#resources)
-
+**[Resources	](#resources)
+**
 # 
 
 # Before we start
