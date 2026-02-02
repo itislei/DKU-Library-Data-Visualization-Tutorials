@@ -1,20 +1,20 @@
 # README
 
-## Dataset:
+## Title
 "Sample Dataset"
 
-## Description:
+## Description
 
 This dataset is adapted from the U.S. Environmental Protection Agency’s Data Center Energy Efficiency Focus Groups and Interviews dataset. A subset of files was selected for the NVivo tutorial and renamed for clarity and consistency. File contents remain unchanged; only file names and organization were modified.
 
 ---
 
-## Data Sources:
+## Data Sources
 Original dataset: U.S. Environmental Protection Agency. Data Center Energy Efficiency Focus Groups and Interviews. Available via Data.gov: https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews
 
 ---
 
-## Files Included:
+## Files Included
 
 | File Name                         | Description                                                                 |
 |-----------------------------------|-----------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ Original dataset: U.S. Environmental Protection Agency. Data Center Energy Effic
 
 ---
 
-## Key Topics Covered:
+## Key Topics Covered
 
 ### Survey Questions (FG1/FG2):
 - **Role & Scope**: Involvement in purchasing/maintenance decisions, number of data centers managed.
@@ -41,7 +41,7 @@ Original dataset: U.S. Environmental Protection Agency. Data Center Energy Effic
 - **Technology Adoption**: Use of efficiency strategies (cold/hot aisle containment, economizers, virtualization, etc.).
 - **Pricing Models**: For multi-tenant data centers (space-based, power-based pricing).
 
-### Interview Themes:
+### Interview Themes
 - **Decision Factors**: Energy efficiency, uptime, cost, location, connectivity, client demand.
 - **Technology Evaluation**: Vendor relations, in-house testing, peer feedback, ROI calculations.
 - **Barriers & Trade-offs**: Reliability vs. efficiency, climate constraints, financing, tenant contracts.
@@ -50,7 +50,7 @@ Original dataset: U.S. Environmental Protection Agency. Data Center Energy Effic
 
 ---
 
-## Data Dictionary (Survey Fields):
+## Data Dictionary (Survey Fields)
 
 | Field Name               | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -87,10 +87,8 @@ Original dataset: U.S. Environmental Protection Agency. Data Center Energy Effic
 
 ---
 
-## Usage Notes:
-- Data is qualitative and self-reported; some responses are incomplete or skipped.
-- Interviews provide rich contextual insights into survey responses.
-- Useful for research on energy efficiency adoption, organizational behavior, technology diffusion, and sustainable IT management.
+## Notes on Use
+This sample dataset is intended solely for instructional use in this NVivo tutorial.
 
 ---
 
@@ -100,7 +98,6 @@ If using this dataset, please cite the original study and acknowledge participan
 ---
 
 ## Archive Format:
-All files are provided in a ZIP archive:  
-`Sample_Dataset.zip`
+All files are provided in a ZIP archive: `Sample_Dataset.zip`
 
 ---
