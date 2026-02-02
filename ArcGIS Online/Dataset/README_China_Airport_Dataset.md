@@ -13,6 +13,10 @@ Compiled from public aviation sources and official records. Data includes airpor
 
 ---
 
+## Source:
+CnOpenData
+---
+
 ## Data Format:
 CSV file with the following columns:
 
@@ -54,4 +58,4 @@ CSV file with the following columns:
 ---
 
 ## File:
-`airports_china_2024.csv`
+`China Airport Dataset.csv`
