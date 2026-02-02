@@ -81,7 +81,7 @@ For the second half of the tutorial, we will use the sample project in NVivo. Da
 
 By the end of this tutorial, you will understand how NVivo can be used in qualitative research​, and use NVivo to load information, code documents and media files, use cases, make notes, conduct queries, and export information.
 
-For questions about the NVivo 14, contact the Data and Visualization Librarian, Siti Lei ([siti.lei@dukekunshan.edu.cn](mailto:siti.lei@dukekunshan.edu.cn)) for support.
+For questions about the NVivo, contact the Data and Visualization Librarian, Siti Lei ([siti.lei@dukekunshan.edu.cn](mailto:siti.lei@dukekunshan.edu.cn)) for support.
 
 ## About the tool
 
