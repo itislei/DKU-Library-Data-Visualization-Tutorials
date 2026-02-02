@@ -99,7 +99,7 @@ Follow the instructions in [Downloading, Installing and Licensing NVivo 14](http
 
 Download the sample datasets below:
 
-* [Workshop\_Files.zip](https://duke.box.com/s/91jya5x407qpdql8w1mptu70zqb3h00i)
+* [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/79daeb0cb2a7e7d5ae026831aefc32c82a4a1dea/NVivo/Dataset)
 
 # Before we started
 
@@ -108,9 +108,9 @@ Download the sample datasets below:
 <img width="223" height="205" alt="image" src="https://github.com/user-attachments/assets/0bfb412c-770a-4311-92d4-6bb995e33ada" />
 
 
-2. Download the sample dataset [Workshop\_Files.zip](https://duke.box.com/s/91jya5x407qpdql8w1mptu70zqb3h00i).
+2. Download the sample dataset [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/79daeb0cb2a7e7d5ae026831aefc32c82a4a1dea/NVivo/Dataset).
 
-3. Go to the place where the dataset is saved, right-click on the zip file and select **Quick Look “Workshop\_Files.zip”**.
+3. Go to the place where the dataset is saved, right-click on the zip file and select **Quick Look “Sample\_Dataset.zip”**.
 
 <img width="828" height="501" alt="image" src="https://github.com/user-attachments/assets/dc2412d6-38f7-4ba2-93c0-2de0c43dad1b" />
 
