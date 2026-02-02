@@ -65,8 +65,7 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 
  - [Individual Code	](#individual-code)
 
-**[Resources	](#resources)
-**
+**[Resources	](#resources)**
 # 
 
 # Before we start
