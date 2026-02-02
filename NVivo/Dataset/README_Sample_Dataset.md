@@ -10,7 +10,7 @@ This dataset is adapted from the U.S. Environmental Protection Agency’s Data C
 ---
 
 ## Data Sources
-Original dataset: U.S. Environmental Protection Agency. Data Center Energy Efficiency Focus Groups and Interviews. Available via Data.gov: https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews
+Original dataset: U.S. Environmental Protection Agency. _Data Center Energy Efficiency Focus Groups and Interviews_. Available via Data.gov: https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews
 
 ---
 
