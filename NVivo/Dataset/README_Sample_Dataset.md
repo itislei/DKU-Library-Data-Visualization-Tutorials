@@ -93,7 +93,7 @@ This sample dataset is intended solely for instructional use in the NVivo 14 [Wi
 ---
 
 ## Citation Request:
-If using this dataset, please cite the original study and acknowledge participants’ contributions. Data is anonymized but should be used ethically and in compliance with research integrity guidelines.
+If using this dataset, please cite [the original study](https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews) and acknowledge participants’ contributions. Data is anonymized but should be used ethically and in compliance with research integrity guidelines.
 
 ---
 
