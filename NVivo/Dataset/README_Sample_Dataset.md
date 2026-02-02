@@ -4,14 +4,11 @@
 "Sample Dataset"
 
 ### Description:
-This dataset contains survey responses and transcribed interviews with data center managers, facility directors, and sustainability leaders regarding energy efficiency investments, technology adoption, and decision-making factors in data center operations.
-
+This dataset is adapted from the U.S. Environmental Protection Agency’s Data Center Energy Efficiency Focus Groups and Interviews dataset. A subset of files was selected for the NVivo tutorial and renamed for clarity and consistency. File contents remain unchanged; only file names and organization were modified.
 ---
 
 ## Data Sources:
-- Online questionnaire responses from two focus groups (FG1 and FG2) collected in March 2015.
-- In-depth interview transcripts conducted between October 2014 and May 2015 with data center professionals.
-- Participants were recruited from conferences such as DCD Converged and industry networks.
+Original dataset: U.S. Environmental Protection Agency. Data Center Energy Efficiency Focus Groups and Interviews. Available via Data.gov: https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews
 
 ---
 
