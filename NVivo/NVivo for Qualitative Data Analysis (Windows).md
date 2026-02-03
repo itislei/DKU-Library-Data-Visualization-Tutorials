@@ -113,12 +113,12 @@ Download and save the zip file in your computer: [Sample\_Dataset.zip](https://g
 4. Click on **Browse** if you need to adjust the saving path. Once it’s finished, click **Extract**.  
    * Alternatively, you might first install a great little program called [7-Zip](https://www.7-zip.org/) \-  that is helpful to use when working with zip files. Then you should be able to right-click on the zip file and select **7-Zip**, then **Extract** **Here** to extract its files
 
-<img width="856" height="713" alt="image" src="https://github.com/user-attachments/assets/f1364bee-7f3a-416d-a61a-c03ab22665d6" />
+<img width="700" height="587" alt="1" src="https://github.com/user-attachments/assets/054a2811-71e7-41d7-924c-ecb9093c6033" />
 
 
 5. Copy or move the unzipped sample data folder into the **NVivo Workshop** folder. 
 
-<img width="846" height="295" alt="image" src="https://github.com/user-attachments/assets/81b23c69-c8e4-4bbb-8737-312690f63e89" />
+<img width="552" height="205" alt="2" src="https://github.com/user-attachments/assets/60d21db3-0ea8-4634-b546-e92e95026231" />
 
 
 # **Create a Project**
@@ -190,7 +190,7 @@ NVivo supports organizing files in a hierarchical structure and analyzing a wide
 
 5. In the pop-up window, navigate to the workshop folder, open the Sample\_Dataset folder, select all items that begin with “Interview”, and click **Import**.
 
-<img width="933" height="691" alt="image" src="https://github.com/user-attachments/assets/36ae24e6-beab-4208-b9cf-74280180dfc7" />
+<img width="1071" height="787" alt="3" src="https://github.com/user-attachments/assets/b1a5d1c4-1832-47f8-bd42-8c006dc41ab1" />
 
 
 6. Repeat the same steps for the focus group files. Create a new folder named **Focus Group**, then go to **Import** \> **Files** \> **Documents**. In the Sample\_Dataset folder, select all items that begin with “FG”, and click **Import** to continue.
@@ -768,7 +768,7 @@ Word frequency query allows you to identify and analyze the most frequently used
 
 18. Browse to the workshop folder, give the file a name or keep the default and click on **Save**.
 
-<img width="788" height="570" alt="image" src="https://github.com/user-attachments/assets/7c777ecd-3799-4732-a4d6-360b186a59c0" />
+<img width="1079" height="651" alt="4" src="https://github.com/user-attachments/assets/40980ad6-ffee-4e54-aa4b-2aaef63f7f8c" />
 
 
 19. NVivo provides several visualization options for word frequency results. For example, click **Word Cloud** in the side tabs to view your results as a cloud.
@@ -985,7 +985,7 @@ When your analysis is complete, you can export your codes from NVivo in various 
 
 3. Keep the default file name (**Codes**), choose your workshop folder as the save location, and click **Save**.
 
-<img width="857" height="632" alt="image" src="https://github.com/user-attachments/assets/4fe559e2-5bcc-4b7c-b6d5-18e8c39f2101" />
+<img width="1071" height="652" alt="5" src="https://github.com/user-attachments/assets/9d7e868b-81d2-493d-a6df-bf478ecee573" />
 
 
 4. Open the **Codes.xlsx** file in your workshop folder. You should see a list of all codes displayed in NVivo’s code list.
