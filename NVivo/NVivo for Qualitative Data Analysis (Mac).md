@@ -171,7 +171,9 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
    7) Status Bar
 
 <img width="663" height="463" alt="image" src="https://github.com/user-attachments/assets/2c4f3d66-bd68-493f-be68-dc6c32337a28" />
-*Image Source: [The workspace](https://help-nv.qsrinternational.com/14/win/Content/about-nvivo/nvivo-workspace.htm)
+
+*Image Source: [The workspace](https://help-nv.qsrinternational.com/14/win/Content/about-nvivo/nvivo-workspace.htm)*
+
 
 # Import Files
 
