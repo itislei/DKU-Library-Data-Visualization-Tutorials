@@ -72,9 +72,9 @@ This 1.5-hour tutorial introduces how to conduct qualitative data analysis using
 
 This tutorial is designed for the Windows version of NVivo 14\. If you are using a Mac device, check out [the Mac tutorial here](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/ad7aadd2c3d59b03f3d3a8bc767082fb69df9184/NVivo/NVivo%20for%20Qualitative%20Data%20Analysis%20(Mac).md). 
 
-While Lumivero, the company who produces NVivo, has also released a Mac version, it currently includes fewer features than the Windows version. Therefore, it is recommended to use a Windows device for working with NVivo. To learn more about the differences between versions and platforms, see the comparison page [here](https://techcenter.qsrinternational.com/Content/nv12/TOC_older_client_versions.htm).
+While Lumivero, the company who produces NVivo, has also released a Mac version, it currently includes fewer features than the Windows version. Therefore, it is recommended to use a Windows device for working with NVivo. To learn more about the differences between versions and platforms, see the comparison [here](https://techcenter.qsrinternational.com/Content/nv12/TOC_older_client_versions.htm).
 
-If you don’t have a device, the Windows computers in the Digital Hub in the 4th floor of the DKU Library have installed NVivo 14 (see [Public Devices](https://library.dukekunshan.edu.cn/public-devices/)). 
+If you don’t have a personal device, Windows computers in the [Digital Hub on the 4th floor of the DKU Library](https://library.dukekunshan.edu.cn/public-devices/) and in the [Data and Visualization Studio (LIB2110)](https://library.dukekunshan.edu.cn/data-and-visualization-studio/) have NVivo 14 installed. Visit the links for more information.
 
 In the first half of the tutorial, we will work with open datasets(files) from the project [Data Center Energy Efficiency Focus Groups and Interviews](https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews), conducted by U.S. Environmental Protection Agency. A subset of files has been selected, with raw data collected between October 2014 and June 2015. See the sample dataset [README](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/53b99d9dfafc1f7c8400ebf11af1d723e8ba53ce/NVivo/Dataset/README) for details.
 
