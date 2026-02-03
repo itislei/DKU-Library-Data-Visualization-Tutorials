@@ -164,7 +164,7 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
 
 # Import Files
 
-NVivo supports the analysis of various qualitative data file types, including surveys, notes, emails, codebooks, reports, and more. 
+NVivo supports organizing files in a hierarchical structure and analyzing a wide range of qualitative data types, including surveys, notes, emails, codebooks, reports, and more.
 
 ## Files
 
