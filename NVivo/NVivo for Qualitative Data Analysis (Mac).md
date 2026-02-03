@@ -3,7 +3,7 @@
 *Siti Lei*  
 *Data and Visualization Librarian, Duke Kunshan University*
 
-*Last updated: November 13, 2025*
+*Last updated: February 3, 2026*
 
 This 1.5-hour tutorial introduces how to conduct qualitative data analysis using a tool called NVivo in Mac devices, starting from importing qualitative data files, coding, running queries, to analyzing and visualizing codes. We will use a selection of text and image files from the project Data Center Energy Efficiency Focus Groups and Interviews (by U.S. Environmental Protection Agency) and the sample project in NVivo in this tutorial for demonstration. 
 
@@ -104,19 +104,22 @@ Download and save the zip file in your computer: [Sample\_Dataset.zip](https://g
 
 2. Download the sample dataset [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/79daeb0cb2a7e7d5ae026831aefc32c82a4a1dea/NVivo/Dataset).
 
+
 3. Go to the place where the dataset is saved, right-click on the zip file and select **Quick Look “Sample\_Dataset.zip”**.
 
-<img width="828" height="501" alt="image" src="https://github.com/user-attachments/assets/dc2412d6-38f7-4ba2-93c0-2de0c43dad1b" />
+<img width="1582" height="966" alt="1" src="https://github.com/user-attachments/assets/31ff16f5-3a4a-40ae-8032-bbc4b3980a79" />
 
 
 4. Click on **Uncompress**.
 
-<img width="723" height="413" alt="image" src="https://github.com/user-attachments/assets/c276600b-1962-403d-ba17-1413505704f2" />
+<img width="1144" height="656" alt="2" src="https://github.com/user-attachments/assets/848042a2-de52-44de-8862-eac34b089313" />
+
 
 
 5. Copy or move the unzipped **Sample\_Dataset** folder into the **NVivo Workshop** folder. 
 
-<img width="1017" height="322" alt="image" src="https://github.com/user-attachments/assets/bca30b4f-57b1-43c0-b374-825f29f17a91" />
+<img width="1768" height="550" alt="3" src="https://github.com/user-attachments/assets/24238ed5-b15d-4b7c-b810-86933b83404b" />
+
 
 
 # Create a Project
@@ -140,7 +143,7 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
 
 4. In the pop-up window, enter **NVivo Workshop** in the “Save As” field, and make sure that the workshop folder is selected as the save location.
 
-<img width="937" height="315" alt="image" src="https://github.com/user-attachments/assets/b06e0bc3-7cd5-4d5f-9bf9-cafd4c7c98d1" />
+<img width="1744" height="532" alt="4" src="https://github.com/user-attachments/assets/41951bbd-47e8-4167-93e5-18b3e2549064" />
 
 
 5. For the “Project Title” field, enter **NVivo Workshop**.
@@ -198,7 +201,7 @@ NVivo supports organizing files in a hierarchical structure and analyzing a wide
 
 5. In the pop-up window, navigate to the workshop folder, open the Sample\_Dataset folder, select all items that begin with “Interview”, and click **Import**.
 
-<img width="864" height="484" alt="image" src="https://github.com/user-attachments/assets/55f17e3d-8e8e-4f68-9bf9-855e1249f8ed" />
+<img width="1702" height="898" alt="5" src="https://github.com/user-attachments/assets/15ea23a3-2a87-4482-994e-747d5dab216e" />
 
 
 6. Repeat the same steps for the focus group files. Create a new folder named **Focus Group**, then go to **Import** \> **Files** \> **Documents**. In the Sample\_Dataset folder, select all items that begin with “FG”, and click **Import** to continue.
@@ -548,7 +551,7 @@ NVivo allows the import and analysis of audio and video files through coding spe
 
 2. Name the project as its default **Sample Project**. For the saving path, select the workshop folder, and click **Save**.
 
-<img width="693" height="506" alt="image" src="https://github.com/user-attachments/assets/f801e594-f449-45b8-9364-3ec0ed5c9618" />
+<img width="1740" height="1194" alt="6" src="https://github.com/user-attachments/assets/200726f1-55b5-4035-8c8e-dfacd836eff1" />
 
 
 3. When the welcome pop-up appears, click **SKIP TOUR** to close it.
@@ -752,7 +755,7 @@ Word frequency query allows you to find the most commonly used words in your sou
 
 15. In the pop-up, give the file a name or keep the default, then browse to the workshop folder. Modify the file format if needed, and click on **Save**.
 
-<img width="759" height="418" alt="image" src="https://github.com/user-attachments/assets/f9e5b583-b72e-4047-9648-7490ba1be1a7" />
+<img width="1740" height="974" alt="7" src="https://github.com/user-attachments/assets/17903973-20f8-46e5-b473-2edbba786d3d" />
 
 
 16. NVivo provides several visualization tools to help you explore your codes. For example, click the **Word Cloud** tab to view our results as a cloud visualization. The Mac version of NVivo offers limited visualization and style options for word frequency queries, whereas the Windows version includes additional visualizations such as Tree Map and Cluster Analysis diagrams.
@@ -937,7 +940,7 @@ When your analysis is complete, you can export your codes from NVivo in various 
 
 3. Keep the default file name (**Codes**), choose your workshop folder as the save location, and click **OK**.
 
-<img width="765" height="575" alt="image" src="https://github.com/user-attachments/assets/52553001-ddad-416e-86c9-7cf6ffc0e942" />
+<img width="1740" height="974" alt="8" src="https://github.com/user-attachments/assets/d7b5795c-42ff-49ac-91b1-b81802eaca3f" />
 
 
 4. Open the **Codes.docx** file in your workshop folder. You should see a list of all codes displayed in NVivo’s code list.
@@ -956,7 +959,7 @@ When your analysis is complete, you can export your codes from NVivo in various 
 
 3. Keep the default file name (**Codebook \- Sample Project**) and make sure MS Word (.docx) is selected as the file format. Click **OK**.
 
-<img width="788" height="590" alt="image" src="https://github.com/user-attachments/assets/5ae4f212-6f88-4f21-b841-4921d7c8b3f1" />
+<img width="1740" height="974" alt="9" src="https://github.com/user-attachments/assets/9134c419-ce39-4fa2-8d5c-3e72213e0fda" />
 
 
 4. Open the **Codebook – Environmental Change Down East.doc** file in your workshop folder. This file displays each code with its description, and the counts of files and references associated with it.
@@ -978,7 +981,7 @@ When your analysis is complete, you can export your codes from NVivo in various 
 
 3. Make sure the workshop folder is selected, then click **OK**.
 
-<img width="800" height="445" alt="image" src="https://github.com/user-attachments/assets/65823577-d7b4-408f-8e47-61bfe804c45c" />
+<img width="1704" height="894" alt="10" src="https://github.com/user-attachments/assets/83cad590-b2f3-41bb-b5ce-c2b9186fa986" />
 
 
 4. Each selected code will be saved as a separate file in your workshop folder. For example, opening the **Water** file will display the related reference files, their locations, reference counts, and coverage.
