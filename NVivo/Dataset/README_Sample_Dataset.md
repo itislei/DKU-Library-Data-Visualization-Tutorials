@@ -27,6 +27,10 @@ Original dataset: U.S. Environmental Protection Agency. _Data Center Energy Effi
 | Data Center Interview Transcript dec4_2014 2_02pm.docx | Interview_dec4_2014_2_02pm.docx |
 | Data Center Interview Transcript dec4_2014 8_52am.docx | Interview_dec4_2014_8_52am.docx |
 | Questionnaire data centers interviews may13_2015.docx  | Interview_may13_2015.docx       |
+| Data Center Interview Transcript nov5_2014.docx        | Interview nov5_2014.docx        |
+| Data Center Interview Transcript nov7_2014.docx        | Interview nov7_2014.docx        |
+| Data Center Interview Transcript nov26_2014.docx       | Interview nov26_2014.docx       |
+| Data Center Interview Transcript oct3_2014.docx        | Interview oct3_2014.docx        |
 
 ---
 
