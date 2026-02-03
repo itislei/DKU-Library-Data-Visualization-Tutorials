@@ -2,7 +2,7 @@
 
 This repository serves as a tutorial collection supplementing [DKU Library’s Data and Visualization Services](https://library.dukekunshan.edu.cn/data-and-visualization-services/). The services supports teaching, learning, and research at Duke Kunshan University by providing hands-on guidance in data literacy, data analysis, visualization, and related digital research methods.
 
-## Audience
+## Audiences
 
 DKU and Duke students, faculty, and staff
 
