@@ -75,7 +75,7 @@ While Lumivero, the company who produces NVivo, has released both Mac and Window
 
 If you don’t have a Windows device, the computers in the Digital Hub in the 4th floor of the DKU Library have installed NVivo 14 (see [Public Devices](https://library.dukekunshan.edu.cn/public-devices/)). 
 
-In the first half of the tutorial, we will work with open datasets(files) from the project [Data Center Energy Efficiency Focus Groups and Interviews](https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews), conducted by U.S. Environmental Protection Agency. A subset of files has been selected, with raw data collected between October 2014 and June 2015. See the sample dataset [README]() for details.
+In the first half of the tutorial, we will work with open datasets(files) from the project [Data Center Energy Efficiency Focus Groups and Interviews](https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews), conducted by U.S. Environmental Protection Agency. A subset of files has been selected, with raw data collected between October 2014 and June 2015. See the sample dataset [README](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/53b99d9dfafc1f7c8400ebf11af1d723e8ba53ce/NVivo/Dataset/README) for details.
 
 For the second half of the tutorial, we will use the sample project in NVivo. Data in this sample project is drawn from a two-year research study (2008-2009) undertaken by researchers from the Duke University Nicholas School of the Environment at the Duke Marine Laboratory in Beaufort, N.C. The study documented community perceptions of development and land-use change on coastal communities in the Down East area of Carteret County, North Carolina, USA.
 
