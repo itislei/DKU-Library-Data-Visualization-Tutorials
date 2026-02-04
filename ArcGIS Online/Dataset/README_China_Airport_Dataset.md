@@ -6,7 +6,7 @@ China Airport Dataset
 ---
 
 ## Description
-This dataset contains information on airports in China established before January 15, 2020, including names, geographic coordinates, administrative locations (province, city, area), contact details, and opening year and month. The original data are in Chinese and were sourced from CnOpenData, with selected fields translated into English and the sample dataset renamed 'China Airport Dataset'.
+This dataset contains information on airports in China established before January 15, 2020, including names, geographic coordinates, administrative locations (province, city, area), contact details, and opening year and month. The original data are in Chinese and were sourced from CnOpenData, with selected fields translated into English and the sample dataset renamed to 'China Airport Dataset'.
 
 ---
 
