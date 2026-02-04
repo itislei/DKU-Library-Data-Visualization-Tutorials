@@ -26,7 +26,7 @@ Compiled by the Data and Visualization Librarian from the Sherlock Holmes series
 ---
 
 ## Notes on Use
-This sample dataset is intended solely for instructional use in the DKUL's Gephi tutorial.
+This sample dataset is intended solely for instructional use in the [DKUL's Gephi tutorial](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/Gephi/Gephi%20for%20Network%20Analysis.md).
 
 ---
 
