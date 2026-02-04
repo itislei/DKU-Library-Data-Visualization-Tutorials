@@ -19,7 +19,7 @@ These materials are provided for educational and non-commercial use. If you reus
 
 ## Feedback and Contributions
 
-Feedback is welcome and helps improve library instruction and services. Members of the DKU and Duke community are encouraged to use [the feedback form](https://duke.qualtrics.com/jfe/form/SV_0iVXEfmvZ7b0lM2) to share comments or suggestions. If you identify issues, have ideas for improvement, or would like to collaborate on instructional materials, please feel free to contact the Data and Visualilzation Librarian, Siti Lei (sl998@duke.edu or siti.lei@dukekunshan.edu.cn).
+Feedback is welcome and helps improve library instruction and services. Members of the DKU and Duke community are encouraged to use [the feedback form](https://duke.qualtrics.com/jfe/form/SV_0iVXEfmvZ7b0lM2) to share comments or suggestions. If you identify issues, have ideas for improvement, or would like to collaborate on instructional materials, please feel free to contact the Data and Visualilzation Librarian, Siti Lei (sl998@duke.edu).
 
 ## About DKU Library Data and Visualization Services
 
