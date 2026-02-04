@@ -1,17 +1,17 @@
 # README
 
-## Dataset:
-"Edges Dataset"
+## Title
+edges
 
 ### Description:
 This dataset contains edge (relationship) data for a character network from the Sherlock Holmes series. It represents connections between characters with relationship types and strength weights.
 
 ---
 
-## File:
+## Data Sources
 `edges.csv`
 
-## Format:
+## Files Inventory
 Comma-separated values (CSV) with the following columns:
 
 | Column | Description |
