@@ -7,7 +7,7 @@
 
 This tutorial introduces the basics of network analysis and how to use Gephi to import and visualize data, apply different layouts, install and use plugins, and export the graphs. For demonstration, we will use a subset of character relationships from Sherlock Holmes stories.
 
-[Before we start	](#before-we-start)
+**[Before we start	](#before-we-start)**
 
  - [Introduction	](#introduction)
 
@@ -23,11 +23,11 @@ This tutorial introduces the basics of network analysis and how to use Gephi to 
 
  - [Edge Table	](#edge-table)
 
-[Install Plugins	](#install-plugins)
+**[Install Plugins	](#install-plugins)**
 
-[Import Network Data	](#import-network-data)
+**[Import Network Data	](#import-network-data)**
 
-[Visualize Data	](#visualize-data)
+**[Visualize Data	](#visualize-data)**
 
  - [Left Toolbar	](#left-toolbar)
 
@@ -37,13 +37,13 @@ This tutorial introduces the basics of network analysis and how to use Gephi to 
 
  - [Layout	](#layout)
 
-[Filters & Statistics	](#filters--statistics)
+**[Filters & Statistics	](#filters--statistics)**
 
  - [Filters	](#filters)
 
  - [Statistics	](#statistics)
 
-[Export the Graph	](#export-the-graph)
+**[Export the Graph	](#export-the-graph)**
 
  - [Capture the current view	](#capture-the-current-view)
 
@@ -53,7 +53,7 @@ This tutorial introduces the basics of network analysis and how to use Gephi to 
 
  - [Publish to GitHub	](#publish-to-github)
 
-[Learning Resources	](#resources)
+**[Learning Resources	](#resources)**
 
 # Before we start
 
@@ -736,6 +736,7 @@ There are multiple ways to export a project from Gephi. You can export the graph
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)  
 * [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets)  
 * [Network Datasets](http://networkrepository.com/networks.php)
+
 
 
 
