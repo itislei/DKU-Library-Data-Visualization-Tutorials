@@ -4,7 +4,7 @@ This guide provides instructions for requesting, downloading, installing, and ac
 
 Please note that Collaboration Cloud, Transcription, and the AI Assistant (available only in NVivo 15) are not included in our institutional license. If you require these features, you will need to purchase them independently or explore alternative solutions.
 
-**Table of Contents**
+## Table of Contents
 
  - [Requesting License](#requesting-license)
 
