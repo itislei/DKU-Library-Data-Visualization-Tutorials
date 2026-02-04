@@ -1,17 +1,17 @@
 # README
 
-## Dataset:
-"Nodes Dataset"
+## Title
+nodes
 
-### Description:
+### Description
 This dataset contains node (character) data for a character network from the Sherlock Holmes series. It includes character attributes such as role, role type, and citizenship.
 
 ---
 
-## File:
+## Data Sources
 `nodes.csv`
 
-## Format:
+## Files Inventory
 Comma-separated values (CSV) with the following columns:
 
 | Column | Description |
@@ -24,7 +24,7 @@ Comma-separated values (CSV) with the following columns:
 
 ---
 
-## Data Dictionary:
+## Data Dictionary
 
 ### Role Types:
 - **Protagonist**: Main hero characters
@@ -35,7 +35,7 @@ Comma-separated values (CSV) with the following columns:
 
 ---
 
-## Character Categories:
+## Character Categories
 
 ### Main Characters:
 - Sherlock Holmes (ID: 1)
@@ -46,3 +46,13 @@ Comma-separated values (CSV) with the following columns:
 - Police inspectors (IDs: 9, 12-14)
 - Family members (IDs: 5, 7, 15-16)
 - Associates and allies
+
+---
+
+## Notes on Use
+This sample dataset is intended solely for instructional use in the Gephi tutorial.
+
+---
+
+##Archive Format:
+The file is provided in a CSV format: nodes.csv
