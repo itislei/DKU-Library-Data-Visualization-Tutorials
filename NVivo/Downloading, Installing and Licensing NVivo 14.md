@@ -6,6 +6,8 @@ Please note that Collaboration Cloud, Transcription, and the AI Assistant (avail
 
 ## Table of Contents
 
+ - [Before we Start](#before-we-start)
+
  - [Requesting License](#requesting-license)
 
  - [Downloading, Installation, and Authorization (Windows)](#downloading-installation-and-authorization-windows)
@@ -15,13 +17,55 @@ Please note that Collaboration Cloud, Transcription, and the AI Assistant (avail
  - [Troubleshooting](#troubleshooting)
 
 
-# Requesting License
+# Before we Start
 
 1. Check NVivo’s system requirements before downloading ([Windows](https://techcenter.qsrinternational.com/Content/nv14/nv14_system_requirements.htm) or [Mac](https://techcenter.qsrinternational.com/Content/nm14/nm14_system_requirements.htm)).
 
 2. If you are current DKU faculty, staff, or a student, order the **NVivo license key** by submitting a request from the [Duke Software License](https://software.duke.edu/) site. 
 
 3. If you don’t have a myLumivero account, click **Sign up now** on [this page](https://my.lumivero.com) to create one. You may use a personal email (Duke or DKU email is not required), but a myLumivero account is required to download the installation package.
+
+
+# Requesting License
+
+1.  Go to [Duke Software License](https://software.duke.edu/) site and enter **NVivo** in the search box at the top. Hit **Enter** key or click the search icon to continue.
+
+<img width="1406" height="186" alt="1" src="https://github.com/user-attachments/assets/bea82fe3-8359-410d-92bf-1acf80f66a9c" />
+
+
+2. Sign in using your Duke NetID and password.
+
+<img width="423" height="422" alt="2" src="https://github.com/user-attachments/assets/29aa9078-bbf1-4343-8e49-e2ebb61b9253" />
+
+
+3. Next, select **NVivo** from the search results.
+
+<img width="1046" height="567" alt="3" src="https://github.com/user-attachments/assets/5d20ddb6-f1d6-4c21-b674-2015542d7d08" />
+
+
+4. Review the software description, then click **Add to Cart**.
+
+<img width="1377" height="901" alt="4" src="https://github.com/user-attachments/assets/3dbc3240-47c0-41d3-988d-febc3e57224b" />
+
+
+5. Go back to the ribbon menu and click the cart icon.
+
+<img width="1349" height="286" alt="5" src="https://github.com/user-attachments/assets/0af3e3f4-b09e-4e99-935d-f8b9d13a0ccf" />
+
+
+6. Make sure NVivo is in the cart, then click **CHECKOUT**.
+
+<img width="1376" height="469" alt="6" src="https://github.com/user-attachments/assets/f41e4445-b968-4854-89fb-b9935a5297c2" />
+
+
+7. Complete the order information, review the details, and submit your order. Once finished, click on **My Orders page**.
+
+<img width="865" height="401" alt="7" src="https://github.com/user-attachments/assets/17e00932-bc90-471f-af4a-8edbb49d5156" />
+
+
+8. Click **Get Software** next to NVivo 14 to access the license key.
+
+<img width="1336" height="320" alt="8" src="https://github.com/user-attachments/assets/78f09ad7-4179-43b8-a058-f952c1b0e9bc" />
 
 
 # Downloading, Installation, and Authorization (Windows)
