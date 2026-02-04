@@ -3,19 +3,19 @@
 ## Title
 China_Airport_Dataset
 
-### Description
-This dataset contains 200+ airports, airstrips, and general aviation fields in China, with detailed geospatial, administrative, and operational information.
+---
+
+## Description
+This dataset contains information on airports in China established before January 15, 2020, including names, geographic coordinates, administrative locations (province, city, area), contact details, and opening year and month; the original data are in Chinese and were sourced from CnOpenData, with selected fields translated into English and the sample dataset renamed China_Airport_Dataset.
 
 ---
 
-## Data Sources
-Compiled from public aviation sources and official records. Data includes airports in mainland China, Hong Kong, Macao, and Taiwan.
-CnOpenData
+## Data Source
+Original dataset: CnOpenData. 中国机场数据. Available via CnOpenData: [https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews](https://www.cnopendata.com/data/airport/china-airport.html)
 
-## Data Format:
-CSV file with the following columns:
+## Attributes
 
-| Field Name        | Description                                                                 |
+| Attributes        | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
 | Name_EN           | English name of the airport                                                 |
 | Name_CN           | Chinese name of the airport                                                 |
@@ -33,27 +33,13 @@ CSV file with the following columns:
 | BuiltYear         | Year of construction/opening                                                |
 | BuiltMonth        | Month of construction/opening                                               |
 
----
-
-## Data Dictionary
-- **Name_EN / Name_CN**: Official name of the airport in English and Chinese.
-- **LAT / LNG**: Geographic coordinates suitable for mapping and GIS applications.
-- **Address_EN / Address_CN**: Physical location of the airport.
-- **Province/City/Area**: Hierarchical administrative divisions.
-- **Telephone**: Contact number for airport information.
-- **BuiltYear / BuiltMonth**: Historical data on airport establishment.
-
----
-
 ## Notes
-- Some fields may be empty where data is unavailable.
-- Coordinates are approximate and intended for general mapping.
-- Data includes civilian, military, and general aviation facilities.
+Some fields may be empty where data is unavailable.
 
 ---
 
 ## Notes on Use
-This sample dataset is intended solely for instructional use in the ArcGIS Online tutorial.
+This sample dataset is intended solely for instructional use in the [DKUL's ArcGIS Online tutorial]().
 
 ---
 
