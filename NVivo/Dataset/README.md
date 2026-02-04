@@ -35,16 +35,16 @@ Original dataset: U.S. Environmental Protection Agency. _Data Center Energy Effi
 ---
 
 ## Notes on Use
-This sample dataset is intended solely for instructional use in the NVivo 14 [Windows](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/fcfdd758c69251cf5a2532605ed8ad6c090f9275/NVivo/NVivo%20for%20Qualitative%20Data%20Analysis%20(Windows).md) and [Mac](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/fcfdd758c69251cf5a2532605ed8ad6c090f9275/NVivo/NVivo%20for%20Qualitative%20Data%20Analysis%20(Mac).md) tutorials.
+This sample dataset is intended solely for instructional use in the DKUL's NVivo 14 [Windows](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/fcfdd758c69251cf5a2532605ed8ad6c090f9275/NVivo/NVivo%20for%20Qualitative%20Data%20Analysis%20(Windows).md) and [Mac](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/fcfdd758c69251cf5a2532605ed8ad6c090f9275/NVivo/NVivo%20for%20Qualitative%20Data%20Analysis%20(Mac).md) tutorials.
 
 ---
 
-## Citation Request:
+## Citation Request
 If using this dataset, please cite [the original study](https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews) and acknowledge participants’ contributions. Data is anonymized but should be used ethically and in compliance with research integrity guidelines.
 
 ---
 
-## Archive Format:
+## Archive Format
 All renamed and selected files are provided in a ZIP file: [Sample_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/4f9b708b6a84a5b70ba087d85e186007a304786b/NVivo/Dataset/Sample_Dataset.zip)
 
 
