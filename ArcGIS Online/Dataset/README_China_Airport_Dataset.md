@@ -1,7 +1,7 @@
 # README
 
 ## Title
-China_Airport_Dataset
+China Airport Dataset
 
 ---
 
@@ -11,7 +11,7 @@ This dataset contains information on airports in China established before Januar
 ---
 
 ## Data Source
-Original dataset: CnOpenData. 中国机场数据. Available via CnOpenData: [https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews](https://www.cnopendata.com/data/airport/china-airport.html)
+Original dataset: CnOpenData. 中国机场数据. Available via CnOpenData: [https://www.cnopendata.com/data/airport/china-airport.html](https://www.cnopendata.com/data/airport/china-airport.html)
 
 ## Attributes
 
@@ -35,6 +35,11 @@ Original dataset: CnOpenData. 中国机场数据. Available via CnOpenData: [htt
 
 ---
 
+## File
+[China Airport Dataset.csv]()
+
+---
+
 ## Notes
 Some fields may be empty where data is unavailable.
 
@@ -52,4 +57,4 @@ If using this dataset, please cite the [original dataset from CnOpenData](https:
 ---
 
 ## Archive Format
-The file is provided in a CSV format: China Airport Dataset.csv
+The file is provided in a CSV format.
