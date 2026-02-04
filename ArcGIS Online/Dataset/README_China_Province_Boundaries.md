@@ -4,7 +4,7 @@
 China Province Boundaries
 
 ### Description
-This dataset contains the administrative boundaries of Chinese provinces, autonomous regions, municipalities, and special administrative regions in ESRI shapefile format.
+This dataset contains the administrative boundaries of Chinese provinces, autonomous regions, municipalities, and special administrative regions in ESRI shapefile format. The original file is named in Chinese and was sourced from CnOpenData, and the sample dataset renamed to 'China Province Boundaries'.
 
 ---
 
