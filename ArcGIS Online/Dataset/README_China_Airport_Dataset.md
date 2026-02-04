@@ -13,6 +13,13 @@ This dataset contains information on airports in China established before Januar
 ## Data Source
 Original dataset: CnOpenData. 中国机场数据. Available via CnOpenData: [https://www.cnopendata.com/data/airport/china-airport.html](https://www.cnopendata.com/data/airport/china-airport.html)
 
+---
+
+## File
+[China Airport Dataset.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS%20Online/Dataset/China%20Airport%20Dataset.csv)
+
+---
+
 ## Attributes
 
 | Attributes        | Description                                                                 |
@@ -32,11 +39,6 @@ Original dataset: CnOpenData. 中国机场数据. Available via CnOpenData: [htt
 | Telephone         | Contact telephone number                                                    |
 | BuiltYear         | Year of construction/opening                                                |
 | BuiltMonth        | Month of construction/opening                                               |
-
----
-
-## File
-[China Airport Dataset.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS%20Online/Dataset/China%20Airport%20Dataset.csv)
 
 ---
 
