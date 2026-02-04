@@ -9,41 +9,26 @@ This dataset contains edge (relationship) data for a character network from the 
 ---
 
 ## Data Sources
-`edges.csv`
-
-## Files Inventory
-Comma-separated values (CSV) with the following columns:
-
-| Column | Description |
-|--------|-------------|
-| Source | Source node ID (corresponds to ID in nodes.csv) |
-| Target | Target node ID |
-| Type | Edge type (all are "Undirected" in this dataset) |
-| Id | Unique relationship identifier |
-| Label | Relationship category (e.g., Family Member, Partner & Colleague) |
-| Weight | Relationship strength (scale 1-5, higher = stronger connection) |
+Compiled by the Data and Visualization Librarian from the Sherlock Holmes series, including novels and films.
 
 ---
 
-## Data Dictionary
+## Attributes
 
-### Edge Types
-- **Family Member**: Blood or marital relationships
-- **Partner & Colleague**: Professional partnerships and collaborations
-- **Enemy**: Antagonistic relationships
-- **Special Connection**: Unique, significant relationships
-- **Landlady & Tenant**: Residential arrangements
-- **Mastermind & Henchman**: Criminal hierarchy relationships
+| Column | Description |
+|--------|-------------|
+| ID | Unique character identifier |
+| Name | Character's full name |
+| Role | Character's role or occupation |
+| Role Type | Character classification in narrative |
+| Citizenship | Character's nationality |
 
-### Weight Scale
-- **1**: Very weak connection
-- **2**: Weak connection
-- **3**: Moderate connection
-- **4**: Strong connection
-- **5**: Very strong connection
+---
 
 ## Notes on Use
-This sample dataset is intended solely for instructional use in the Gephi Tutorial.
+This sample dataset is intended solely for instructional use in the [DKUL's Gephi tutorial](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/Gephi/Gephi%20for%20Network%20Analysis.md).
+
+---
 
 ## Archive Format
 The file is provided in a CSV format: edges.csv
