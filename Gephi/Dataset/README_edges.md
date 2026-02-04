@@ -25,9 +25,9 @@ Comma-separated values (CSV) with the following columns:
 
 ---
 
-## Data Dictionary:
+## Data Dictionary
 
-### Edge Types:
+### Edge Types
 - **Family Member**: Blood or marital relationships
 - **Partner & Colleague**: Professional partnerships and collaborations
 - **Enemy**: Antagonistic relationships
@@ -35,9 +35,15 @@ Comma-separated values (CSV) with the following columns:
 - **Landlady & Tenant**: Residential arrangements
 - **Mastermind & Henchman**: Criminal hierarchy relationships
 
-### Weight Scale:
+### Weight Scale
 - **1**: Very weak connection
 - **2**: Weak connection
 - **3**: Moderate connection
 - **4**: Strong connection
 - **5**: Very strong connection
+
+## Notes on Use
+This sample dataset is intended solely for instructional use in the Gephi Tutorial.
+
+## Archive Format
+The file is provided in a CSV format: edges.csv
