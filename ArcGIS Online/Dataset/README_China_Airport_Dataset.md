@@ -39,7 +39,7 @@ Some fields may be empty where data is unavailable.
 ---
 
 ## Notes on Use
-This sample dataset is intended solely for instructional use in the [DKUL's ArcGIS Online tutorial]().
+This sample dataset is intended solely for instructional use in the [DKUL's ArcGIS Online tutorial](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS%20Online/ArcGIS%20Online%20for%20Mapping%20Data%20and%20Spatial%20Analysis.md).
 
 ---
 
