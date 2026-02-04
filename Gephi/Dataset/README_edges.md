@@ -13,6 +13,11 @@ Compiled by the Data and Visualization Librarian from the Sherlock Holmes series
 
 ---
 
+## File
+[nodes.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/Gephi/Dataset/nodes.csv)
+
+---
+
 ## Attributes
 
 | Column | Description |
@@ -31,4 +36,4 @@ This sample dataset is intended solely for instructional use in the [DKUL's Geph
 ---
 
 ## Archive Format
-The file is provided in a CSV format: edges.csv
+The file is provided in a CSV format.
