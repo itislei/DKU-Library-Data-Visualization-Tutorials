@@ -89,7 +89,7 @@ We will use NVivo 14 in this tutorial. Visit the [Qualitative Data Analysis guid
 
 ## Setup
 
-Follow the instructions in [Downloading, Installing and Licensing NVivo 14](https://library.dukekunshan.edu.cn/qualitative-data-analysis/) to download, install and activate NVivo 14 Mac version on your computer.
+Follow the instructions in [Downloading, Installing and Licensing NVivo 14](https://library.dukekunshan.edu.cn/downloading-installing-and-licensing-nvivo-14/) to download, install and activate NVivo 14 Mac version on your computer.
 
 ## Dataset
 
