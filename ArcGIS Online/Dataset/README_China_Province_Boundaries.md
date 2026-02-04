@@ -1,7 +1,7 @@
 # README
 
 ## Dataset:
-"China Province Boundaries (Vector Data)"
+China Province Boundaries
 
 ### Description:
 This dataset contains the administrative boundaries of Chinese provinces, autonomous regions, municipalities, and special administrative regions in ESRI shapefile format.
@@ -9,22 +9,12 @@ This dataset contains the administrative boundaries of Chinese provinces, autono
 ---
 
 ## Data Source:
-CnOpenData
+Original dataset: CnOpenData, 中国行政区划shp数据. Available via CnOpenData: https://www.cnopendata.com/data/chinese-administrative-divisions-shp.html
 
 ---
 
-## Data Format:
-Zipped shapefile bundle (`China_Province_Boundaries.zip`) containing:
-- `.shp` (geometry)
-- `.shx` (index)
-- `.dbf` (attributes)
-- `.prj` (coordinate system)
-- `.cpg` (character encoding)
-
----
-
-## Attribute Table Fields:
-| Field Name      | Description                                      |
+## Attributes
+| Attributes      | Description                                      |
 |-----------------|--------------------------------------------------|
 | PROV_EN         | Province name in English                         |
 | PROV_CN         | Province name in Chinese                         |
@@ -42,13 +32,22 @@ Zipped shapefile bundle (`China_Province_Boundaries.zip`) containing:
 
 ---
 
-## Use Cases:
-- Thematic mapping
-- Administrative analysis
-- Regional planning
-- Cartographic visualization
+## File
+`China_Province_Boundaries.zip`
 
 ---
 
-## File:
-`China_Province_Boundaries.zip`
+## Notes on Use
+This sample dataset is intended solely for instructional use in the [DKUL's ArcGIS Online tutorial](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS%20Online/ArcGIS%20Online%20for%20Mapping%20Data%20and%20Spatial%20Analysis.md).
+
+---
+
+## Citation Request
+
+If using this dataset, please cite the [original dataset from CnOpenData](https://www.cnopendata.com/data/chinese-administrative-divisions-shp.html)
+
+---
+
+## Archive Format
+The file is provided in a ZIP format: China_Province_Boundaries.zip
+
