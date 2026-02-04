@@ -8,7 +8,7 @@ This dataset contains edge (relationship) data for a character network from the 
 
 ---
 
-## Data Sources
+## Data Source
 Compiled by the Data and Visualization Librarian from the Sherlock Holmes series, including novels and films.
 
 ---
