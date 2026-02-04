@@ -8,7 +8,7 @@ This dataset contains node-level (character) data for a Sherlock Holmes characte
 
 ---
 
-## Data Sources
+## Data Source
 Compiled by the Data and Visualization Librarian from the Sherlock Holmes series, including novels and films.
 
 ---
@@ -30,5 +30,5 @@ This sample dataset is intended solely for instructional use in the [DKUL's Geph
 
 ---
 
-##Archive Format:
+## Archive Format
 The file is provided in a CSV format: nodes.csv
