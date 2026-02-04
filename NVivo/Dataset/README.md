@@ -14,7 +14,12 @@ Original dataset: U.S. Environmental Protection Agency. _Data Center Energy Effi
 
 ---
 
-## Files Inventory
+# File
+[Sample_Dataset](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/NVivo/Dataset/Sample_Dataset.zip)
+
+---
+
+## File Inventory
 
 | Original File                                          | Renamed File                    |
 |--------------------------------------------------------|---------------------------------|
