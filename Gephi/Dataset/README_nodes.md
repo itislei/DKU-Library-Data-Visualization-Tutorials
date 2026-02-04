@@ -13,6 +13,11 @@ Compiled by the Data and Visualization Librarian from the Sherlock Holmes series
 
 ---
 
+## File
+[nodes.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/Gephi/Dataset/nodes.csv)
+
+---
+
 ## Attributes
 
 | Column | Description |
@@ -22,11 +27,6 @@ Compiled by the Data and Visualization Librarian from the Sherlock Holmes series
 | Role | Character's role or occupation |
 | Role Type | Character classification in narrative |
 | Citizenship | Character's nationality |
-
----
-
-## File
-[nodes.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/Gephi/Dataset/nodes.csv)
 
 ---
 
