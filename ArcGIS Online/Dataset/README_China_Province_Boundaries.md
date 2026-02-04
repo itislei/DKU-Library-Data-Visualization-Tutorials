@@ -3,6 +3,8 @@
 ## Title
 China Province Boundaries
 
+---
+
 ### Description
 This dataset contains the administrative boundaries of Chinese provinces, autonomous regions, municipalities, and special administrative regions in ESRI shapefile format. The original file is named in Chinese and was sourced from CnOpenData, and the sample dataset renamed to 'China Province Boundaries'.
 
@@ -10,6 +12,11 @@ This dataset contains the administrative boundaries of Chinese provinces, autono
 
 ## Data Source
 Original dataset: CnOpenData, 中国行政区划shp数据. Available via CnOpenData: https://www.cnopendata.com/data/chinese-administrative-divisions-shp.html
+
+---
+
+## File
+[China_Province_Boundaries.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS%20Online/Dataset/China%20Province%20Boundaries.zip)
 
 ---
 
@@ -29,11 +36,6 @@ Original dataset: CnOpenData, 中国行政区划shp数据. Available via CnOpenD
 ## Coordinate System
 - **Projection**: WGS 84 / Pseudo-Mercator (EPSG:3857) or Geographic (EPSG:4326)
 - **Units**: Decimal degrees or meters depending on projection.
-
----
-
-## File
-[China_Province_Boundaries.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS%20Online/Dataset/China%20Province%20Boundaries.zip)
 
 ---
 
