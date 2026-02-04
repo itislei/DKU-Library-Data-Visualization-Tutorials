@@ -33,6 +33,8 @@ Original dataset: CnOpenData. 中国机场数据. Available via CnOpenData: [htt
 | BuiltYear         | Year of construction/opening                                                |
 | BuiltMonth        | Month of construction/opening                                               |
 
+---
+
 ## Notes
 Some fields may be empty where data is unavailable.
 
