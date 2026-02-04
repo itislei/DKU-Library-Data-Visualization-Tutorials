@@ -1,21 +1,16 @@
 # README
 
-## Dataset:
-"China Airport Dataset with Geospatial Coordinates, 2024"
+## Title
+China_Airport_Dataset
 
-### Description:
+### Description
 This dataset contains 200+ airports, airstrips, and general aviation fields in China, with detailed geospatial, administrative, and operational information.
 
 ---
 
-## Reference:
+## Data Sources
 Compiled from public aviation sources and official records. Data includes airports in mainland China, Hong Kong, Macao, and Taiwan.
-
----
-
-## Source:
 CnOpenData
----
 
 ## Data Format:
 CSV file with the following columns:
@@ -40,7 +35,7 @@ CSV file with the following columns:
 
 ---
 
-## Data Dictionary:
+## Data Dictionary
 - **Name_EN / Name_CN**: Official name of the airport in English and Chinese.
 - **LAT / LNG**: Geographic coordinates suitable for mapping and GIS applications.
 - **Address_EN / Address_CN**: Physical location of the airport.
@@ -50,12 +45,17 @@ CSV file with the following columns:
 
 ---
 
-## Notes:
+## Notes
 - Some fields may be empty where data is unavailable.
 - Coordinates are approximate and intended for general mapping.
 - Data includes civilian, military, and general aviation facilities.
 
 ---
 
-## File:
-`China Airport Dataset.csv`
+## Notes on Use
+This sample dataset is intended solely for instructional use in the ArcGIS Online tutorial.
+
+---
+
+## Archive Format
+The file is provided in a CSV format: China Airport Dataset.csv
