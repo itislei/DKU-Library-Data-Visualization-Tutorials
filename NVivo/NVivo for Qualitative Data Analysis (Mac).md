@@ -544,7 +544,7 @@ NVivo allows analyzing visual data by selecting and coding specific areas within
 
 # Audio & Video Coding
 
-NVivo allows the import and analysis of audio and video files through coding specific time segments within those recordings. Please note that the **Transcription** feature in NVivo is not included in our software license; however, transcription can be done using alternative tools such as the **Dictate** feature in Microsoft Word.
+NVivo allows the import and analysis of audio and video files through coding specific time segments within those recordings. Please note that the **Transcription** feature in NVivo is not included in our software license; however, transcription can be done using alternative tools such as the **Dictate** feature in Microsoft Word. Starting from this part, we will use the sample project in NVivo. Data in this sample project is drawn from a two-year research study (2008-2009) undertaken by researchers from the Duke University Nicholas School of the Environment at the Duke Marine Laboratory in Beaufort, N.C. The study documented community perceptions of development and land-use change on coastal communities in the Down East area of Carteret County, North Carolina, USA.
 
 1. Go to the **File** menu in the top toolbar and click on **Create Copy of Sample Project**. We will use this sample project for the rest of the workshop.
 
