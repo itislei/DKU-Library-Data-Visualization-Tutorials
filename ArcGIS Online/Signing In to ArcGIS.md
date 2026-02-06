@@ -1,6 +1,6 @@
 # Signing In to ArcGIS
 
-This guide provides instructions for signing in ArcGIS Online using your Duke NetID. ArcGIS Online is a web-based mapping system compatible with Windows, macOS, and Linux systems. [file:1]
+This guide provides instructions for signing in ArcGIS Online using your Duke NetID. ArcGIS Online is a web-based mapping system compatible with Windows, macOS, and Linux systems.
 
 ## Table of Contents
 
