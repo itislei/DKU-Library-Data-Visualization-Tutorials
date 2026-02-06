@@ -4,15 +4,15 @@ This guide provides instructions for downloading, installing, accessing and lice
 
 Please note that ArcGIS Pro is available only for Windows currently. If you are using a Mac, check the solutions from [here](https://www.google.com/url?q=https://pro.arcgis.com/en/pro-app/latest/get-started/run-pro-on-a-mac.htm&sa=D&source=editors&ust=1770261833995401&usg=AOvVaw3-vDWL4T9BApMJ5i3rvJlE).
 
-[Signing in ArcGIS](#h.t4fdu5bc38rs)
+[Signing in ArcGIS](#signing-in-arcgis)
 
-[Downloading ArcGIS Pro](#h.lt3m5rnicdju)
+[Downloading ArcGIS Pro](#downloading-arcgis-pro)
 
-[Installing ArcGIS Pro](#h.j49dmh3ksbxc)
+[Installing ArcGIS Pro](#installing-arcgis-pro)
 
-[Accessing and Licensing using NetID​](#h.vwuy1bp1vyt)
+[Accessing and Licensing using NetID​](#accessing-and-licensing-using-netid)
 
-[Troubleshooting](#h.34z86qbqkyph)
+[Troubleshooting](#troubleshooting)
 
 Signing in ArcGIS
 =================
