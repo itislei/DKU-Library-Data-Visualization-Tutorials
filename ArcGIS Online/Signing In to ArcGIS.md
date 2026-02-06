@@ -4,9 +4,9 @@ This guide provides instructions for signing in ArcGIS Online using your Duke Ne
 
 ## Table of Contents
 
-1. Signing in using NetID(signing-in-using-netid)  
-2. Learning Resources(learning-resources)  
-3. Troubleshooting(troubleshooting)  
+1. [Signing in using NetID](#signing-in-using-netid)  
+2. [Learning Resources](#learning-resources)  
+3. [Troubleshooting](#troubleshooting)  
 
 ## Signing in using NetID
 
