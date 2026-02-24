@@ -90,8 +90,8 @@ ArcGIS Online will be used in the tutorial. Visit the [GIS guide](https://librar
 
 The sample datasets are derived from [CnOpenData](https://www.cnopendata.com/) and have been cleaned for the purpose of demonstration. Download the sample datasets below:
 
-* [China Airport.csv](https://duke.box.com/shared/static/ycwqlrka3797epk9m0p3svmsocj8fj3c.csv)  
-* [China Province Boundary.zip](https://duke.box.com/s/7e2ksv0f7gw156wit9zjxw0stwxo59ws)
+* [China Airport.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS/ArcGIS%20Online/Dataset/China%20Airport%20Dataset.csv)  
+* [China Province Boundaries.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS/ArcGIS%20Online/Dataset/China%20Province%20Boundaries.zip)
 
 ## What is “spatial analysis” and “geoprocessing”?
 
@@ -177,7 +177,7 @@ ArcGIS Online supports importing data from structured table formats such as comm
 
 ### Structured Table Dataset
 
-[China Airport.csv](https://duke.box.com/shared/static/ycwqlrka3797epk9m0p3svmsocj8fj3c.csv) is a data table containing information about every airport in China, including their names, addresses, coordinates, and year of construction. Let’s map this data on the map\! Before we begin, make sure you have downloaded the file to your computer.
+[China Airport Dataset.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS/ArcGIS%20Online/Dataset/China%20Airport%20Dataset.csv) is a data table containing information about every airport in China, including their names, addresses, coordinates, and year of construction. Let’s map this data on the map\! Before we begin, make sure you have downloaded the file to your computer.
 
 
 
@@ -247,7 +247,7 @@ ArcGIS Online supports importing data from structured table formats such as comm
 
 A shapefile is one of the most common geospatial data formats used in GIS, which stores geographic features (such as points, lines, or polygons) along with their associated attributes. Despite its name, a shapefile is actually a collection of several related files (e.g., .shp, .shx, .dbf) that must stay together for the data to function properly. ArcGIS Online can only read a shapefile directly from a zipped folder, which is why you should upload the .zip file without unzipping it.
 
-[China Province Boundary.zip](https://duke.box.com/s/7e2ksv0f7gw156wit9zjxw0stwxo59ws) is a compressed folder containing a shapefile and its supporting files. It provides provincial-level boundary data for China, with each province represented as a polygon. Let’s add this data to the map\! Before we begin, make sure you have downloaded the file to your computer, and **do not** unzip it.
+[China Province Boundaries.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS/ArcGIS%20Online/Dataset/China%20Province%20Boundaries.zip) is a compressed folder containing a shapefile and its supporting files. It provides provincial-level boundary data for China, with each province represented as a polygon. Let’s add this data to the map\! Before we begin, make sure you have downloaded the file to your computer, and **do not** unzip it.
 
 
 
