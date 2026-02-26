@@ -74,9 +74,10 @@ While ArcGIS Online supports a variety of export formats, public accounts only s
 
 5\. A new item page will open. On the **Overview** tab, click **Download** to save the file in the local computer.
 
-![Click 'Download' under the Overview tab][image4]
+<img width="369" height="309" alt="image4" src="https://github.com/user-attachments/assets/8e3cd3c5-8772-4fe7-847a-693fc529537a" />
 
-### **Exporting Data using Extra Data tool** {#exporting-data-using-extra-data-tool}
+
+### **Exporting Data using Extra Data tool**
 
 1\. Go to **Content** tab, navigate and click on a map item to start.
 
@@ -84,17 +85,15 @@ While ArcGIS Online supports a variety of export formats, public accounts only s
 
 3\. In the menu in the toolbar on the right, click **Analysis** icon, select **Extract Data** under **Manage data**.
 
-![Find 'Extract Data' under 'Analysis' tab, and 'Manage data' category][image5]
+<img width="421" height="301" alt="image8" src="https://github.com/user-attachments/assets/7e7f557f-e2f6-40ec-b5af-53bea71d1beb" />
 
- 
 
 4\. For **Input layer**, select the desired layer or layers. You can choose multiple layers here.
 
 5\. For **Result layer**, specify the output data format, output name, and location.
 
-![Setting parameters for the output][image6]
+<img width="365" height="351" alt="image12" src="https://github.com/user-attachments/assets/0dbf9e0b-b07e-4994-b4b7-39348b8ed52c" />
 
- 
 
 6\. Click **Estimate Credits** to check if you have enough credits. To view your remaining credits, click your profile in the top right corner, go to **My Settings**, and then select **Credits**. If you don’t have enough credits to run the tool, please contact the DKU library.
 
@@ -102,55 +101,54 @@ While ArcGIS Online supports a variety of export formats, public accounts only s
 
 8\. Go to **History** tab to check the processing statues and output.
 
-![Geoprocessing statues is under 'History'][image7]
+<img width="380" height="151" alt="image9" src="https://github.com/user-attachments/assets/9b80f5ed-869a-44bd-9bd4-d528771327ba" />
 
- 
 
 9\. Once the task is completed, click on the task record. In the open tab, click the three-dot icon and select **Open Item details**.
 
-![In the open tab, click the three-dot icon next to the extracted item, then click 'Open item details'][image8]
+<img width="645" height="280" alt="image5" src="https://github.com/user-attachments/assets/28088975-b3bd-4786-84f3-1bf7fcdea527" />
+
 
 10\. A new item page will open. On the **Overview** tab, click **Download** to save the file in the local computer.
 
-![Click 'Download' under the Overview tab][image9]
+<img width="369" height="309" alt="image4" src="https://github.com/user-attachments/assets/ac5949d3-08aa-4fee-85cd-65b2ff3674df" />
 
-### **Uploading Data to Public Account** {#uploading-data-to-public-account}
+
+### **Uploading Data to Public Account**
 
 1\. If you don’t have an ArcGIS Online public account, use this [link](https://www.arcgis.com/sharing/rest/oauth2/signup?client_id=arcgisonline&redirect_uri=http://www.arcgis.com&response_type=token) to create one.
 
 2\. Log in to your [ArcGIS Online public account](https://www.arcgis.com/sharing/oauth2/authorize?client_id=arcgisonline&response_type=code&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fwww.arcgis.com%22%2C%22uid%22%3A%22Eae4_LWCvrMN4HneelAeKdOsBBEPtvoRlAZMJG33ecw%22%2C%22useLandingPage%22%3Atrue%2C%22clientId%22%3A%22arcgisonline%22%7D&expiration=20160&locale=en-us&redirect_uri=https%3A%2F%2Fwww.arcgis.com%2Fhome%2Faccountswitcher-callback.html&force_login=true&redirectToUserOrgUrl=true&code_challenge=G5qu2wdtERhd8NB7wWeVriyIZeRVm6Aqu1YTsKbDJ64&code_challenge_method=S256&display=default&hideCancel=true&showSignupOption=true&canHandleCrossOrgSignIn=true&signuptype=esri&allow_verification=true) using your ArcGIS login credentials.
 
-![Login to public account using username and password][image10]
-
- 
+<img width="457" height="638" alt="image1" src="https://github.com/user-attachments/assets/114aa7bf-26fb-42fd-acc3-1beed3041024" />
 
 3\. Click on the **Map** tab to open the **Map Viewer**.
 
-![Go to 'Map' from the top menu][image11]
-
- 
+<img width="1311" height="312" alt="image11" src="https://github.com/user-attachments/assets/2dc64a1b-1fb3-4547-9611-15b6fe9a8ef9" />
 
 4\. Click **Add** from the left menu, select **Add layer from file**.
 
-![Select 'Add' from the left toolbar, then select 'Add layer from file'][image12]
+<img width="443" height="247" alt="image10" src="https://github.com/user-attachments/assets/d02389aa-578e-4986-8f1d-100f5f975c1c" />
 
- 
 
 5\. Choose the file from your device, click **Open**, click **Create and add to map**.
 
-![Open the exported file from your local device][image13]
+<img width="818" height="400" alt="image2" src="https://github.com/user-attachments/assets/69b7a8dd-5ed5-41f3-be3b-4ff852cd4ca5" />
+
 
 6\. From the left menu, click **Save and open**, then **Save as**.
 
-![Select 'Save and open' from the left toolbar, then select 'Save as'][image14]
+<img width="311" height="164" alt="image14" src="https://github.com/user-attachments/assets/950d83ea-1977-40e8-bc25-8ca63a5dfd94" />
+
 
 7\. Fill out the title and click **Save**.
 
-![Enter the name for the project, then click 'Save' to save the project][image15]
+<img width="511" height="532" alt="image3" src="https://github.com/user-attachments/assets/66b27a3b-b77f-49ce-9a81-e37f84d84c39" />
+
 
 8\. The project is now successfully transferred and saved in your ArcGIS Online public account.
 
-### **Learning More** {#learning-more}
+### **Learning More**
 
 If you are interested in learning more about preserving GIS projects, transferring data from ArcGIS Online, or continuing your mapping projects using free GIS tools, consider exploring the following resources:
 
