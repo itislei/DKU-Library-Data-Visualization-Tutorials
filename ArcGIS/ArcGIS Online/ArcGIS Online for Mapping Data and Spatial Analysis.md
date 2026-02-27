@@ -183,63 +183,63 @@ ArcGIS Online supports importing data from structured table formats such as comm
 
 1. Go to the contents toolbar, select **Add**, then **Add layer from file**.
 
-<img width="236" height="249" alt="image72" src="https://github.com/user-attachments/assets/9ad6151d-955f-4971-9538-eba556ea71c4" />
+<p align="center"><img width="472" height="498" alt="image72" src="https://github.com/user-attachments/assets/9ad6151d-955f-4971-9538-eba556ea71c4" /></p>
 
 
 
 
 2. Click **Your device** button, then select **China Airport Dataset.csv** file (downloaded from the setup files) from its saved location and click **Open**. Alternatively, drag and drop the file into the pop-up window.
 
-<img width="800" height="679" alt="image11" src="https://github.com/user-attachments/assets/3c58feaf-daaa-4c91-868d-9e077eb43c56" />
+<p align="center"><img width="800" height="679" alt="image11" src="https://github.com/user-attachments/assets/3c58feaf-daaa-4c91-868d-9e077eb43c56" /></p>
 
 
 
 
 3. Select **Create a hosted feature layer and add it to the map**, click **Next**.
 
-<img width="700" height="637" alt="image37" src="https://github.com/user-attachments/assets/ef335169-f8b3-40ec-9ed2-bfa7d3c29e5a" />
+<p align="center"><img width="700" height="637" alt="image37" src="https://github.com/user-attachments/assets/ef335169-f8b3-40ec-9ed2-bfa7d3c29e5a" /></p>
 
 
 
 
 4. Confirm data type for each variable, and click **Next**.
 
-<img width="700" height="559" alt="image" src="https://github.com/user-attachments/assets/eae04bb4-85e5-48e8-8fcb-2b4d3ca91fd2" />
+<p align="center"><img width="700" height="559" alt="image" src="https://github.com/user-attachments/assets/eae04bb4-85e5-48e8-8fcb-2b4d3ca91fd2" /></p>
 
 
 
 
 5. Click the arrow icon to expand the options, select **Latitude and longtitude**, click **Next**.
 
-<img width="700" height="561" alt="image" src="https://github.com/user-attachments/assets/2a25427c-2e0b-43d6-94af-8c1ffd51691d" />
+<p align="center"><img width="700" height="561" alt="image" src="https://github.com/user-attachments/assets/2a25427c-2e0b-43d6-94af-8c1ffd51691d" /></p>
 
 
 
 
 6. Open the dropdown, then select **LAT** for the “Latitude” field and **LNG** for the “Longitude” field, click **Next**.
 
-<img width="700" height="564" alt="image" src="https://github.com/user-attachments/assets/c1796a19-e0bc-4251-871a-5ccd89607f5e" />
+<p align="center"><img width="700" height="564" alt="image" src="https://github.com/user-attachments/assets/c1796a19-e0bc-4251-871a-5ccd89607f5e" /></p>
 
 
 
 
 7. Name the new layer as **China Airport Dataset**, then click **Create and add to map**.
 
-<img width="700" height="561" alt="image" src="https://github.com/user-attachments/assets/8986e596-025f-42fe-b786-034251b70d37" />
+<p align="center"><img width="700" height="561" alt="image" src="https://github.com/user-attachments/assets/8986e596-025f-42fe-b786-034251b70d37" /></p>
 
 
 
 
 8. A map layer with all airport data points in China has been added to your map\!
 
-<img width="700" height="636" alt="image" src="https://github.com/user-attachments/assets/ffeac3d1-2354-4119-8f59-7deffda683cb" />
+<p align="center"><img width="700" height="636" alt="image" src="https://github.com/user-attachments/assets/ffeac3d1-2354-4119-8f59-7deffda683cb" /></p>
 
 
 
 
 9. Go to **Layers** in the contents toolbar to check the items that have been added to the project.
 
-<img width="400" height="283" alt="image" src="https://github.com/user-attachments/assets/00407b26-6ea4-4d3e-bf2e-12e7989f350c" />
+<p align="center"><img width="666" height="471" alt="image" src="https://github.com/user-attachments/assets/00407b26-6ea4-4d3e-bf2e-12e7989f350c" /></p>
 
 
 
@@ -253,49 +253,49 @@ A shapefile is one of the most common geospatial data formats used in GIS, which
 
 1. After download, go to the contents toolbar, select **Add** \> **Add layer from file**.
 
-<img width="200" height="411" alt="image" src="https://github.com/user-attachments/assets/04f54bc4-d2ca-4859-adaf-6d9b3715be36" />
+<p align="center"><img width="400" height="822" alt="image" src="https://github.com/user-attachments/assets/04f54bc4-d2ca-4859-adaf-6d9b3715be36" /></p>
 
 
 
 
 2. Select **Your device** option, then locate and click on the **China Province Boundaries.zip** file (downloaded from the setup files) from its saved location and click **Open**. Alternatively, drag and drop the file into the pop-up window. Click **Next** to continue.
 
-<img width="700" height="363" alt="image" src="https://github.com/user-attachments/assets/00916077-9fe7-464e-ae3d-48cad66acec4" />
+<p align="center"><img width="700" height="363" alt="image" src="https://github.com/user-attachments/assets/00916077-9fe7-464e-ae3d-48cad66acec4" /></p>
 
 
 
 
 3. Make sure “Shapefile” is selected, then click **Next**.
 
-<img width="700" height="366" alt="image" src="https://github.com/user-attachments/assets/e9d612f7-048a-484d-8a0b-2f5d6ac0160c" />
+<p align="center"><img width="700" height="366" alt="image" src="https://github.com/user-attachments/assets/e9d612f7-048a-484d-8a0b-2f5d6ac0160c" /></p>
 
 
 
 
 4. Name the new layer as **China Province Boundaries**, then click **Create and add to map**.
 
-<img width="700" height="367" alt="image" src="https://github.com/user-attachments/assets/f24586b3-6869-424b-9f0c-fe33ec91365b" />
+<p align="center"><img width="700" height="367" alt="image" src="https://github.com/user-attachments/assets/f24586b3-6869-424b-9f0c-fe33ec91365b" /></p>
 
 
 
 
 5. It may take a moment to process. Once completed, a new layer named **China Province Boundaries** will appear in the **Layers** panel. Locate the **China Province Boundaries** layer, click the ellipsis (3-dot) icon next to it, and select **Zoom to layer**.
 
-<img width="300" height="202" alt="image" src="https://github.com/user-attachments/assets/7eb921d3-5f96-44e6-b6b5-11246df15ab0" />
+<p align="center"><img width="600" height="404" alt="image" src="https://github.com/user-attachments/assets/7eb921d3-5f96-44e6-b6b5-11246df15ab0" /></p>
 
 
 
 
 6. This will automatically zoom to the area where your data is displayed on the map.
 
-<img width="400" height="395" alt="image" src="https://github.com/user-attachments/assets/23cdf9d3-8a81-4413-a1b8-51bbf8197ae1" />
+<p align="center"><img width="800" height="790" alt="image" src="https://github.com/user-attachments/assets/23cdf9d3-8a81-4413-a1b8-51bbf8197ae1" /></p>
 
 
 
 
 7. Go back to the **Layers** panel, and click the eye icon to hide the **China Province Boundaries** layer for now.
 
-<img width="400" height="158" alt="image" src="https://github.com/user-attachments/assets/7ae2e6bb-0ceb-4006-b68b-07984f643b0f" />
+<p align="center"><img width="800" height="316" alt="image" src="https://github.com/user-attachments/assets/7ae2e6bb-0ceb-4006-b68b-07984f643b0f" /></p>
 
 
 
