@@ -252,32 +252,32 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 1. The left toolbar provides editing tools for modifying the visuals of the nodes and edges in the graph. We will only cover some of the tools here, but it is encouraging to explore and try them on your own after the tutorial.
 
-<p align="center"><img width="708" height="764" alt="image" src="https://github.com/user-attachments/assets/e7d7ce47-5b58-4678-be09-ec7be4c4dfa8" /></p>
+<p align="center"><img width="472" height="510" alt="image" src="https://github.com/user-attachments/assets/e7d7ce47-5b58-4678-be09-ec7be4c4dfa8" /></p>
 
 
 2. Click on the **Rectangle selection** icon on the left toolbar. 
 
-<p align="center"><img width="511" height="1113" alt="image" src="https://github.com/user-attachments/assets/1bce6506-7974-4a9a-8550-a5c2439029c8" /></p>
+<p align="center"><img width="228" height="495" alt="image" src="https://github.com/user-attachments/assets/1bce6506-7974-4a9a-8550-a5c2439029c8" /></p>
 
 
 3. Click and drag to draw a square that selects all the imported items.
 
-<p align="center"><img width="979" height="667" alt="image" src="https://github.com/user-attachments/assets/fc679c9d-4508-4bc0-bb24-91cdfd4db909" /></p>
+<p align="center"><img width="490" height="334" alt="image" src="https://github.com/user-attachments/assets/fc679c9d-4508-4bc0-bb24-91cdfd4db909" /></p>
 
 
 4. Select the Size icon in the toolbar.
 
-<p align="center"><img width="380" height="1250" alt="image" src="https://github.com/user-attachments/assets/c14e3876-0638-401f-86ed-5e91f6dabac7" /></p>
+<p align="center"><img width="190" height="625" alt="image" src="https://github.com/user-attachments/assets/c14e3876-0638-401f-86ed-5e91f6dabac7" /></p>
 
 
 5. Click anywhere on the canvas, then drag the mouse vertically to adjust the node size. Click again to confirm the change. The updated size value will appear in the top-right corner.
 
-<p align="center"><img width="975" height="665" alt="image" src="https://github.com/user-attachments/assets/27553b86-829d-46e4-85da-939a2a02ba7b" /></p>
+<p align="center"><img width="650" height="444" alt="image" src="https://github.com/user-attachments/assets/27553b86-829d-46e4-85da-939a2a02ba7b" /></p>
 
 
 6. Now, select the **Direct selection** icon and **Painter** icon in the toolbar. 
 
-<p align="center"><img width="292" height="1232" alt="image" src="https://github.com/user-attachments/assets/feae4ec4-7808-4890-aa12-fe9239a8c646" /></p>
+<p align="center"><img width="98" height="410" alt="image" src="https://github.com/user-attachments/assets/feae4ec4-7808-4890-aa12-fe9239a8c646" /></p>
 
 
 7. Click on any node to apply a color to it.
@@ -736,6 +736,7 @@ There are multiple ways to export a project from Gephi. You can export the graph
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)  
 * [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets)  
 * [Network Datasets](http://networkrepository.com/networks.php)
+
 
 
 
