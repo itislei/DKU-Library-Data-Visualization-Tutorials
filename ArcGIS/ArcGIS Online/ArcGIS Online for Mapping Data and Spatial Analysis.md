@@ -117,7 +117,7 @@ Follow the instructions in [Signing in to ArcGIS Online](https://library.dukekun
 
 1. Once you successfully sign in to ArcGIS Online, you will see the view shown below. To start creating a map, go to the **Map** tab in the main menu — this opens a new map view where you can begin a new map project.
 
-<img width="800" height="414" alt="image115" src="https://github.com/user-attachments/assets/2e889907-58c4-4079-91d0-db442a9bd495" />
+<p align="center"><img width="800" height="414" alt="image115" src="https://github.com/user-attachments/assets/2e889907-58c4-4079-91d0-db442a9bd495" /></p>
 
 
 
@@ -128,7 +128,7 @@ Follow the instructions in [Signing in to ArcGIS Online](https://library.dukekun
    3) Viewing and Search toolbar
  
 
-<img width="800" height="786" alt="image91" src="https://github.com/user-attachments/assets/36fb5336-9e70-46d2-b4f4-495d2e14154f" />
+<p align="center"><img width="800" height="786" alt="image91" src="https://github.com/user-attachments/assets/36fb5336-9e70-46d2-b4f4-495d2e14154f" /></p>
 
 
 
@@ -143,28 +143,28 @@ Follow the instructions in [Signing in to ArcGIS Online](https://library.dukekun
      
 2. To select an alternative, navigate to the contents toolbar, select **Basemap**, and a list of available options will be displayed.
 
-<img width="300" height="595" alt="image15" src="https://github.com/user-attachments/assets/a3eadb16-0a11-4258-9950-3d3d14aecfef" />
+<p align="center"><img width="600" height="1190" alt="image15" src="https://github.com/user-attachments/assets/a3eadb16-0a11-4258-9950-3d3d14aecfef" /></p>
 
 
 
 
 3. Scroll down and select **Light Gray Canvas**.
 
-<img width="300" height="327" alt="image34" src="https://github.com/user-attachments/assets/40f762cf-f38f-41ee-8c57-fccb0760e3a8" />
+<p align="center"><img width="600" height="654" alt="image34" src="https://github.com/user-attachments/assets/40f762cf-f38f-41ee-8c57-fccb0760e3a8" /></p>
 
 
 
 
 4. The reference system for China is not accurate. To correct this, we will create a new labeling system. First, close the current one by clicking the arrow to expand the details of the selected basemap.
 
-<img width="300" height="118" alt="image93" src="https://github.com/user-attachments/assets/094c90c6-c3e4-45d3-8c4f-a7e18664f592" />
+<p align="center"><img width="600" height="472" alt="image93" src="https://github.com/user-attachments/assets/094c90c6-c3e4-45d3-8c4f-a7e18664f592" /></p>
 
 
 
 
 5. Then, click on the eye icon next to **Light Gray Reference** to hide it.
 
-<img width="300" height="347" alt="image92" src="https://github.com/user-attachments/assets/a135738f-8f46-49ca-ac91-ea9c1bed153a" />
+<p align="center"><img width="600" height="694" alt="image92" src="https://github.com/user-attachments/assets/a135738f-8f46-49ca-ac91-ea9c1bed153a" /></p>
 
 
 
