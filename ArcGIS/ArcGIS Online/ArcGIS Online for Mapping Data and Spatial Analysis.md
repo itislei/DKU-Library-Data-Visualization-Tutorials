@@ -253,7 +253,7 @@ A shapefile is one of the most common geospatial data formats used in GIS, which
 
 1. After download, go to the contents toolbar, select **Add** \> **Add layer from file**.
 
-<p align="center"><img width="333" height="685" alt="image" src="https://github.com/user-attachments/assets/04f54bc4-d2ca-4859-adaf-6d9b3715be36" /></p>
+<p align="center"><img width="399" height="822" alt="image" src="https://github.com/user-attachments/assets/04f54bc4-d2ca-4859-adaf-6d9b3715be36" /></p>
 
 
 
@@ -306,14 +306,14 @@ Not just a tool, ArcGIS Online is also a rich source of map data, with contribut
 
 1. Go to the contents toolbar, then **Add**, **Browse layers.**
 
-<img width="300" height="235" alt="image" src="https://github.com/user-attachments/assets/8eb8bd9b-827d-4e53-903f-7df71213bde7" />
+<p align="center"><img width="461" height="361" alt="image" src="https://github.com/user-attachments/assets/8eb8bd9b-827d-4e53-903f-7df71213bde7" /></p>
 
 
 
 
 2. Switch the source from **My content** to **ArcGIS Online**.
 
-<img width="300" height="393" alt="image" src="https://github.com/user-attachments/assets/aa08206b-471e-4c21-873e-02189b9a4def" />
+<p align="center"><img width="461" height="604" alt="image" src="https://github.com/user-attachments/assets/aa08206b-471e-4c21-873e-02189b9a4def" /></p>
 
 
 
@@ -324,21 +324,21 @@ Not just a tool, ArcGIS Online is also a rich source of map data, with contribut
 
 4. Locate the item **China Province Boundaries** by Esri in the search results, click **\+ Add**.
 
-<img width="300" height="448" alt="image" src="https://github.com/user-attachments/assets/d2c866bd-08e1-4625-820a-a97eb60466a6" />
+<p align="center"><img width="450" height="672" alt="image" src="https://github.com/user-attachments/assets/d2c866bd-08e1-4625-820a-a97eb60466a6" /></p>
 
 
 
 
 5. Use the **Zoom In/Out** tool under the viewing and search toolbar to examine the data in detail.
 
-<img width="400" height="402" alt="image" src="https://github.com/user-attachments/assets/cdc0de55-ad33-4f75-9660-adac0e40129a" />
+<p align="center"><img width="480" height="482" alt="image" src="https://github.com/user-attachments/assets/cdc0de55-ad33-4f75-9660-adac0e40129a" /></p>
 
 
 
 
 6. Click **Remove** to delete the layer from your map.
 
-<img width="300" height="212" alt="image" src="https://github.com/user-attachments/assets/f0d2393d-5248-46ee-acf7-5e7a10433589" />
+<p align="center"><img width="495" height="349" alt="image" src="https://github.com/user-attachments/assets/f0d2393d-5248-46ee-acf7-5e7a10433589" /></p>
 
 
 
@@ -348,14 +348,14 @@ Not just a tool, ArcGIS Online is also a rich source of map data, with contribut
 
 1. To customize the appearance of data points, lines, or polygons on the map, first make sure that you have selected the target layer under **Layers**. A blue strip will appear on the left of the selected layer’s title.
 
-<img width="400" height="259" alt="image" src="https://github.com/user-attachments/assets/9b847049-3387-49d0-a01a-0866d52572b6" />
+<p align="center"><<img width="480" height="310" alt="image" src="https://github.com/user-attachments/assets/9b847049-3387-49d0-a01a-0866d52572b6" /></p>
 
 
 
 
 2. Then, select **Styles** under the editing toolbar and use the settings to adjust the appearance of the data points according to your preference. For best practices in selecting colors or patterns for geospatial data and maps, refer to the [Select Visualization Elements](https://library.dukekunshan.edu.cn/data-visualization/#:~:text=4.%20Select%20Visualization%20Elements) section in the [Data Visualization guide](https://library.dukekunshan.edu.cn/data-visualization/). Click **Done** when the edits are complete. 
 
-<img width="400" height="514" alt="image" src="https://github.com/user-attachments/assets/55796198-9f7c-4ffb-94e1-63320a6fb988" />
+<p align="center"><<img width="480" height="616" alt="image" src="https://github.com/user-attachments/assets/55796198-9f7c-4ffb-94e1-63320a6fb988" /></p>
 
 
 
@@ -363,14 +363,14 @@ Not just a tool, ArcGIS Online is also a rich source of map data, with contribut
 
 1. You can configure labels for a map layer. To do so, first, make sure that you have selected the target layer under **Layers**. A blue strip will appear on the left of the selected layer’s title.
 
-<img width="500" height="232" alt="image" src="https://github.com/user-attachments/assets/3bb66930-0894-4766-89ac-4166487bbdc1" />
+<p align="center"><<img width="500" height="232" alt="image" src="https://github.com/user-attachments/assets/3bb66930-0894-4766-89ac-4166487bbdc1" /></p>
 
 
 
 
 2. Next, select **Labels** under the editing toolbar to start editing. Make sure you toggle on **Enable labels** and select **Name** field as the **Label field** to show the name of each province (since we turned them off in the basemap). You can also adjust the settings to customize their look.
 
-<img width="600" height="483" alt="image" src="https://github.com/user-attachments/assets/97e32f36-04af-4f8e-bbd8-cacd60fe6864" />
+<p align="center"><<img width="600" height="483" alt="image" src="https://github.com/user-attachments/assets/97e32f36-04af-4f8e-bbd8-cacd60fe6864" /></p>
 
 
 
@@ -379,21 +379,21 @@ Not just a tool, ArcGIS Online is also a rich source of map data, with contribut
 
 1. Click on a random data point on the map — this will trigger a pop-up displaying all associated information for that specific point.
 
-<img width="600" height="568" alt="image" src="https://github.com/user-attachments/assets/3d1a6be5-f16d-4185-9591-4bd0e6b60fa2" />
+<p align="center"><<img width="600" height="568" alt="image" src="https://github.com/user-attachments/assets/3d1a6be5-f16d-4185-9591-4bd0e6b60fa2" /></p>
 
 
 
 
 2. To configure the pop-ups or edit the displayed information in the pop-up, first make sure that you have selected the target layer under **Layers**. A blue strip will appear on the left of the selected layer’s title.
 
-<img width="400" height="212" alt="image" src="https://github.com/user-attachments/assets/5206f3a3-2a2b-4494-ad89-a6d43d7032ad" />
+<p align="center"><<img width="600" height="318" alt="image" src="https://github.com/user-attachments/assets/5206f3a3-2a2b-4494-ad89-a6d43d7032ad" /></p>
 
 
 
 
 3. Next, go to **Pop-ups** under the editing toolbar to customize the content displayed.
 
-<img width="400" height="386" alt="image" src="https://github.com/user-attachments/assets/472f89c0-475b-425b-87fb-934cd9797b6b" />
+<p align="center"><<img width="600" height="579" alt="image" src="https://github.com/user-attachments/assets/472f89c0-475b-425b-87fb-934cd9797b6b" /></p>
 
 
 
@@ -404,28 +404,28 @@ ArcGIS Online does **not** save your map project automatically, so be sure to ma
 
 1. To save a new-created map project, go to the contents toolbar, click **Save and open**, then **Save as**.
 
-<img width="300" height="272" alt="image" src="https://github.com/user-attachments/assets/b0ac4aee-1f6b-427f-bc93-638c88a9e096" />
+<p align="center"><img width="450" height="408" alt="image" src="https://github.com/user-attachments/assets/b0ac4aee-1f6b-427f-bc93-638c88a9e096" /></p>
 
 
 
 
 2. Name the project as **China Airport Map Project**, add other details if needed, and click **Save**.
 
-<img width="400" height="601" alt="image" src="https://github.com/user-attachments/assets/d5680744-f35b-4442-96a6-65d04aea5fcc" />
+<p align="center"><img width="400" height="601" alt="image" src="https://github.com/user-attachments/assets/d5680744-f35b-4442-96a6-65d04aea5fcc" /></p>
 
 
 
 
 3. Click the hamburger (3-line) icon in the top left corner, then select **Content** \- this is where your saved work will be stored. You can also find it under the main menu.
 
-<img width="300" height="543" alt="image" src="https://github.com/user-attachments/assets/21f5e3fc-f1b4-41b9-88e6-387c7eae3343" />
+<p align="center"><img width="409" height="740" alt="image" src="https://github.com/user-attachments/assets/21f5e3fc-f1b4-41b9-88e6-387c7eae3343" /></p>
 
 
 
 
 4. Every time before quitting the project, go to the contents toolbar, click **Save and open**, then click **Save** to apply your changes.
 
-<img width="300" height="383" alt="image" src="https://github.com/user-attachments/assets/dae71ce6-cf11-44c3-a93e-6958a7c6e935" />
+<p align="center"><img width="450" height="574" alt="image" src="https://github.com/user-attachments/assets/dae71ce6-cf11-44c3-a93e-6958a7c6e935" /></p>
 
 
 
