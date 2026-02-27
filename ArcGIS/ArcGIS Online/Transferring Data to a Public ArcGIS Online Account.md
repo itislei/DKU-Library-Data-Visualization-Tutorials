@@ -46,7 +46,7 @@ Exported files may take some time to process and might not be fully restorable i
 * The time to export data from ArcGIS Online varies significantly depending on the size of the dataset, the internet connection, and the chosen export format. It can take anywhere from a few minutes to several hours, or even longer for large datasets.  
 * Some specialized layer types (e.g., raster layers, time-enabled layers, or certain 3D layers) may not be compatible with both tools.
 
-**Format Considerations**
+### **Format Considerations**
 
 While ArcGIS Online supports a variety of export formats, public accounts only support uploading files in CSV, KML, and GeoJSON formats. When transferring data to a public ArcGIS Online account, it is important to understand the limitations of each supported file format:
 
