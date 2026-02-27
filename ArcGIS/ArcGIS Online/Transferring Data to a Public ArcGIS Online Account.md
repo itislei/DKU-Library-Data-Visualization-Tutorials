@@ -13,7 +13,7 @@ To support the long-term preservation of ArcGIS projects for individuals who are
 
 [**Tool Limitations**](#tool-limitations)
 
-[**Format Considerations**](#heading=h.h6sv6spz5196)
+[**Format Considerations**](#format-considerations)
 
 [**Exporting Data from Item Page**](#exporting-data-from-item-page)
 
@@ -60,21 +60,21 @@ While ArcGIS Online supports a variety of export formats, public accounts only s
 
 2\. Go to **Content** tab, navigate and click on the item in **Feature layer (hosted)** format.
 
-<img width="261" height="198" alt="image13" src="https://github.com/user-attachments/assets/3e0b558a-4645-448f-aa3b-57504a2c4331" />
+<p align="center"><img width="261" height="198" alt="image13" src="https://github.com/user-attachments/assets/3e0b558a-4645-448f-aa3b-57504a2c4331" /></p>
 
 
 3\. On the layer's item details page, under the **Overview** tab, click **Export Data**, then **Export to GeoJSON**.
 
-<img width="353" height="554" alt="image7" src="https://github.com/user-attachments/assets/5e025f77-f0bf-409a-8196-81132db93a83" />
+<p align="center"><img width="353" height="554" alt="image7" src="https://github.com/user-attachments/assets/5e025f77-f0bf-409a-8196-81132db93a83" /></p>
 
 4\. Enter a title for the new file and add any other information. Then, click **Export**.
 
-<img width="357" height="548" alt="image6" src="https://github.com/user-attachments/assets/d728c92e-48d3-446b-bafa-3311af8f4547" />
+<p align="center"><img width="357" height="548" alt="image6" src="https://github.com/user-attachments/assets/d728c92e-48d3-446b-bafa-3311af8f4547" /></p>
 
 
 5\. A new item page will open. On the **Overview** tab, click **Download** to save the file in the local computer.
 
-<img width="369" height="309" alt="image4" src="https://github.com/user-attachments/assets/8e3cd3c5-8772-4fe7-847a-693fc529537a" />
+<p align="center"><img width="369" height="309" alt="image4" src="https://github.com/user-attachments/assets/8e3cd3c5-8772-4fe7-847a-693fc529537a" /></p>
 
 
 ### **Exporting Data using Extra Data tool**
@@ -85,14 +85,14 @@ While ArcGIS Online supports a variety of export formats, public accounts only s
 
 3\. In the menu in the toolbar on the right, click **Analysis** icon, select **Extract Data** under **Manage data**.
 
-<img width="421" height="301" alt="image8" src="https://github.com/user-attachments/assets/7e7f557f-e2f6-40ec-b5af-53bea71d1beb" />
+<p align="center"><img width="421" height="301" alt="image8" src="https://github.com/user-attachments/assets/7e7f557f-e2f6-40ec-b5af-53bea71d1beb" /></p>
 
 
 4\. For **Input layer**, select the desired layer or layers. You can choose multiple layers here.
 
 5\. For **Result layer**, specify the output data format, output name, and location.
 
-<img width="365" height="351" alt="image12" src="https://github.com/user-attachments/assets/0dbf9e0b-b07e-4994-b4b7-39348b8ed52c" />
+<p align="center"><img width="365" height="351" alt="image12" src="https://github.com/user-attachments/assets/0dbf9e0b-b07e-4994-b4b7-39348b8ed52c" /></p>
 
 
 6\. Click **Estimate Credits** to check if you have enough credits. To view your remaining credits, click your profile in the top right corner, go to **My Settings**, and then select **Credits**. If you don’t have enough credits to run the tool, please contact the DKU library.
@@ -101,17 +101,17 @@ While ArcGIS Online supports a variety of export formats, public accounts only s
 
 8\. Go to **History** tab to check the processing statues and output.
 
-<img width="380" height="151" alt="image9" src="https://github.com/user-attachments/assets/9b80f5ed-869a-44bd-9bd4-d528771327ba" />
+<p align="center"><img width="380" height="151" alt="image9" src="https://github.com/user-attachments/assets/9b80f5ed-869a-44bd-9bd4-d528771327ba" /></p>
 
 
 9\. Once the task is completed, click on the task record. In the open tab, click the three-dot icon and select **Open Item details**.
 
-<img width="645" height="280" alt="image5" src="https://github.com/user-attachments/assets/28088975-b3bd-4786-84f3-1bf7fcdea527" />
+<p align="center"><img width="430" height="186" alt="image5" src="https://github.com/user-attachments/assets/28088975-b3bd-4786-84f3-1bf7fcdea527" /></p>
 
 
 10\. A new item page will open. On the **Overview** tab, click **Download** to save the file in the local computer.
 
-<img width="369" height="309" alt="image4" src="https://github.com/user-attachments/assets/ac5949d3-08aa-4fee-85cd-65b2ff3674df" />
+<p align="center"><img width="369" height="309" alt="image4" src="https://github.com/user-attachments/assets/ac5949d3-08aa-4fee-85cd-65b2ff3674df" /></p>
 
 
 ### **Uploading Data to Public Account**
@@ -120,30 +120,30 @@ While ArcGIS Online supports a variety of export formats, public accounts only s
 
 2\. Log in to your [ArcGIS Online public account](https://www.arcgis.com/sharing/oauth2/authorize?client_id=arcgisonline&response_type=code&state=%7B%22portalUrl%22%3A%22https%3A%2F%2Fwww.arcgis.com%22%2C%22uid%22%3A%22Eae4_LWCvrMN4HneelAeKdOsBBEPtvoRlAZMJG33ecw%22%2C%22useLandingPage%22%3Atrue%2C%22clientId%22%3A%22arcgisonline%22%7D&expiration=20160&locale=en-us&redirect_uri=https%3A%2F%2Fwww.arcgis.com%2Fhome%2Faccountswitcher-callback.html&force_login=true&redirectToUserOrgUrl=true&code_challenge=G5qu2wdtERhd8NB7wWeVriyIZeRVm6Aqu1YTsKbDJ64&code_challenge_method=S256&display=default&hideCancel=true&showSignupOption=true&canHandleCrossOrgSignIn=true&signuptype=esri&allow_verification=true) using your ArcGIS login credentials.
 
-<img width="457" height="638" alt="image1" src="https://github.com/user-attachments/assets/114aa7bf-26fb-42fd-acc3-1beed3041024" />
+<p align="center"><img width="457" height="638" alt="image1" src="https://github.com/user-attachments/assets/114aa7bf-26fb-42fd-acc3-1beed3041024" /></p>
 
 3\. Click on the **Map** tab to open the **Map Viewer**.
 
-<img width="1311" height="312" alt="image11" src="https://github.com/user-attachments/assets/2dc64a1b-1fb3-4547-9611-15b6fe9a8ef9" />
+<p align="center"><img width="524" height="124" alt="image11" src="https://github.com/user-attachments/assets/2dc64a1b-1fb3-4547-9611-15b6fe9a8ef9" /></p>
 
 4\. Click **Add** from the left menu, select **Add layer from file**.
 
-<img width="443" height="247" alt="image10" src="https://github.com/user-attachments/assets/d02389aa-578e-4986-8f1d-100f5f975c1c" />
+<p align="center"><img width="443" height="247" alt="image10" src="https://github.com/user-attachments/assets/d02389aa-578e-4986-8f1d-100f5f975c1c" /></p>
 
 
 5\. Choose the file from your device, click **Open**, click **Create and add to map**.
 
-<img width="818" height="400" alt="image2" src="https://github.com/user-attachments/assets/69b7a8dd-5ed5-41f3-be3b-4ff852cd4ca5" />
+<p align="center"><img width="481" height="235" alt="image2" src="https://github.com/user-attachments/assets/69b7a8dd-5ed5-41f3-be3b-4ff852cd4ca5" /></p>
 
 
 6\. From the left menu, click **Save and open**, then **Save as**.
 
-<img width="311" height="164" alt="image14" src="https://github.com/user-attachments/assets/950d83ea-1977-40e8-bc25-8ca63a5dfd94" />
+<p align="center"><img width="466" height="246" alt="image14" src="https://github.com/user-attachments/assets/950d83ea-1977-40e8-bc25-8ca63a5dfd94" /></p>
 
 
 7\. Fill out the title and click **Save**.
 
-<img width="511" height="532" alt="image3" src="https://github.com/user-attachments/assets/66b27a3b-b77f-49ce-9a81-e37f84d84c39" />
+<p align="center"><img width="511" height="532" alt="image3" src="https://github.com/user-attachments/assets/66b27a3b-b77f-49ce-9a81-e37f84d84c39" /></p>
 
 
 8\. The project is now successfully transferred and saved in your ArcGIS Online public account.
