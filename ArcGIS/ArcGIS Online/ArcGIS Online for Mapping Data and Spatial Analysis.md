@@ -437,42 +437,42 @@ You can also set up a group to make your project or items visible or editable to
 
 1. Go to **Content**, then **My content**. Locate the item you want to share, and click on its title.
 
-<img width="700" height="410" alt="image" src="https://github.com/user-attachments/assets/858bc49d-92ee-4268-967a-d483ffca35e2" />
+<p align="center"><img width="559" height="327" alt="image" src="https://github.com/user-attachments/assets/858bc49d-92ee-4268-967a-d483ffca35e2" /></p>
 
 
 
 
 2. Alternatively, click on the ellipsis (3-dot) icon next to the item and select **View details**.
 
-<img width="250" height="460" alt="image" src="https://github.com/user-attachments/assets/2ef4f0a5-f32d-4628-afe7-0f31140b7fbf" />
+<p align="center"><img width="416" height="766" alt="image" src="https://github.com/user-attachments/assets/2ef4f0a5-f32d-4628-afe7-0f31140b7fbf" /></p>
 
 
 
 
 3. From the right-hand pane, click **Share** to open the sharing options.
 
-<img width="250" height="648" alt="image" src="https://github.com/user-attachments/assets/f7baeea1-00d3-415e-b828-0346c79af654" />
+<p align="center"><img width="416" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7baeea1-00d3-415e-b828-0346c79af654" /></p>
 
 
 
 
 4. Choose **Everyone (public)** under sharing options, and click **Save**.
 
-<img width="400" height="772" alt="image" src="https://github.com/user-attachments/assets/ca793e90-be83-47b1-95a5-5554a56a2f37" />
+<p align="center"><img width="480" height="926" alt="image" src="https://github.com/user-attachments/assets/ca793e90-be83-47b1-95a5-5554a56a2f37" /></p>
 
 
 
 
 5. Click **Review sharing** to check the items whose sharing permissions will be updated accordingly.
 
-<img width="500" height="321" alt="image" src="https://github.com/user-attachments/assets/a6e5e618-97ba-474c-a264-988885568a0b" />
+<p align="center"><img width="500" height="321" alt="image" src="https://github.com/user-attachments/assets/a6e5e618-97ba-474c-a264-988885568a0b" /></p>
 
 
 
 
 6. Click **Update sharing** to confirm the changes.
 
-<img width="700" height="444" alt="image" src="https://github.com/user-attachments/assets/68f38439-2bb0-4a75-aa7f-b2f92b1166ec" />
+<p align="center"><img width="538" height="341" alt="image" src="https://github.com/user-attachments/assets/68f38439-2bb0-4a75-aa7f-b2f92b1166ec" /></p>
 
 
 
@@ -487,49 +487,49 @@ For each layer created or added to a map project, you can export it as a shapefi
 
 1. Go to **Content**, then **My content**. Make sure the item you select is of the “Feature layer (hosted)” type \- otherwise, it will not support shapefile export.
 
-<img width="700" height="380" alt="image" src="https://github.com/user-attachments/assets/b269d42b-ee47-4f83-889c-677c1ac4cf0e" />
+<p align="center"><img width="583" height="456" alt="image" src="https://github.com/user-attachments/assets/b269d42b-ee47-4f83-889c-677c1ac4cf0e" /></p>
 
 
 
 
 2. Click on the ellipsis (3-dot) icon next to the item title, select **View details**. You can also do it by clicking on the item title.
 
-<img width="200" height="219" alt="image" src="https://github.com/user-attachments/assets/49c5e2b7-946e-4432-80a7-d6a4df30db55" />
+<p align="center"><img width="440" height="481" alt="image" src="https://github.com/user-attachments/assets/49c5e2b7-946e-4432-80a7-d6a4df30db55" /></p>
 
 
 
 
 3. Under the **Overview** tab, click **Export data** from the right pane.
 
-<img width="300" height="474" alt="image" src="https://github.com/user-attachments/assets/759b838b-f4b5-4901-9d15-15e4a4dcea1b" />
+<p align="center"><img width="450" height="711" alt="image" src="https://github.com/user-attachments/assets/759b838b-f4b5-4901-9d15-15e4a4dcea1b" /></p>
 
 
 
 
 4. Then, select **Export to shapefile** from the dropdown menu.
 
-<img width="300" height="414" alt="image" src="https://github.com/user-attachments/assets/10e97299-3a4e-44d4-adbb-a32cc22ff01e" />
+<p align="center"><img width="450" height="621" alt="image" src="https://github.com/user-attachments/assets/10e97299-3a4e-44d4-adbb-a32cc22ff01e" /></p>
 
 
 
 
 5. Name the new file as **China Airport Dataset**, add other details if needed, and click **Export**.
 
-<img width="400" height="706" alt="image" src="https://github.com/user-attachments/assets/dbde12b7-baf8-4cc8-83ae-861999ed29a7" />
+<p align="center"><img width="480" height="847" alt="image" src="https://github.com/user-attachments/assets/dbde12b7-baf8-4cc8-83ae-861999ed29a7" /></p>
 
 
 
 
 6. Once the export is complete, a new page will appear showing the file type as “Shapefile”. You can also find it under the **Content** tab.
 
-<img width="500" height="392" alt="image" src="https://github.com/user-attachments/assets/e6d412a4-1c1a-4b3d-9e01-166d6369e7e8" />
+<p align="center"><img width="500" height="392" alt="image" src="https://github.com/user-attachments/assets/e6d412a4-1c1a-4b3d-9e01-166d6369e7e8" /></p>
 
 
 
 
 7. Click **Download** on the right pane to save the file in your local computer.
 
-<img width="300" height="431" alt="image" src="https://github.com/user-attachments/assets/6b66da3c-c79e-4fa4-8582-ba308cc60a5c" />
+<p align="center"><img width="450" height="646" alt="image" src="https://github.com/user-attachments/assets/6b66da3c-c79e-4fa4-8582-ba308cc60a5c" /></p>
 
 
 
@@ -555,119 +555,119 @@ Since the two datasets we need to answer this question are currently separate, w
 
 1. Go to the Editing toolbar, click on **Analysis**.
 
-<img width="300" height="625" alt="image" src="https://github.com/user-attachments/assets/01159cb3-6379-4076-bf03-da1ed4218cec" />
+<p align="center"><img width="300" height="625" alt="image" src="https://github.com/user-attachments/assets/01159cb3-6379-4076-bf03-da1ed4218cec" /></p>
 
 
 
 
 2. Select **Tools**. Alternatively, click the tool icon in the header menu.
 
-<img width="300" height="586" alt="image" src="https://github.com/user-attachments/assets/b2e3f758-5824-4af1-84a1-b48cc235b0b4" />
+<p align="center"><img width="300" height="586" alt="image" src="https://github.com/user-attachments/assets/b2e3f758-5824-4af1-84a1-b48cc235b0b4" /></p>
 
 
 
 
 3. Under **Summarize data**, select **Join Features**.
 
-<img width="500" height="374" alt="image" src="https://github.com/user-attachments/assets/98f648d5-290e-4d66-b27f-872fdc6e84b6" />
+<p align="center"><img width="500" height="374" alt="image" src="https://github.com/user-attachments/assets/98f648d5-290e-4d66-b27f-872fdc6e84b6" /></p>
 
 
 
 
 4. Now, let’s configure our input and output. First, for the **Target layer**, select **China Province Boundaries** layer from the dropdown.
 
-<img width="500" height="741" alt="image" src="https://github.com/user-attachments/assets/9574d300-8100-412e-994e-5e45d12d643e" />
+<p align="center"><img width="500" height="741" alt="image" src="https://github.com/user-attachments/assets/9574d300-8100-412e-994e-5e45d12d643e" /></p>
 
 
 
 
 5. For the **Join layer**, select **China Airport Dataset** layer from the dropdown.
 
-<img width="500" height="694" alt="image" src="https://github.com/user-attachments/assets/6cd0b809-d6ab-4ce2-8405-e1f2119ba8b9" />
+<p align="center"><img width="500" height="694" alt="image" src="https://github.com/user-attachments/assets/6cd0b809-d6ab-4ce2-8405-e1f2119ba8b9" /></p>
 
 
 
 
 6. Under the **Join settings**, toggle on **Use spatial relationship**.
 
-<img width="400" height="298" alt="image" src="https://github.com/user-attachments/assets/7c1097f3-8200-4590-bbcc-df3c0ac59ca1" />
+<p align="center"><img width="400" height="298" alt="image" src="https://github.com/user-attachments/assets/7c1097f3-8200-4590-bbcc-df3c0ac59ca1" /></p>
 
 
 
 
 7. For the **Spatial relationship**, select **Completely contains** from the dropdown menu.
 
-<img width="400" height="285" alt="image" src="https://github.com/user-attachments/assets/c186f494-899f-4c4a-9a27-5806326ce205" />
+<p align="center"><img width="400" height="285" alt="image" src="https://github.com/user-attachments/assets/c186f494-899f-4c4a-9a27-5806326ce205" /></p>
 
 
 
 
 8. For the **Join operation**, select **Join one to one** from the dropdown menu.
 
-<img width="400" height="233" alt="image" src="https://github.com/user-attachments/assets/be7065a0-be6c-411a-98bf-b4146bc61aea" />
+<p align="center"><img width="400" height="233" alt="image" src="https://github.com/user-attachments/assets/be7065a0-be6c-411a-98bf-b4146bc61aea" /></p>
 
 
 
 
 9. Since we are analyzing the density of airports across provinces, we first need to calculate the number of airports in each province. Under the **Multiple matching records**, select **Calculate count only**.
 
-<img width="400" height="251" alt="image" src="https://github.com/user-attachments/assets/1b757b76-c113-47d1-b5ad-c9a0b2054029" />
+<p align="center"><img width="400" height="251" alt="image" src="https://github.com/user-attachments/assets/1b757b76-c113-47d1-b5ad-c9a0b2054029" /></p>
 
 
 
 
 10. For the **Join type**, make sure **Inner join** is highlighted.
 
-<img width="400" height="164" alt="image" src="https://github.com/user-attachments/assets/b5163a6b-9344-4248-a42f-408a16fa5cb0" />
+<p align="center"><img width="400" height="164" alt="image" src="https://github.com/user-attachments/assets/b5163a6b-9344-4248-a42f-408a16fa5cb0" /></p>
 
 
 
 
 11. Under the **Result layer**, give a name to the new layer in the **Output name** field, and select the designated folder to save the output. Note that the name should be unique across the organization no matter where you save the layer. Example: **Count of Airports in Provinces\_\[Your NetID\]**.
 
-<img width="400" height="433" alt="image" src="https://github.com/user-attachments/assets/586c18ba-3258-4bfd-b63a-ab8e78f31302" />
+<p align="center"><img width="400" height="433" alt="image" src="https://github.com/user-attachments/assets/586c18ba-3258-4bfd-b63a-ab8e78f31302" /></p>
 
 
 
 
 12. Click **Run** to start processing.
 
-<img width="400" height="215" alt="image" src="https://github.com/user-attachments/assets/cc3357da-da49-4a5a-a212-fcbd2c8960e0" />
+<p align="center"><img width="400" height="215" alt="image" src="https://github.com/user-attachments/assets/cc3357da-da49-4a5a-a212-fcbd2c8960e0" /></p>
 
 
 
 
 13. To check the progress, click on the history icon in the header menu.
 
-<img width="400" height="207" alt="image" src="https://github.com/user-attachments/assets/83ab0690-b346-4c3c-83b9-eba3cf1891eb" />
+<p align="center"><img width="400" height="207" alt="image" src="https://github.com/user-attachments/assets/83ab0690-b346-4c3c-83b9-eba3cf1891eb" /></p>
 
 
 
 
 14. Once the analysis is completed successfully, a new layer named **Count of airports in provinces** will appear in the **Layers** and the map. Let’s focus on this layer by hiding the other two layers and keep only the newly created one visible.
 
-<img width="400" height="440" alt="image" src="https://github.com/user-attachments/assets/3fc31d6a-131b-4218-8a54-a1c91acf6d9e" />
+<p align="center"><img width="400" height="440" alt="image" src="https://github.com/user-attachments/assets/3fc31d6a-131b-4218-8a54-a1c91acf6d9e" /></p>
 
 
 
 
 15. The new layer called **Count of airports in provinces** will show up in the **Layers** pane. When you click on a province polygon, the pop-up will display a new attribute called **Join\_Count**, followed by the total number of airports in the corresponding province.
 
-<img width="500" height="620" alt="image" src="https://github.com/user-attachments/assets/07cd4e6d-b500-4a1f-ab1f-d0fbfe19e4f1" />
+<p align="center"><img width="500" height="620" alt="image" src="https://github.com/user-attachments/assets/07cd4e6d-b500-4a1f-ab1f-d0fbfe19e4f1" /></p>
 
 
 
 
 16. Click the ellipsis (3-dot) icon next to **Count of airports in provinces** layer and select **Show table**.
 
-<img width="150" height="299" alt="image" src="https://github.com/user-attachments/assets/97b93e83-f182-4cfd-ba38-007f739de7dd" />
+<p align="center"><img width="150" height="299" alt="image" src="https://github.com/user-attachments/assets/97b93e83-f182-4cfd-ba38-007f739de7dd" /></p>
 
 
 
 
 17. The data table attached to this layer will appear with two new attributes named **Join\_Count** and **Admin Name**. **Join\_Count** indicates the number of airports in each corresponding province, **Admin Name** represents the administrative region used in the spatial analysis.
 
-<img width="500" height="510" alt="image" src="https://github.com/user-attachments/assets/ac35e1fc-9cbe-4733-b99d-9122d4f0d529" />
+<p align="center"><img width="500" height="510" alt="image" src="https://github.com/user-attachments/assets/ac35e1fc-9cbe-4733-b99d-9122d4f0d529" /></p>
 
 
 
@@ -681,91 +681,91 @@ To answer this, we can use the **Find by Attributes and Location** tool. This to
 
 1. Go to the Editing toolbar, click on **Analysis**.
 
-<img width="300" height="620" alt="image" src="https://github.com/user-attachments/assets/50f76682-9429-433b-a1ca-253b1daf2ea9" />
+<p align="center"><img width="300" height="620" alt="image" src="https://github.com/user-attachments/assets/50f76682-9429-433b-a1ca-253b1daf2ea9" /></p>
 
 
 
 
 2. Select **Tools**. Alternatively, click the tool icon in the header menu.
 
-<img width="300" height="606" alt="image" src="https://github.com/user-attachments/assets/60a1b648-0019-4872-bbb1-64f5f4e5a660" />
+<p align="center"><img width="300" height="606" alt="image" src="https://github.com/user-attachments/assets/60a1b648-0019-4872-bbb1-64f5f4e5a660" /></p>
 
 
 
 
 3. Under the **Find locations**, select **Find by Attributes and Location**.
 
-<img width="700" height="421" alt="image" src="https://github.com/user-attachments/assets/618af60a-b943-4b58-a7a4-716666b8b49d" />
+<p align="center"><img width="700" height="421" alt="image" src="https://github.com/user-attachments/assets/618af60a-b943-4b58-a7a4-716666b8b49d" /></p>
 
 
 
 
 4. Click on **\+ Build new query** under **Criteria**.
 
-<img width="300" height="346" alt="image" src="https://github.com/user-attachments/assets/6e4528e2-320a-455b-a22e-31ea353a121f" />
+<p align="center"><img width="300" height="346" alt="image" src="https://github.com/user-attachments/assets/6e4528e2-320a-455b-a22e-31ea353a121f" /></p>
 
 
 
 
 5. For **Find features from**, select **China Airport Dataset** layer from the dropdown, then select **Attribute expression**, click **Next**.
 
-<img width="700" height="360" alt="image" src="https://github.com/user-attachments/assets/9d71adaf-4809-443b-8cbf-47b8f3609235" />
+<p align="center"><img width="700" height="360" alt="image" src="https://github.com/user-attachments/assets/9d71adaf-4809-443b-8cbf-47b8f3609235" /></p>
 
 
 
 
 6. For **Where** fields, we will define the criteria. First, choose **All of the following are true**. Then, set **Province\_EN** as the field, select **equal** as the operator, and select or enter **Jiangsu** as the value. Once the condition is set, click **Add** to apply it.
 
-<img width="700" height="418" alt="image" src="https://github.com/user-attachments/assets/d91470dd-cfa1-4016-b929-7d836b33acfd" />
+<p align="center"><img width="700" height="418" alt="image" src="https://github.com/user-attachments/assets/d91470dd-cfa1-4016-b929-7d836b33acfd" /></p>
 
 
 
 
 7. Under the **Result layer**, give the new item a name in the **Output name** field, and select the designated folder to save the output. Note that the name should be unique across the organization no matter where you save the layer. Example: Airports in Jiangsu\_\[Your NetID\].
 
-<img width="300" height="370" alt="image" src="https://github.com/user-attachments/assets/70f4d85a-82f7-49bf-aabc-daf0a0360270" />
+<p align="center"><img width="300" height="370" alt="image" src="https://github.com/user-attachments/assets/70f4d85a-82f7-49bf-aabc-daf0a0360270" /></p>
 
 
 
 
 8. Click **Run** to start processing.
 
-<img width="400" height="204" alt="image" src="https://github.com/user-attachments/assets/43aad186-7d73-4795-a548-ae47318a850a" />
+<p align="center"><img width="400" height="204" alt="image" src="https://github.com/user-attachments/assets/43aad186-7d73-4795-a548-ae47318a850a" /></p>
 
 
 
 
 9. To check the progress, click on the history icon in the header menu.
 
-<img width="400" height="181" alt="image" src="https://github.com/user-attachments/assets/4013f5a9-1167-40cc-923a-704f144dbd91" />
+<p align="center"><img width="400" height="181" alt="image" src="https://github.com/user-attachments/assets/4013f5a9-1167-40cc-923a-704f144dbd91" /></p>
 
 
 
 
 10. Once the analysis is completed successfully, a new layer named **Airports in Jiangsu** will appear in the **Layers** and the map. Let’s focus on this layer by hiding the other layers and keep only the newly created one visible.
 
-<img width="300" height="378" alt="image" src="https://github.com/user-attachments/assets/b4c94a82-9c48-4840-be7a-c6d575af78f5" />
+<p align="center"><img width="300" height="378" alt="image" src="https://github.com/user-attachments/assets/b4c94a82-9c48-4840-be7a-c6d575af78f5" /></p>
 
 
 
 
 11. The map will update to show the new layer we just created, automatically zooming into Jiangsu province.
 
-<img width="700" height="497" alt="image" src="https://github.com/user-attachments/assets/307d765c-b1fd-4bd6-93fe-753504a80972" />
+<p align="center"><img width="700" height="497" alt="image" src="https://github.com/user-attachments/assets/307d765c-b1fd-4bd6-93fe-753504a80972" /></p>
 
 
 
 
 12. Click the ellipsis (3-dot) icon next to **Airports in Jiangsu** layer and select **Show table**. 
 
-<img width="150" height="277" alt="image" src="https://github.com/user-attachments/assets/103b73b3-fce1-4656-b0d6-efb44737f14a" />
+<p align="center"><img width="150" height="277" alt="image" src="https://github.com/user-attachments/assets/103b73b3-fce1-4656-b0d6-efb44737f14a" /></p>
 
 
 
 
 13. There should be 11 records in the table, meaning that there are 11 airports in Jiangsu province.
 
-<img width="700" height="432" alt="image" src="https://github.com/user-attachments/assets/7fa138ae-86f3-4df7-9ebc-6f08ab9a8431" />
+<p align="center"><img width="700" height="432" alt="image" src="https://github.com/user-attachments/assets/7fa138ae-86f3-4df7-9ebc-6f08ab9a8431" /></p>
 
 
 
@@ -777,112 +777,112 @@ The third question we want to solve is: what are the 3 closest airports to DKU. 
 
 1. Click on the **Search** tool in the Searching and Viewing toolbar.
 
-<img width="200" height="247" alt="image" src="https://github.com/user-attachments/assets/7f363956-0be2-4608-8a28-1f53f7557745" />
+<p align="center"><img width="200" height="247" alt="image" src="https://github.com/user-attachments/assets/7f363956-0be2-4608-8a28-1f53f7557745" /></p>
 
 
 
 
 2. Click **Use current location**, Or, enter **Kunshan, Jiangsu**, and select the first option from the dropdown. This will locate you to the Kunshan region on the map. Then, navigate to the Duke Kunshan University.
 
-<img width="700" height="679" alt="image" src="https://github.com/user-attachments/assets/e1d5cb9b-7f3f-45c3-8e9a-975516e11ca3" />
+<p align="center"><img width="700" height="679" alt="image" src="https://github.com/user-attachments/assets/e1d5cb9b-7f3f-45c3-8e9a-975516e11ca3" /></p>
 
 
 
 
 3. Go to **Add**, then select **Create sketch layer**.
 
-<img width="300" height="446" alt="image" src="https://github.com/user-attachments/assets/0e0a67a2-6acb-4bbd-a58e-bbab5de22354" />
+<p align="center"><img width="300" height="446" alt="image" src="https://github.com/user-attachments/assets/0e0a67a2-6acb-4bbd-a58e-bbab5de22354" /></p>
 
 
 
 
 4. Under the **Point feature** in the **Sketch** pane, name the new data point as **DKU**.
 
-<img width="300" height="501" alt="image" src="https://github.com/user-attachments/assets/4668a594-5657-4f67-9058-b437173b15eb" />
+<p align="center"><img width="300" height="501" alt="image" src="https://github.com/user-attachments/assets/4668a594-5657-4f67-9058-b437173b15eb" /></p>
 
 
 
 
 5. Make sure the stamp icon is selected in the sketch toolbar, and click on two random places in the campus area on the map.
 
-<img width="700" height="667" alt="image" src="https://github.com/user-attachments/assets/e88083a6-307d-4638-b98a-10f0ff150542" />
+<p align="center"><img width="700" height="667" alt="image" src="https://github.com/user-attachments/assets/e88083a6-307d-4638-b98a-10f0ff150542" /></p>
 
 
 
 
 6. We only need one data point actually, so let’s delete one of them. To do so, click **Select** (cursor icon) from the sketch toolbar. Then click on the point you want to delete, and click on **Delete** or hit **Backspace** on the keyboard.
 
-<img width="600" height="311" alt="image" src="https://github.com/user-attachments/assets/d7145cca-ab4c-48e6-8688-b7b5130bb4a8" />
+<p align="center"><img width="600" height="311" alt="image" src="https://github.com/user-attachments/assets/d7145cca-ab4c-48e6-8688-b7b5130bb4a8" /></p>
 
 
 
 
 7. Go to **Layers**, rename the sketch layer as **DKU campus**, and click **OK**.
 
-<img width="150" height="452" alt="image" src="https://github.com/user-attachments/assets/f0c2c55e-a9dd-4771-bb29-dcd9ccb0660e" />
+<p align="center"><img width="150" height="452" alt="image" src="https://github.com/user-attachments/assets/f0c2c55e-a9dd-4771-bb29-dcd9ccb0660e" /></p>
 
 
 
 
 8. Next, go to **Analysis**, select **Find Closest** under the **Use proximity**.
 
-<img width="700" height="283" alt="image" src="https://github.com/user-attachments/assets/4acc6da7-27dc-483c-bc87-28f3114e9778" />
+<p align="center"><img width="700" height="283" alt="image" src="https://github.com/user-attachments/assets/4acc6da7-27dc-483c-bc87-28f3114e9778" /></p>
 
 
 
 
 9. Select **DKU campus (Points)** as input layer, and **Airports in Jiangsu layer** as near layer.
 
-<img width="300" height="611" alt="image" src="https://github.com/user-attachments/assets/3467b380-a7a4-4b9e-b92a-ae53d3f890b6" />
+<p align="center"><img width="300" height="611" alt="image" src="https://github.com/user-attachments/assets/3467b380-a7a4-4b9e-b92a-ae53d3f890b6" /></p>
 
 
 
 
 10. For the **Analysis settings**, toggle on **Limit the number of closest locations**, and enter **3** as the max number of input. Make sure **Limited the search range** is toggled off.
 
-<img width="300" height="530" alt="image" src="https://github.com/user-attachments/assets/c8f4e936-1597-42f3-8583-d708c5db304a" />
+<p align="center"><img width="300" height="530" alt="image" src="https://github.com/user-attachments/assets/c8f4e936-1597-42f3-8583-d708c5db304a" /></p>
 
 
 
 
 11. Under the **Result layer**, give a name to the new layer in the **Output name** field, and select the designated folder to save the output. Note that the name should be unique across the organization no matter where you save the layer. Example: Closest airports to DKU\_\[Your NetID\].
 
-<img width="300" height="294" alt="image" src="https://github.com/user-attachments/assets/6cc45631-916b-4f59-9df1-68a2b8eecf77" />
+<p align="center"><img width="300" height="294" alt="image" src="https://github.com/user-attachments/assets/6cc45631-916b-4f59-9df1-68a2b8eecf77" /></p>
 
 
 
 
 12. Click **Run** to start processing.
 
-<img width="400" height="123" alt="image" src="https://github.com/user-attachments/assets/dc9be530-e4e2-4ebc-975c-229d00b67fac" />
+<p align="center"><img width="400" height="123" alt="image" src="https://github.com/user-attachments/assets/dc9be530-e4e2-4ebc-975c-229d00b67fac" /></p>
 
 
 
 
 13. To check the progress, click on the history icon in the header menu.
 
-<img width="400" height="136" alt="image" src="https://github.com/user-attachments/assets/0e73fec8-bb11-4a4f-be2a-0de708061466" />
+<p align="center"><img width="400" height="136" alt="image" src="https://github.com/user-attachments/assets/0e73fec8-bb11-4a4f-be2a-0de708061466" /></p>
 
 
 
 
 14. Once the analysis is completed successfully, a new layer set named **Closest airports to DKU** will appear in the **Layers** and the map. Let’s keep the rest of the layers invisible.
 
-<img width="300" height="405" alt="image" src="https://github.com/user-attachments/assets/ed765143-de72-4051-a910-6a5cc4110c02" />
+<p align="center"><img width="300" height="405" alt="image" src="https://github.com/user-attachments/assets/ed765143-de72-4051-a910-6a5cc4110c02" /></p>
 
 
 
 
 15. Click on the arrow icon next to **Closest airports to DKU** layer set, click on the ellipsis (3-dot) icon next to **Connecting Lines** and select **Show table**. 
 
-<img width="300" height="492" alt="image" src="https://github.com/user-attachments/assets/e6505c6b-85b6-41f0-bcd1-f2ab026be312" />
+<p align="center"><img width="300" height="492" alt="image" src="https://github.com/user-attachments/assets/e6505c6b-85b6-41f0-bcd1-f2ab026be312" /></p>
 
 
 
 
 16. The data table should display 3 records, along with two new attributes \- **Near Rank** and **FindExistingLocation** \- which indicate the airport names and their rankings by distance.
 
-<img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/1acc4a57-0bc0-48ba-8d4c-3349bbf69322" />
+<p align="center"><img width="700" height="525" alt="image" src="https://github.com/user-attachments/assets/1acc4a57-0bc0-48ba-8d4c-3349bbf69322" /></p>
 
 
 
@@ -894,70 +894,70 @@ Lastly, the analysis tools allow exporting layers in CSV, file geodatabase, shap
 
 1. Go to the Editing toolbar, click on **Analysis**.
 
-<img width="370" height="297" alt="image" src="https://github.com/user-attachments/assets/594f85e1-f73c-4488-a22e-e30e66169f42" />
+<p align="center"><img width="370" height="297" alt="image" src="https://github.com/user-attachments/assets/594f85e1-f73c-4488-a22e-e30e66169f42" /></p>
 
 
 
 
 2. Select **Tools**. Alternatively, click the tool icon in the header menu.
 
-<img width="349" height="359" alt="image" src="https://github.com/user-attachments/assets/edb2a2e7-8276-4512-8aae-833c3116c15b" />
+<p align="center"><img width="349" height="359" alt="image" src="https://github.com/user-attachments/assets/edb2a2e7-8276-4512-8aae-833c3116c15b" /></p>
 
 
 
 
 3. Under **Manage Data**, select **Extra Data**.
 
-<img width="700" height="306" alt="image" src="https://github.com/user-attachments/assets/ef1df760-5088-4e6a-9a0a-bef56dd1d3d0" />
+<p align="center"><img width="700" height="306" alt="image" src="https://github.com/user-attachments/assets/ef1df760-5088-4e6a-9a0a-bef56dd1d3d0" /></p>
 
 
 
 
 4. For **Input layers**, select **Closest airport to DKU \- Nearest Features** and **Closest airport to DKU \- Connecting Lines**. 
 
-<img width="600" height="447" alt="image" src="https://github.com/user-attachments/assets/e89707b5-a6fd-4f21-9d56-223e5305cc39" />
+<p align="center"><img width="600" height="447" alt="image" src="https://github.com/user-attachments/assets/e89707b5-a6fd-4f21-9d56-223e5305cc39" /></p>
 
 
 
 
 5. Under **Result layer,** select CSV as the output data format, name the new output as **Top 3 closest airports**, and select the designated folder to save the output.
 
-<img width="300" height="420" alt="image" src="https://github.com/user-attachments/assets/891aebf7-76e4-45f2-9992-bee4c1e67f1e" />
+<p align="center"><img width="300" height="420" alt="image" src="https://github.com/user-attachments/assets/891aebf7-76e4-45f2-9992-bee4c1e67f1e" /></p>
 
 
 
 
 6. Click **Run** to start processing.
 
-<img width="400" height="174" alt="image" src="https://github.com/user-attachments/assets/45183db8-242b-4120-b52d-d22d5b424613" />
+<p align="center"><img width="400" height="174" alt="image" src="https://github.com/user-attachments/assets/45183db8-242b-4120-b52d-d22d5b424613" /></p>
 
 
 
 
 7. Click on the history icon in the header menu to check the progress. Then, click on the ellipsis (3-dot) icon next to the processing record, and click **View details**.
 
-<img width="300" height="329" alt="image" src="https://github.com/user-attachments/assets/e9d53d1e-bf7b-415c-ad5f-b57c5a514dd3" />
+<p align="center"><img width="300" height="329" alt="image" src="https://github.com/user-attachments/assets/e9d53d1e-bf7b-415c-ad5f-b57c5a514dd3" /></p>
 
 
 
 
 8. Click on the ellipsis (3-dot) icon next to **Top 3 closest airports**, then **Open item details**.
 
-<img width="700" height="389" alt="image" src="https://github.com/user-attachments/assets/1d1e8bd4-b61b-4f97-8064-49ed2f21f2b7" />
+<p align="center"><img width="700" height="389" alt="image" src="https://github.com/user-attachments/assets/1d1e8bd4-b61b-4f97-8064-49ed2f21f2b7" /></p>
 
 
 
 
 9. A new item page will open. Click on the **Download** button in the right pane to download and save the file in your local computer.
 
-<img width="700" height="325" alt="image" src="https://github.com/user-attachments/assets/3878a0a5-ad83-4b92-9482-a4cb9454a681" />
+<p align="center"><img width="700" height="325" alt="image" src="https://github.com/user-attachments/assets/3878a0a5-ad83-4b92-9482-a4cb9454a681" /></p>
 
 
 
 
 10. Open the **Nearest\_Features** file in Excel to view the ranked list of airports closest to the DKU campus. Note that Chinese text may not always export correctly.
 
-<img width="350" height="182" alt="image" src="https://github.com/user-attachments/assets/d8cb9cd6-fbc2-4ebe-a1ce-82141c9e02cc" />
+<p align="center"><img width="350" height="182" alt="image" src="https://github.com/user-attachments/assets/d8cb9cd6-fbc2-4ebe-a1ce-82141c9e02cc" /></p>
 
 
 
@@ -978,153 +978,153 @@ In this demo, we will answer this question: which provinces in China have more t
 
 2. Click on **Analysis**.
 
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/49c063cb-7245-49ad-ac87-451a85dbb87c" />
+<p align="center"><img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/49c063cb-7245-49ad-ac87-451a85dbb87c" /></p>
 
 
 
 
 3. Select **ModelBuilder**. Alternatively, click the Model Builder icon in the header menu.
 
-<img width="350" height="360" alt="image" src="https://github.com/user-attachments/assets/4902ad3a-3d04-475e-9f2b-21681fd03e3a" />
+<p align="center"><img width="350" height="360" alt="image" src="https://github.com/user-attachments/assets/4902ad3a-3d04-475e-9f2b-21681fd03e3a" /></p>
 
 
 
 
 4. Click **Connect** to continue.
 
-<img width="350" height="417" alt="image" src="https://github.com/user-attachments/assets/454c72c5-bafe-4b8f-8a1d-b27973c9dd1c" />
+<p align="center"><img width="350" height="417" alt="image" src="https://github.com/user-attachments/assets/454c72c5-bafe-4b8f-8a1d-b27973c9dd1c" /></p>
 
 
 
 
 5. Make sure the **Disconnect** button is showing up, then click **Create model**.
 
-<img width="440" height="362" alt="image" src="https://github.com/user-attachments/assets/343e85de-122f-48ab-b331-4d1002a6aa69" />
+<p align="center"><img width="440" height="362" alt="image" src="https://github.com/user-attachments/assets/343e85de-122f-48ab-b331-4d1002a6aa69" /></p>
 
 
 
 
 6. For the model, let’s call it **Provinces with over 10 airports**, then click **Save**.
 
-<img width="500" height="714" alt="image" src="https://github.com/user-attachments/assets/27df2c1c-e2e5-4c83-969c-5eb10200e297" />
+<p align="center"><img width="500" height="714" alt="image" src="https://github.com/user-attachments/assets/27df2c1c-e2e5-4c83-969c-5eb10200e297" /></p>
 
 
 
 
 7. In the new window, click on the **Add tools** icon.
 
-<img width="300" height="356" alt="image" src="https://github.com/user-attachments/assets/3591bc48-d179-426d-abce-eb8ed9029f07" />
+<p align="center"><img width="300" height="356" alt="image" src="https://github.com/user-attachments/assets/3591bc48-d179-426d-abce-eb8ed9029f07" /></p>
 
 
 
 
 8. Select 2 tools: **Join Features** and **Filter by Attributes**, then click **Add**. 
 
-<img width="500" height="704" alt="image" src="https://github.com/user-attachments/assets/92e0edc9-2370-4151-b337-e21e1926eee5" />
+<p align="center"><img width="500" height="704" alt="image" src="https://github.com/user-attachments/assets/92e0edc9-2370-4151-b337-e21e1926eee5" /></p>
 
 
 
 
 9. The tools will be added to the canvas and displayed in grey. Double-click on the **Join Features** box. 
 
-<img width="500" height="435" alt="image" src="https://github.com/user-attachments/assets/8fac3bf1-c311-453d-83b7-38b9af7625e4" />
+<p align="center"><img width="500" height="435" alt="image" src="https://github.com/user-attachments/assets/8fac3bf1-c311-453d-83b7-38b9af7625e4" /></p>
 
 
 
 
 10. In the pop-up, select **China Province Boundaries** as the target layer, and **China Airport Dataset** as the join layer.
 
-<img width="300" height="521" alt="image" src="https://github.com/user-attachments/assets/ec45cb37-71e2-448c-a247-89a354ecdd34" />
+<p align="center"><img width="300" height="521" alt="image" src="https://github.com/user-attachments/assets/ec45cb37-71e2-448c-a247-89a354ecdd34" /></p>
 
 
 
 
 11. Next, toggle on **Use spatial relationship** and select **Completely contains**. For the **Join operation**, choose **Join one to one**, and ensure that **Calculate count only** under the **Multiple matching records** option is selected.
 
-<img width="300" height="598" alt="image" src="https://github.com/user-attachments/assets/1308d9e9-e5e4-48d5-861f-bb6a71f6034e" />
+<p align="center"><img width="300" height="598" alt="image" src="https://github.com/user-attachments/assets/1308d9e9-e5e4-48d5-861f-bb6a71f6034e" /></p>
 
 
 
 
 12. For **Join type**, select **Inner join**. For the **Result type**, select **Create intermediate data** from the dropdown \- this means the output from this analysis tool will not be saved as a permanent layer. Click **Confirm**.
 
-<img width="300" height="582" alt="image" src="https://github.com/user-attachments/assets/f102c26c-9d6e-4e76-b0ca-6c1fb99b612a" />
+<p align="center"><img width="300" height="582" alt="image" src="https://github.com/user-attachments/assets/f102c26c-9d6e-4e76-b0ca-6c1fb99b612a" /></p>
 
 
 
 
 13. Now, the canvas should show two additional items in blue, representing the datasets we just configured. In addition, the tool box appears in yellow, and the output box appears in green.
 
-<img width="700" height="433" alt="image" src="https://github.com/user-attachments/assets/a8bb0b95-ce24-4fb8-b722-c22b45323900" />
+<p align="center"><img width="700" height="433" alt="image" src="https://github.com/user-attachments/assets/a8bb0b95-ce24-4fb8-b722-c22b45323900" /></p>
 
 
 
 
 14. Next, double-click on **Filter by Attributes**.
 
-<img width="700" height="427" alt="image" src="https://github.com/user-attachments/assets/12b94550-8b68-4593-9a60-52686a2a72a3" />
+<p align="center"><img width="700" height="427" alt="image" src="https://github.com/user-attachments/assets/12b94550-8b68-4593-9a60-52686a2a72a3" /></p>
 
 
 
 
 15. For the **Input dataset**, select **Join result**. 
 
-<img width="500" height="759" alt="image" src="https://github.com/user-attachments/assets/dadce1e4-1d8c-4a65-bf31-6e8d9d7e8eca" />
+<p align="center"><img width="500" height="759" alt="image" src="https://github.com/user-attachments/assets/dadce1e4-1d8c-4a65-bf31-6e8d9d7e8eca" /></p>
 
 
 
 
 16. Click on **\+ Build new query**.
 
-<img width="300" height="614" alt="image" src="https://github.com/user-attachments/assets/e88013e5-284f-4816-aeeb-5c3dc35fcba3" />
+<p align="center"><img width="300" height="614" alt="image" src="https://github.com/user-attachments/assets/e88013e5-284f-4816-aeeb-5c3dc35fcba3" /></p>
 
 
 
 17. Select **Expression** and click **Next**.
 
-<img width="700" height="433" alt="image" src="https://github.com/user-attachments/assets/7293f4ac-d884-4cc1-8c77-e2b734addaa5" />
+<p align="center"><img width="700" height="433" alt="image" src="https://github.com/user-attachments/assets/7293f4ac-d884-4cc1-8c77-e2b734addaa5" /></p>
 
 
 
 18. For **Where** fields, choose **All of the following are true** first. Then, set **Join Count** as the field, select **is greater than** as the operator, and select or enter **10** as the value. Once the condition is set, click **Add** to apply it.
 
-<img width="700" height="421" alt="image" src="https://github.com/user-attachments/assets/d1c1cb6c-9bf0-466b-aeb6-fd534277da27" />
+<p align="center"><img width="700" height="421" alt="image" src="https://github.com/user-attachments/assets/d1c1cb6c-9bf0-466b-aeb6-fd534277da27" /></p>
 
 
 
 19. For the result layer, make sure the **Create hosted layer** is selected under the **Result type**, then give a name to the new layer in the **Output name** field. Note that the name should be unique across the organization no matter where you save the layer. Example: Chinese provinces with over 10 airports\_\[Your NetID\].
 
-<img width="300" height="620" alt="image" src="https://github.com/user-attachments/assets/57bbddbb-02ed-4716-b371-a8770c0af7fa" />
+<p align="center"><img width="300" height="620" alt="image" src="https://github.com/user-attachments/assets/57bbddbb-02ed-4716-b371-a8770c0af7fa" /></p>
 
 
 
 20. In the canvas, all items are now connected in a workflow with arrows and color-coded accordingly. Click **Run** to execute the model.
 
-<img width="700" height="386" alt="image" src="https://github.com/user-attachments/assets/b129aac0-f2b0-4d4d-a957-074234a585eb" />
+<p align="center"><img width="700" height="386" alt="image" src="https://github.com/user-attachments/assets/b129aac0-f2b0-4d4d-a957-074234a585eb" /></p>
 
 
 
 21. Once the model runs successfully, a green check mark will appear on both the tool and output boxes. 
 
-<img width="700" height="336" alt="image" src="https://github.com/user-attachments/assets/14328854-329c-494c-8600-b2694b78a4bf" />
+<p align="center"><img width="700" height="336" alt="image" src="https://github.com/user-attachments/assets/14328854-329c-494c-8600-b2694b78a4bf" /></p>
 
 
 
 22. In the **Layers** pane, a new layer called **Chinese provinces with over 10 airports** will now appear.
 
-<img width="400" height="312" alt="image" src="https://github.com/user-attachments/assets/76c98348-7152-47e9-8ae5-236e93d5455b" />
+<p align="center"><img width="400" height="312" alt="image" src="https://github.com/user-attachments/assets/76c98348-7152-47e9-8ae5-236e93d5455b" /></p>
 
 
 
 23. Click the **Save** icon, then close the tab.
 
-<img width="450" height="332" alt="image" src="https://github.com/user-attachments/assets/9095d711-8cc4-4348-9aff-45808bd03e2a" />
+<p align="center"><img width="450" height="332" alt="image" src="https://github.com/user-attachments/assets/9095d711-8cc4-4348-9aff-45808bd03e2a" /></p>
 
 
 
 24. Under **Models in this map**, you will find the model we just saved. Click on \+its name to reopen it. You can swap in different datasets and run it again anytime to repeat the same analysis.
 
-<img width="450" height="237" alt="image" src="https://github.com/user-attachments/assets/b6a550c7-3e5c-4d51-975c-5b017b3f6423" />
+<p align="center"><img width="450" height="237" alt="image" src="https://github.com/user-attachments/assets/b6a550c7-3e5c-4d51-975c-5b017b3f6423" /></p>
 
 
 
