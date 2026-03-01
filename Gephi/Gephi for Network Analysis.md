@@ -93,11 +93,11 @@ Download the sample datasets:
 - [nodes.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/Gephi/Dataset/nodes.csv)
 - [edges.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/Gephi/Dataset/edges.csv)
 
-**Prepare Data**
+## Prepare Data 
 
 In network analysis, it is recommended to have a node table and an edge table that complement each other. A node table lists all the individual elements in your network. An edge table describes how those nodes are connected.
 
-## Node Table
+## **Node Table**
 
 Each row in the node table describes a single node and should include a node label. You can also add a unique identifier (such as the **ID** column shown in the example sheet below), which helps simplify the creation of the edge table. Additional relevant attributes can be added as needed.
 
@@ -738,6 +738,7 @@ There are multiple ways to export a project from Gephi. You can export the graph
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)  
 * [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets)  
 * [Network Datasets](http://networkrepository.com/networks.php)
+
 
 
 
