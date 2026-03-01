@@ -89,7 +89,9 @@ Download [Gephi](https://gephi.org/desktop/) and complete the installation on yo
 
 ## Datasets
 
-Download the sample datasets: [Workshop\_Files.zip](https://duke.box.com/s/91jya5x407qpdql8w1mptu70zqb3h00i)
+Download the sample datasets: 
+- [nodes.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/Gephi/Dataset/nodes.csv)
+- [edges.csv](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/Gephi/Dataset/edges.csv)
 
 **Prepare Data**
 
@@ -736,6 +738,7 @@ There are multiple ways to export a project from Gephi. You can export the graph
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)  
 * [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets)  
 * [Network Datasets](http://networkrepository.com/networks.php)
+
 
 
 
