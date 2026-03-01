@@ -18,6 +18,8 @@ This tutorial introduces the basics of network analysis and how to use Gephi to 
  - [Setup	](#setup)
 
  - [Datasets	](#datasets)
+   
+ - [Prepare Data](#prepare-data)
 
  - [Node Table	](#node-table)
 
@@ -738,6 +740,7 @@ There are multiple ways to export a project from Gephi. You can export the graph
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html)  
 * [UCINET Datasets](https://sites.google.com/site/ucinetsoftware/datasets)  
 * [Network Datasets](http://networkrepository.com/networks.php)
+
 
 
 
