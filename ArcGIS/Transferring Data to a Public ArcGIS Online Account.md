@@ -3,7 +3,7 @@
 *Siti Lei*  
 *Data and Visualization Librarian, Duke Kunshan University*
 
-*Last updated: Feb 24, 2026*
+*Last updated: March 3, 2026*
 
 This tutorial provides step-by-step guidance on how to transfer work on ArcGIS Online from a Duke institutional account to the free (aka ‘public’) version of the service.
 
