@@ -1,4 +1,4 @@
-# **Transferring Data to a Public ArcGIS Online Account**
+# **Transferring Data to a Public ArcGIS Account**
 
 *Siti Lei*  
 *Data and Visualization Librarian, Duke Kunshan University*
