@@ -1,4 +1,4 @@
-# **ArcGIS Online for Mapping Data and Spatial Analysis**
+**ArcGIS Online for Mapping Data and Spatial Analysis**
 
 *Siti Lei*  
 *Data and Visualization Librarian, Duke Kunshan University*  
@@ -183,7 +183,7 @@ ArcGIS Online supports importing data from structured table formats such as comm
 
 1. Go to the contents toolbar, select **Add**, then **Add layer from file**.
 
-<p align="center"><img width="472" height="498" alt="image72" src="https://github.com/user-attachments/assets/9ad6151d-955f-4971-9538-eba556ea71c4" /></p>
+<p align="center"><img width="300" height="498" alt="image72" src="https://github.com/user-attachments/assets/9ad6151d-955f-4971-9538-eba556ea71c4" /></p>
 
 
 
@@ -437,21 +437,21 @@ You can also set up a group to make your project or items visible or editable to
 
 1. Go to **Content**, then **My content**. Locate the item you want to share, and click on its title.
 
-<p align="center"><img width="559" height="327" alt="image" src="https://github.com/user-attachments/assets/858bc49d-92ee-4268-967a-d483ffca35e2" /></p>
+<p align="center"><img width="400" height="327" alt="image" src="https://github.com/user-attachments/assets/858bc49d-92ee-4268-967a-d483ffca35e2" /></p>
 
 
 
 
 2. Alternatively, click on the ellipsis (3-dot) icon next to the item and select **View details**.
 
-<p align="center"><img width="416" height="766" alt="image" src="https://github.com/user-attachments/assets/2ef4f0a5-f32d-4628-afe7-0f31140b7fbf" /></p>
+<p align="center"><img width="300" height="766" alt="image" src="https://github.com/user-attachments/assets/2ef4f0a5-f32d-4628-afe7-0f31140b7fbf" /></p>
 
 
 
 
 3. From the right-hand pane, click **Share** to open the sharing options.
 
-<p align="center"><img width="416" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7baeea1-00d3-415e-b828-0346c79af654" /></p>
+<p align="center"><img width="300" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7baeea1-00d3-415e-b828-0346c79af654" /></p>
 
 
 
@@ -477,7 +477,16 @@ You can also set up a group to make your project or items visible or editable to
 
 
 
-7. Now, your map should be visible for the public.
+7. Now, your map should be visible for the public. Go back to the item detail page and scroll down a bit, click on the arrow icon under **Details**.
+
+<p align="center"><img width="313" height="308" alt="Screenshot 2026-03-06 at 15 33 08" src="https://github.com/user-attachments/assets/065be148-bfb6-419e-86a6-0754d2f2f567" />
+
+
+
+
+8. Click the **link icon** under **Share with others** to generate a shareable link and distribute it to your audience.
+
+<p align="center"><img width="313" height="462" alt="Screenshot 2026-03-06 at 15 33 14" src="https://github.com/user-attachments/assets/c462bfd0-05ba-4181-b7b5-1b462e496d64" />
 
 
 
