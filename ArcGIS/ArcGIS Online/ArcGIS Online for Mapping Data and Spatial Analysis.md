@@ -1,4 +1,4 @@
-**ArcGIS Online for Mapping Data and Spatial Analysis**
+# **ArcGIS Online for Mapping Data and Spatial Analysis**
 
 *Siti Lei*  
 *Data and Visualization Librarian, Duke Kunshan University*  
