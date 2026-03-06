@@ -2,6 +2,7 @@
 
 *Siti Lei*  
 *Data and Visualization Librarian, Duke Kunshan University*  
+
 *Last updated: November 21, 2025*
 
 This tutorial introduces how to create, visualize, analyze, and share data-driven interactive maps using ArcGIS Online.
