@@ -72,7 +72,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 <img width="478" height="477" alt="image18" src="https://github.com/user-attachments/assets/204e19f8-8ef1-4661-8412-13bab640a2cd" />
 
-7. Navigate to the folder where the site images are stored, select **01\_Airplane\_on\_the\_Runway.jpg**, and click **Open**. 
+7. Navigate to the folder where the site images are stored, select **0\_Airplane\_on\_the\_Runway.jpg**, and click **Open**. 
 
 <img width="935" height="540" alt="image95" src="https://github.com/user-attachments/assets/c0969591-c1d2-4de8-9ea4-f6d8dba97c75" />
 
