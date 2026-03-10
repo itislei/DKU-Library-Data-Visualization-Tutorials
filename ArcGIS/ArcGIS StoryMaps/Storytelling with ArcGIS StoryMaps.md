@@ -15,7 +15,7 @@ In this tutorial, we will create a map-based digital story that explores airport
 
 Because this tutorial uses the web map and layers developed in the [ArcGIS Online tutorial](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS/ArcGIS%20Online/ArcGIS%20Online%20for%20Mapping%20Data%20and%20Spatial%20Analysis.md), it is recommended that you complete the ArcGIS Online tutorial before proceeding.
 
-By the end of this tutorial, you will be able to use ArcGIS StoryMaps to design a digital narrative, [Mapping of China’s Airports](https://storymaps.arcgis.com/stories/bde557a48c40485f945327a1ea78c4db), that visualizes geographic distribution and communicates key analytical findings effectively.
+By the end of this tutorial, you will be able to use ArcGIS StoryMaps to design a digital narrative, [Mapping China’s Airports](https://arcg.is/uOT4q), that visualizes geographic distribution and communicates key analytical findings effectively.
 
 ## **About the tool**
 
