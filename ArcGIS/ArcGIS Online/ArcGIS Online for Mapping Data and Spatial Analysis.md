@@ -680,6 +680,30 @@ Since the two datasets we need to answer this question are currently separate, w
 <p align="center"><img width="500" height="510" alt="image" src="https://github.com/user-attachments/assets/ac35e1fc-9cbe-4733-b99d-9122d4f0d529" /></p>
 
 
+18. Now that the analysis is complete, the layer is not yet visualized. To display it, first ensure that the **Count of airports in provinces** layer is selected in the Layer pane, then go to **Styles** in the right toolbar.
+
+<img width="383" height="127" alt="Screenshot 2026-03-10 at 9 41 10 PM" src="https://github.com/user-attachments/assets/6ea21e50-7abc-4093-8b34-a5ab59de631c" />
+
+
+19. In the first section **Choose attribtues**, click on **+ Field**, then select **Join_count** from the list.
+<img width="337" height="135" alt="Screenshot 2026-03-10 at 9 41 56 PM" src="https://github.com/user-attachments/assets/42bb620e-c708-45c5-a191-19d2ca75f9ba" />
+
+
+20. Next, in the second section **Pick a style**, switch to **Color and Size**.
+
+<img width="337" height="706" alt="Screenshot 2026-03-10 at 9 42 43 PM" src="https://github.com/user-attachments/assets/d341894e-e8a4-493a-8d0f-e9c9a0d07dcd" />
+
+
+21. You may configure the color palette and symbol size by clicking **Style options**.
+
+<img width="337" height="227" alt="Screenshot 2026-03-10 at 9 43 31 PM" src="https://github.com/user-attachments/assets/f944f0b2-1d80-46f6-a401-73669d9fed10" />
+
+
+22. Make sure you click **Done** to save all the changes.
+
+<img width="337" height="322" alt="Screenshot 2026-03-10 at 9 44 30 PM" src="https://github.com/user-attachments/assets/4dec798c-8d0b-449e-ab43-2d15a0fa1d6c" />
+
+
 
 ### Find by Attributes and Locations
 
