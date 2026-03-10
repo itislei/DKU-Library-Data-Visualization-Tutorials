@@ -53,62 +53,62 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 <img width="353" height="286" alt="image36" src="https://github.com/user-attachments/assets/34ea56b5-bf62-4095-a72f-b3d316827472" />
 
 
-2. In the new page, first, enter the story title by copying and pasting the content under \#1 in captions.docx into the title field.  
-3. Copy and paste the content under \#2 into the StoryMap as the subtitle.
+2. In the new page, first, enter the story title **"Mapping China's Airports"** into the title field, **"ArcGIS StoryMaps Tutorial"** as the subtitle, and **your name** in the author field.
 
 <img width="698" height="286" alt="image84" src="https://github.com/user-attachments/assets/ef8d99c7-9be0-4336-a030-d3034f5fb247" />
 
-4. You may click on the **Change panel appearance** icon to adjust the alignment.
+
+3. You may click on the **Change panel appearance** icon to adjust the alignment.
 
 <img width="218" height="196" alt="image69" src="https://github.com/user-attachments/assets/1fa4a529-1aa1-4489-9491-dbb84c9abac6" />
 
 
-5. Next, click the **Add cover image or video** button in the upper right corner. 
+4. Next, click the **Add cover image or video** button in the upper right corner. 
 
 <img width="179" height="59" alt="image81" src="https://github.com/user-attachments/assets/385132d4-535d-4969-b31d-00e220ba59fa" />
 
 
-6. In the pop-up window, click **Browse your files**.
+5. In the pop-up window, click **Browse your files**.
 
 <img width="478" height="477" alt="image18" src="https://github.com/user-attachments/assets/204e19f8-8ef1-4661-8412-13bab640a2cd" />
 
-7. Navigate to the folder where the site images are stored, select **0\_Airplane\_on\_the\_Runway.jpg**, and click **Open**. 
+6. Navigate to the folder where the site images are stored, select **0\_Airplane\_on\_the\_Runway.jpg**, and click **Open**. 
 
 <img width="935" height="540" alt="image95" src="https://github.com/user-attachments/assets/c0969591-c1d2-4de8-9ea4-f6d8dba97c75" />
 
 
-8. Then click **Add**.
+7. Then click **Add**.
 
 <img width="477" height="475" alt="image67" src="https://github.com/user-attachments/assets/2407c915-7871-4e0a-b610-7c5ce09119e4" />
 
 
-9. You can adjust the image by clicking the **Options** (Settings) icon, or replace or delete it using the **More actions** (three-dot/ellipsis) icon.
+8. You can adjust the image by clicking the **Options** (Settings) icon, or replace or delete it using the **More actions** (three-dot/ellipsis) icon.
 
 <img width="260" height="139" alt="image35" src="https://github.com/user-attachments/assets/61703ff8-bf6d-4e3e-8aee-8e48884990e4" />
 
 
-10. ArcGIS StoryMaps includes a variety of pre-made design themes that can be applied directly to your project. For example, click **Design** in the header to explore these options.
+9. ArcGIS StoryMaps includes a variety of pre-made design themes that can be applied directly to your project. For example, click **Design** in the header to explore these options.
 
 <img width="519" height="81" alt="image72" src="https://github.com/user-attachments/assets/ae99d033-c288-4f19-83fa-e0727c33c91e" />
 
 
-11. The **Design** pane will open, allowing you to customize the appearance of your StoryMap using predefined themes and style elements. In this tutorial, we will use a specific design as an example, but you are welcome to choose the theme that best fits your preference.
+10. The **Design** pane will open, allowing you to customize the appearance of your StoryMap using predefined themes and style elements. In this tutorial, we will use a specific design as an example, but you are welcome to choose the theme that best fits your preference.
 
 <img width="520" height="151" alt="image" src="https://github.com/user-attachments/assets/f5bac998-012a-4b42-827d-cddec8695dfd" />
 
 
-12. In this project, change the cover layout to **Side-by-side** and toggle on **Navigation**. We will configure the navigation menu later in the tutorial.
+11. In this project, change the cover layout to **Side-by-side** and toggle on **Navigation**. We will configure the navigation menu later in the tutorial.
 
 <img width="302" height="352" alt="image28" src="https://github.com/user-attachments/assets/70e9e8ea-3145-489d-91f7-8b785bece058" />
 
 
-13. For the theme, select **Ridgeline**. You can explore additional options by clicking **Featured themes gallery**.
+12. For the theme, select **Ridgeline**. You can explore additional options by clicking **Featured themes gallery**.
 
 <img width="466" height="533" alt="image" src="https://github.com/user-attachments/assets/61f96b54-d52d-453a-a0a4-780eec1321ca" />
 
 
-14. Once you have made your selections, close the **Design** pane.  
-15. The cover has now been set up. Note that your changes are saved automatically.
+13. Once you have made your selections, close the **Design** pane.  
+14. The cover has now been set up. Note that your changes are saved automatically.
 
 <img width="975" height="490" alt="image" src="https://github.com/user-attachments/assets/c8f7a4d8-ccb8-4079-b820-6a98ee4d8275" />
 
