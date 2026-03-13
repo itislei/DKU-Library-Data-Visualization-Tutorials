@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2026-03-13">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="name" title="name" type="string"/>
+      <attribute id="role" title="role" type="string"/>
+      <attribute id="role type" title="role type" type="string"/>
+      <attribute id="citizenship" title="citizenship" type="string"/>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="label_copy" title="Label_copy" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="1">
+        <attvalues>
+          <attvalue for="name" value="Sherlock Holmes"/>
+          <attvalue for="role" value="Consulting detective"/>
+          <attvalue for="role type" value="Protagonist"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="14"/>
+          <attvalue for="weighted degree" value="47.0"/>
+        </attvalues>
+        <viz:size value="61.2"/>
+        <viz:position x="72.469536" y="163.07619"/>
+        <viz:color r="186" g="109" b="2"/>
+      </node>
+      <node id="2">
+        <attvalues>
+          <attvalue for="name" value="John Watson"/>
+          <attvalue for="role" value="Doctor &amp; Holmes’s partner"/>
+          <attvalue for="role type" value="Protagonist"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="3"/>
+          <attvalue for="weighted degree" value="13.0"/>
+        </attvalues>
+        <viz:size value="27.353848"/>
+        <viz:position x="-109.886604" y="-143.08064"/>
+        <viz:color r="232" g="214" b="169"/>
+      </node>
+      <node id="3">
+        <attvalues>
+          <attvalue for="name" value="Mary Morstan"/>
+          <attvalue for="role" value="Watson’s wife; close associate of Holmes"/>
+          <attvalue for="role type" value="Supporting character"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="24.276924"/>
+        <viz:position x="-150.06805" y="-100.1335"/>
+        <viz:color r="234" g="231" b="210"/>
+      </node>
+      <node id="4">
+        <attvalues>
+          <attvalue for="name" value="James Moriarty"/>
+          <attvalue for="role" value="Criminal mastermind; Holmes’s arch-nemesis"/>
+          <attvalue for="role type" value="Antagonist"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="24.276924"/>
+        <viz:position x="-173.3117" y="-50.101784"/>
+        <viz:color r="234" g="231" b="210"/>
+      </node>
+      <node id="5">
+        <attvalues>
+          <attvalue for="name" value="Eurus Holmes"/>
+          <attvalue for="role" value="Holmes’s sister (BBC)"/>
+          <attvalue for="role type" value="Antagonist"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted degree" value="14.0"/>
+        </attvalues>
+        <viz:size value="30.43077"/>
+        <viz:position x="-180.00931" y="11.991154"/>
+        <viz:color r="231" g="210" b="161"/>
+      </node>
+      <node id="6">
+        <attvalues>
+          <attvalue for="name" value="Irene Adler"/>
+          <attvalue for="role" value="Adler: “The Woman”; key adversary/ally to Holmes"/>
+          <attvalue for="role type" value="Supporting character (not villainous enough to be antagonist; not consistent ally)"/>
+          <attvalue for="citizenship" value="American"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted degree" value="5.0"/>
+        </attvalues>
+        <viz:size value="21.2"/>
+        <viz:position x="-166.58705" y="69.252396"/>
+        <viz:color r="236" g="241" b="234"/>
+      </node>
+      <node id="7">
+        <attvalues>
+          <attvalue for="name" value="Mycroft Holmes"/>
+          <attvalue for="role" value="Government official &amp; Holmes’s brother"/>
+          <attvalue for="role type" value="Supporting character"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted degree" value="14.0"/>
+        </attvalues>
+        <viz:size value="30.43077"/>
+        <viz:position x="-135.46043" y="119.15371"/>
+        <viz:color r="231" g="210" b="161"/>
+      </node>
+      <node id="8">
+        <attvalues>
+          <attvalue for="name" value="Martha Louise Hudson"/>
+          <attvalue for="role" value="Landlady of 221B Baker Street"/>
+          <attvalue for="role type" value="Supporting character"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted degree" value="3.0"/>
+        </attvalues>
+        <viz:size value="21.2"/>
+        <viz:position x="-89.93752" y="156.39175"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="9">
+        <attvalues>
+          <attvalue for="name" value="Inspector Lestrade"/>
+          <attvalue for="role" value="Detective inspector"/>
+          <attvalue for="role type" value="Ally"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted degree" value="11.0"/>
+        </attvalues>
+        <viz:size value="30.43077"/>
+        <viz:position x="-34.85634" y="177.00896"/>
+        <viz:color r="233" g="220" b="185"/>
+      </node>
+      <node id="10">
+        <attvalues>
+          <attvalue for="name" value="Colonel Sebastian Moran"/>
+          <attvalue for="role" value="Moriarty’s chief henchman, adversary of Holmes"/>
+          <attvalue for="role type" value="Antagonist"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="24.276924"/>
+        <viz:position x="146.92377" y="104.69262"/>
+        <viz:color r="234" g="231" b="210"/>
+      </node>
+      <node id="11">
+        <attvalues>
+          <attvalue for="name" value="Molly Hooper"/>
+          <attvalue for="role" value="Pathologist assisting Holmes (BBC)"/>
+          <attvalue for="role type" value="Supporting character"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="1"/>
+          <attvalue for="weighted degree" value="3.0"/>
+        </attvalues>
+        <viz:size value="21.2"/>
+        <viz:position x="170.5225" y="58.900017"/>
+        <viz:color r="237" g="248" b="251"/>
+      </node>
+      <node id="12">
+        <attvalues>
+          <attvalue for="name" value="Inspector Gregson"/>
+          <attvalue for="role" value="Detective inspector"/>
+          <attvalue for="role type" value="Ally"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="30.43077"/>
+        <viz:position x="180.40588" y="0.9230764"/>
+        <viz:color r="233" g="224" b="194"/>
+      </node>
+      <node id="13">
+        <attvalues>
+          <attvalue for="name" value="Inspector Bradstreet"/>
+          <attvalue for="role" value="Detective inspector"/>
+          <attvalue for="role type" value="Ally"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted degree" value="10.0"/>
+        </attvalues>
+        <viz:size value="30.43077"/>
+        <viz:position x="167.28699" y="-67.544075"/>
+        <viz:color r="233" g="224" b="194"/>
+      </node>
+      <node id="14">
+        <attvalues>
+          <attvalue for="name" value="Inspector Hopkins"/>
+          <attvalue for="role" value="Detective inspector"/>
+          <attvalue for="role type" value="Ally"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="30.43077"/>
+        <viz:position x="129.18921" y="-125.92572"/>
+        <viz:color r="234" g="231" b="210"/>
+      </node>
+      <node id="15">
+        <attvalues>
+          <attvalue for="name" value="Mr. Holmes"/>
+          <attvalue for="role" value="Father of Sherlock Holmes"/>
+          <attvalue for="role type" value="Minor character"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted degree" value="12.0"/>
+        </attvalues>
+        <viz:size value="30.43077"/>
+        <viz:position x="71.801216" y="-165.50446"/>
+        <viz:color r="232" g="217" b="177"/>
+      </node>
+      <node id="16">
+        <attvalues>
+          <attvalue for="name" value="Mrs. Holmes"/>
+          <attvalue for="role" value="Mother of Sherlock Holmes"/>
+          <attvalue for="role type" value="Minor character"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="4"/>
+          <attvalue for="weighted degree" value="12.0"/>
+        </attvalues>
+        <viz:size value="30.43077"/>
+        <viz:position x="3.6920502" y="-180.37047"/>
+        <viz:color r="232" g="217" b="177"/>
+      </node>
+      <node id="17">
+        <attvalues>
+          <attvalue for="name" value="Rosamund Mary Watson"/>
+          <attvalue for="role" value="Watson’s daughter"/>
+          <attvalue for="role type" value="Minor character"/>
+          <attvalue for="citizenship" value="British"/>
+          <attvalue for="degree" value="2"/>
+          <attvalue for="weighted degree" value="8.0"/>
+        </attvalues>
+        <viz:size value="24.276924"/>
+        <viz:position x="-58.026752" y="-170.82164"/>
+        <viz:color r="234" g="231" b="210"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="5" label="Family Member" weight="4.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="1" source="1" target="7" label="Family Member" weight="4.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="2" source="1" target="15" label="Family Member" weight="2.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="3" source="1" target="16" label="Family Member" weight="2.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="4" source="1" target="8" label="Landlady &amp; Tenant" weight="3.0">
+        <viz:color r="212" g="68" b="67"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Landlady &amp; Tenant"/>
+        </attvalues>
+      </edge>
+      <edge id="5" source="2" target="3" label="Family Member" weight="4.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="6" source="2" target="17" label="Family Member" weight="4.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="7" source="3" target="17" label="Family Member" weight="4.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="8" source="1" target="2" label="Partner &amp; Colleague" weight="5.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="9" source="1" target="11" label="Partner &amp; Colleague" weight="3.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="10" source="1" target="12" label="Partner &amp; Colleague" weight="3.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="11" source="1" target="13" label="Partner &amp; Colleague" weight="3.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="12" source="1" target="14" label="Partner &amp; Colleague" weight="2.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="13" source="1" target="4" label="Enermy" weight="4.0">
+        <viz:color r="105" g="199" b="63"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Enermy"/>
+        </attvalues>
+      </edge>
+      <edge id="14" source="1" target="6" label="Special Connection" weight="5.0">
+        <viz:color r="206" g="81" b="169"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Special Connection"/>
+        </attvalues>
+      </edge>
+      <edge id="15" source="1" target="9" label="Partner &amp; Colleague" weight="3.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="16" source="1" target="10" label="Enermy" weight="4.0">
+        <viz:color r="105" g="199" b="63"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Enermy"/>
+        </attvalues>
+      </edge>
+      <edge id="17" source="9" target="12" label="Partner &amp; Colleague" weight="3.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="18" source="9" target="13" label="Partner &amp; Colleague" weight="3.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="19" source="9" target="14" label="Partner &amp; Colleague" weight="2.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="20" source="12" target="13" label="Partner &amp; Colleague" weight="2.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="21" source="12" target="14" label="Partner &amp; Colleague" weight="2.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="22" source="13" target="14" label="Partner &amp; Colleague" weight="2.0">
+        <viz:color r="125" g="119" b="206"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Partner &amp; Colleague"/>
+        </attvalues>
+      </edge>
+      <edge id="23" source="4" target="10" label="Mastermind &amp; Henchman" weight="4.0">
+        <viz:color r="93" g="141" b="43"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Mastermind &amp; Henchman"/>
+        </attvalues>
+      </edge>
+      <edge id="24" source="15" target="16" label="Family Member" weight="4.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="25" source="7" target="15" label="Family Member" weight="3.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="26" source="7" target="16" label="Family Member" weight="3.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="27" source="5" target="15" label="Family Member" weight="3.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="28" source="5" target="16" label="Family Member" weight="3.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+      <edge id="29" source="5" target="7" label="Family Member" weight="4.0">
+        <viz:color r="122" g="207" b="255"/>
+        <attvalues>
+          <attvalue for="label_copy" value="Family Member"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
