@@ -907,7 +907,7 @@ For example, we can look at attitudes expressed by different interviewees based 
 
 9. Now the table is color-coded — the deeper the color, the higher the count of coded references.
 
-<img width="582" height="548" alt="image" src="https://github.com/user-attachments/assets/7f747620-a68c-4aeb-aeff-9087f4e5cb38" />
+<img width="844" height="876" alt="image56" src="https://github.com/user-attachments/assets/6e6e6567-cb0c-46a3-bb68-f34029870878" />
 
 
 10. We can also visualize other data within this table. To change data sources in the view, right-click anywhere on the table and select **Cell Content** \> **Files Coded** \> **All**. Note that the Windows version offers additional options for displaying data sources, such as words coded, coding presence, and more.
