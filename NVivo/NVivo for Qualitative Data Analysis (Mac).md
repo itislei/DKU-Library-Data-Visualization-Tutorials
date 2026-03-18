@@ -912,12 +912,12 @@ For example, we can look at attitudes expressed by different interviewees based 
 
 10. We can also visualize other data within this table. To change data sources in the view, right-click anywhere on the table and select **Cell Content** \> **Files Coded** \> **All**. Note that the Windows version offers additional options for displaying data sources, such as words coded, coding presence, and more.
 
-<img width="929" height="509" alt="image" src="https://github.com/user-attachments/assets/7e7735f3-7be1-4beb-b849-c751e19a2c65" />
+<img width="1644" height="986" alt="image54" src="https://github.com/user-attachments/assets/9712b70c-e235-44f5-b5e0-b09a6f6e086a" />
 
 
 11. This visualization shows the total number of files in which the coded snippet(s) appear.
 
-<img width="608" height="570" alt="image" src="https://github.com/user-attachments/assets/771d286c-d849-4779-bcc4-f2d3e7517c4f" />
+<img width="834" height="828" alt="image59" src="https://github.com/user-attachments/assets/48e269ca-bfe3-45e8-9c41-79e5a9964993" />
 
 
 12. You can export the table by right-clicking the visualization and selecting **Share**. From the available options, choose **Print** to export the visual as a PDF file or **Spreadsheet** to visualize the data using other tools.
