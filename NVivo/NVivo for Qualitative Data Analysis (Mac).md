@@ -183,7 +183,7 @@ NVivo supports organizing files in a hierarchical structure and analyzing a wide
 
 1. Go to **Files** under **Data**, right-click on **Files** and select **New Folder…**.
 
-<img width="345" height="157" alt="image" src="https://github.com/user-attachments/assets/e2d52ba9-87ac-4d38-88a3-8963617fc8e4" />
+<img width="690" height="314" alt="image" src="https://github.com/user-attachments/assets/e2d52ba9-87ac-4d38-88a3-8963617fc8e4" />
 
 
 2. In the pop-up, enter **Interview** in the “Name” field, and click **Done**.
