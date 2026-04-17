@@ -69,11 +69,11 @@ BLM\_events.xlsx is a data table containing information about a selection of soc
 
 4. Click **Your device** button, then select **BLM\_events.xlsx** file (downloaded from the setup files) from its saved location and click **Open**. Alternatively, drag and drop the file into the pop-up window.
 
-<img width="1345" height="675" alt="image23" src="https://github.com/user-attachments/assets/f9e18fa3-33d8-4899-8ef3-e94ca36ff131" />
+<img width="747" height="375" alt="image23" src="https://github.com/user-attachments/assets/f9e18fa3-33d8-4899-8ef3-e94ca36ff131" />
 
 5. If you have multiple worksheets in the file, select the one that’s going to be used in this project. If you are using BLM\_events.xlsx dataset, make sure **Example** is selected.
 
-<img width="415" height="266" alt="image" src="https://github.com/user-attachments/assets/19c4dbbb-b6cf-4e57-908e-0a7a9f9dcda2" />
+<img width="747" height="478" alt="image" src="https://github.com/user-attachments/assets/19c4dbbb-b6cf-4e57-908e-0a7a9f9dcda2" />
 
 6. Confirm the data type for each variable. Since we are creating a time series map, ensure that the date variables (**DAY\_START** and **DAY\_END**) are set to the **Date** type. In this sample dataset, also verify that **LATITUDE** and **LONGITUDE** are set to **Single** (or **Double**) and that **POPULATION\_EXPOSURE** is set to **Integer**. Click **Next** when ready.
 
