@@ -9,13 +9,11 @@ This tutorial introduces how to create time-based interactive maps using tempora
 
 [Before we start	](#before-we-start)
 
-[Introduction	](#introduction)
+- [Introduction	](#introduction)
 
-[About the tool	](#about-the-tool)
+- [About the tool	](#about-the-tool)
 
-[Datasets	](#datasets)
-
-[Sign in to ArcGIS Online	](#heading=h.t4fdu5bc38rs)
+- [Datasets	](#datasets)
 
 [Import Temporal Data	](#import-temporal-data)
 
@@ -157,7 +155,7 @@ Time settings can be configured in the detail view of each map item. To access t
 
 1. Make sure the map project has been saved, then click the **hamburger (three dashes)icon** in the top-left corner of the page and select **Content**.
 
-<img width="658" height="615" alt="image" src="https://github.com/user-attachments/assets/3a5d5def-e1ba-43a9-b77e-f9dec3a88357" />
+<img width="1000" height="615" alt="image" src="https://github.com/user-attachments/assets/3a5d5def-e1ba-43a9-b77e-f9dec3a88357" />
 
 
 2. Locate the BLM\_events map layer, click on the ellipsis (three-dot) icon and go **View details**.
