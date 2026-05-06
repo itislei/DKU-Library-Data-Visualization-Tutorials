@@ -3,7 +3,7 @@
 *Siti Lei*  
 *Data and Visualization Librarian, Duke Kunshan University*
 
-*Last updated: 2026*
+*Last updated: April 17, 2026*
 
 This tutorial introduces how to create time-based interactive maps using temporal data in ArcGIS Online.
 
