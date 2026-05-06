@@ -52,11 +52,11 @@ ArcGIS Online will be used in the tutorial. Visit the [GIS guide](https://librar
 
 The sample dataset is sourced from news articles and Wikipedia and has been cleaned for demonstration purposes. Download the sample dataset below:
 
-* BLM\_events.xlsx (Sources are listed under **REFERENCE** column)
+* [BLM\_Events.xlsx](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS/ArcGIS%20Online/Dataset/BLM_Event.xlsx) (Sources are listed under **REFERENCE** column)
 
 ## **Import Temporal Data** 
 
-BLM\_events.xlsx is a data table containing information about a selection of social events related to the Black Lives Matter movement, including event names, regions, coordinates, start and end dates, event type, and exposed population. Let's map this data. Before we begin, make sure you have downloaded the file to your computer.
+[BLM\_Events.xlsx](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/ArcGIS/ArcGIS%20Online/Dataset/BLM_Event.xlsx) is a data table containing information about a selection of social events related to the Black Lives Matter movement, including event names, regions, coordinates, start and end dates, event type, and exposed population. Let's map this data. Before we begin, make sure you have downloaded the file to your computer.
 
 1. Sign in to [ArcGIS Online](https://www.arcgis.com/index.html). If you are a first time user, follow the instructions in [Signing in to ArcGIS Online](https://library.dukekunshan.edu.cn/signing-in-to-arcgis/).
 
