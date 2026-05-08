@@ -54,7 +54,7 @@ This sample dataset is intended solely for instructional use in the [DKUL's ArcG
 
 ## Citation Request
 
-If using this dataset, please cite the [original dataset from CnOpenData](https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews](https://www.cnopendata.com/data/airport/china-airport.html).
+If using this dataset, please cite the [original dataset from CnOpenData](https://www.cnopendata.com/data/airport/china-airport.html).
 
 ---
 
