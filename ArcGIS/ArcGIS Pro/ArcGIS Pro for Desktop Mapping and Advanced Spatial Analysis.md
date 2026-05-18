@@ -167,13 +167,12 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 
    
 6. The interface of ArcGIS Pro includes:
-   
-1) Project tab 
-2) The Command Search box 
-3) The ribbon 
-4) Contents pane 
-5) Table view 
-6) Catalog pane
+   1) Project tab
+   2) The Command Search box
+   3) The ribbon
+   4) Contents pane
+   5) Table view
+   6) Catalog pane
 
 
 7. If any panes are missing, you can reopen them by going to **View > Pane Sets**.
