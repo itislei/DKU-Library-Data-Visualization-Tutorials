@@ -166,7 +166,8 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 5. This will open the project workspace, where you can start working on.
 
    
-6. The interface of ArcGIS Pro includes: 
+6. The interface of ArcGIS Pro includes:
+   
 1) Project tab 
 2) The Command Search box 
 3) The ribbon 
