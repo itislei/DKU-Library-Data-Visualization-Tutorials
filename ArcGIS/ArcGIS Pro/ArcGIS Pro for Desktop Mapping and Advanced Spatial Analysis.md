@@ -339,13 +339,124 @@ The Intersect tool combines multiple layers and retains only the areas where the
 
 We are going to create a new layer showing only the buffer areas that fall within each district, along with the corresponding district information. This output can then be used to calculate coverage for each district.
 
-- [x] run
-- [ ] dance
-- [x] drink
-- [ ] write
+1. In the Command Search box, enter **“Intersect”**, select **Intersect (Analysis Tools)**.
+
+   
+2. In the **Geoprocessing** pane, select **suzhou_bus_stops_Buffer** and **citybase** for **Input Features**.
+
+   
+3. Next, for **Output Feature Class**, let's change the name to **suzhou_bus_stops_by_district**.
+
+   
+4. Set **Attributes To Join** to **All attributes**.
+
+   
+5. Set **Output Type** to **Same as input**.
+
+    
+6. Click **Run**.
+
+    
+7. Once the analysis is completed, a new layer **suzhou_bus_stops_by_district** should appear in the **Contents** pane. Right-click and select **Attribute Table** from the menu.
+
+    
+8. Make sure the **Population** and **Shape_Area** fields are included in the attribute table, as they will be used in later steps.
 
 
+## Calculate Coverage per District
 
+1. In the table view, click **Add**.
+
+   
+2. Create a new field named **Coverage_pc** and set the data type to **Double**.
+
+   
+3. Click the close icon of the new field tab, and **Save**.
+
+   
+4. In the table view, click Calculate.
+
+   
+5. Make sure **Coverage_pc** is selected under **Field Name**, and **Python** under **Expression Type**.
+
+    
+6. Next, copy and paste **“!Shape_Area! / !Population!”** in the **Coverage_pc** = field.
+
+    
+7. Click **Apply**, then **OK**.
+
+    
+8. You may notice a series of 0 values in the **Coverage_pc** field. This does not mean the calculation is incorrect; rather, the values are very small and are being rounded. You can double-click any cell to view the full value.
+
+    
+9. Since our goal is to identify which districts in Suzhou have the least bus service coverage relative to population, we can sort the field. Right-click the **Coverage_pc** field and select **Sort Ascending**.
+
+    
+10. The table will now be ordered from lowest to highest coverage. From this, we can see that the three districts with the lowest bus service coverage per capita are Wuzhong, Huqiu, and Gusu District.
+
+
+## Join coverage with citybase data
+
+We can further join the coverage data with the city boundary dataset to create a choropleth map that visualizes variations in bus stop service coverage across different districts in Suzhou. 
+
+1. In the Command Search box, enter **“Join Field”**, select **Join Field (Data Management Tools)**.
+
+   
+2. In the **Geoprocessing** pane, select **citybase** for **Input Table** and **ename** for **Input Field**.
+
+   
+3. Select **suzhou_bus_stops_by_district** for **Join Table** and **ename** for **Join Field**.
+
+   
+4. For **Transfer Method**, select **Select transfer fields**, and for **Transfer Fields**, select **Coverage_pc**.
+
+   
+5. For **Index Join Fields**, select **Do not add indexes**.
+
+    
+6. Click **Run**.
+
+    
+7. Once the analysis is completed, go to the Contents pane and make sure only the **citybase** is visible. Select it, then right-click and select **Attribute Table** from the menu.
+
+    
+8. In the table, right-click and select **Fields**. Rename **Coverage_p** to **Coverage by population (%)**.
+
+
+9. Still in the table, click on the ellipsis (three-dot) icon next to **Numeric** under **Number Format**, lower the decimal places to **1**, click **OK** when finished.
+
+    
+10. Click the close icon of the **Fields** tab, and click **Save** before closing.
+
+    
+11. Click **Calculate**, select **Coverag_p** as **Field Name**, then for the equation, write down **“!Coverage_p!*1000000 * 100”**, then click **Apply** and **OK**. This step converts the unit from per square kilometer (km²) to per square meter (m²) and expresses it as a percentage.
+
+    
+12. Go to the **Contents** pane again, select **citybase**, then right-click and select **Symbology** from the menu.
+
+    
+13. Click the arrow next to the **Single Symbol** dropdown, and switch to **Graduated Color**s.
+
+    
+14. For **Field**, switch to **Coverage_p**, and choose a color scheme to **Purple-Blue (Continuous)**.
+
+    
+15. If the current color scheme is reversed (for example, if you want areas with the least coverage to appear in the darkest color), you can adjust this by going to the **Classes** tab, **More > Reverse symbol order**.
+
+    
+16. You may further customize the color distribution under the **Histogram** or **Scale** tabs. For example, in the **Histogram** tab, double-click on the third breakpoint and enter **25.2**. After doing so, you will see that three districts (Wuzhong, Huqiu, and Gusu) are displayed in darkest colors, indicating that they have the lowest coverage rates.
+
+# Save the project
+1. To save the project, go to the top-left corner, and click **Save Project** icon.
+
+  
+2. The project will be stored in your computer, under **Documents > ArcGIS > Projects > [Project Name]**.
+
+3. If you want to save another copy of it, go to **Project > Save Project As**. Choose the location you want to save the project and click **Save**. This is especially useful when you are not using your own computer (e.g., a school computer) and want to keep a copy of your work.
+
+#
+
+#Create
 
 
 
