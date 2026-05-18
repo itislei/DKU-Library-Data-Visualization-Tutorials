@@ -102,9 +102,9 @@ ArcGIS Pro will be used in the tutorial. Visit and follow the [Downloading, Inst
 
 [The sample dataset](</ArcGIS/ArcGIS Pro/Dataset/ArcGIS Pro Tutorial Sample Dataset.zip>) is sourced from China Geo-Explore and Figshare, and the data has been cleaned and edited for the purpose of demonstration. The folder contains three files:
 
-- [suzhou_boundary] (Source: https://login.proxy.lib.duke.edu/login?url=http://chinageoexplorer.com/)
-- [suzhou_population.csv] (Source: https://login.proxy.lib.duke.edu/login?url=http://chinageoexplorer.com/) 
-- [suzhou_bus_stops.csv](Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC12886901/)
+- [suzhou_boundary](https://login.proxy.lib.duke.edu/login?url=http://chinageoexplorer.com/)
+- [suzhou_population.csv](https://login.proxy.lib.duke.edu/login?url=http://chinageoexplorer.com/) 
+- [suzhou_bus_stops.csv](https://pmc.ncbi.nlm.nih.gov/articles/PMC12886901/)
 
 
 
