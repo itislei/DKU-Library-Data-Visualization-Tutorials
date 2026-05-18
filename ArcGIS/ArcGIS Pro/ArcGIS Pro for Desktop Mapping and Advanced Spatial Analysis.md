@@ -77,3 +77,49 @@ This tutorial introduces how to import data, visualize geographic information, p
 
 **[Resources](#resources )**
 
+# 
+
+# Before we start
+
+## Introduction
+
+In this tutorial, we will use Suzhou City’s bus stop dataset and city boundary dataset to identify underserved areas. Imagine you work for the Suzhou Department of Transport, and citizens have reported that some residential areas, particularly those near city boundaries, lack access to a bus stop within a 10‑minute walk. Your goal is to determine which city jurisdictions have the largest “service gaps” and recommend optimal locations for new stops.
+
+Tasks covered in this tutorial include:
+
+1. Importing datasets 
+2. Performing spatial analysis (Join, Buffer, Intersect) and calculations 
+3. Visualizing data on a map 
+4. Exporting the map and data
+
+By the end of this tutorial, you will be able to use ArcGIS Pro to create a district‑level map of Suzhou that shows the geographic distribution of areas without bus stop coverage.
+
+## About the tool
+
+ArcGIS Pro will be used in the tutorial. Visit and follow the [Downloading, Installing and Licensing ArcGIS Pro](ArcGIS/ArcGIS Pro/Downloading, Installing and Licensing ArcGIS Pro.md) to download and install the software on your computer. Note that ArcGIS Pro only runs on Windows devices.
+
+## Datasets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
