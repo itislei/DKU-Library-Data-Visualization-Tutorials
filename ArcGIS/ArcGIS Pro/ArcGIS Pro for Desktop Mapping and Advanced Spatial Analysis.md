@@ -178,6 +178,20 @@ Pro stores map projects locally on your computer.
 
 
 ## Change basemap
+1. Go to the Map tab, then click Basemap.
+
+   
+2. Choose a new style from the dropdown menu.
+
+  
+3. The basemap in the map view will update accordingly.
+
+
+# Import and Visualize Data
+
+There are multiple ways to add data to a map project in ArcGIS Pro - you can add datasets with 
+location data, upload images, connect to external sources via URL, or create your own sketches 
+directly in the map.
 
 
 
