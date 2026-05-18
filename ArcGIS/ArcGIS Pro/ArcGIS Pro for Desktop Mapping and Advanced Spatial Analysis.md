@@ -339,7 +339,10 @@ The Intersect tool combines multiple layers and retains only the areas where the
 
 We are going to create a new layer showing only the buffer areas that fall within each district, along with the corresponding district information. This output can then be used to calculate coverage for each district.
 
-
+- [x] run
+- [ ] dance
+- [x] drink
+- [ ] write
 
 
 
