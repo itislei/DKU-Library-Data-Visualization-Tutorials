@@ -39,23 +39,41 @@ This tutorial introduces how to import data, visualize geographic information, p
 
 - [Other data types 	](#other-data-types )
 
-Geoprocessing 
-
-
-Intersect Tool  
-Calculate Coverage per District 
-Join coverage with citybase data 
-
 **[Geoprocessing](#geoprocessing)**
 
 - [Join population and city data 	](#join-population-and-city-data )
 
 - [Buffer ](#buffer)
 
-- [Sign in to ArcGIS Pro](#sign-in-to-arcgis-pro)
+- [Intersect Tool  ](#intersect-tool)
 
-- [Create a map project](#create-a-map-project)
+- [Calculate Coverage per District](#calculate-coverage-per-district)
 
-- [Change basemap](#change-basemap)
+- [Join coverage with citybase data](#join-coverage-with-citybase-data )
 
+**[Save the project ](#save-the-project)**
+
+**[Export map ](#export-map )**
+
+- [New Layout ](#new-layout)
+
+- [Map Title ](#map-title)
+
+- [North Arrow and Legend ](#north-arrow-and-legend)
+
+- [Additional Text](#additional-text)
+
+- [Grid ](#grid)
+
+- [Export to PDF](#export-to-pdf)
+
+**[Export data ](#export-data)**
+
+- [Geodatabase ](#geodatabase)
+
+- [Table](#table)
+
+- [Shapefile](#shapefile)
+
+**[Resources](#resources )**
 
