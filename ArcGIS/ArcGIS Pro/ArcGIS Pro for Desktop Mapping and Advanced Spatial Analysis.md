@@ -17,21 +17,45 @@ This tutorial introduces how to import data, visualize geographic information, p
 
 - [What is “spatial analysis” and “geoprocessing”?	](#what-is-spatial-analysis-and-geoprocessing)
 
-Get Started 3 
-Download and install ArcGIS Pro 3 
-Create a folder 3 
-Sign in to ArcGIS Pro 4 
-Create a map project 6 
-Change basemap
-
 **[Get Started](#get-started)**
 
 - [Download and install ArcGIS Pro	](#download-and-install-arcgis-pro)
 
-- [Create a Folder	](#create-a-folder)
+- [Create a folder	](#create-a-folder)
 
 - [Sign in to ArcGIS Pro](#sign-in-to-arcgis-pro)
 
-- [Basemap	](#basemap)
+- [Create a map project](#create-a-map-project)
 
-- [Add Data](#add-data)
+- [Change basemap](#change-basemap)
+
+**[Import and Visualize Data ](#import-and-visualize-data )**
+
+- [Shapefile	](#shapefile)
+
+- [Table 	](#table)
+
+- [Living Atlas ](#living-atlas )
+
+- [Other data types 	](#other-data-types )
+
+Geoprocessing 
+
+
+Intersect Tool  
+Calculate Coverage per District 
+Join coverage with citybase data 
+
+**[Geoprocessing](#geoprocessing)**
+
+- [Join population and city data 	](#join-population-and-city-data )
+
+- [Buffer ](#buffer)
+
+- [Sign in to ArcGIS Pro](#sign-in-to-arcgis-pro)
+
+- [Create a map project](#create-a-map-project)
+
+- [Change basemap](#change-basemap)
+
+
