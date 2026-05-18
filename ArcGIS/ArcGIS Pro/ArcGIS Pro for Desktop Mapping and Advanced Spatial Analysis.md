@@ -136,6 +136,7 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 6. After extracting, delete the ZIP file from the folder.
 
 ## Sign in to ArcGIC Pro
+
 1. Open ArcGIS Pro on your computer. 
 2. In the pop up, select **Your ArcGIS organization’s URL**, enter **dukeuniv**, then click **Continue**.
 
@@ -149,14 +150,14 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 5. Once signed in, you will be directed to the ArcGIS Pro **Home** page.
 
 ## Create a map project
+
 1. In the **Home** page, click on **Map**.
 
 
 2. Give the new map project a name in the **Name** field. For example, **Suzhou Bus Stop Map**.
 
   
-3. Then for **Location**, select the project folder we created earlier. Note that by default, ArcGIS 
-Pro stores map projects locally on your computer.
+3. Then for **Location**, select the project folder we created earlier. Note that by default, ArcGIS Pro stores map projects locally on your computer.
 
 
 4. Once **Name** and **Location** are set, click **OK**.
@@ -178,6 +179,7 @@ Pro stores map projects locally on your computer.
 
 
 ## Change basemap
+
 1. Go to the Map tab, then click Basemap.
 
    
@@ -189,9 +191,168 @@ Pro stores map projects locally on your computer.
 
 # Import and Visualize Data
 
-There are multiple ways to add data to a map project in ArcGIS Pro - you can add datasets with 
-location data, upload images, connect to external sources via URL, or create your own sketches 
-directly in the map.
+There are multiple ways to add data to a map project in ArcGIS Pro - you can add datasets with location data, upload images, connect to external sources via URL, or create your own sketches directly in the map.
+
+ArcGIS Pro supports a wide range of file and data types, including Shapefile (.shp), File Geodatabase (.gdb), GeoJSON (.geojson / .json), KML/KMZ (.kml, .kmz), CAD files (.dwg, .dxf), GeoTIFF (.tif / .tiff), JPEG/PNG (.jpg, .png), IMG (.img), CSV (.csv), Excel (.xlsx), dBASE (.dbf), text files (.txt), and database connections such as SQL Server and Oracle.
+
+For a full list of data types and items that can be imported into ArcGIS Pro, visit [Supported data types and items](https://doc.esri.com/en/arcgis-pro/latest/help/projects/supported-data-types-and-items.html) by Esri. 
+
+## Shapefile
+
+A shapefile is one of the most common geospatial data formats used in GIS, which stores geographic features (such as points, lines, or polygons) along with their associated attributes.
+
+Despite its name, a shapefile is actually a collection of several related files (e.g., .shp, .shx, .dbf) that must stay together for the data to function properly. 
+
+**suzhou_boundary** is a folder containing a shapefile and its supporting files. It provides provincial-level boundary data for China, with each province represented as a polygon. Let’s add this data to the map!
+
+1. Go to the **Map** tab, click **Add Data**.
+
+  
+2. Locate the project folder, then open **suzhou_boundary** folder.
+
+  
+3. Select the **citybase.shp** file and click **OK**.
+
+  
+4. Now, in the **Contents** pane, you should see the **citybase** layer.
+
+  
+5. For the imported data layer, you may toggle the visibility.
+
+  
+6. To change the visuals setting of the layer, select and right-click the layer, click **Symbology**.
+
+  
+7. You can choose an existing style for the features under the **Gallery** tab, or customize colors, symbols, and other settings under the **Properties** tab.
+
+  
+8. Remember to click **Apply** before closing the settings.
+
+## Table
+is a data table containing information about every airport in China, including their names,  addresses, coordinates, and year of construction. Let’s map this data on the map! Before we begin, make sure you have downloaded the file to your computer.
+
+1. First, drag and drop the **suzhou_bus_stops.csv** and **suzhou_population.csv** into the **Contents** pane. We will use **suzhou_population.csv** later
+
+  
+2. Go to the **Map** tab, click **XY Table to Point**.
+   
+
+3. In the **Geoprocessing** pane, for **Input Table**, select **suzhou_bus_stops.csv**.
+
+   
+4. For **Output Feature Class**, keep the default name **suzhou_bus_stops**.
+
+   
+5. For **X Field**, select **Longitude**.
+
+   
+6. For **Y Field**, select **Latitude**.
+
+    
+7. Make sure **GCS_WGS_1984** is selected under the **Coordinate System**.
+
+    
+8. Click **Run**.
+
+    
+9. Now, in the **Contents** pane, you should see the **suzhou_bus_stops** layer.
+
+## Living Atlas
+
+You may also import data from ArcGIS’s Living Atlas into your project. ArcGIS Living Atlas is a collection of ready-to-use datasets provided by Esri, including maps, boundaries, population data, environmental layers, and satellite imagery.
+
+In this tutorial, we will not use data from the Living Atlas. However, this section is introduced to give you an understanding of how to obtain additional data directly within ArcGIS Pro when needed.
+
+1. To access Living Atlas, go to the **Map** tab, click **Add Data > Browse**.
+
+   
+2. In the top-right corner of the pop up where it says **Search Living Atlas**, enter **“China”**.
+
+  
+3. In the result list, click the first option **China Prefecture Boundaries**.
+
+   
+4. Now, in the **Contents** pane, you should see the **CHN_Prefectures** layer.
+
+   
+5. Next, make sure the **CHN_Prefectures** layer is selected, right-click and select **Remove** from the menu.
+
+## Other data types
+
+For more instructions on importing different types of data, visit [Add data to a project](https://doc.esri.com/en/arcgis-pro/latest/get-started/add-data-to-your-project.html).
+
+# Geoprocessing
+
+## Join population and city data
+
+1. In the Command Search box, enter **“Join Field”**, select **Join Field (Data Management Tools)**.
+
+
+2. In the **Geoprocessing** pane, select **citybase** for **Input Table** and **ename** for **Input Field**.
+
+   
+3. Select **suzhou_population.csv** for **Join Table** and **Area** for **Join Field**.
+
+   
+4. For **Transfer Method**, select **Select transfer fields**, and for **Transfer Fields**, select **Population**.
+
+   
+5. For **Index Join Fields**, select **Do not add indexes**.
+
+    
+6. Click **Run**.
+    
+    
+7. Now, select **citybase** in the **Contents** pane and right-click, and select **Open (Table)**.
+
+    
+8. **“Population”** field should now be joined to the dataset.
+
+
+## Buffer
+
+The Buffer tool creates polygons around input features at a specified distance, and the dissolve tool is used to combine all buffer polygons into a single layer and merge any overlapping areas. 
+
+In this tutorial, we will first create 500-meter buffers around each bus stop to visualize the current service areas (areas that are accessible to the bus stops). We will also set the Dissolve Type within the Buffer tool to combine all buffers into a single service area layer.
+
+1. In the Command Search box, enter **“Buffer”**, select **Buffer (Analysis Tools)**.
+
+  
+2. In the **Geoprocessing** pane, select **suzhou_bus_stops** for **Input Features**. This will automatically name the **Output Feature Class** by adding **“_Buffer”** to the end. You can change the name if needed, but in this tutorial we will keep the default.
+
+
+3. Set **Distance [value or field]** to **500, Linear Unit** to **Meters**.
+
+
+4. Keep **Planar** as the **Method**, and set **Dissolve Type** to **Dissolve all output features into a single feature**. This will help us create a layer that merges all buffers into one continuous area.
+
+ 
+5. Click **Run**.
+
+  
+6. Once the analysis is completed, a new layer **suzhou_bus_stops_Buffer** should appear in the **Contents** pane. Uncheck the **suzhou_bus_stops** layer, and the map view should look like the one shown below.
+
+
+## Intersect Tool
+
+The Intersect tool combines multiple layers and retains only the areas where they overlap. It also preserves attributes from both input layers, making it useful for spatial analysis.
+
+We are going to create a new layer showing only the buffer areas that fall within each district, along with the corresponding district information. This output can then be used to calculate coverage for each district.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
