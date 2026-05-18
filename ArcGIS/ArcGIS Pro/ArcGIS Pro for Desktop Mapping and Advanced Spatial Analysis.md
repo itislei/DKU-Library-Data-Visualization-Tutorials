@@ -454,14 +454,167 @@ We can further join the coverage data with the city boundary dataset to create a
 
 3. If you want to save another copy of it, go to **Project > Save Project As**. Choose the location you want to save the project and click **Save**. This is especially useful when you are not using your own computer (e.g., a school computer) and want to keep a copy of your work.
 
-#
+# Export map
 
-# Create
+ArcGIS Pro supports the creation and export of maps with essential layout elements such as a title, legend, scale bar, and north arrow. [Example final map](</ArcGIS/ArcGIS Pro/Example final map.pdf>) is the one we will create and export.
+
+## New Layout
+
+1. Go to **Insert > New Layout** and choose a page size (e.g., Landscape, 8.5 × 11").
+
+   
+2. In the blank layout, go to the Insert tab again, click **Map Frame**, and select **Map** (the project you just created).
+
+   
+3. Draw a box on the page to define where the map will be placed, the map will automatically appear in the layout. Be sure to leave enough space for essential elements (the title, legend, scale bar, and north arrow).
+
+   
+4. To adjust the map’s extent, right-click the map frame, select **Activate**, and then pan or zoom as needed.
 
 
+5. When you have finished adjusting the map extent, go to **Layout > Close Activation**.
+
+## Map Title
+1. Go to **Insert > Dynamic Text**, select **Name of Map**, and draw a rectangle in the layout. Double-click the text box to rename the map to **“Bus Stop Service in Suzhou.”**
+
+   
+2. You can also edit the title in the **Element** pane on the right by updating the text under **Text**.
+
+   
+3. Go to the **Text Symbol** tab, where you can customize the appearance of the map title (e.g., font, size, color, and alignment).
+
+   
+4. To delete any elements, right-click on the element and select **Delete** from the menu.
 
 
+## North Arrow and Legend
 
+1. Click **North Arrow**, select one from the menu, and draw a box in the layout or map to place it.
+
+   
+2. Next, repeat the same steps to add a scale bar, and move it to a suitable place on the map.
+
+   
+3. Again, repeat the same steps to add a legend.
+
+   
+4. Go to the **Element** pane to edit the legend. First, under the **Legend** tab, uncheck **Show** next to **Title**.
+
+   
+5. Then, click on **show property…** button, uncheck **Layer Name** under **Show**.
+
+  
+6. Go to the **Text Symbol** tab to edit the text font.
+
+    
+7. For convenience, you can enable **Auto Apply** in the bottom-left corner to preview changes instantly.
+
+
+## Additional Text 
+
+1. If you have supplementary information to add other than the essential map elements (e.g., data source, cartographer name, date of creation), you may go to **Dynamic Text**, then select **Description**.
+
+   
+2. Draw a box under the scale bar and add the text to it: “Source: 2020 Census, ChinaGeo-Explorer Cartographer: XXXX Date: 2026-04-22” separated by enter line space.
+
+## Grid
+
+3. Grids are useful for indicating geographic location. To add one, select the map in the layout first, then go to the **Insert** tab, and click **Grid** under **Map Frame** group.
+
+   
+4. Select **Black Vertical Label Graticule**.
+
+   
+5. Go to the **Element** pane, click the arrow icon and switch from **Map Grid** to **Gridlines**.
+
+   
+6. To hide the grid lines across the map, switch the color from Black to No color.
+
+    
+7. Note that all elements added to the layout will appear in the **Contents** pane. You may double-click on each element to rename it.
+
+
+## Export to PDF
+
+1. Once layout is ready, go to **Share** tab > **Export Layout**.
+     
+2. Select Flatted PDF.
+
+   
+3. Under **File**, you can choose the export file format. In this tutorial, we will keep the format as PDF.
+
+   
+4. Click on the folder icon, locate the tutorial folder, name the file as **“Bus Stop Service in Suzhou”** then click **OK**.
+
+   
+5. For **Compression**, uncheck **Output as image** and change **Vector resolution** from 150 to 300 DPI.
+
+    
+6. For **Font**, ensure that **Embed fonts** is enabled. This preserves text as selectable and searchable in the exported PDF; otherwise, the text will be preserved as part of the image. Then click **Export**.
+
+    
+7. Locate the tutorial folder and open the **Bus Stop Service in Suzhou.pdf** file. You should now be able to view the map and select the text within it.
+
+
+# Export data
+
+In ArcGIS Pro, you can export a layer or dataset to save a copy of your processed data for further analysis, sharing, or long-term use. Note that items created and saved within the project are typically stored in a geodatabase, so the output format will appear as a .gdb by default, which can be opened directly in ArcGIS Pro. 
+
+## Geodatabase
+
+1. Go back to the **Map** tab in ArcGIS Pro.
+
+   
+2. In the **Contents** pane, select the **suzhou_bus_stops_by_district** layer, right-click and select **Data > Export Table**.
+
+3. Make sure the **Input Table** and **Output Table** is set correctly, then click **OK**.
+
+4. The file will be automatically stored in your computer, under **Documents > ArcGIS > Projects > [Project Name]**.
+
+## Table 
+
+1. In the Command Search box, enter **“table to”**, select **Table to Excel (Conversion Tools)**. 
+
+
+2. In the **Geoprocessing** pane, select **suzhou_bus_stops_by_district** as **Input Table**. 
+
+
+3. For **Output Excel File**, click on the folder icon, locate the tutorial folder, and name it as 
+**“bus_stops_coverage”**. 
+
+4. Click **Run**. 
+
+5. Once the export is complete, you should find the exported Excel file in your tutorial folder.
+
+
+## Shapefile
+
+For items created within a map project, you can use the **Feature Class to Shapefile** tool to export it as shapefile directly. 
+
+1. In the Command Search box, search for **Feature Class to Shapefile (Conversion Tools)**. 
+
+
+2. In the **Geoprocessing** pane, select **suzhou_bus_stops_by_district** as **Input Features**. 
+
+
+3. For **Output Folder**, click on the folder icon, locate the tutorial folder, and click **OK**. 
+
+
+4. Click **Run**. 
+
+5. Once the export is complete, you should find the exported shapefile in your tutorial folder. Note that GIS recognizes a shapefile only when all its component files share the same name (e.g., .shp, .shx, .dbf). These files must be kept together in the same folder; otherwise, the shapefile may not open properly.
+
+
+# Resources
+
+ArcGIS Pro offers a wide range of tools for visualizing and analyzing geospatial data, and this tutorial only covers some of them. You are encouraged to continue exploring and experimenting with the tool. For further learning, the following resources are recommended:
+
+- [ArcGIS Pro Resources](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources) by Esri; 
+- [ArcGIS Pro Introduction](https://guides.library.duke.edu/arcgispro) by Duke Library; 
+- [ArcGIS Pro quick-start tutorials](https://pro.arcgis.com/en/pro-app/latest/get-started/pro-quickstart-tutorials.htm) by Esri; 
+- [ArcGIS Pro Community](https://community.esri.com/t5/arcgis-pro/ct-p/arcgis-pro) for browsing resources, sharing knowledge, and connecting with other users. 
+
+If you have any questions about the tool or this tutorial, don’t hesitate to reach out to the Data and Visualization Librarian, Siti Lei <siti.lei@dukekunshan.edu.cn> for further support.
 
 
 
