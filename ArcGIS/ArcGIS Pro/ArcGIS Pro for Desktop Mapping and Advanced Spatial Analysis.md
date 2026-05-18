@@ -96,10 +96,15 @@ By the end of this tutorial, you will be able to use ArcGIS Pro to create a dist
 
 ## About the tool
 
-ArcGIS Pro will be used in the tutorial. Visit and follow the [Downloading, Installing and Licensing ArcGIS Pro](</ArcGIS/ArcGIS Pro/Downloading, Installing and Licensing ArcGIS Pro.md>) to download and install the software on your computer. Note that ArcGIS Pro only runs on Windows devices.
+ArcGIS Pro will be used in the tutorial. Visit and follow the [Downloading, Installing and Licensing ArcGIS Pro](</ArcGIS/ArcGIS Pro/Downloading, Installing and Licensing ArcGIS Pro.md>) to download and install the software on your computer. Note that ArcGIS Pro only runs on **Windows** devices.
 
 ## Datasets
 
+[The sample dataset](</ArcGIS/ArcGIS Pro/Dataset/ArcGIS Pro Tutorial Sample Dataset.zip>) is sourced from China Geo-Explore and Figshare, and the data has been cleaned and edited for the purpose of demonstration. The folder contains three files:
+
+- [suzhou_boundary] (Source: https://login.proxy.lib.duke.edu/login?url=http://chinageoexplorer.com/)
+- [suzhou_population.csv] (Source: https://login.proxy.lib.duke.edu/login?url=http://chinageoexplorer.com/) 
+- [suzhou_bus_stops.csv](Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC12886901/)
 
 
 
