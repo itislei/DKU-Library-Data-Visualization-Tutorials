@@ -96,7 +96,7 @@ By the end of this tutorial, you will be able to use ArcGIS Pro to create a dist
 
 ## About the tool
 
-ArcGIS Pro will be used in the tutorial. Visit and follow the [Downloading, Installing and Licensing ArcGIS Pro](/ArcGIS/ArcGIS Pro/Downloading, Installing and Licensing ArcGIS Pro.md) to download and install the software on your computer. Note that ArcGIS Pro only runs on Windows devices.
+ArcGIS Pro will be used in the tutorial. Visit and follow the [Downloading, Installing and Licensing ArcGIS Pro](<ArcGIS/ArcGIS Pro/Downloading, Installing and Licensing ArcGIS Pro.md>) to download and install the software on your computer. Note that ArcGIS Pro only runs on Windows devices.
 
 ## Datasets
 
