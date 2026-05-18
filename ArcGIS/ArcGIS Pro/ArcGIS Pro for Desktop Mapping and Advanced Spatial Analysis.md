@@ -126,10 +126,58 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 2. Create a folder on your computer to store all the files you will use and create during this tutorial. Name it as you prefer (for example, **ArcGIS Pro Tutorial**).
 
 
+3. Move the sample datasets to this folder. 
+4. In the folder, right-click one ZIP file and select **Extract All…** to unzip it. Repeat the same steps for the other file.
 
 
+5. Open **suzhou_boundary** folder and make sure the file contents match those shown in the image below. Note that when importing a shapefile into the project, the accompanying files in the folder are **required** to support it. Without them, the shapefile may not open properly.
 
 
+6. After extracting, delete the ZIP file from the folder.
+
+## Sign in to ArcGIC Pro
+1. Open ArcGIS Pro on your computer. 
+2. In the pop up, select **Your ArcGIS organization’s URL**, enter **dukeuniv**, then click **Continue**.
+
+
+3. Click the **Duke University** button.
+
+
+4. Sign in with your NetID. If you are using your personal computer, you may check **Sign in automatically** in the bottom-left corner.
+
+
+5. Once signed in, you will be directed to the ArcGIS Pro **Home** page.
+
+## Create a map project
+1. In the **Home** page, click on **Map**.
+
+
+2. Give the new map project a name in the **Name** field. For example, **Suzhou Bus Stop Map**.
+
+  
+3. Then for **Location**, select the project folder we created earlier. Note that by default, ArcGIS 
+Pro stores map projects locally on your computer.
+
+
+4. Once **Name** and **Location** are set, click **OK**.
+
+
+5. This will open the project workspace, where you can start working on.
+
+   
+6. The interface of ArcGIS Pro includes: 
+1) Project tab 
+2) The Command Search box 
+3) The ribbon 
+4) Contents pane 
+5) Table view 
+6) Catalog pane
+
+
+7. If any panes are missing, you can reopen them by going to **View > Pane Sets**.
+
+
+## Change basemap
 
 
 
