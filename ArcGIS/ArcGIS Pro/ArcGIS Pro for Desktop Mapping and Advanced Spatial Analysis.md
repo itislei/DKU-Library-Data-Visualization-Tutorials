@@ -71,9 +71,9 @@ This tutorial introduces how to import data, visualize geographic information, p
 
 - [Geodatabase ](#geodatabase)
 
-- [Table](#table)
+- [Table](#table-1)
 
-- [Shapefile](#shapefile)
+- [Shapefile](#shapefile-1)
 
 **[Resources](#resources )**
 
