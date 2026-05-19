@@ -131,6 +131,7 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
    
 4. In the folder, right-click one ZIP file and select **Extract All…** to unzip it. Repeat the same steps for the other file.
 <img width="935" height="365" alt="image65" src="https://github.com/user-attachments/assets/feb6cd3f-da20-431e-a1ef-3693ec1e0135" />
+
 5. Open **suzhou_boundary** folder and make sure the file contents match those shown in the image below. Note that when importing a shapefile into the project, the accompanying files in the folder are **required** to support it. Without them, the shapefile may not open properly.
 <img width="492" height="306" alt="image1" src="https://github.com/user-attachments/assets/c56c3f30-99e6-4341-b21d-d5036960d38c" />
 
