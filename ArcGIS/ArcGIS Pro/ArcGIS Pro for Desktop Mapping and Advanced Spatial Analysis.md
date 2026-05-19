@@ -182,7 +182,7 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 
 ## Change basemap
 
-1. Go to the Map tab, then click Basemap.
+1. Go to the **Map** tab, then click **Basemap**.
 <img width="527" height="134" alt="image32" src="https://github.com/user-attachments/assets/c885916f-7e2b-4e76-8ede-c04b7bc107d0" />
    
 2. Choose a new style from the dropdown menu.
