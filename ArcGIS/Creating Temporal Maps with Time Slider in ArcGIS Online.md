@@ -107,7 +107,7 @@ BLM\_events.xlsx is a data table containing information about a selection of soc
 <img width="317" height="383" alt="image" src="https://github.com/user-attachments/assets/8d4d71f1-d618-48d8-8939-0d63d19e212a" />
 
 
-3. Choose **Dark Grey Canvas**.
+2. Choose **Dark Grey Canvas**.
 
 <img width="240" height="272" alt="image" src="https://github.com/user-attachments/assets/3d5b57c2-364b-4edf-bbdc-ea86a1ac08c2" />
 
