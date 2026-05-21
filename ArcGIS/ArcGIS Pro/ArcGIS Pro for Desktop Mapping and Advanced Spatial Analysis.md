@@ -125,7 +125,7 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 1. Download [the sample dataset](</ArcGIS/ArcGIS Pro/Dataset/ArcGIS Pro Tutorial Sample Dataset.zip>) to your computer. 
 
 2. Create a folder on your computer to store all the files you will use and create during this tutorial. Name it as you prefer (for example, **ArcGIS Pro Tutorial**).
-<img width="627" height="134" alt="image28" src="https://github.com/user-attachments/assets/33d6f4f9-b224-48c1-b8c8-f7331f28b22c" />
+<p align="center"><img width="627" height="134" alt="image28" src="https://github.com/user-attachments/assets/33d6f4f9-b224-48c1-b8c8-f7331f28b22c" />
 
 3. Move the sample datasets to this folder.
    
