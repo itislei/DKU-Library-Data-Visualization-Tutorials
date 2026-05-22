@@ -7,7 +7,7 @@
 
 This tutorial introduces how to create time-based interactive maps using temporal data in ArcGIS Online.
 
-[**Before we start	**](#before-we-start)
+[**Before we start**](#before-we-start)
 
 [Introduction	](#introduction)
 
