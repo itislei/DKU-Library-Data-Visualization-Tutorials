@@ -9,25 +9,25 @@ This tutorial introduces how to create time-based interactive maps using tempora
 
 [**Before we start**](#before-we-start)
 
-[Introduction	](#introduction)
+[**Introduction**](#introduction)
 
-[About the tool	](#about-the-tool)
+[**About the tool**](#about-the-tool)
 
-[Datasets	](#datasets)
+[**Datasets**](#datasets)
 
-[Sign in to ArcGIS Online	](#heading=h.t4fdu5bc38rs)
+[**Sign in to ArcGIS Online**](#heading=h.t4fdu5bc38rs)
 
-[Import Temporal Data	](#import-temporal-data)
+[**Import Temporal Data**](#import-temporal-data)
 
-[Customize Basemap	](#customize-basemap)
+[**Customize Basemap**](#customize-basemap)
 
-[Visualize Event Data	](#visualize-event-data)
+[**Visualize Event Data**](#visualize-event-data)
 
-[Configure Time Setting	](#configure-time-setting)
+[**Configure Time Setting**](#configure-time-setting)
 
-[Configure Time Slider	](#configure-time-slider)
+[**Configure Time Slider**](#configure-time-slider)
 
-[**Resources	**](#resources)
+[**Resources**](#resources)
 
 # 
 
