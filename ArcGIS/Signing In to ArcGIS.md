@@ -22,17 +22,17 @@ This guide provides instructions for signing in ArcGIS Online using your Duke Ne
 
 3. Type in `Dukeuniv` in the box and click Continue.
 
-<p align="center"><img width="400" height="1244" alt="image3" src="https://github.com/user-attachments/assets/cfacc89c-e24a-4743-b169-504356001c99" /></p>
+<p align="center"><img width="400" alt="image3" src="https://github.com/user-attachments/assets/cfacc89c-e24a-4743-b169-504356001c99" /></p>
 
 
 4. Click Duke University. 
 
-<p align="center"><img width="400" height="802" alt="image4" src="https://github.com/user-attachments/assets/1616999e-c305-4a58-9025-8f5d1c295f28" /></p>
+<p align="center"><img width="400" alt="image4" src="https://github.com/user-attachments/assets/1616999e-c305-4a58-9025-8f5d1c295f28" /></p>
 
 
 5. Log in through the Duke login page using your NetID and password.
 
-<p align="center"><img width="400" height="1266" alt="image5" src="https://github.com/user-attachments/assets/46bc15f6-af0e-4ef5-8df2-fb486f911b4f" /></p>
+<p align="center"><img width="400" alt="image5" src="https://github.com/user-attachments/assets/46bc15f6-af0e-4ef5-8df2-fb486f911b4f" /></p>
 
 
 You’re now signed in to ArcGIS Online! 
