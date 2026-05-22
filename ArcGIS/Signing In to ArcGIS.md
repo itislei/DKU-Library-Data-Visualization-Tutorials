@@ -17,7 +17,7 @@ This guide provides instructions for signing in ArcGIS Online using your Duke Ne
 
 2. Select Your ArcGIS organization’s URL. 
 
-<p align="center"><img width="400" height="1134" alt="image2" src="https://github.com/user-attachments/assets/bb125819-16b4-479f-949a-1699b98aa4d2" /></p>
+<p align="center"><img width="400" alt="image2" src="https://github.com/user-attachments/assets/bb125819-16b4-479f-949a-1699b98aa4d2" /></p>
 
 
 3. Type in `Dukeuniv` in the box and click Continue.
