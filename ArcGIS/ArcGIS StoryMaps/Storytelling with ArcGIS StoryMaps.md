@@ -182,7 +182,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 2. Select **Bar chart** from the options and click **Done**.
 
-<img width="1266" height="1260" alt="image6" src="https://github.com/user-attachments/assets/beda7acd-22a0-4056-b0a5-53f677de71c9" />
+<img width="400" alt="image6" src="https://github.com/user-attachments/assets/beda7acd-22a0-4056-b0a5-53f677de71c9" />
 
 3. In the left pane of the new page, copy and paste the content from section \#6 in captions.docx into the table. Note that importing data from an existing file is not supported, and you cannot paste all content at once. You will need to enter the content into each cell individually. Adding multiple columns of data is supported.
 
