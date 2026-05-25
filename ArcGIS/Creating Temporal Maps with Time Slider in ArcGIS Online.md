@@ -73,26 +73,26 @@ BLM\_events.xlsx is a data table containing information about a selection of soc
 
 5. If you have multiple worksheets in the file, select the one that’s going to be used in this project. If you are using BLM\_events.xlsx dataset, make sure **Example** is selected.
 
-<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/19c4dbbb-b6cf-4e57-908e-0a7a9f9dcda2" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/19c4dbbb-b6cf-4e57-908e-0a7a9f9dcda2" />
 
 6. Confirm the data type for each variable. Since we are creating a time series map, ensure that the date variables (**DAY\_START** and **DAY\_END**) are set to the **Date** type. In this sample dataset, also verify that **LATITUDE** and **LONGITUDE** are set to **Single** (or **Double**) and that **POPULATION\_EXPOSURE** is set to **Integer**. Click **Next** when ready.
 
-<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/de178d17-c38c-48b9-85c5-f51c3dd2e8df" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/de178d17-c38c-48b9-85c5-f51c3dd2e8df" />
 
 
 7. Confirm the location data field again, then click **Next**.
 
-<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/d1ee44e6-8c17-420d-a6cd-7ad04b9616f0" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/d1ee44e6-8c17-420d-a6cd-7ad04b9616f0" />
 
 
 8. Name this dataset and select the designated folder to save it. Note that the name should be unique across the organization no matter where you save the data. Example: **BLM\_events\_\[Your NetID\]**. Click **Create and add to map**.
 
-<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/02447322-f1ba-498b-99fb-45782317fa16" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/02447322-f1ba-498b-99fb-45782317fa16" />
 
 
 9. A map layer with all data points in the dataset will be added to your map\!
 
-<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/5a3bf33a-2348-4f33-afbf-a01468776ec3" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/5a3bf33a-2348-4f33-afbf-a01468776ec3" />
 
 
 10. Go to **Layers** in the contents toolbar to check the data layer added to the project.
@@ -157,17 +157,17 @@ Time settings can be configured in the detail view of each map item. To access t
 
 1. Make sure the map project has been saved, then click the **hamburger (three dashes)icon** in the top-left corner of the page and select **Content**.
 
-<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/3a5d5def-e1ba-43a9-b77e-f9dec3a88357" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/3a5d5def-e1ba-43a9-b77e-f9dec3a88357" />
 
 
 2. Locate the BLM\_events map layer, click on the ellipsis (three-dot) icon and go **View details**.
 
-<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/1691177f-f580-44b0-b33f-defe1eef2760" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/1691177f-f580-44b0-b33f-defe1eef2760" />
 
 
 3. In the layer page, scroll down to **Layers** and click **Example** to expand the item.
 
-<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/7cd32c8e-0a46-4d69-93c9-79f484db3252" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/7cd32c8e-0a46-4d69-93c9-79f484db3252" />
 
 
 4. In the item page, scroll down to **Time settings**, then click **Edit**.
@@ -188,7 +188,7 @@ Time settings can be configured in the detail view of each map item. To access t
 
 8. Now, a time slider will appear in the map.
 
-<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/0aac3057-565f-4766-bd48-b2b4655babbe" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/0aac3057-565f-4766-bd48-b2b4655babbe" />
 
 
 ## **Configure Time Slider** 
@@ -197,17 +197,17 @@ In ArcGIS Online, you may configure the time range, speed, and playback for your
 
 1. Once the time setting has been configured successfully and the time slider appears in the map view, click the settings icon on the right side of the slider. 
 
-<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/bb5a6467-e164-4477-b0ec-4057e358b362" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/bb5a6467-e164-4477-b0ec-4057e358b362" />
 
 
 2. In the pop-up window, explore each tab to adjust how the animation works. For example, to make the animation play faster, go to **Playback rate** and drag the slider all the way to the right to "Fast."
 
-<img width="297" height="213" alt="image" src="https://github.com/user-attachments/assets/2ee55767-2256-4918-8abb-9eebf29022b9" />
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/2ee55767-2256-4918-8abb-9eebf29022b9" />
 
 
 3. Make sure you save the project before leaving the page by going to **Save and open \> Save** in the left content toolbar.
 
-<img width="319" height="155" alt="image" src="https://github.com/user-attachments/assets/04b44a28-e1dc-4a4b-a305-1c920eb2a9f0" />
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/04b44a28-e1dc-4a4b-a305-1c920eb2a9f0" />
 
 
 # **Resources** 
