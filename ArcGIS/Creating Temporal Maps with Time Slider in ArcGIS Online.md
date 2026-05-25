@@ -104,27 +104,27 @@ BLM\_events.xlsx is a data table containing information about a selection of soc
 
 1. In the map view, go to **Basemap** in the contents toolbar.
 
-<p align="center"><img width="430" alt="image" src="https://github.com/user-attachments/assets/8d4d71f1-d618-48d8-8939-0d63d19e212a" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/8d4d71f1-d618-48d8-8939-0d63d19e212a" />
 
 
 2. Choose **Dark Grey Canvas**.
 
-<p align="center"><img width="430" alt="image" src="https://github.com/user-attachments/assets/3d5b57c2-364b-4edf-bbdc-ea86a1ac08c2" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/3d5b57c2-364b-4edf-bbdc-ea86a1ac08c2" />
 
 
 3. Click the **close icon** to close the options.
 
-<p align="center"><img width="430" alt="image" src="https://github.com/user-attachments/assets/e6280752-4011-4e6b-a910-e7683b8abfe9" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/e6280752-4011-4e6b-a910-e7683b8abfe9" />
 
 
 4. Go to **Save and open** \> **Save as**.
 
-<p align="center"><img width="430" alt="image" src="https://github.com/user-attachments/assets/88c8bba0-9b4f-4e7a-a5af-916894395008" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/88c8bba0-9b4f-4e7a-a5af-916894395008" />
 
 
 5. Name this map project and select the designated folder to save it. Note that the name should be unique across the organization no matter where you save the project. Example: **Time\_Series\_Map\_\[Your NetID\]**. Click **Save**.
 
-<p align="center"><img width="430" alt="image" src="https://github.com/user-attachments/assets/65c70818-58d7-48ed-86f1-0f801211375d" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/65c70818-58d7-48ed-86f1-0f801211375d" />
 
 
 ## **Visualize Event Data** 
@@ -162,33 +162,33 @@ Time settings can be configured in the detail view of each map item. To access t
 
 2. Locate the BLM\_events map layer, click on the ellipsis (three-dot) icon and go **View details**.
 
-<img width="470" height="144" alt="image" src="https://github.com/user-attachments/assets/1691177f-f580-44b0-b33f-defe1eef2760" />
+<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/1691177f-f580-44b0-b33f-defe1eef2760" />
 
 
 3. In the layer page, scroll down to **Layers** and click **Example** to expand the item.
 
-<img width="463" height="81" alt="image" src="https://github.com/user-attachments/assets/7cd32c8e-0a46-4d69-93c9-79f484db3252" />
+<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/7cd32c8e-0a46-4d69-93c9-79f484db3252" />
 
 
 4. In the item page, scroll down to **Time settings**, then click **Edit**.
 
-<img width="232" height="324" alt="image" src="https://github.com/user-attachments/assets/8c49a610-1d62-4e02-8975-bbadb4955197" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/8c49a610-1d62-4e02-8975-bbadb4955197" />
 
 
 5. In the pop up, check **Enable time**. Next, check **time ranges with a start and end time**, and make sure the variables (DAY\_START and DAY\_END) are picked up correctly. Click **OK** to confirm.
 
-<img width="245" height="247" alt="image" src="https://github.com/user-attachments/assets/222bdeae-7d22-48c7-99ee-de7ac549098d" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/222bdeae-7d22-48c7-99ee-de7ac549098d" />
 
 
 6. Return to **Content**, click to open the **Time Series Map** project again.  
 7. In the detail page, select **Open in Map Viewer**. 
 
-<img width="189" height="288" alt="image" src="https://github.com/user-attachments/assets/1cb30815-065e-40df-b872-94730889ecce" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/1cb30815-065e-40df-b872-94730889ecce" />
 
 
 8. Now, a time slider will appear in the map.
 
-<img width="468" height="97" alt="image" src="https://github.com/user-attachments/assets/0aac3057-565f-4766-bd48-b2b4655babbe" />
+<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/0aac3057-565f-4766-bd48-b2b4655babbe" />
 
 
 ## **Configure Time Slider** 
@@ -197,7 +197,7 @@ In ArcGIS Online, you may configure the time range, speed, and playback for your
 
 1. Once the time setting has been configured successfully and the time slider appears in the map view, click the settings icon on the right side of the slider. 
 
-<img width="468" height="96" alt="image" src="https://github.com/user-attachments/assets/bb5a6467-e164-4477-b0ec-4057e358b362" />
+<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/bb5a6467-e164-4477-b0ec-4057e358b362" />
 
 
 2. In the pop-up window, explore each tab to adjust how the animation works. For example, to make the animation play faster, go to **Playback rate** and drag the slider all the way to the right to "Fast."
