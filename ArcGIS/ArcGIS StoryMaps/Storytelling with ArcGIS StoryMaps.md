@@ -259,7 +259,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 
 9. Select **Donut chart** from the options and click **Done**.
-<img width="650" alt="charts 9" src="https://github.com/user-attachments/assets/df90209b-7be7-4730-bfc6-cd32b9bc8c23" />
+<img width="550" alt="charts 9" src="https://github.com/user-attachments/assets/df90209b-7be7-4730-bfc6-cd32b9bc8c23" />
 
 
 10. Again, copy and paste the content under \#6 in captions.docx into the table on the left pane of the new page. Note that the donut chart can only work with two data columns.
@@ -292,46 +292,46 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 1. Below the charts, click on the **\+** icon and select **Map** from the list.
 
-<img width="1956" height="1274" alt="d web map 1" src="https://github.com/user-attachments/assets/fdac1698-0658-4fd4-af6b-3d3cb05613fa" />
+<img width="650" alt="d web map 1" src="https://github.com/user-attachments/assets/fdac1698-0658-4fd4-af6b-3d3cb05613fa" />
 
 
 
 2. On the new page, if you followed and completed the ArcGIS Online tutorial, you should be able to find your web map project saved under **My Content**. Click on it to continue.
 
-<img width="2007" height="1243" alt="d web map 2" src="https://github.com/user-attachments/assets/26091b17-6cfd-4bff-8fb3-056dd621cddf" />
+<img width="650" alt="d web map 2" src="https://github.com/user-attachments/assets/26091b17-6cfd-4bff-8fb3-056dd621cddf" />
 
 
 3. If you do not see it under **My Content**, switch to **My Organization** and search for **ArcGIS Online Demo**. Select the item that matches the search terms exactly.
-<img width="2007" height="1243" alt="d web map 3" src="https://github.com/user-attachments/assets/b9354847-0759-4f5c-8944-0759e4885d01" />
+<img width="650" alt="d web map 3" src="https://github.com/user-attachments/assets/b9354847-0759-4f5c-8944-0759e4885d01" />
 
 
 4. Under **Layers** tab, make sure that **Count of airports in provinces** and **China Province Boundaries** layers are visible as all others are hidden.  
 5. Under **Layers** tab, make sure that **Chinese provinces with other 10 airports** and **China Province Boundaries** layers are visible as all others are hidden.
 
-<img width="840" height="846" alt="d web map 5" src="https://github.com/user-attachments/assets/1ef745fd-a973-4b52-9d05-a396627b6a30" />
+<img width="550" alt="d web map 5" src="https://github.com/user-attachments/assets/1ef745fd-a973-4b52-9d05-a396627b6a30" />
 
 
 
 6. Use the mouse wheel or the **Zoom In** and **Zoom Out** icons at the bottom right corner to adjust the visibility level, then click **Save** to continue.
 
-<img width="2007" height="1414" alt="d web map 6" src="https://github.com/user-attachments/assets/7be6a405-f26d-4d2e-8802-cdf3f365c026" />
+<img width="650" alt="d web map 6" src="https://github.com/user-attachments/assets/7be6a405-f26d-4d2e-8802-cdf3f365c026" />
 
 
 
 7. Back to the project, copy the content from section \#8 in captions.docx and paste it under the map as the caption.
 
-<img width="2007" height="1205" alt="d web map 7" src="https://github.com/user-attachments/assets/b059c260-fa7f-4b0a-93fc-f72fa819c4ee" />
+<img width="650" alt="d web map 7" src="https://github.com/user-attachments/assets/b059c260-fa7f-4b0a-93fc-f72fa819c4ee" />
 
 
 8. Hover over the map, and a toolbar will appear. From there, you can edit the map view, adjust the view window, or remove the map.
 
-<img width="990" height="332" alt="d web map 8" src="https://github.com/user-attachments/assets/0689cb21-6195-4883-a96d-2932400af997" />
+<img width="650" alt="d web map 8" src="https://github.com/user-attachments/assets/0689cb21-6195-4883-a96d-2932400af997" />
 
 
 
 9. In the next line, click **\+** icon to add a new separator.
 
-<img width="1720" height="1068" alt="d web map 9" src="https://github.com/user-attachments/assets/7eacc5dc-00cd-44cf-8512-30b28daba77c" />
+<img width="650" alt="d web map 9" src="https://github.com/user-attachments/assets/7eacc5dc-00cd-44cf-8512-30b28daba77c" />
 
 
 
