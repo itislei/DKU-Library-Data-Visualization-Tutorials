@@ -202,12 +202,12 @@ In ArcGIS Online, you may configure the time range, speed, and playback for your
 
 2. In the pop-up window, explore each tab to adjust how the animation works. For example, to make the animation play faster, go to **Playback rate** and drag the slider all the way to the right to "Fast."
 
-<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/2ee55767-2256-4918-8abb-9eebf29022b9" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/2ee55767-2256-4918-8abb-9eebf29022b9" />
 
 
 3. Make sure you save the project before leaving the page by going to **Save and open \> Save** in the left content toolbar.
 
-<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/04b44a28-e1dc-4a4b-a305-1c920eb2a9f0" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/04b44a28-e1dc-4a4b-a305-1c920eb2a9f0" />
 
 
 # **Resources** 
