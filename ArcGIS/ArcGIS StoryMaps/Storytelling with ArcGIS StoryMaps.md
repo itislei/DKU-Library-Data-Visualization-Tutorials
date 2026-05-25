@@ -430,12 +430,12 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 1. Below the web map, click the **\+** icon and select **Text** from the list. Copy and paste the content under \#13 in captions.docx into the text box. Then change the font style of **“Map 3”** from **Paragraph** to **Heading 1**, and change **“Airport Locations in Jiangsu Province”** to **Heading 2**.  
 2. Below the text, click the **\+** icon and select **Swipe**.
 
-<img width="933" height="625" alt="f swipe 2" src="https://github.com/user-attachments/assets/5b2800df-efa7-4594-b5ba-e2bc5afccd68" />
+<img width="650" alt="f swipe 2" src="https://github.com/user-attachments/assets/5b2800df-efa7-4594-b5ba-e2bc5afccd68" />
 
 
 3. First, click on **Add media** on the left pane.
 
-<img width="905" height="548" alt="f swipe 3" src="https://github.com/user-attachments/assets/1bac47c9-f75b-4b11-88ef-b439af14dce6" />
+<img width="650" alt="f swipe 3" src="https://github.com/user-attachments/assets/1bac47c9-f75b-4b11-88ef-b439af14dce6" />
 
 
 4. Select **Web Map** from the options. Note that you can also add an image (e.g., scan of physical map) here.
@@ -453,42 +453,42 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 7. Use the mouse wheel or the **Zoom In** and **Zoom Out** icons at the bottom right corner to adjust the visibility level. Make sure Jiangsu Province is centered and clearly visible on the view, then click **Save** to continue.
 
-<img width="1501" height="873" alt="f swipe 7" src="https://github.com/user-attachments/assets/fd082ece-0857-4c97-909b-cd97a04ffeb3" />
+<img width="650" alt="f swipe 7" src="https://github.com/user-attachments/assets/fd082ece-0857-4c97-909b-cd97a04ffeb3" />
 
 
 
 8. Click on **Add web map** at the right pane.
 
-<img width="915" height="550" alt="f swipe 8" src="https://github.com/user-attachments/assets/2ad5ae82-a548-4d10-869e-9ecd15301fd1" />
+<img width="650"  alt="f swipe 8" src="https://github.com/user-attachments/assets/2ad5ae82-a548-4d10-869e-9ecd15301fd1" />
 
 
 9. Now, filter to **Living Atlas** and **World**, then pick an option from the result list. For this tutorial, let’s pick up **Open Basemap (Streets)**.
 
-<img width="1215" height="814" alt="f swipe 9" src="https://github.com/user-attachments/assets/fe5632b9-f4f3-45c7-999f-36eb6f0a1b8a" />
+<img width="650" " alt="f swipe 9" src="https://github.com/user-attachments/assets/fe5632b9-f4f3-45c7-999f-36eb6f0a1b8a" />
 
 
 
 10. Use the mouse wheel or the **Zoom In** and **Zoom Out** icons at the bottom right corner to adjust the visibility level. Make sure Jiangsu Province is centered and clearly visible on the view, then click **Save** to continue.
 
-<img width="1581" height="891" alt="f swipe 10" src="https://github.com/user-attachments/assets/07b1c5b4-4e6d-47b2-958f-f043e129fb58" />
+<img width="650"  alt="f swipe 10" src="https://github.com/user-attachments/assets/07b1c5b4-4e6d-47b2-958f-f043e129fb58" />
 
 
 
 11. If you think the visibility level needs changes, you can always click on the **Edit** icon under each map in the swipe to change it.
 
-<img width="753" height="445" alt="f swipe 11" src="https://github.com/user-attachments/assets/c796fd76-66b7-4003-a5fa-8ce3e34b47e1" />
+<img width="650"  alt="f swipe 11" src="https://github.com/user-attachments/assets/c796fd76-66b7-4003-a5fa-8ce3e34b47e1" />
 
 
 
 12. Once you have finished editing the map, drag the **Swipe** icon across the map to compare the layers. You can also use the **Zoom In** and **Zoom Out** icons to adjust the visibility level.
 
-<img width="945" height="543" alt="f swipe 12" src="https://github.com/user-attachments/assets/f58bbb2e-ef26-41a9-83b4-935da5d76e93" />
+<img width="650" alt="f swipe 12" src="https://github.com/user-attachments/assets/f58bbb2e-ef26-41a9-83b4-935da5d76e93" />
 
 
 
 13. Don’t forget to add a caption to the maps. Copy and paste the content under \#14 in the caption file.
 
-<img width="895" height="539" alt="f swipe 13" src="https://github.com/user-attachments/assets/4b62416e-cc02-4da0-9abd-f4d02b204f81" />
+<img width="650" alt="f swipe 13" src="https://github.com/user-attachments/assets/4b62416e-cc02-4da0-9abd-f4d02b204f81" />
 
 
 
@@ -505,81 +505,81 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 1. Below the swipe, click the **\+** icon and select **Text** from the list. Copy and paste the content under \#15 in captions.docx into the text box. Then change the font style of **“Map 4”** from **Paragraph** to **Heading 1**, and change **“Three Closest Airports to DKU”** to **Heading 2**.  
 2. Below the text, click the \+ icon and select **Map tour**.
 
-<img width="638" height="672" alt="map tour 2" src="https://github.com/user-attachments/assets/4fa78fe7-b34a-4dc9-aaba-f0edce659b25" />
+<img width="550" alt="map tour 2" src="https://github.com/user-attachments/assets/4fa78fe7-b34a-4dc9-aaba-f0edce659b25" />
 
 
 3. From the options, select **Upload photos**.
 
-<img width="1222" height="584" alt="map tour 3" src="https://github.com/user-attachments/assets/0ea9a264-19bd-4537-bddd-2fdff56973d9" />
+<img width="650" alt="map tour 3" src="https://github.com/user-attachments/assets/0ea9a264-19bd-4537-bddd-2fdff56973d9" />
 
 
 
 4. Click **Browse your files**.
 
-<img width="573" height="575" alt="map tour 4" src="https://github.com/user-attachments/assets/58556918-8a50-42f3-8df8-651dc2dc50a8" />
+<img width="400" alt="map tour 4" src="https://github.com/user-attachments/assets/58556918-8a50-42f3-8df8-651dc2dc50a8" />
 
 
 
 5. Navigate to the sites folder from the sample datasets, and select all image files except 0\_Airport\_on\_Runway, then click **Open**. To select multiple files at once, click the first item, press the **Shift** key on your keyboard, and then click the last item to select all at once.
 
-<img width="1864" height="1084" alt="map tour 5" src="https://github.com/user-attachments/assets/537e68b3-7358-4ba7-a47d-4592b6eddbea" />
+<img width="650" alt="map tour 5" src="https://github.com/user-attachments/assets/537e68b3-7358-4ba7-a47d-4592b6eddbea" />
 
 
 
 6. Make sure 4 images are selected, click **Add**.
 
-<img width="1272" height="1266" alt="map tour 6" src="https://github.com/user-attachments/assets/d1f13605-6995-4177-962a-9485c20847ff" />
+<img width="650" alt="map tour 6" src="https://github.com/user-attachments/assets/d1f13605-6995-4177-962a-9485c20847ff" />
 
 
 
 7. For the layout, select **List** under **Explorer tour**, and click **Save**.
 
-<img width="1268" height="1429" alt="map tour 7" src="https://github.com/user-attachments/assets/467c6224-faea-44b4-b968-3ade63a4762e" />
+<img width="650" alt="map tour 7" src="https://github.com/user-attachments/assets/467c6224-faea-44b4-b968-3ade63a4762e" />
 
 
 8. Copy and paste the content under \#16 in captions.docx as the title and \#17 as the description for the first image into the text box.
 
-<img width="2007" height="977" alt="map tour 8" src="https://github.com/user-attachments/assets/7fe0c4c9-080e-477e-872c-025e34f5af21" />
+<img width="650" alt="map tour 8" src="https://github.com/user-attachments/assets/7fe0c4c9-080e-477e-872c-025e34f5af21" />
 
 
 
 9. Next, open **Map\_tour\_data.csv** on your local computer. Drag and select the values under **LAT** and **LNG** for **Duke Kunshan University**.
 
-<img width="1442" height="506" alt="map tour 9" src="https://github.com/user-attachments/assets/26b4b694-9407-4dd8-b8ed-4dad7c4dfb7b" />
+<img width="650" alt="map tour 9" src="https://github.com/user-attachments/assets/26b4b694-9407-4dd8-b8ed-4dad7c4dfb7b" />
 
 
 
 10. Right-click and select **Copy**. Alternatively, press **Ctrl \+ C** on Windows (or **Command \+ C** on Mac) to copy.
 
-<img width="1002" height="564" alt="map tour 10" src="https://github.com/user-attachments/assets/d668016c-a64a-4658-ad6d-f885d0cf5216" />
+<img width="650"  alt="map tour 10" src="https://github.com/user-attachments/assets/d668016c-a64a-4658-ad6d-f885d0cf5216" />
 
 
 
 11. Go back to the StoryMap and click **Add location** on the **Duke Kunshan University** card.
 
-<img width="870" height="542" alt="map tour 11" src="https://github.com/user-attachments/assets/b94cc270-9a02-4048-8867-0a2efd70375c" />
+<img width="550"  alt="map tour 11" src="https://github.com/user-attachments/assets/b94cc270-9a02-4048-8867-0a2efd70375c" />
 
 
 
 12. On the new page, paste the values into the search box in the top-right corner. A dropdown list of matching place names will appear. However, since we are searching by coordinates, press **Enter** to commit the search.
 
-<img width="1228" height="664" alt="map tour 12" src="https://github.com/user-attachments/assets/f6b34c31-3c43-4a15-adc4-9fae6fb22593" />
+<img width="650" alt="map tour 12" src="https://github.com/user-attachments/assets/f6b34c31-3c43-4a15-adc4-9fae6fb22593" />
 
 
 13. This will take you to a location near the DKU campus. Zoom out slightly and you will notice the marker is a bit off. Click **Close**, then reselect the correct location. If you are satisfied with the updated location, click **Add to map** to confirm.
 
-<img width="2007" height="1050" alt="map tour 13" src="https://github.com/user-attachments/assets/bd3496d5-546f-4519-81b5-23d856643eb1" />
+<img width="650" alt="map tour 13" src="https://github.com/user-attachments/assets/bd3496d5-546f-4519-81b5-23d856643eb1" />
 
 
 
 14. Move your cursor to the center of DKU and click to place a marker.
 
-<img width="1204" height="774" alt="map tour 14" src="https://github.com/user-attachments/assets/aa82ce9f-cda8-487b-96b8-b47398644e5a" />
+<img width="650" alt="map tour 14" src="https://github.com/user-attachments/assets/aa82ce9f-cda8-487b-96b8-b47398644e5a" />
 
 
 15. Set the visibility level to **Use the current zoom level**, then click **Save**.
 
-<img width="758" height="666" alt="map tour 15" src="https://github.com/user-attachments/assets/bf973679-4053-4968-8c76-152017c54a73" />
+<img width="550"  alt="map tour 15" src="https://github.com/user-attachments/assets/bf973679-4053-4968-8c76-152017c54a73" />
 
 
 16. Once editing is complete, switch to the second image from the bottom of the list, or use the mouse wheel to continue making changes.  
