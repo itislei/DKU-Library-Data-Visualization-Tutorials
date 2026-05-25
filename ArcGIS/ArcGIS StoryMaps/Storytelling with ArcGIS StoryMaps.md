@@ -611,7 +611,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 2. You may change the title, subtitle, cover by clicking on the **Edit** on the left pane.
 
-<img width="900" height="1044" alt="publish storymap 2" src="https://github.com/user-attachments/assets/9b3d8f4d-b968-4564-95c7-25bb49df7f15" />
+<img width="650"  alt="publish storymap 2" src="https://github.com/user-attachments/assets/9b3d8f4d-b968-4564-95c7-25bb49df7f15" />
 
 
 
@@ -629,19 +629,19 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 5. You may also set some advanced options for the sharing, such as allowing others to duplicate or showing your project in the web search results if you set the project to be visible to the public.  
 6. When everything is set, click **Publish**.
 
-<img width="610" height="266" alt="publish storymap 6" src="https://github.com/user-attachments/assets/f3f85762-a4c1-4e52-ab35-947935314d26" />
+<img width="400" alt="publish storymap 6" src="https://github.com/user-attachments/assets/f3f85762-a4c1-4e52-ab35-947935314d26" />
 
 
 7. Now the project should be published. And there are several ways to share it to others and view.
 
-<img width="492" height="221" alt="publish storymap 7" src="https://github.com/user-attachments/assets/d60f57e2-7e3b-48ae-be15-68d93c5913b5" />
+<img width="400"  alt="publish storymap 7" src="https://github.com/user-attachments/assets/d60f57e2-7e3b-48ae-be15-68d93c5913b5" />
 
 
 # **View and Save StoryMap**
 
 1. After the project is completed, you may click on the View published story button, or copy the link and open in a new tab, or scan the QR code to open. You may also share the link or the QR code.
 
-<img width="650" alt="view and save 1" src="https://github.com/user-attachments/assets/94e40d23-7a49-4a7e-bd85-bd4228b13135" />
+<img width="550" alt="view and save 1" src="https://github.com/user-attachments/assets/94e40d23-7a49-4a7e-bd85-bd4228b13135" />
 
 
 
@@ -649,23 +649,23 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 3. In the project, you may use the mouse wheel and cursor to scroll through and review the content.  
 4. Click the ellipsis (three-dot) icon in the top-right corner to check additional action options.
 
-<img width="584" height="176" alt="view and save 4" src="https://github.com/user-attachments/assets/78d39418-98ee-4994-a2ea-5598bd0ea89f" />
+<img width="550" alt="view and save 4" src="https://github.com/user-attachments/assets/78d39418-98ee-4994-a2ea-5598bd0ea89f" />
 
 
 5. Note that StoryMaps can be viewed in autoplay mode. To enable this feature, click the ellipsis (three-dot) icon and select **Turn autoplay on**.
 
-<img width="400"  alt="view and save 5" src="https://github.com/user-attachments/assets/37922675-9709-4572-9dea-8352aac8ee4f" />
+<img width="300"  alt="view and save 5" src="https://github.com/user-attachments/assets/37922675-9709-4572-9dea-8352aac8ee4f" />
 
 
 
 6. You can also export your project as a PDF by selecting **Print preview** from the same menu.
 
-<img width="400" alt="view and save 6" src="https://github.com/user-attachments/assets/6b8bc44a-4fbe-4636-9f50-37e61091d25a" />
+<img width="300" alt="view and save 6" src="https://github.com/user-attachments/assets/6b8bc44a-4fbe-4636-9f50-37e61091d25a" />
 
 
 7. Finally, you can save your project as a template by clicking **Save as template**. This allows you to reuse the same layout and assets in the future while simply replacing the content.
 
-<img width="400"  alt="view and save 7" src="https://github.com/user-attachments/assets/03a70e14-3959-4aca-8794-ce5ec0888806" />
+<img width="300"  alt="view and save 7" src="https://github.com/user-attachments/assets/03a70e14-3959-4aca-8794-ce5ec0888806" />
 
 
 
