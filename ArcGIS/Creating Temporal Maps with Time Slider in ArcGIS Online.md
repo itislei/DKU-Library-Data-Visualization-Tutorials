@@ -65,66 +65,66 @@ BLM\_events.xlsx is a data table containing information about a selection of soc
 2. Go to **Map** in the header menu.  
 3. Once in the map view, go to the left contents toolbar, select **Add**, then **Add layer from file**.
 
-<img width="420" height="440" alt="image" src="https://github.com/user-attachments/assets/2812d77a-173d-4eb5-989b-ebb801e15aac" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/2812d77a-173d-4eb5-989b-ebb801e15aac" />
 
 4. Click **Your device** button, then select **BLM\_events.xlsx** file (downloaded from the setup files) from its saved location and click **Open**. Alternatively, drag and drop the file into the pop-up window.
 
-<img width="1345" height="675" alt="image23" src="https://github.com/user-attachments/assets/f9e18fa3-33d8-4899-8ef3-e94ca36ff131" />
+<p align="center"><img width="800"alt="image23" src="https://github.com/user-attachments/assets/f9e18fa3-33d8-4899-8ef3-e94ca36ff131" />
 
 5. If you have multiple worksheets in the file, select the one that’s going to be used in this project. If you are using BLM\_events.xlsx dataset, make sure **Example** is selected.
 
-<img width="415" height="266" alt="image" src="https://github.com/user-attachments/assets/19c4dbbb-b6cf-4e57-908e-0a7a9f9dcda2" />
+<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/19c4dbbb-b6cf-4e57-908e-0a7a9f9dcda2" />
 
 6. Confirm the data type for each variable. Since we are creating a time series map, ensure that the date variables (**DAY\_START** and **DAY\_END**) are set to the **Date** type. In this sample dataset, also verify that **LATITUDE** and **LONGITUDE** are set to **Single** (or **Double**) and that **POPULATION\_EXPOSURE** is set to **Integer**. Click **Next** when ready.
 
-<img width="389" height="250" alt="image" src="https://github.com/user-attachments/assets/de178d17-c38c-48b9-85c5-f51c3dd2e8df" />
+<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/de178d17-c38c-48b9-85c5-f51c3dd2e8df" />
 
 
 7. Confirm the location data field again, then click **Next**.
 
-<img width="465" height="298" alt="image" src="https://github.com/user-attachments/assets/d1ee44e6-8c17-420d-a6cd-7ad04b9616f0" />
+<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/d1ee44e6-8c17-420d-a6cd-7ad04b9616f0" />
 
 
 8. Name this dataset and select the designated folder to save it. Note that the name should be unique across the organization no matter where you save the data. Example: **BLM\_events\_\[Your NetID\]**. Click **Create and add to map**.
 
-<img width="432" height="276" alt="image" src="https://github.com/user-attachments/assets/02447322-f1ba-498b-99fb-45782317fa16" />
+<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/02447322-f1ba-498b-99fb-45782317fa16" />
 
 
 9. A map layer with all data points in the dataset will be added to your map\!
 
-<img width="470" height="291" alt="image" src="https://github.com/user-attachments/assets/5a3bf33a-2348-4f33-afbf-a01468776ec3" />
+<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/5a3bf33a-2348-4f33-afbf-a01468776ec3" />
 
 
 10. Go to **Layers** in the contents toolbar to check the data layer added to the project.
 
-<img width="310" height="125" alt="image" src="https://github.com/user-attachments/assets/ea92edec-8db6-4222-922a-1b0fe339e911" />
+<p align="center"><img width="310" height="125" alt="image" src="https://github.com/user-attachments/assets/ea92edec-8db6-4222-922a-1b0fe339e911" />
 
 
 ## **Customize Basemap** 
 
 1. In the map view, go to **Basemap** in the contents toolbar.
 
-<img width="317" height="383" alt="image" src="https://github.com/user-attachments/assets/8d4d71f1-d618-48d8-8939-0d63d19e212a" />
+<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/8d4d71f1-d618-48d8-8939-0d63d19e212a" />
 
 
 2. Choose **Dark Grey Canvas**.
 
-<img width="240" height="272" alt="image" src="https://github.com/user-attachments/assets/3d5b57c2-364b-4edf-bbdc-ea86a1ac08c2" />
+<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/3d5b57c2-364b-4edf-bbdc-ea86a1ac08c2" />
 
 
 3. Click the **close icon** to close the options.
 
-<img width="230" height="270" alt="image" src="https://github.com/user-attachments/assets/e6280752-4011-4e6b-a910-e7683b8abfe9" />
+<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/e6280752-4011-4e6b-a910-e7683b8abfe9" />
 
 
 4. Go to **Save and open** \> **Save as**.
 
-<img width="267" height="130" alt="image" src="https://github.com/user-attachments/assets/88c8bba0-9b4f-4e7a-a5af-916894395008" />
+<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/88c8bba0-9b4f-4e7a-a5af-916894395008" />
 
 
 5. Name this map project and select the designated folder to save it. Note that the name should be unique across the organization no matter where you save the project. Example: **Time\_Series\_Map\_\[Your NetID\]**. Click **Save**.
 
-<img width="376" height="420" alt="image" src="https://github.com/user-attachments/assets/65c70818-58d7-48ed-86f1-0f801211375d" />
+<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/65c70818-58d7-48ed-86f1-0f801211375d" />
 
 
 ## **Visualize Event Data** 
