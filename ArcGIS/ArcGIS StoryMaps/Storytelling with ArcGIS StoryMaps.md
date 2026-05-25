@@ -224,105 +224,114 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 3. In the left pane of the new page, copy and paste the content from section \#6 in captions.docx into the table. Note that importing data from an existing file is not supported, and you cannot paste all content at once. You will need to enter the content into each cell individually. Adding multiple columns of data is supported.
 
-<img width="564" height="442" alt="image" src="https://github.com/user-attachments/assets/d07cc068-2af9-4ec6-891c-92ba75fa8d31" />
+<img width="838" height="658" alt="charts 3" src="https://github.com/user-attachments/assets/bdcc56b4-bd0b-486e-a7b4-26b041e9f160" />
+
 
 
 4. Switch to **Settings** from **Data** tab, copy and paste 
 
-<img width="624" height="230" alt="image" src="https://github.com/user-attachments/assets/317f6edf-3fbd-49ac-9411-37e817a6bb96" />
+<img width="830" height="312" alt="charts 4" src="https://github.com/user-attachments/assets/bc547363-21a0-4117-98e7-c855973dedeb" />
+
 
 
 5. Remove the values under **Chart title**, enter **Region of China** in the **Category axis title** field, and **Count of Provinces** in the **Value axis title** field.
 
-<img width="594" height="403" alt="image" src="https://github.com/user-attachments/assets/78d56198-0e16-4297-9b18-4ef29a8bf2c8" />
+<img width="830" height="566" alt="charts 5" src="https://github.com/user-attachments/assets/5860737e-3d78-48b4-a1cb-d8a679669780" />
+
 
 
 6. Toggle on **Customize axis**, and enter **3** in the field.
 
-<img width="588" height="217" alt="image" src="https://github.com/user-attachments/assets/c72c0ad2-549b-4d5b-b206-5d98ea85257a" />
+<img width="830" height="310" alt="charts 6" src="https://github.com/user-attachments/assets/7e496919-1a8c-41b2-9e97-9e35d155705d" />
 
 
 7. Review the changes and click **Save** to confirm.
 
-<img width="818" height="540" alt="image" src="https://github.com/user-attachments/assets/8076ec88-b145-444d-ad76-42eff4312a16" />
+<img width="2007" height="1330" alt="charts 7" src="https://github.com/user-attachments/assets/3066d530-dc32-4ee7-9812-a98487035137" />
+
 
 
 8. Back to the project, click **Add another block** as we are going to add the donut chart.
 
-<img width="415" height="336" alt="image" src="https://github.com/user-attachments/assets/039c4c8f-39d0-4ede-abf6-85385c44c36b" />
+<img width="420" height="349" alt="charts 8" src="https://github.com/user-attachments/assets/17d697a8-f799-4283-83fa-e65c47b5b0ae" />
+
 
 
 9. Select **Donut chart** from the options and click **Done**.
-
-<img width="691" height="683" alt="image" src="https://github.com/user-attachments/assets/fb378fae-3330-4469-9278-762af5b94ea0" />
+<img width="1266" height="1264" alt="charts 9" src="https://github.com/user-attachments/assets/df90209b-7be7-4730-bfc6-cd32b9bc8c23" />
 
 
 10. Again, copy and paste the content under \#6 in captions.docx into the table on the left pane of the new page. Note that the donut chart can only work with two data columns.
 
-<img width="623" height="550" alt="image" src="https://github.com/user-attachments/assets/09ccbd7c-6205-4600-9d69-0ae5f52ca3e2" />
-
+<img width="838" height="744" alt="charts 10" src="https://github.com/user-attachments/assets/b98a8638-6f6f-4243-b0cd-b06c8e70b3bf" />
 
 11. Switch to the **Settings** tab and delete all content in the **Chart title** field.
 
-<img width="500" height="677" alt="image" src="https://github.com/user-attachments/assets/55af9ee6-8161-4494-a9e2-74536ac310ed" />
+<img width="838" height="1132" alt="charts 11" src="https://github.com/user-attachments/assets/07860821-b78e-4a1d-8cd9-d10246525ad4" />
 
 
 12. Review the chart, then click **Save** when it's ready.
 
-<img width="846" height="557" alt="image" src="https://github.com/user-attachments/assets/2cc5e81b-548c-4bf1-ba6a-cd914a5f4319" />
+<img width="2007" height="1330" alt="charts 12" src="https://github.com/user-attachments/assets/b77216b1-de99-449c-b9c9-0e0a15ffaa28" />
+
 
 
 13. Return to the project, then copy the content from section \#7 in captions.docx and paste it under the charts as the caption. Click anywhere outside the box to save the changes. 
 
-<img width="975" height="390" alt="image" src="https://github.com/user-attachments/assets/a073b5f4-db92-469a-a5b5-80b544e206ca" />
+<img width="2007" height="807" alt="charts 13" src="https://github.com/user-attachments/assets/f1997403-5553-49e4-8d3f-e59448110b3b" />
+
 
 
 14. You may add another chart by clicking the **Add another block** icon, but note that a maximum of three charts is allowed per row.
 
-<img width="975" height="383" alt="image" src="https://github.com/user-attachments/assets/4801bd52-27a8-4ef8-bace-28d94b7d491e" />
+<img width="2007" height="793" alt="charts 14" src="https://github.com/user-attachments/assets/8b836add-5d11-4ee3-b80e-bf79addd8aff" />
 
 
 # **Web Map**
 
 1. Below the charts, click on the **\+** icon and select **Map** from the list.
 
-<img width="975" height="633" alt="image" src="https://github.com/user-attachments/assets/77fdc6b3-488c-4a82-99f5-c9675a028194" />
+<img width="1956" height="1274" alt="d web map 1" src="https://github.com/user-attachments/assets/fdac1698-0658-4fd4-af6b-3d3cb05613fa" />
+
 
 
 2. On the new page, if you followed and completed the ArcGIS Online tutorial, you should be able to find your web map project saved under **My Content**. Click on it to continue.
 
-<img width="975" height="602" alt="image" src="https://github.com/user-attachments/assets/23f859e3-01ba-49be-8ebd-f591d87da638" />
+<img width="2007" height="1243" alt="d web map 2" src="https://github.com/user-attachments/assets/26091b17-6cfd-4bff-8fb3-056dd621cddf" />
 
 
 3. If you do not see it under **My Content**, switch to **My Organization** and search for **ArcGIS Online Demo**. Select the item that matches the search terms exactly.
-
-<img width="975" height="602" alt="image" src="https://github.com/user-attachments/assets/8d0ebbad-0f45-4694-a343-c2264e2a4483" />
+<img width="2007" height="1243" alt="d web map 3" src="https://github.com/user-attachments/assets/b9354847-0759-4f5c-8944-0759e4885d01" />
 
 
 4. Under **Layers** tab, make sure that **Count of airports in provinces** and **China Province Boundaries** layers are visible as all others are hidden.  
 5. Under **Layers** tab, make sure that **Chinese provinces with other 10 airports** and **China Province Boundaries** layers are visible as all others are hidden.
 
-<img width="450" height="454" alt="image" src="https://github.com/user-attachments/assets/3179a66d-bfd1-47b8-bad9-c64f3590bc59" />
+<img width="840" height="846" alt="d web map 5" src="https://github.com/user-attachments/assets/1ef745fd-a973-4b52-9d05-a396627b6a30" />
+
 
 
 6. Use the mouse wheel or the **Zoom In** and **Zoom Out** icons at the bottom right corner to adjust the visibility level, then click **Save** to continue.
 
-<img width="975" height="685" alt="image" src="https://github.com/user-attachments/assets/30ea9545-a821-4193-a128-1e3fd951491f" />
+<img width="2007" height="1414" alt="d web map 6" src="https://github.com/user-attachments/assets/7be6a405-f26d-4d2e-8802-cdf3f365c026" />
+
 
 
 7. Back to the project, copy the content from section \#8 in captions.docx and paste it under the map as the caption.
 
-<img width="975" height="583" alt="image" src="https://github.com/user-attachments/assets/df584f87-52e8-4aef-8858-ad15bdbc75a3" />
+<img width="2007" height="1205" alt="d web map 7" src="https://github.com/user-attachments/assets/b059c260-fa7f-4b0a-93fc-f72fa819c4ee" />
 
 
 8. Hover over the map, and a toolbar will appear. From there, you can edit the map view, adjust the view window, or remove the map.
 
-<img width="768" height="252" alt="image" src="https://github.com/user-attachments/assets/a8aa5ac5-9c6d-496c-a945-63950c85d732" />
+<img width="990" height="332" alt="d web map 8" src="https://github.com/user-attachments/assets/0689cb21-6195-4883-a96d-2932400af997" />
+
 
 
 9. In the next line, click **\+** icon to add a new separator.
 
-<img width="960" height="598" alt="image" src="https://github.com/user-attachments/assets/ea80b0f4-f90a-45ea-a191-38ccd53a53e7" />
+<img width="1720" height="1068" alt="d web map 9" src="https://github.com/user-attachments/assets/7eacc5dc-00cd-44cf-8512-30b28daba77c" />
+
 
 
 # **Sidecar**
@@ -330,83 +339,87 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 1. Below the web map, click on the **\+** icon and select **Text** from the list.  
 2. Copy and paste the content under \#9 in captions.docx into the text box. Change the font style of **“Map 2”** from Paragraph to **Heading 1**, and **“Airport Counts Across All Provinces”** to **Heading 2**.
 
-<img width="830" height="283" alt="image" src="https://github.com/user-attachments/assets/1c2b3842-e17a-4b0d-8e9f-75df28424717" />
+<img width="1814" height="626" alt="e sidecar 2" src="https://github.com/user-attachments/assets/f9c22d1d-fd71-4eec-b54c-3d68a852eff7" />
 
 
 3. Below the text box, click on the **\+** icon and select **Sidecar** from the list.
 
-<img width="582" height="580" alt="image" src="https://github.com/user-attachments/assets/7e3fcaee-d4b7-42e7-8531-89fe61944c12" />
+<img width="699" height="697" alt="e sidecar 3" src="https://github.com/user-attachments/assets/ff8ebf75-cd4c-4d40-a78c-ddc4f27a4614" />
 
 
 4. From the options, select **Floating** and click **Save**.
 
-<img width="583" height="712" alt="image" src="https://github.com/user-attachments/assets/ba336196-2886-4a14-8dae-540e97dc670e" />
+<img width="636" height="775" alt="e sidecar 4" src="https://github.com/user-attachments/assets/7b19283d-c93e-40c0-af27-b21d64aca544" />
+
 
 
 5. Under the navigation, click on **\+ Add** button.
 
-<img width="672" height="275" alt="image" src="https://github.com/user-attachments/assets/5a556a6b-a20b-4a52-a0fc-99ea83688495" />
+<img width="438" height="184" alt="e sidecar 5" src="https://github.com/user-attachments/assets/d0441323-3410-446c-9186-b3bf0462da98" />
+
 
 
 6. Select **Map** from the options.
 
-<img width="304" height="615" alt="image" src="https://github.com/user-attachments/assets/23d300c9-84fb-4ff7-9de5-f1b684523efb" />
+<img width="266" height="530" alt="e sidecar 6" src="https://github.com/user-attachments/assets/dd1e1103-79f2-40c1-99ea-e6818a5eddb7" />
 
 
 7. On the new page, if you followed and completed the ArcGIS Online tutorial, you should be able to find your web map project saved under **My Content**. Click on it to continue. If you do not see it under **My Content**, switch to **My Organization** and search for **ArcGIS Online Demo**. Select the item that matches the search terms exactly.
 
-<img width="975" height="602" alt="image" src="https://github.com/user-attachments/assets/6d8fc825-589b-446e-bfb3-bc77ab6f0502" />
+<img width="2007" height="1243" alt="e sidecar 7" src="https://github.com/user-attachments/assets/66c55b83-f562-4cb4-bf61-c540a505c5e4" />
 
 
 8. Under **Layers** tab, make sure that **Count of airports in provinces** and **China Province Boundaries** layers are visible as all others are hidden.
 
-<img width="532" height="446" alt="image" src="https://github.com/user-attachments/assets/6a0dec47-77ee-475d-acbe-88ed7293328e" />
+<img width="411" height="346" alt="e sidecar 8" src="https://github.com/user-attachments/assets/76b022a6-4c0a-4c93-9371-7f3b935bc750" />
+
 
 
 9. Use the mouse wheel or the **Zoom In** and **Zoom Out** icons at the bottom right corner to adjust the visibility level, then click **Save** to continue.
 
-<img width="975" height="565" alt="image" src="https://github.com/user-attachments/assets/156b168b-a4fc-441c-bb63-cab25e6d72ef" />
+<img width="1504" height="875" alt="e sidecar 9" src="https://github.com/user-attachments/assets/cdaa2ea7-4124-4c95-b632-7409d8899675" />
 
 
 10. You may use the floating toolbar to adjust the map view.
 
-<img width="372" height="153" alt="image" src="https://github.com/user-attachments/assets/a36bebba-f25d-4a54-b831-d3e8b79de561" />
+<img width="246" height="106" alt="e sidecar 10" src="https://github.com/user-attachments/assets/bc9a5ffc-d329-4f26-9b78-e024520640fc" />
 
 
 11. Copy and paste content under \#10 in captions.docx to the left text box.
 
-<img width="863" height="499" alt="image" src="https://github.com/user-attachments/assets/4b1ab742-5b84-485d-92a1-ecad05351bf3" />
+<img width="841" height="490" alt="e sidecar 11" src="https://github.com/user-attachments/assets/de93f9a2-0c4a-4337-b0ad-f94649436ee6" />
 
 
 12. You may adjust the look of the text. For example, make“higher counts” and “larger and darker” a bold and darker color, while making “fewer airports” and “smaller and lighter” a brighter color.
 
-<img width="619" height="286" alt="image" src="https://github.com/user-attachments/assets/1d6e7f4c-5f31-4035-833d-6fa5835abb0a" />
+<img width="518" height="235" alt="e sidecar 12" src="https://github.com/user-attachments/assets/f5d2587c-01a4-4189-947a-f625ff60121d" />
 
 
 13. Click on the **\+** icon at the bottom right. We are going to add another slide here.
 
-<img width="975" height="156" alt="image" src="https://github.com/user-attachments/assets/1fa24475-9ec0-49ae-ac96-6edb2deb5ea4" />
+<img width="1386" height="230" alt="e sidecar 13" src="https://github.com/user-attachments/assets/98c8f272-cfe0-4ced-a304-6b8aced35f82" />
 
 
 14. Click on **\+ Add** button and select **Map** from the options. On the new page, open the ArcGIS Online tutorial project either created by yourself under **My Content**, or the one under **My Organization** created by the instructor (if you do not see it under **My Content**, switch to **My Organization** and search for **ArcGIS Online Demo**. Select the item that matches the search terms exactly).   
 15. Note that there are two dots that are the smallest and brightest on the map. First, zoom in on the top one.
 
-<img width="673" height="445" alt="image" src="https://github.com/user-attachments/assets/1b75a0ce-fb95-43bc-94b2-9fdaa30d0991" />
+<img width="875" height="583" alt="e sidecar 15" src="https://github.com/user-attachments/assets/9247a46d-2e9b-4b03-af40-3f750a98651a" />
 
 
 16. Make sure the dot is in the center, then click **Save** to continue.    
 
-<img width="975" height="565" alt="image" src="https://github.com/user-attachments/assets/657a224b-31f2-436a-935e-a20d7e343d36" />
+<img width="1504" height="874" alt="e sidecar 16" src="https://github.com/user-attachments/assets/f2608ff2-c67a-4357-9216-a8dec18e72fd" />
 
 
 17. Copy and paste content under \# 11in captions.docx to the left text box.
 
-<img width="975" height="419" alt="image" src="https://github.com/user-attachments/assets/4fd956ee-086c-477e-86c8-e6231673911b" />
+<img width="971" height="422" alt="e sidecar 17" src="https://github.com/user-attachments/assets/818aa791-eaaf-4977-ad1a-b2718b9746b0" />
+
 
 
 18. Repeat the same step and add another slide with the other white dot at the bottom map, along with the corresponding content under \#12 in captions.docx.
 
-<img width="975" height="379" alt="image" src="https://github.com/user-attachments/assets/3dc7843f-fb9f-4df6-b175-71b0c4229ff9" />
+<img width="1082" height="425" alt="e sidecar 18" src="https://github.com/user-attachments/assets/bd37c71b-7310-4d65-980f-f1ee1ef1ae4e" />
 
 
 19. Scroll down to the sidecar section below and add a **separator** to continue.
@@ -416,63 +429,72 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 1. Below the web map, click the **\+** icon and select **Text** from the list. Copy and paste the content under \#13 in captions.docx into the text box. Then change the font style of **“Map 3”** from **Paragraph** to **Heading 1**, and change **“Airport Locations in Jiangsu Province”** to **Heading 2**.  
 2. Below the text, click the **\+** icon and select **Swipe**.
 
-<img width="762" height="507" alt="image" src="https://github.com/user-attachments/assets/b99e628b-05e7-48fc-9193-1eda6a8fabef" />
+<img width="933" height="625" alt="f swipe 2" src="https://github.com/user-attachments/assets/5b2800df-efa7-4594-b5ba-e2bc5afccd68" />
 
 
 3. First, click on **Add media** on the left pane.
 
-<img width="975" height="588" alt="image" src="https://github.com/user-attachments/assets/15c99bb1-50be-482f-a482-0f1f9ccbabd6" />
+<img width="905" height="548" alt="f swipe 3" src="https://github.com/user-attachments/assets/1bac47c9-f75b-4b11-88ef-b439af14dce6" />
 
 
 4. Select **Web Map** from the options. Note that you can also add an image (e.g., scan of physical map) here.
 
-<img width="417" height="347" alt="image" src="https://github.com/user-attachments/assets/f6617ef5-b08a-4dda-a8ae-75e36e97464a" />
+<img width="275" height="230" alt="f swipe 4" src="https://github.com/user-attachments/assets/85a70a78-2e06-4055-8bc2-ccacc541fb53" />
 
 
-5. On the new page, again, select the ArcGIS Online tutorial project either created by yourself under **My Content**, or the one under **My Organization** created by the instructor (if you do not see it under **My Content**, switch to **My Organization** and search for **ArcGIS Online Demo**. Select the item that matches the search terms exactly).   
+5. On the new page, again, select the ArcGIS Online tutorial project either created by yourself under **My Content**, or the one under **My Organization** created by the instructor (if you do not see it under **My Content**, switch to **My Organization** and search for **ArcGIS Online Demo**. Select the item that matches the search terms exactly).
+
 6. Under **Layers** tab, make sure that **Airports in Jiangsu** and **China Province Boundaries** layers are visible as all others are hidden.
 
-<img width="619" height="625" alt="image" src="https://github.com/user-attachments/assets/b929836a-dcf4-4d58-8754-3e0c9afd394c" />
+
+<img width="404" height="408" alt="f swipe 6" src="https://github.com/user-attachments/assets/f602d675-3e18-4462-b58b-5c5010a57a2c" />
 
 
 7. Use the mouse wheel or the **Zoom In** and **Zoom Out** icons at the bottom right corner to adjust the visibility level. Make sure Jiangsu Province is centered and clearly visible on the view, then click **Save** to continue.
 
-<img width="975" height="565" alt="image" src="https://github.com/user-attachments/assets/71004b40-3c01-48f2-8b0f-a3038067be62" />
+<img width="1501" height="873" alt="f swipe 7" src="https://github.com/user-attachments/assets/fd082ece-0857-4c97-909b-cd97a04ffeb3" />
+
 
 
 8. Click on **Add web map** at the right pane.
 
-<img width="975" height="583" alt="image" src="https://github.com/user-attachments/assets/211bcd26-7f67-417d-9bf4-89998f28c628" />
+<img width="915" height="550" alt="f swipe 8" src="https://github.com/user-attachments/assets/2ad5ae82-a548-4d10-869e-9ecd15301fd1" />
 
 
 9. Now, filter to **Living Atlas** and **World**, then pick an option from the result list. For this tutorial, let’s pick up **Open Basemap (Streets)**.
 
-<img width="975" height="652" alt="image" src="https://github.com/user-attachments/assets/b5e82186-ad21-4c22-892b-5a7bbe297da3" />
+<img width="1215" height="814" alt="f swipe 9" src="https://github.com/user-attachments/assets/fe5632b9-f4f3-45c7-999f-36eb6f0a1b8a" />
+
 
 
 10. Use the mouse wheel or the **Zoom In** and **Zoom Out** icons at the bottom right corner to adjust the visibility level. Make sure Jiangsu Province is centered and clearly visible on the view, then click **Save** to continue.
 
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/63a1187b-eea8-403a-8eff-157e528c9bb7" />
+<img width="1581" height="891" alt="f swipe 10" src="https://github.com/user-attachments/assets/07b1c5b4-4e6d-47b2-958f-f043e129fb58" />
+
 
 
 11. If you think the visibility level needs changes, you can always click on the **Edit** icon under each map in the swipe to change it.
 
-<img width="975" height="573" alt="image" src="https://github.com/user-attachments/assets/6a1a4fae-2e39-40f1-bb68-5f042cab8ea4" />
+<img width="753" height="445" alt="f swipe 11" src="https://github.com/user-attachments/assets/c796fd76-66b7-4003-a5fa-8ce3e34b47e1" />
+
 
 
 12. Once you have finished editing the map, drag the **Swipe** icon across the map to compare the layers. You can also use the **Zoom In** and **Zoom Out** icons to adjust the visibility level.
 
-<img width="975" height="556" alt="image" src="https://github.com/user-attachments/assets/82d17d15-2a20-41f7-b452-be33fc3bc4fe" />
+<img width="945" height="543" alt="f swipe 12" src="https://github.com/user-attachments/assets/f58bbb2e-ef26-41a9-83b4-935da5d76e93" />
+
 
 
 13. Don’t forget to add a caption to the maps. Copy and paste the content under \#14 in the caption file.
 
-<img width="975" height="583" alt="image" src="https://github.com/user-attachments/assets/6ca2683c-54e7-4f71-ba92-093a20294e65" />
+<img width="895" height="539" alt="f swipe 13" src="https://github.com/user-attachments/assets/4b62416e-cc02-4da0-9abd-f4d02b204f81" />
+
 
 
 14. Lastly, hover over the edges of the map and click **Medium** in the floating toolbar. This will enlarge the map view.
 
-<img width="570" height="188" alt="image" src="https://github.com/user-attachments/assets/ad19ac3f-fced-4d2b-9a9f-474fca59e77a" />
+<img width="373" height="128" alt="f swipe 14" src="https://github.com/user-attachments/assets/488b7cec-b302-4595-bfda-102122778bf4" />
+
 
 
 15. In the new section below, add a **separator** to continue.
@@ -482,72 +504,81 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 1. Below the swipe, click the **\+** icon and select **Text** from the list. Copy and paste the content under \#15 in captions.docx into the text box. Then change the font style of **“Map 4”** from **Paragraph** to **Heading 1**, and change **“Three Closest Airports to DKU”** to **Heading 2**.  
 2. Below the text, click the \+ icon and select **Map tour**.
 
-<img width="798" height="841" alt="image" src="https://github.com/user-attachments/assets/598658a9-3d58-4ce0-8907-e48411ce7e6c" />
+<img width="638" height="672" alt="map tour 2" src="https://github.com/user-attachments/assets/4fa78fe7-b34a-4dc9-aaba-f0edce659b25" />
 
 
 3. From the options, select **Upload photos**.
 
-<img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/a2b4dc19-a070-4327-a089-087ce039a3f3" />
+<img width="1222" height="584" alt="map tour 3" src="https://github.com/user-attachments/assets/0ea9a264-19bd-4537-bddd-2fdff56973d9" />
+
 
 
 4. Click **Browse your files**.
 
-<img width="649" height="651" alt="image" src="https://github.com/user-attachments/assets/c9540473-8af3-4697-99ca-f157a1d162df" />
+<img width="573" height="575" alt="map tour 4" src="https://github.com/user-attachments/assets/58556918-8a50-42f3-8df8-651dc2dc50a8" />
+
 
 
 5. Navigate to the sites folder from the sample datasets, and select all image files except 0\_Airport\_on\_Runway, then click **Open**. To select multiple files at once, click the first item, press the **Shift** key on your keyboard, and then click the last item to select all at once.
 
-<img width="975" height="565" alt="image" src="https://github.com/user-attachments/assets/76e236c7-0d61-4a7d-a785-27b2e9ec3aad" />
+<img width="1864" height="1084" alt="map tour 5" src="https://github.com/user-attachments/assets/537e68b3-7358-4ba7-a47d-4592b6eddbea" />
+
 
 
 6. Make sure 4 images are selected, click **Add**.
 
-<img width="562" height="559" alt="image" src="https://github.com/user-attachments/assets/eadec93e-29a7-415b-af91-32a37bdb88e4" />
+<img width="1272" height="1266" alt="map tour 6" src="https://github.com/user-attachments/assets/d1f13605-6995-4177-962a-9485c20847ff" />
+
 
 
 7. For the layout, select **List** under **Explorer tour**, and click **Save**.
 
-<img width="679" height="766" alt="image" src="https://github.com/user-attachments/assets/cb773d07-5c8e-4fb5-8743-86f034137c20" />
+<img width="1268" height="1429" alt="map tour 7" src="https://github.com/user-attachments/assets/467c6224-faea-44b4-b968-3ade63a4762e" />
 
 
 8. Copy and paste the content under \#16 in captions.docx as the title and \#17 as the description for the first image into the text box.
 
-<img width="975" height="473" alt="image" src="https://github.com/user-attachments/assets/589da812-1f59-4672-83f9-1e9cfd5950f3" />
+<img width="2007" height="977" alt="map tour 8" src="https://github.com/user-attachments/assets/7fe0c4c9-080e-477e-872c-025e34f5af21" />
+
 
 
 9. Next, open **Map\_tour\_data.csv** on your local computer. Drag and select the values under **LAT** and **LNG** for **Duke Kunshan University**.
 
-<img width="975" height="340" alt="image" src="https://github.com/user-attachments/assets/8ac44b40-3481-471c-8d99-830126059de5" />
+<img width="1442" height="506" alt="map tour 9" src="https://github.com/user-attachments/assets/26b4b694-9407-4dd8-b8ed-4dad7c4dfb7b" />
+
 
 
 10. Right-click and select **Copy**. Alternatively, press **Ctrl \+ C** on Windows (or **Command \+ C** on Mac) to copy.
 
-<img width="610" height="341" alt="image" src="https://github.com/user-attachments/assets/26230c45-a683-4823-b3c6-1e7b06bdee10" />
+<img width="1002" height="564" alt="map tour 10" src="https://github.com/user-attachments/assets/d668016c-a64a-4658-ad6d-f885d0cf5216" />
+
 
 
 11. Go back to the StoryMap and click **Add location** on the **Duke Kunshan University** card.
 
-<img width="543" height="337" alt="image" src="https://github.com/user-attachments/assets/e6624063-cbe6-4bc2-8b87-d77849c1683a" />
+<img width="870" height="542" alt="map tour 11" src="https://github.com/user-attachments/assets/b94cc270-9a02-4048-8867-0a2efd70375c" />
+
 
 
 12. On the new page, paste the values into the search box in the top-right corner. A dropdown list of matching place names will appear. However, since we are searching by coordinates, press **Enter** to commit the search.
 
-<img width="975" height="525" alt="image" src="https://github.com/user-attachments/assets/e4af551d-808b-4a64-9ee7-d8f4f5b2e527" />
+<img width="1228" height="664" alt="map tour 12" src="https://github.com/user-attachments/assets/f6b34c31-3c43-4a15-adc4-9fae6fb22593" />
 
 
 13. This will take you to a location near the DKU campus. Zoom out slightly and you will notice the marker is a bit off. Click **Close**, then reselect the correct location. If you are satisfied with the updated location, click **Add to map** to confirm.
 
-<img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/57474107-f306-4fdd-9842-9385dc7a23b5" />
+<img width="2007" height="1050" alt="map tour 13" src="https://github.com/user-attachments/assets/bd3496d5-546f-4519-81b5-23d856643eb1" />
+
 
 
 14. Move your cursor to the center of DKU and click to place a marker.
 
-<img width="691" height="443" alt="image" src="https://github.com/user-attachments/assets/d81343c2-94c5-4290-a320-833c58a23049" />
+<img width="1204" height="774" alt="map tour 14" src="https://github.com/user-attachments/assets/aa82ce9f-cda8-487b-96b8-b47398644e5a" />
 
 
 15. Set the visibility level to **Use the current zoom level**, then click **Save**.
 
-<img width="443" height="389" alt="image" src="https://github.com/user-attachments/assets/e1e9b0da-fbcd-4b00-81b0-eb3c0b7f5b76" />
+<img width="758" height="666" alt="map tour 15" src="https://github.com/user-attachments/assets/bf973679-4053-4968-8c76-152017c54a73" />
 
 
 16. Once editing is complete, switch to the second image from the bottom of the list, or use the mouse wheel to continue making changes.  
@@ -560,74 +591,81 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 2. Then create another text box below. Copy and paste the image source titles under \#25 in captions.docx into this text box.  
 3. Select each line of text, click **Link**, and hyperlink the titles using the corresponding URLs listed under \#26 in captions.docx.
 
-<img width="816" height="293" alt="image" src="https://github.com/user-attachments/assets/6365afdd-cf41-43f5-948c-c1f8767da81a" />
+<img width="1198" height="436" alt="n credits 3" src="https://github.com/user-attachments/assets/8822fd82-306b-4796-8643-1ba334e24e42" />
+
 
 
 4. Scroll down to the bottom of the page, and add your self author credits. 
 
-<img width="975" height="292" alt="image" src="https://github.com/user-attachments/assets/4ac4e7db-c4fa-48ff-a940-2b623c6740d0" />
+<img width="1990" height="600" alt="n credits 4" src="https://github.com/user-attachments/assets/160f220e-834d-4b9b-9396-9ce5a63316f6" />
+
 
 
 # **Publish the StoryMap**
 
 1. Once completed the editing, Go to the top menu and click **Publish**.
 
-<img width="681" height="139" alt="image" src="https://github.com/user-attachments/assets/a52df20d-b2f6-4f3d-9caf-7dcf6940ce05" />
+<img width="984" height="255" alt="publish storymap 1" src="https://github.com/user-attachments/assets/90e46183-96a2-40d6-b070-c40d286d91a9" />
 
 
 2. You may change the title, subtitle, cover by clicking on the **Edit** on the left pane.
 
-<img width="613" height="712" alt="image" src="https://github.com/user-attachments/assets/c5fc0fc0-1780-4688-a876-54f425a48d53" />
+<img width="900" height="1044" alt="publish storymap 2" src="https://github.com/user-attachments/assets/9b3d8f4d-b968-4564-95c7-25bb49df7f15" />
+
 
 
 3. On the right pane, set the sharing level to **Organization**.
 
-<img width="518" height="549" alt="image" src="https://github.com/user-attachments/assets/7fcb1d1a-05cb-4703-91f8-beeed2507210" />
+<img width="900" height="950" alt="publish storymap 3" src="https://github.com/user-attachments/assets/0033cdaa-f098-4062-b00d-9dc64bd592a9" />
 
 
 4. If you have a group or collaborating with others, you may set the **group sharing**.
 
-<img width="582" height="616" alt="image" src="https://github.com/user-attachments/assets/1ed427a3-55e0-4ac9-a1f4-844deee2dc68" />
+<img width="900" height="950" alt="publish storymap 4" src="https://github.com/user-attachments/assets/7512f5d3-211e-45b1-ad19-94c903bdd836" />
+
 
 
 5. You may also set some advanced options for the sharing, such as allowing others to duplicate or showing your project in the web search results if you set the project to be visible to the public.  
 6. When everything is set, click **Publish**.
 
-<img width="582" height="616" alt="image" src="https://github.com/user-attachments/assets/150c8a20-aa7f-478e-ab6e-837104c24f2c" />
+<img width="610" height="266" alt="publish storymap 6" src="https://github.com/user-attachments/assets/f3f85762-a4c1-4e52-ab35-947935314d26" />
 
 
 7. Now the project should be published. And there are several ways to share it to others and view.
 
-<img width="550" height="194" alt="image" src="https://github.com/user-attachments/assets/e66bd143-7f25-42af-bab1-7de5315e9a58" />
+<img width="502" height="229" alt="publish storymap 7" src="https://github.com/user-attachments/assets/ab58f47a-7f5d-4939-9934-85ffb8ba5ad7" />
 
 
 # **View and Save StoryMap**
 
 1. After the project is completed, you may click on the View published story button, or copy the link and open in a new tab, or scan the QR code to open. You may also share the link or the QR code.
 
-<img width="511" height="656" alt="image" src="https://github.com/user-attachments/assets/9a127dbe-0729-4297-8d5d-1b239cb84fac" />
+<img width="1144" height="1528" alt="view and save 1" src="https://github.com/user-attachments/assets/94e40d23-7a49-4a7e-bd85-bd4228b13135" />
+
 
 
 2. You can always find the projects or drafts in your [StoryMaps content](https://storymaps.arcgis.com/content).   
 3. In the project, you may use the mouse wheel and cursor to scroll through and review the content.  
 4. Click the ellipsis (three-dot) icon in the top-right corner to check additional action options.
 
-<img width="569" height="166" alt="image" src="https://github.com/user-attachments/assets/8bc92819-e4d4-4ada-a7bd-03db1885f1e6" />
+<img width="584" height="176" alt="view and save 4" src="https://github.com/user-attachments/assets/78d39418-98ee-4994-a2ea-5598bd0ea89f" />
 
 
 5. Note that StoryMaps can be viewed in autoplay mode. To enable this feature, click the ellipsis (three-dot) icon and select **Turn autoplay on**.
 
-<img width="466" height="493" alt="image" src="https://github.com/user-attachments/assets/506e67c1-4669-4d53-aa39-ddf332bbad19" />
+<img width="654" height="690" alt="view and save 5" src="https://github.com/user-attachments/assets/37922675-9709-4572-9dea-8352aac8ee4f" />
+
 
 
 6. You can also export your project as a PDF by selecting **Print preview** from the same menu.
 
-<img width="468" height="543" alt="image" src="https://github.com/user-attachments/assets/d588cd77-cf15-4702-8888-67c789560464" />
+<img width="608" height="702" alt="view and save 6" src="https://github.com/user-attachments/assets/6b8bc44a-4fbe-4636-9f50-37e61091d25a" />
 
 
 7. Finally, you can save your project as a template by clicking **Save as template**. This allows you to reuse the same layout and assets in the future while simply replacing the content.
 
-<img width="457" height="530" alt="image" src="https://github.com/user-attachments/assets/32178392-679a-40ee-8214-c46285c01f73" />
+<img width="608" height="702" alt="view and save 7" src="https://github.com/user-attachments/assets/03a70e14-3959-4aca-8794-ce5ec0888806" />
+
 
 
 # **Resources**
