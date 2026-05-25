@@ -128,7 +128,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 10. The **Design** pane will open, allowing you to customize the appearance of your StoryMap using predefined themes and style elements. In this tutorial, we will use a specific design as an example, but you are welcome to choose the theme that best fits your preference.
 
-<img width="520" height="151" alt="image" src="https://github.com/user-attachments/assets/f5bac998-012a-4b42-827d-cddec8695dfd" />
+<img width="346" height="164" alt="a create storymap 10" src="https://github.com/user-attachments/assets/5ab679c3-5c90-4224-b52d-849220b33006" />
 
 
 11. In this project, change the cover layout to **Side-by-side** and toggle on **Navigation**. We will configure the navigation menu later in the tutorial.
@@ -138,80 +138,84 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 12. For the theme, select **Ridgeline**. You can explore additional options by clicking **Featured themes gallery**.
 
-<img width="466" height="533" alt="image" src="https://github.com/user-attachments/assets/61f96b54-d52d-453a-a0a4-780eec1321ca" />
+<img width="306" height="349" alt="a create storymap 12" src="https://github.com/user-attachments/assets/a856fb7e-0dec-475a-9b89-2bd51aa2f648" />
 
 
 13. Once you have made your selections, close the **Design** pane.  
 14. The cover has now been set up. Note that your changes are saved automatically.
 
-<img width="975" height="490" alt="image" src="https://github.com/user-attachments/assets/c8f7a4d8-ccb8-4079-b820-6a98ee4d8275" />
+<img width="1787" height="900" alt="a create storymap 14" src="https://github.com/user-attachments/assets/f9a53796-bf17-45e2-b00a-080e6e430fb9" />
 
 
 # **Text Content**
 
 1. Scroll below the cover to the blank area, click the **\+** button, and select **Text**.
 
-<img width="426" height="412" alt="image" src="https://github.com/user-attachments/assets/6c775c2d-df41-4366-b32e-67c8aaa5cd93" />
+<img width="415" height="402" alt="b text content 1" src="https://github.com/user-attachments/assets/74edf135-65f6-46c1-a4a2-3e10063e0380" />
 
 
 2. Copy and paste the content under \#1 in captions.docx into the text box. Note that text separated by blank lines will automatically be divided into individual text blocks.
 
-<img width="918" height="324" alt="image" src="https://github.com/user-attachments/assets/01d5c814-b306-4ee5-8366-9805249b3a1b" />
+<img width="945" height="339" alt="b text content 2" src="https://github.com/user-attachments/assets/c63c9232-cc07-4fc1-b4d9-53d0cc272f86" />
 
 
 3. Triple click to highlight **“About the Project”**, then switch the font from **Paragraph** to **Heading 1**.
 
-<img width="653" height="355" alt="image" src="https://github.com/user-attachments/assets/2cd93478-1c21-4130-874e-6ad472a61ba8" />
+<img width="426" height="235" alt="b text content 3" src="https://github.com/user-attachments/assets/aa022b42-a091-4f1d-8144-daeaa210a35d" />
+
 
 
 4. **“About the Project”** is now formatted as a larger, bold heading. It also appears in the navigation menu for easier access.
 
-<img width="975" height="275" alt="image" src="https://github.com/user-attachments/assets/7f6ce384-d127-42f3-85b3-053b45d83082" />
+<img width="1934" height="550" alt="b text content 4" src="https://github.com/user-attachments/assets/43969dfe-c67d-4bea-8f90-1a17adfc3738" />
+
 
 
 5. Next, select the quote below “About the Project”, then switch the font from **Paragraph** to **Quote**.
-
-<img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/c311b33b-98b6-4189-981a-112e00dae173" />
+<img width="1934" height="1012" alt="b text content 5" src="https://github.com/user-attachments/assets/64e6e1db-8afa-490f-9ebd-9d50b8ee6c2a" />
 
 
 6. Copy and paste the content from section \#2 in captions.docx into the quote source box, then click outside the box to save your changes. Leave the last paragraph in this section as the default text.
 
-<img width="975" height="438" alt="image" src="https://github.com/user-attachments/assets/d5925469-0dc1-402f-8b95-8648676833f4" />
+<img width="851" height="390" alt="b text content 6" src="https://github.com/user-attachments/assets/e862f6f1-c4b2-43a3-bd4f-e06cd69aebbd" />
+
 
 
 # **Table**
 
 1. Below the content added so far, click the **\+** icon to insert one **separator** and one text asset. Then copy and paste the content from section \#3 in captions.docx into the text box.
 
-<img width="975" height="429" alt="image" src="https://github.com/user-attachments/assets/fe367c29-76dc-4771-be1e-6d5b0c33a13c" />
+<img width="1960" height="868" alt="c table 1" src="https://github.com/user-attachments/assets/b35e7ba5-b26f-4651-83d2-4985e31a3ccb" />
 
 
 2. For **“Map 1”,** switch the font from **Paragraph** to **Heading 1**, and for **“Provinces with More Than 10 Airports”**, switch the font from **Paragraph** to **Heading 2**.
+<img width="1960" height="656" alt="c table 2" src="https://github.com/user-attachments/assets/6789ed43-40e8-4f68-9f4d-5850d7925d6f" />
 
-<img width="975" height="323" alt="image" src="https://github.com/user-attachments/assets/09c9229d-611f-4ef0-85d7-13a495838bde" />
 
 
 3. Below the text, click the \+ icon and select Table from the list.
+   
+<img width="1960" height="1194" alt="c table 3" src="https://github.com/user-attachments/assets/8d4d1bab-d8a8-4a80-98dc-371295a3b369" />
 
-<img width="975" height="592" alt="image" src="https://github.com/user-attachments/assets/3063591d-2388-4c9e-a084-845d6ca1d65e" />
 
 
 4. Copy and paste the table values from section \#4 in captions.docx into the table. Note that importing data from an existing file is not supported, and you cannot paste all content at once. You will need to copy and paste the content into each cell individually.  
 5. If you need additional rows or columns, hover along the table edges and click the three-dot (ellipsis) icon. Then select **Insert row below** to add them.
 
-<img width="862" height="355" alt="image" src="https://github.com/user-attachments/assets/544f2203-272e-4606-a218-d339c064c668" />
+<img width="1314" height="546" alt="c table 5" src="https://github.com/user-attachments/assets/0b187dd2-3799-4cc4-80c4-5419ddf37b5b" />
 
 
 6. Lastly, after entering all the data into the table, add a caption below the table using the content from section \#5 in captions.docx.
 
-<img width="975" height="771" alt="image" src="https://github.com/user-attachments/assets/eb8dc7f9-38fe-43d4-a729-208981d8191e" />
+<img width="1796" height="1420" alt="c table 6" src="https://github.com/user-attachments/assets/08312c21-3ae2-4800-b3ec-0eac53014a9f" />
+
 
 
 # **Charts**
 
 1. Continue the Map 1 section, click on the **\+** icon and select **Chart** from the list.
 
-<img width="892" height="789" alt="image" src="https://github.com/user-attachments/assets/136a62cb-6d5c-4956-b882-6db2f037d5b3" />
+<img width="1454" height="1286" alt="charts 1" src="https://github.com/user-attachments/assets/be47aeff-f960-4241-849c-3006836ebcc5" />
 
 
 2. Select **Bar chart** from the options and click **Done**.
