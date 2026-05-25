@@ -104,27 +104,27 @@ BLM\_events.xlsx is a data table containing information about a selection of soc
 
 1. In the map view, go to **Basemap** in the contents toolbar.
 
-<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/8d4d71f1-d618-48d8-8939-0d63d19e212a" />
+<p align="center"><img width="430" alt="image" src="https://github.com/user-attachments/assets/8d4d71f1-d618-48d8-8939-0d63d19e212a" />
 
 
 2. Choose **Dark Grey Canvas**.
 
-<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/3d5b57c2-364b-4edf-bbdc-ea86a1ac08c2" />
+<p align="center"><img width="430" alt="image" src="https://github.com/user-attachments/assets/3d5b57c2-364b-4edf-bbdc-ea86a1ac08c2" />
 
 
 3. Click the **close icon** to close the options.
 
-<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/e6280752-4011-4e6b-a910-e7683b8abfe9" />
+<p align="center"><img width="430" alt="image" src="https://github.com/user-attachments/assets/e6280752-4011-4e6b-a910-e7683b8abfe9" />
 
 
 4. Go to **Save and open** \> **Save as**.
 
-<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/88c8bba0-9b4f-4e7a-a5af-916894395008" />
+<p align="center"><img width="430" alt="image" src="https://github.com/user-attachments/assets/88c8bba0-9b4f-4e7a-a5af-916894395008" />
 
 
 5. Name this map project and select the designated folder to save it. Note that the name should be unique across the organization no matter where you save the project. Example: **Time\_Series\_Map\_\[Your NetID\]**. Click **Save**.
 
-<p align="center"><img width="470" alt="image" src="https://github.com/user-attachments/assets/65c70818-58d7-48ed-86f1-0f801211375d" />
+<p align="center"><img width="430" alt="image" src="https://github.com/user-attachments/assets/65c70818-58d7-48ed-86f1-0f801211375d" />
 
 
 ## **Visualize Event Data** 
@@ -133,22 +133,22 @@ Since our dataset contains population exposure and event type, let's color-code 
 
 1. Make sure the **BLM\_events** layer is selected under **Layers**, then open **Styles** from the right editing toolbar. 
 
-<img width="225" height="65" alt="image" src="https://github.com/user-attachments/assets/c3f5d043-36f8-46ac-9ccd-609b9d446d8e" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/c3f5d043-36f8-46ac-9ccd-609b9d446d8e" />
 
 
 2. For **Choose attributes**, click **\+ Field**. 
 
-<img width="220" height="156" alt="image" src="https://github.com/user-attachments/assets/49b4bc63-bbc3-4b0f-89b2-951c769b683c" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/49b4bc63-bbc3-4b0f-89b2-951c769b683c" />
 
 
 3. Select **EVENT\_TYPE** and **POPULATION\_EXPOSURE** from the menu, then click **Add**.
 
-<img width="148" height="223" alt="image" src="https://github.com/user-attachments/assets/ea28b2ae-0065-49c1-ad0f-70acd9ea206e" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/ea28b2ae-0065-49c1-ad0f-70acd9ea206e" />
 
 
 4. Under Pick a style, choose **Types and size**. You can click the **Styles option** button to further customize the visual elements.
 
-<img width="228" height="270" alt="image" src="https://github.com/user-attachments/assets/69eb4fcc-28c5-4e7d-9831-22c79fbdfee8" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/69eb4fcc-28c5-4e7d-9831-22c79fbdfee8" />
 
 
 ## **Configure Time Setting** 
@@ -157,7 +157,7 @@ Time settings can be configured in the detail view of each map item. To access t
 
 1. Make sure the map project has been saved, then click the **hamburger (three dashes)icon** in the top-left corner of the page and select **Content**.
 
-<img width="329" height="205" alt="image" src="https://github.com/user-attachments/assets/3a5d5def-e1ba-43a9-b77e-f9dec3a88357" />
+<p align="center"><img width="470"  alt="image" src="https://github.com/user-attachments/assets/3a5d5def-e1ba-43a9-b77e-f9dec3a88357" />
 
 
 2. Locate the BLM\_events map layer, click on the ellipsis (three-dot) icon and go **View details**.
