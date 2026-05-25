@@ -186,29 +186,29 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 1. Below the content added so far, click the **\+** icon to insert one **separator** and one text asset. Then copy and paste the content from section \#3 in captions.docx into the text box.
 
-<img width="800" alt="c table 1" src="https://github.com/user-attachments/assets/b35e7ba5-b26f-4651-83d2-4985e31a3ccb" />
+<img width="650" alt="c table 1" src="https://github.com/user-attachments/assets/b35e7ba5-b26f-4651-83d2-4985e31a3ccb" />
 
 
 2. For **“Map 1”,** switch the font from **Paragraph** to **Heading 1**, and for **“Provinces with More Than 10 Airports”**, switch the font from **Paragraph** to **Heading 2**.
-<img width="600" alt="c table 2" src="https://github.com/user-attachments/assets/6789ed43-40e8-4f68-9f4d-5850d7925d6f" />
+<img width="650" alt="c table 2" src="https://github.com/user-attachments/assets/6789ed43-40e8-4f68-9f4d-5850d7925d6f" />
 
 
 
 3. Below the text, click the \+ icon and select Table from the list.
    
-<img width="600" alt="c table 3" src="https://github.com/user-attachments/assets/8d4d1bab-d8a8-4a80-98dc-371295a3b369" />
+<img width="650" alt="c table 3" src="https://github.com/user-attachments/assets/8d4d1bab-d8a8-4a80-98dc-371295a3b369" />
 
 
 
 4. Copy and paste the table values from section \#4 in captions.docx into the table. Note that importing data from an existing file is not supported, and you cannot paste all content at once. You will need to copy and paste the content into each cell individually.  
 5. If you need additional rows or columns, hover along the table edges and click the three-dot (ellipsis) icon. Then select **Insert row below** to add them.
 
-<img width="600" alt="c table 5" src="https://github.com/user-attachments/assets/0b187dd2-3799-4cc4-80c4-5419ddf37b5b" />
+<img width="650" alt="c table 5" src="https://github.com/user-attachments/assets/0b187dd2-3799-4cc4-80c4-5419ddf37b5b" />
 
 
 6. Lastly, after entering all the data into the table, add a caption below the table using the content from section \#5 in captions.docx.
 
-<img width="600" alt="c table 6" src="https://github.com/user-attachments/assets/08312c21-3ae2-4800-b3ec-0eac53014a9f" />
+<img width="650" alt="c table 6" src="https://github.com/user-attachments/assets/08312c21-3ae2-4800-b3ec-0eac53014a9f" />
 
 
 
@@ -216,7 +216,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 1. Continue the Map 1 section, click on the **\+** icon and select **Chart** from the list.
 
-<img width="1454" height="1286" alt="charts 1" src="https://github.com/user-attachments/assets/be47aeff-f960-4241-849c-3006836ebcc5" />
+<img width="650" src="https://github.com/user-attachments/assets/be47aeff-f960-4241-849c-3006836ebcc5" />
 
 
 2. Select **Bar chart** from the options and click **Done**.
@@ -225,30 +225,30 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 3. In the left pane of the new page, copy and paste the content from section \#6 in captions.docx into the table. Note that importing data from an existing file is not supported, and you cannot paste all content at once. You will need to enter the content into each cell individually. Adding multiple columns of data is supported.
 
-<img width="838" height="658" alt="charts 3" src="https://github.com/user-attachments/assets/bdcc56b4-bd0b-486e-a7b4-26b041e9f160" />
+<img width="550" alt="charts 3" src="https://github.com/user-attachments/assets/bdcc56b4-bd0b-486e-a7b4-26b041e9f160" />
 
 
 
 4. Switch to **Settings** from **Data** tab, copy and paste 
 
-<img width="830" height="312" alt="charts 4" src="https://github.com/user-attachments/assets/bc547363-21a0-4117-98e7-c855973dedeb" />
+<img width="550" alt="charts 4" src="https://github.com/user-attachments/assets/bc547363-21a0-4117-98e7-c855973dedeb" />
 
 
 
 5. Remove the values under **Chart title**, enter **Region of China** in the **Category axis title** field, and **Count of Provinces** in the **Value axis title** field.
 
-<img width="830" height="566" alt="charts 5" src="https://github.com/user-attachments/assets/5860737e-3d78-48b4-a1cb-d8a679669780" />
+<img width="550" alt="charts 5" src="https://github.com/user-attachments/assets/5860737e-3d78-48b4-a1cb-d8a679669780" />
 
 
 
 6. Toggle on **Customize axis**, and enter **3** in the field.
 
-<img width="830" height="310" alt="charts 6" src="https://github.com/user-attachments/assets/7e496919-1a8c-41b2-9e97-9e35d155705d" />
+<img width="550" alt="charts 6" src="https://github.com/user-attachments/assets/7e496919-1a8c-41b2-9e97-9e35d155705d" />
 
 
 7. Review the changes and click **Save** to confirm.
 
-<img width="2007" height="1330" alt="charts 7" src="https://github.com/user-attachments/assets/3066d530-dc32-4ee7-9812-a98487035137" />
+<img width="650" alt="charts 7" src="https://github.com/user-attachments/assets/3066d530-dc32-4ee7-9812-a98487035137" />
 
 
 
@@ -259,33 +259,33 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 
 9. Select **Donut chart** from the options and click **Done**.
-<img width="1266" height="1264" alt="charts 9" src="https://github.com/user-attachments/assets/df90209b-7be7-4730-bfc6-cd32b9bc8c23" />
+<img width="650" alt="charts 9" src="https://github.com/user-attachments/assets/df90209b-7be7-4730-bfc6-cd32b9bc8c23" />
 
 
 10. Again, copy and paste the content under \#6 in captions.docx into the table on the left pane of the new page. Note that the donut chart can only work with two data columns.
 
-<img width="838" height="744" alt="charts 10" src="https://github.com/user-attachments/assets/b98a8638-6f6f-4243-b0cd-b06c8e70b3bf" />
+<img width="550" alt="charts 10" src="https://github.com/user-attachments/assets/b98a8638-6f6f-4243-b0cd-b06c8e70b3bf" />
 
 11. Switch to the **Settings** tab and delete all content in the **Chart title** field.
 
-<img width="838" height="1132" alt="charts 11" src="https://github.com/user-attachments/assets/07860821-b78e-4a1d-8cd9-d10246525ad4" />
+<img width="550" alt="charts 11" src="https://github.com/user-attachments/assets/07860821-b78e-4a1d-8cd9-d10246525ad4" />
 
 
 12. Review the chart, then click **Save** when it's ready.
 
-<img width="2007" height="1330" alt="charts 12" src="https://github.com/user-attachments/assets/b77216b1-de99-449c-b9c9-0e0a15ffaa28" />
+<img width="650" alt="charts 12" src="https://github.com/user-attachments/assets/b77216b1-de99-449c-b9c9-0e0a15ffaa28" />
 
 
 
 13. Return to the project, then copy the content from section \#7 in captions.docx and paste it under the charts as the caption. Click anywhere outside the box to save the changes. 
 
-<img width="2007" height="807" alt="charts 13" src="https://github.com/user-attachments/assets/f1997403-5553-49e4-8d3f-e59448110b3b" />
+<img width="650"  alt="charts 13" src="https://github.com/user-attachments/assets/f1997403-5553-49e4-8d3f-e59448110b3b" />
 
 
 
 14. You may add another chart by clicking the **Add another block** icon, but note that a maximum of three charts is allowed per row.
 
-<img width="2007" height="793" alt="charts 14" src="https://github.com/user-attachments/assets/8b836add-5d11-4ee3-b80e-bf79addd8aff" />
+<img width="650"  alt="charts 14" src="https://github.com/user-attachments/assets/8b836add-5d11-4ee3-b80e-bf79addd8aff" />
 
 
 # **Web Map**
