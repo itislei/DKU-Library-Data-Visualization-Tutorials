@@ -128,7 +128,8 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 10. The **Design** pane will open, allowing you to customize the appearance of your StoryMap using predefined themes and style elements. In this tutorial, we will use a specific design as an example, but you are welcome to choose the theme that best fits your preference.
 
-<img width="346" height="164" alt="a create storymap 10" src="https://github.com/user-attachments/assets/5ab679c3-5c90-4224-b52d-849220b33006" />
+<img width="338" height="155" alt="a create storymap 10" src="https://github.com/user-attachments/assets/c5c4f663-4d6c-4b3b-aad4-3574967b14d9" />
+
 
 
 11. In this project, change the cover layout to **Side-by-side** and toggle on **Navigation**. We will configure the navigation menu later in the tutorial.
@@ -177,7 +178,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 6. Copy and paste the content from section \#2 in captions.docx into the quote source box, then click outside the box to save your changes. Leave the last paragraph in this section as the default text.
 
-<img width="851" height="390" alt="b text content 6" src="https://github.com/user-attachments/assets/e862f6f1-c4b2-43a3-bd4f-e06cd69aebbd" />
+<img width="841" height="380" alt="b text content 6" src="https://github.com/user-attachments/assets/76add2a4-77b6-4af4-a29d-016b7a6e5965" />
 
 
 
@@ -253,7 +254,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 8. Back to the project, click **Add another block** as we are going to add the donut chart.
 
-<img width="420" height="349" alt="charts 8" src="https://github.com/user-attachments/assets/17d697a8-f799-4283-83fa-e65c47b5b0ae" />
+<img width="408" height="338" alt="charts 8" src="https://github.com/user-attachments/assets/1032ebbd-79f4-41a6-95db-9b9ae49ebda6" />
 
 
 
@@ -633,7 +634,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 7. Now the project should be published. And there are several ways to share it to others and view.
 
-<img width="502" height="229" alt="publish storymap 7" src="https://github.com/user-attachments/assets/ab58f47a-7f5d-4939-9934-85ffb8ba5ad7" />
+<img width="492" height="221" alt="publish storymap 7" src="https://github.com/user-attachments/assets/d60f57e2-7e3b-48ae-be15-68d93c5913b5" />
 
 
 # **View and Save StoryMap**
