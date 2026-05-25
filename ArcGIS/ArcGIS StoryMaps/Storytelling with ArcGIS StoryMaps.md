@@ -9,7 +9,7 @@ This tutorial introduces how to create map-based digital stories with ArcGIS Sto
 
 **[Before we start](#before-we-start)**
 
--[Introduction](#introduction)
+- [Introduction](#introduction)
 
 - [About the tool](#about-the-tool)
 
@@ -25,7 +25,7 @@ This tutorial introduces how to create map-based digital stories with ArcGIS Sto
 
 **[Charts](#charts)**
 
-**[Web Map](#web-map）**
+**[Web Map](#web-map)**
 
 **[Sidecar](sidecar)**
 
