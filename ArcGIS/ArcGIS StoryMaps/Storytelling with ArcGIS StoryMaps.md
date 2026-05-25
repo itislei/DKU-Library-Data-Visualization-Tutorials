@@ -108,7 +108,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 6. Navigate to the folder where the site images are stored, select **0\_Airplane\_on\_the\_Runway.jpg**, and click **Open**. 
 
-<img width="935" height="540" alt="image95" src="https://github.com/user-attachments/assets/c0969591-c1d2-4de8-9ea4-f6d8dba97c75" />
+<img width="700" alt="image95" src="https://github.com/user-attachments/assets/c0969591-c1d2-4de8-9ea4-f6d8dba97c75" />
 
 
 7. Then click **Add**.
@@ -145,7 +145,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 13. Once you have made your selections, close the **Design** pane.  
 14. The cover has now been set up. Note that your changes are saved automatically.
 
-<img width="1787" height="900" alt="a create storymap 14" src="https://github.com/user-attachments/assets/f9a53796-bf17-45e2-b00a-080e6e430fb9" />
+<img width="800" alt="a create storymap 14" src="https://github.com/user-attachments/assets/f9a53796-bf17-45e2-b00a-080e6e430fb9" />
 
 
 # **Text Content**
@@ -157,7 +157,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 2. Copy and paste the content under \#1 in captions.docx into the text box. Note that text separated by blank lines will automatically be divided into individual text blocks.
 
-<img width="945" height="339" alt="b text content 2" src="https://github.com/user-attachments/assets/c63c9232-cc07-4fc1-b4d9-53d0cc272f86" />
+<img width="750" alt="b text content 2" src="https://github.com/user-attachments/assets/c63c9232-cc07-4fc1-b4d9-53d0cc272f86" />
 
 
 3. Triple click to highlight **“About the Project”**, then switch the font from **Paragraph** to **Heading 1**.
@@ -168,17 +168,17 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 4. **“About the Project”** is now formatted as a larger, bold heading. It also appears in the navigation menu for easier access.
 
-<img width="1934" height="550" alt="b text content 4" src="https://github.com/user-attachments/assets/43969dfe-c67d-4bea-8f90-1a17adfc3738" />
+<img width="750" alt="b text content 4" src="https://github.com/user-attachments/assets/43969dfe-c67d-4bea-8f90-1a17adfc3738" />
 
 
 
 5. Next, select the quote below “About the Project”, then switch the font from **Paragraph** to **Quote**.
-<img width="1934" height="1012" alt="b text content 5" src="https://github.com/user-attachments/assets/64e6e1db-8afa-490f-9ebd-9d50b8ee6c2a" />
+<img width="750" alt="b text content 5" src="https://github.com/user-attachments/assets/64e6e1db-8afa-490f-9ebd-9d50b8ee6c2a" />
 
 
 6. Copy and paste the content from section \#2 in captions.docx into the quote source box, then click outside the box to save your changes. Leave the last paragraph in this section as the default text.
 
-<img width="841" height="380" alt="b text content 6" src="https://github.com/user-attachments/assets/76add2a4-77b6-4af4-a29d-016b7a6e5965" />
+<img width="651" alt="b text content 6" src="https://github.com/user-attachments/assets/76add2a4-77b6-4af4-a29d-016b7a6e5965" />
 
 
 
@@ -186,29 +186,29 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 1. Below the content added so far, click the **\+** icon to insert one **separator** and one text asset. Then copy and paste the content from section \#3 in captions.docx into the text box.
 
-<img width="1960" height="868" alt="c table 1" src="https://github.com/user-attachments/assets/b35e7ba5-b26f-4651-83d2-4985e31a3ccb" />
+<img width="800" alt="c table 1" src="https://github.com/user-attachments/assets/b35e7ba5-b26f-4651-83d2-4985e31a3ccb" />
 
 
 2. For **“Map 1”,** switch the font from **Paragraph** to **Heading 1**, and for **“Provinces with More Than 10 Airports”**, switch the font from **Paragraph** to **Heading 2**.
-<img width="1960" height="656" alt="c table 2" src="https://github.com/user-attachments/assets/6789ed43-40e8-4f68-9f4d-5850d7925d6f" />
+<img width="800" alt="c table 2" src="https://github.com/user-attachments/assets/6789ed43-40e8-4f68-9f4d-5850d7925d6f" />
 
 
 
 3. Below the text, click the \+ icon and select Table from the list.
    
-<img width="1960" height="1194" alt="c table 3" src="https://github.com/user-attachments/assets/8d4d1bab-d8a8-4a80-98dc-371295a3b369" />
+<img width="800" alt="c table 3" src="https://github.com/user-attachments/assets/8d4d1bab-d8a8-4a80-98dc-371295a3b369" />
 
 
 
 4. Copy and paste the table values from section \#4 in captions.docx into the table. Note that importing data from an existing file is not supported, and you cannot paste all content at once. You will need to copy and paste the content into each cell individually.  
 5. If you need additional rows or columns, hover along the table edges and click the three-dot (ellipsis) icon. Then select **Insert row below** to add them.
 
-<img width="1314" height="546" alt="c table 5" src="https://github.com/user-attachments/assets/0b187dd2-3799-4cc4-80c4-5419ddf37b5b" />
+<img width="800" alt="c table 5" src="https://github.com/user-attachments/assets/0b187dd2-3799-4cc4-80c4-5419ddf37b5b" />
 
 
 6. Lastly, after entering all the data into the table, add a caption below the table using the content from section \#5 in captions.docx.
 
-<img width="1796" height="1420" alt="c table 6" src="https://github.com/user-attachments/assets/08312c21-3ae2-4800-b3ec-0eac53014a9f" />
+<img width="800" alt="c table 6" src="https://github.com/user-attachments/assets/08312c21-3ae2-4800-b3ec-0eac53014a9f" />
 
 
 
