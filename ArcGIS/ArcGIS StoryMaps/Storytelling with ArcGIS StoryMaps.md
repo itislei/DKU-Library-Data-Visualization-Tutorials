@@ -7,6 +7,40 @@
 
 This tutorial introduces how to create map-based digital stories with ArcGIS StoryMaps.
 
+**[Before we start](#before-we-start)**
+
+-[Introduction](#introduction)
+
+- [About the tool](#about-the-tool)
+
+- [Datasets](#datasets)
+
+**[Navigate to ArcGIS StoryMaps](#navigate-to-arcgis-storymaps)**
+
+**[Create a StoryMap](#create-a-storymap)**
+
+**[Text Content](#text-content)**
+
+**[Tale](#table)**
+
+**[Charts](#charts)**
+
+**[Web Map](#web-map）**
+
+**[Sidecar](sidecar)**
+
+**[Swipe](swipe)**
+
+**[Map Tour](map-tour)**
+
+**[Credits](credits)**
+
+**[Publish the StoryMap](publish-the-storymap)**
+
+**[View and Save StoryMap](view-and-save-storymap)**
+
+**[Resources](resources)**
+
 # **Before we start**
 
 ## **Introduction**
