@@ -340,17 +340,17 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 1. Below the web map, click on the **\+** icon and select **Text** from the list.  
 2. Copy and paste the content under \#9 in captions.docx into the text box. Change the font style of **“Map 2”** from Paragraph to **Heading 1**, and **“Airport Counts Across All Provinces”** to **Heading 2**.
 
-<img width="1814" height="626" alt="e sidecar 2" src="https://github.com/user-attachments/assets/f9c22d1d-fd71-4eec-b54c-3d68a852eff7" />
+<img width="650" alt="e sidecar 2" src="https://github.com/user-attachments/assets/f9c22d1d-fd71-4eec-b54c-3d68a852eff7" />
 
 
 3. Below the text box, click on the **\+** icon and select **Sidecar** from the list.
 
-<img width="699" height="697" alt="e sidecar 3" src="https://github.com/user-attachments/assets/ff8ebf75-cd4c-4d40-a78c-ddc4f27a4614" />
+<img width="450" alt="e sidecar 3" src="https://github.com/user-attachments/assets/ff8ebf75-cd4c-4d40-a78c-ddc4f27a4614" />
 
 
 4. From the options, select **Floating** and click **Save**.
 
-<img width="636" height="775" alt="e sidecar 4" src="https://github.com/user-attachments/assets/7b19283d-c93e-40c0-af27-b21d64aca544" />
+<img width="450" alt="e sidecar 4" src="https://github.com/user-attachments/assets/7b19283d-c93e-40c0-af27-b21d64aca544" />
 
 
 
@@ -367,7 +367,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 7. On the new page, if you followed and completed the ArcGIS Online tutorial, you should be able to find your web map project saved under **My Content**. Click on it to continue. If you do not see it under **My Content**, switch to **My Organization** and search for **ArcGIS Online Demo**. Select the item that matches the search terms exactly.
 
-<img width="2007" height="1243" alt="e sidecar 7" src="https://github.com/user-attachments/assets/66c55b83-f562-4cb4-bf61-c540a505c5e4" />
+<img width="650" alt="e sidecar 7" src="https://github.com/user-attachments/assets/66c55b83-f562-4cb4-bf61-c540a505c5e4" />
 
 
 8. Under **Layers** tab, make sure that **Count of airports in provinces** and **China Province Boundaries** layers are visible as all others are hidden.
@@ -378,7 +378,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 9. Use the mouse wheel or the **Zoom In** and **Zoom Out** icons at the bottom right corner to adjust the visibility level, then click **Save** to continue.
 
-<img width="1504" height="875" alt="e sidecar 9" src="https://github.com/user-attachments/assets/cdaa2ea7-4124-4c95-b632-7409d8899675" />
+<img width="650" alt="e sidecar 9" src="https://github.com/user-attachments/assets/cdaa2ea7-4124-4c95-b632-7409d8899675" />
 
 
 10. You may use the floating toolbar to adjust the map view.
@@ -388,7 +388,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 11. Copy and paste content under \#10 in captions.docx to the left text box.
 
-<img width="841" height="490" alt="e sidecar 11" src="https://github.com/user-attachments/assets/de93f9a2-0c4a-4337-b0ad-f94649436ee6" />
+<img width="550" alt="e sidecar 11" src="https://github.com/user-attachments/assets/de93f9a2-0c4a-4337-b0ad-f94649436ee6" />
 
 
 12. You may adjust the look of the text. For example, make“higher counts” and “larger and darker” a bold and darker color, while making “fewer airports” and “smaller and lighter” a brighter color.
@@ -398,29 +398,29 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 13. Click on the **\+** icon at the bottom right. We are going to add another slide here.
 
-<img width="1386" height="230" alt="e sidecar 13" src="https://github.com/user-attachments/assets/98c8f272-cfe0-4ced-a304-6b8aced35f82" />
+<img width="650"  alt="e sidecar 13" src="https://github.com/user-attachments/assets/98c8f272-cfe0-4ced-a304-6b8aced35f82" />
 
 
 14. Click on **\+ Add** button and select **Map** from the options. On the new page, open the ArcGIS Online tutorial project either created by yourself under **My Content**, or the one under **My Organization** created by the instructor (if you do not see it under **My Content**, switch to **My Organization** and search for **ArcGIS Online Demo**. Select the item that matches the search terms exactly).   
 15. Note that there are two dots that are the smallest and brightest on the map. First, zoom in on the top one.
 
-<img width="875" height="583" alt="e sidecar 15" src="https://github.com/user-attachments/assets/9247a46d-2e9b-4b03-af40-3f750a98651a" />
+<img width="650" alt="e sidecar 15" src="https://github.com/user-attachments/assets/9247a46d-2e9b-4b03-af40-3f750a98651a" />
 
 
 16. Make sure the dot is in the center, then click **Save** to continue.    
 
-<img width="1504" height="874" alt="e sidecar 16" src="https://github.com/user-attachments/assets/f2608ff2-c67a-4357-9216-a8dec18e72fd" />
+<img width="650" alt="e sidecar 16" src="https://github.com/user-attachments/assets/f2608ff2-c67a-4357-9216-a8dec18e72fd" />
 
 
 17. Copy and paste content under \# 11in captions.docx to the left text box.
 
-<img width="971" height="422" alt="e sidecar 17" src="https://github.com/user-attachments/assets/818aa791-eaaf-4977-ad1a-b2718b9746b0" />
+<img width="650" alt="e sidecar 17" src="https://github.com/user-attachments/assets/818aa791-eaaf-4977-ad1a-b2718b9746b0" />
 
 
 
 18. Repeat the same step and add another slide with the other white dot at the bottom map, along with the corresponding content under \#12 in captions.docx.
 
-<img width="1082" height="425" alt="e sidecar 18" src="https://github.com/user-attachments/assets/bd37c71b-7310-4d65-980f-f1ee1ef1ae4e" />
+<img width="650"  alt="e sidecar 18" src="https://github.com/user-attachments/assets/bd37c71b-7310-4d65-980f-f1ee1ef1ae4e" />
 
 
 19. Scroll down to the sidecar section below and add a **separator** to continue.
