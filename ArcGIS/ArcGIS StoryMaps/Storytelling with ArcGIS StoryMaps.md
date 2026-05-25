@@ -21,7 +21,7 @@ This tutorial introduces how to create map-based digital stories with ArcGIS Sto
 
 **[Text Content](#text-content)**
 
-**[Tale](#table)**
+**[Table](#table)**
 
 **[Charts](#charts)**
 
