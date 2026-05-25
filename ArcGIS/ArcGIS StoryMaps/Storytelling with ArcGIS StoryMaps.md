@@ -70,12 +70,12 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 1. Sign in to [ArcGIS Online](https://www.arcgis.com/index.html) institutional account. If you are a first time user, follow the instructions in [Signing in to ArcGIS Online](https://library.dukekunshan.edu.cn/signing-in-to-arcgis/).  
 2. On the main page, click on the 9-dot (waffle) icon in the upper corner.
 
-<img width="800"  alt="image86" src="https://github.com/user-attachments/assets/25b350d6-09d7-426c-b05c-08d925a9293e" />
+<p align="center"><img width="800"  alt="image86" src="https://github.com/user-attachments/assets/25b350d6-09d7-426c-b05c-08d925a9293e" />
 
 
 3. This will open the menu displaying all add-on products available under our institutional license. From the list, select **StoryMaps**.
 
-<img width="350" alt="image1" src="https://github.com/user-attachments/assets/726dd2ef-cffc-4b70-bf4e-ffddbc2481c1" />
+<p align="center"><img width="350" alt="image1" src="https://github.com/user-attachments/assets/726dd2ef-cffc-4b70-bf4e-ffddbc2481c1" />
 
 
 4. Now, you will be directed to ArcGIS StoryMaps.
