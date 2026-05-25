@@ -579,7 +579,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 15. Set the visibility level to **Use the current zoom level**, then click **Save**.
 
-<img width="550"  alt="map tour 15" src="https://github.com/user-attachments/assets/bf973679-4053-4968-8c76-152017c54a73" />
+<img width="400"  alt="map tour 15" src="https://github.com/user-attachments/assets/bf973679-4053-4968-8c76-152017c54a73" />
 
 
 16. Once editing is complete, switch to the second image from the bottom of the list, or use the mouse wheel to continue making changes.  
@@ -592,13 +592,13 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 2. Then create another text box below. Copy and paste the image source titles under \#25 in captions.docx into this text box.  
 3. Select each line of text, click **Link**, and hyperlink the titles using the corresponding URLs listed under \#26 in captions.docx.
 
-<img width="1198" height="436" alt="n credits 3" src="https://github.com/user-attachments/assets/8822fd82-306b-4796-8643-1ba334e24e42" />
+<img width="650"  alt="n credits 3" src="https://github.com/user-attachments/assets/8822fd82-306b-4796-8643-1ba334e24e42" />
 
 
 
 4. Scroll down to the bottom of the page, and add your self author credits. 
 
-<img width="1990" height="600" alt="n credits 4" src="https://github.com/user-attachments/assets/160f220e-834d-4b9b-9396-9ce5a63316f6" />
+<img width="650"  alt="n credits 4" src="https://github.com/user-attachments/assets/160f220e-834d-4b9b-9396-9ce5a63316f6" />
 
 
 
@@ -606,7 +606,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 1. Once completed the editing, Go to the top menu and click **Publish**.
 
-<img width="984" height="255" alt="publish storymap 1" src="https://github.com/user-attachments/assets/90e46183-96a2-40d6-b070-c40d286d91a9" />
+<img width="650" alt="publish storymap 1" src="https://github.com/user-attachments/assets/90e46183-96a2-40d6-b070-c40d286d91a9" />
 
 
 2. You may change the title, subtitle, cover by clicking on the **Edit** on the left pane.
@@ -617,12 +617,12 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 3. On the right pane, set the sharing level to **Organization**.
 
-<img width="900" height="950" alt="publish storymap 3" src="https://github.com/user-attachments/assets/0033cdaa-f098-4062-b00d-9dc64bd592a9" />
+<img width="550" alt="publish storymap 3" src="https://github.com/user-attachments/assets/0033cdaa-f098-4062-b00d-9dc64bd592a9" />
 
 
 4. If you have a group or collaborating with others, you may set the **group sharing**.
 
-<img width="900" height="950" alt="publish storymap 4" src="https://github.com/user-attachments/assets/7512f5d3-211e-45b1-ad19-94c903bdd836" />
+<img width="550" alt="publish storymap 4" src="https://github.com/user-attachments/assets/7512f5d3-211e-45b1-ad19-94c903bdd836" />
 
 
 
@@ -641,7 +641,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 1. After the project is completed, you may click on the View published story button, or copy the link and open in a new tab, or scan the QR code to open. You may also share the link or the QR code.
 
-<img width="1144" height="1528" alt="view and save 1" src="https://github.com/user-attachments/assets/94e40d23-7a49-4a7e-bd85-bd4228b13135" />
+<img width="650" alt="view and save 1" src="https://github.com/user-attachments/assets/94e40d23-7a49-4a7e-bd85-bd4228b13135" />
 
 
 
@@ -654,18 +654,18 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 5. Note that StoryMaps can be viewed in autoplay mode. To enable this feature, click the ellipsis (three-dot) icon and select **Turn autoplay on**.
 
-<img width="654" height="690" alt="view and save 5" src="https://github.com/user-attachments/assets/37922675-9709-4572-9dea-8352aac8ee4f" />
+<img width="400"  alt="view and save 5" src="https://github.com/user-attachments/assets/37922675-9709-4572-9dea-8352aac8ee4f" />
 
 
 
 6. You can also export your project as a PDF by selecting **Print preview** from the same menu.
 
-<img width="608" height="702" alt="view and save 6" src="https://github.com/user-attachments/assets/6b8bc44a-4fbe-4636-9f50-37e61091d25a" />
+<img width="400" alt="view and save 6" src="https://github.com/user-attachments/assets/6b8bc44a-4fbe-4636-9f50-37e61091d25a" />
 
 
 7. Finally, you can save your project as a template by clicking **Save as template**. This allows you to reuse the same layout and assets in the future while simply replacing the content.
 
-<img width="608" height="702" alt="view and save 7" src="https://github.com/user-attachments/assets/03a70e14-3959-4aca-8794-ce5ec0888806" />
+<img width="400"  alt="view and save 7" src="https://github.com/user-attachments/assets/03a70e14-3959-4aca-8794-ce5ec0888806" />
 
 
 
