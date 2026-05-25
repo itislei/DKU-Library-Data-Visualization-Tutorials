@@ -75,7 +75,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 3. This will open the menu displaying all add-on products available under our institutional license. From the list, select **StoryMaps**.
 
-<img width="469" height="340" alt="image1" src="https://github.com/user-attachments/assets/726dd2ef-cffc-4b70-bf4e-ffddbc2481c1" />
+<img width="350" alt="image1" src="https://github.com/user-attachments/assets/726dd2ef-cffc-4b70-bf4e-ffddbc2481c1" />
 
 
 4. Now, you will be directed to ArcGIS StoryMaps.
@@ -89,7 +89,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 2. In the new page, first, enter the story title **"Mapping China's Airports"** into the title field, **"ArcGIS StoryMaps Tutorial"** as the subtitle, and **your name** in the author field.
 
-<img width="698" height="286" alt="image84" src="https://github.com/user-attachments/assets/ef8d99c7-9be0-4336-a030-d3034f5fb247" />
+<img width="520" alt="image84" src="https://github.com/user-attachments/assets/ef8d99c7-9be0-4336-a030-d3034f5fb247" />
 
 
 3. You may click on the **Change panel appearance** icon to adjust the alignment.
