@@ -125,15 +125,15 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 1. Download [the sample dataset](</ArcGIS/ArcGIS Pro/Dataset/ArcGIS Pro Tutorial Sample Dataset.zip>) to your computer. 
 
 2. Create a folder on your computer to store all the files you will use and create during this tutorial. Name it as you prefer (for example, **ArcGIS Pro Tutorial**).
-<p align="center"><img width="627" height="134" alt="image28" src="https://github.com/user-attachments/assets/33d6f4f9-b224-48c1-b8c8-f7331f28b22c" />
+<p align="center"><img width="700"  alt="image28" src="https://github.com/user-attachments/assets/33d6f4f9-b224-48c1-b8c8-f7331f28b22c" />
 
 3. Move the sample datasets to this folder.
    
 4. In the folder, right-click one ZIP file and select **Extract All…** to unzip it. Repeat the same steps for the other file.
-<p align="center"><img width="935" height="365" alt="image65" src="https://github.com/user-attachments/assets/feb6cd3f-da20-431e-a1ef-3693ec1e0135" />
+<p align="center"><img width="700"  alt="image65" src="https://github.com/user-attachments/assets/feb6cd3f-da20-431e-a1ef-3693ec1e0135" />
 
 5. Open **suzhou_boundary** folder and make sure the file contents match those shown in the image below. Note that when importing a shapefile into the project, the accompanying files in the folder are **required** to support it. Without them, the shapefile may not open properly.
-<p align="center"><img width="492" height="306" alt="image1" src="https://github.com/user-attachments/assets/c56c3f30-99e6-4341-b21d-d5036960d38c" />
+<p align="center"><img width="400"  alt="image1" src="https://github.com/user-attachments/assets/c56c3f30-99e6-4341-b21d-d5036960d38c" />
 
 6. After extracting, delete the ZIP file from the folder.
 
@@ -141,20 +141,20 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 
 1. Open ArcGIS Pro on your computer. 
 2. In the pop up, select **Your ArcGIS organization’s URL**, enter **dukeuniv**, then click **Continue**.
-<p align="center"><img width="978" height="1194" alt="image29" src="https://github.com/user-attachments/assets/17bf2204-83c7-4dd1-a204-b4ae9d849b07" />
+<p align="center"><img width="500" alt="image29" src="https://github.com/user-attachments/assets/17bf2204-83c7-4dd1-a204-b4ae9d849b07" />
 
 3. Click the **Duke University** button.
-<p align="center"><img width="1052" height="890" alt="image88" src="https://github.com/user-attachments/assets/fef41803-1565-45a6-bf87-819029573d17" />
+<p align="center"><img width="500" src="https://github.com/user-attachments/assets/fef41803-1565-45a6-bf87-819029573d17" />
 
 4. Sign in with your NetID. If you are using your personal computer, you may check **Sign in automatically** in the bottom-left corner.
-<p align="center"><img width="1144" height="1042" alt="image61" src="https://github.com/user-attachments/assets/342855a3-d29d-4506-b7a4-d7cde52992f3" />
+<p align="center"><img width="500"  alt="image61" src="https://github.com/user-attachments/assets/342855a3-d29d-4506-b7a4-d7cde52992f3" />
 
 5. Once signed in, you will be directed to the ArcGIS Pro **Home** page.
 
 ## Create a map project
 
 1. In the **Home** page, click on **Map**.
-<p align="center"><img width="1035" height="883" alt="image19" src="https://github.com/user-attachments/assets/a265f578-860c-4a8e-b6f0-9747afdbac1b" />
+<p align="center"><img width="500" alt="image19" src="https://github.com/user-attachments/assets/a265f578-860c-4a8e-b6f0-9747afdbac1b" />
 
 2. Give the new map project a name in the **Name** field. For example, **Suzhou Bus Stop Map**.
 <p align="center"><img width="514" height="262" alt="image53" src="https://github.com/user-attachments/assets/e6c58fa8-96cd-4f04-9497-1e6c5ed282fb" />
