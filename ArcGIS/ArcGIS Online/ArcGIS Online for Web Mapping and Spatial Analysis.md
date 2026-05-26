@@ -273,14 +273,14 @@ A shapefile is one of the most common geospatial data formats used in GIS, which
 
 4. Name the new layer as **China Province Boundaries**, then click **Create and add to map**.
 
-<p align="center"><img width="706" height="367" alt="image" src="https://github.com/user-attachments/assets/f24586b3-6869-424b-9f0c-fe33ec91365b" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/f24586b3-6869-424b-9f0c-fe33ec91365b" />
 
 
 
 
 5. It may take a moment to process. Once completed, a new layer named **China Province Boundaries** will appear in the **Layers** panel. Locate the **China Province Boundaries** layer, click the ellipsis (3-dot) icon next to it, and select **Zoom to layer**.
 
-<p align="center"><img width="460" height="202" alt="image" src="https://github.com/user-attachments/assets/7eb921d3-5f96-44e6-b6b5-11246df15ab0" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/7eb921d3-5f96-44e6-b6b5-11246df15ab0" />
 
 
 
@@ -294,7 +294,7 @@ A shapefile is one of the most common geospatial data formats used in GIS, which
 
 7. Go back to the **Layers** panel, and click the eye icon to hide the **China Province Boundaries** layer for now.
 
-<p align="center"><img width="578" height="158" alt="image" src="https://github.com/user-attachments/assets/7ae2e6bb-0ceb-4006-b68b-07984f643b0f" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/7ae2e6bb-0ceb-4006-b68b-07984f643b0f" />
 
 
 
