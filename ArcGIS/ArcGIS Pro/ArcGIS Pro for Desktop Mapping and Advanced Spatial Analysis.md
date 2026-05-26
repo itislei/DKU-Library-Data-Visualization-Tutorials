@@ -533,22 +533,22 @@ ArcGIS Pro supports the creation and export of maps with essential layout elemen
 1. Once layout is ready, go to **Share** tab > **Export Layout**.
      
 2. Select Flatted PDF.
-<p align="center"><img width="341" height="300" alt="image20" src="https://github.com/user-attachments/assets/ecd4adc0-0f86-40ab-9695-6e47398ddc30" />
+<p align="center"><img width="300" alt="image20" src="https://github.com/user-attachments/assets/ecd4adc0-0f86-40ab-9695-6e47398ddc30" />
 
 3. Under **File**, you can choose the export file format. In this tutorial, we will keep the format as PDF.
 <p align="center"><img width="133" height="235" alt="image10" src="https://github.com/user-attachments/assets/a0e22544-b329-4c7c-b352-d1d8783c6b86" />
 
 4. Click on the folder icon, locate the tutorial folder, name the file as **“Bus Stop Service in Suzhou”** then click **OK**.
-<p align="center"><img width="611" height="419" alt="image26" src="https://github.com/user-attachments/assets/6eeb246f-f54a-484f-b66e-52ea79e16739" />
+<p align="center"><img width="550"  alt="image26" src="https://github.com/user-attachments/assets/6eeb246f-f54a-484f-b66e-52ea79e16739" />
   
 5. For **Compression**, uncheck **Output as image** and change **Vector resolution** from 150 to 300 DPI.
-<p align="center"><img width="314" height="381" alt="image34" src="https://github.com/user-attachments/assets/807fe0b3-d773-4118-a929-f7b98e007272" />
+<p align="center"><img width="300"  alt="image34" src="https://github.com/user-attachments/assets/807fe0b3-d773-4118-a929-f7b98e007272" />
    
 6. For **Font**, ensure that **Embed fonts** is enabled. This preserves text as selectable and searchable in the exported PDF; otherwise, the text will be preserved as part of the image. Then click **Export**.
-<p align="center"><img width="329" height="357" alt="image40" src="https://github.com/user-attachments/assets/1f193357-c0e6-4435-8f68-6018dfd92864" />
+<p align="center"><img width="300"  alt="image40" src="https://github.com/user-attachments/assets/1f193357-c0e6-4435-8f68-6018dfd92864" />
   
 7. Locate the tutorial folder and open the **Bus Stop Service in Suzhou.pdf** file. You should now be able to view the map and select the text within it.
-<p align="center"><img width="1221" height="940" alt="image76" src="https://github.com/user-attachments/assets/b42d6ad2-6530-43a6-8b6d-9bc2c15f3c31" />
+<p align="center"><img width="800"  alt="image76" src="https://github.com/user-attachments/assets/b42d6ad2-6530-43a6-8b6d-9bc2c15f3c31" />
 
 # Export data
 
@@ -557,7 +557,7 @@ In ArcGIS Pro, you can export a layer or dataset to save a copy of your processe
 ## Geodatabase
 
 1. Go back to the **Map** tab in ArcGIS Pro.
-<p align="center"><img width="392" height="219" alt="image17" src="https://github.com/user-attachments/assets/0fec830c-5a0c-424e-84a3-032e7c314691" />
+<p align="center"><img width="300"  alt="image17" src="https://github.com/user-attachments/assets/0fec830c-5a0c-424e-84a3-032e7c314691" />
 
 2. In the **Contents** pane, select the **suzhou_bus_stops_by_district** layer, right-click and select **Data > Export Table**.
 
@@ -568,10 +568,10 @@ In ArcGIS Pro, you can export a layer or dataset to save a copy of your processe
 ## Table 
 
 1. In the Command Search box, enter **“table to”**, select **Table to Excel (Conversion Tools)**. 
-<p align="center"><img width="325" height="510" alt="image99" src="https://github.com/user-attachments/assets/aa4d3ccb-5373-4c70-8368-a09677691557" />
+<p align="center"><img width="300"  alt="image99" src="https://github.com/user-attachments/assets/aa4d3ccb-5373-4c70-8368-a09677691557" />
 
 2. In the **Geoprocessing** pane, select **suzhou_bus_stops_by_district** as **Input Table**. 
-<p align="center"><img width="331" height="402" alt="image104" src="https://github.com/user-attachments/assets/a58ea6c2-3e54-4ac7-8af4-4b7f3bcf4f54" />
+<p align="center"><img width="300"  alt="image104" src="https://github.com/user-attachments/assets/a58ea6c2-3e54-4ac7-8af4-4b7f3bcf4f54" />
 
 3. For **Output Excel File**, click on the folder icon, locate the tutorial folder, and name it as 
 **“bus_stops_coverage”**. 
@@ -579,24 +579,24 @@ In ArcGIS Pro, you can export a layer or dataset to save a copy of your processe
 4. Click **Run**. 
 
 5. Once the export is complete, you should find the exported Excel file in your tutorial folder.
-<p align="center"><img width="708" height="330" alt="image38" src="https://github.com/user-attachments/assets/99501a2a-0e01-454b-867a-baead494ca48" />
+<p align="center"><img width="550" alt="image38" src="https://github.com/user-attachments/assets/99501a2a-0e01-454b-867a-baead494ca48" />
 
 ## Shapefile
 
 For items created within a map project, you can use the **Feature Class to Shapefile** tool to export it as shapefile directly. 
 
 1. In the Command Search box, search for **Feature Class to Shapefile (Conversion Tools)**. 
-<p align="center"><img width="331" height="513" alt="image87" src="https://github.com/user-attachments/assets/37a677a2-5983-4368-a3f7-858a9ef4e466" />
+<p align="center"><img width="300"  alt="image87" src="https://github.com/user-attachments/assets/37a677a2-5983-4368-a3f7-858a9ef4e466" />
 
 2. In the **Geoprocessing** pane, select **suzhou_bus_stops_by_district** as **Input Features**. 
-<p align="center"><img width="337" height="332" alt="image101" src="https://github.com/user-attachments/assets/67c34732-72ad-4a6e-a415-19fea5c5bc44" />
+<p align="center"><img width="300"  alt="image101" src="https://github.com/user-attachments/assets/67c34732-72ad-4a6e-a415-19fea5c5bc44" />
 
 3. For **Output Folder**, click on the folder icon, locate the tutorial folder, and click **OK**. 
 
 4. Click **Run**. 
 
 5. Once the export is complete, you should find the exported shapefile in your tutorial folder. Note that GIS recognizes a shapefile only when all its component files share the same name (e.g., .shp, .shx, .dbf). These files must be kept together in the same folder; otherwise, the shapefile may not open properly.
-<p align="center"><img width="715" height="578" alt="image41" src="https://github.com/user-attachments/assets/e5cf9d1a-0617-4fc1-b829-488e297f3c69" />
+<p align="center"><img width="550"  alt="image41" src="https://github.com/user-attachments/assets/e5cf9d1a-0617-4fc1-b829-488e297f3c69" />
 
 # Resources
 
