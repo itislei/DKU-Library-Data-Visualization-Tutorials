@@ -148,7 +148,7 @@ While ArcGIS Online supports a variety of export formats, public accounts only s
 
 6\. From the left menu, click **Save and open**, then **Save as**.
 
-<p align="center"><img width="517" height="170" alt="14" src="https://github.com/user-attachments/assets/4a4cbfc2-b681-4ed3-a622-44312be9eed6" />
+<p align="center"><img width="517"  alt="14" src="https://github.com/user-attachments/assets/4a4cbfc2-b681-4ed3-a622-44312be9eed6" />
 
 
 
