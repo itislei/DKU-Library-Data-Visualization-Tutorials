@@ -118,7 +118,7 @@ Follow the instructions in [Signing in to ArcGIS Online](https://library.dukekun
 
 1. Once you successfully sign in to ArcGIS Online, you will see the view shown below. To start creating a map, go to the **Map** tab in the main menu — this opens a new map view where you can begin a new map project.
 
-<p align="center"><img width="1019" height="414" alt="image115" src="https://github.com/user-attachments/assets/2e889907-58c4-4079-91d0-db442a9bd495" />
+<p align="center"><img width="800" alt="image115" src="https://github.com/user-attachments/assets/2e889907-58c4-4079-91d0-db442a9bd495" />
 
 
 
@@ -129,7 +129,7 @@ Follow the instructions in [Signing in to ArcGIS Online](https://library.dukekun
    3) Viewing and Search toolbar
  
 
-<p align="center"><img width="1236" height="786" alt="image91" src="https://github.com/user-attachments/assets/36fb5336-9e70-46d2-b4f4-495d2e14154f" />
+<p align="center"><img width="800" alt="image91" src="https://github.com/user-attachments/assets/36fb5336-9e70-46d2-b4f4-495d2e14154f" />
 
 
 
@@ -144,28 +144,28 @@ Follow the instructions in [Signing in to ArcGIS Online](https://library.dukekun
      
 2. To select an alternative, navigate to the contents toolbar, select **Basemap**, and a list of available options will be displayed.
 
-<p align="center"><img width="441" height="595" alt="image15" src="https://github.com/user-attachments/assets/a3eadb16-0a11-4258-9950-3d3d14aecfef" />
+<p align="center"><img width="350" alt="image15" src="https://github.com/user-attachments/assets/a3eadb16-0a11-4258-9950-3d3d14aecfef" />
 
 
 
 
 3. Scroll down and select **Light Gray Canvas**.
 
-<p align="center"><img width="375" height="327" alt="image34" src="https://github.com/user-attachments/assets/40f762cf-f38f-41ee-8c57-fccb0760e3a8" />
+<p align="center"><img width="350" alt="image34" src="https://github.com/user-attachments/assets/40f762cf-f38f-41ee-8c57-fccb0760e3a8" />
 
 
 
 
 4. The reference system for China is not accurate. To correct this, we will create a new labeling system. First, close the current one by clicking the arrow to expand the details of the selected basemap.
 
-<p align="center"><img width="387" height="118" alt="image93" src="https://github.com/user-attachments/assets/094c90c6-c3e4-45d3-8c4f-a7e18664f592" />
+<p align="center"><img width="350"  alt="image93" src="https://github.com/user-attachments/assets/094c90c6-c3e4-45d3-8c4f-a7e18664f592" />
 
 
 
 
 5. Then, click on the eye icon next to **Light Gray Reference** to hide it.
 
-<p align="center"><img width="384" height="347" alt="image92" src="https://github.com/user-attachments/assets/a135738f-8f46-49ca-ac91-ea9c1bed153a" />
+<p align="center"><img width="350"  alt="image92" src="https://github.com/user-attachments/assets/a135738f-8f46-49ca-ac91-ea9c1bed153a" />
 
 
 
@@ -184,62 +184,62 @@ ArcGIS Online supports importing data from structured table formats such as comm
 
 1. Go to the contents toolbar, select **Add**, then **Add layer from file**.
 
-<p align="center"><img width="236" height="249" alt="image72" src="https://github.com/user-attachments/assets/9ad6151d-955f-4971-9538-eba556ea71c4" />
+<p align="center"><img width="200" alt="image72" src="https://github.com/user-attachments/assets/9ad6151d-955f-4971-9538-eba556ea71c4" />
 
 
 
 
 2. Click **Your device** button, then select **China Airport Dataset.csv** file (downloaded from the setup files) from its saved location and click **Open**. Alternatively, drag and drop the file into the pop-up window.
 
-<p align="center"><img width="1349" height="679" alt="image11" src="https://github.com/user-attachments/assets/3c58feaf-daaa-4c91-868d-9e077eb43c56" />
+<p align="center"><img width="650"  alt="image11" src="https://github.com/user-attachments/assets/3c58feaf-daaa-4c91-868d-9e077eb43c56" />
 
 
 
 
 3. Select **Create a hosted feature layer and add it to the map**, click **Next**.
 
-<p align="center"><img width="1089" height="637" alt="image37" src="https://github.com/user-attachments/assets/ef335169-f8b3-40ec-9ed2-bfa7d3c29e5a" />
+<p align="center"><img width="650" alt="image37" src="https://github.com/user-attachments/assets/ef335169-f8b3-40ec-9ed2-bfa7d3c29e5a" />
 
 
 
 
 4. Confirm data type for each variable, and click **Next**.
 
-<p align="center"><img width="970" height="559" alt="image" src="https://github.com/user-attachments/assets/eae04bb4-85e5-48e8-8fcb-2b4d3ca91fd2" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/eae04bb4-85e5-48e8-8fcb-2b4d3ca91fd2" />
 
 
 
 5. Click the arrow icon to expand the options, select **Latitude and longtitude**, click **Next**.
 
-<p align="center"><img width="968" height="561" alt="image" src="https://github.com/user-attachments/assets/2a25427c-2e0b-43d6-94af-8c1ffd51691d" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/2a25427c-2e0b-43d6-94af-8c1ffd51691d" />
 
 
 
 
 6. Open the dropdown, then select **LAT** for the “Latitude” field and **LNG** for the “Longitude” field, click **Next**.
 
-<p align="center"><img width="968" height="564" alt="image" src="https://github.com/user-attachments/assets/c1796a19-e0bc-4251-871a-5ccd89607f5e" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/c1796a19-e0bc-4251-871a-5ccd89607f5e" />
 
 
 
 
 7. Name the new layer as **China Airport Dataset**, then click **Create and add to map**.
 
-<p align="center"><img width="968" height="561" alt="image" src="https://github.com/user-attachments/assets/8986e596-025f-42fe-b786-034251b70d37" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/8986e596-025f-42fe-b786-034251b70d37" />
 
 
 
 
 8. A map layer with all airport data points in China has been added to your map\!
 
-<p align="center"><img width="950" height="636" alt="image" src="https://github.com/user-attachments/assets/ffeac3d1-2354-4119-8f59-7deffda683cb" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/ffeac3d1-2354-4119-8f59-7deffda683cb" />
 
 
 
 
 9. Go to **Layers** in the contents toolbar to check the items that have been added to the project.
 
-<p align="center"><img width="645" height="283" alt="image" src="https://github.com/user-attachments/assets/00407b26-6ea4-4d3e-bf2e-12e7989f350c" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/00407b26-6ea4-4d3e-bf2e-12e7989f350c" />
 
 
 ### Geospatial Data File
