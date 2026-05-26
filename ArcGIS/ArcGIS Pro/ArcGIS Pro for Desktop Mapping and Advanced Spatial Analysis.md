@@ -141,20 +141,20 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 
 1. Open ArcGIS Pro on your computer. 
 2. In the pop up, select **Your ArcGIS organization’s URL**, enter **dukeuniv**, then click **Continue**.
-<p align="center"><img width="500" alt="image29" src="https://github.com/user-attachments/assets/17bf2204-83c7-4dd1-a204-b4ae9d849b07" />
+<p align="center"><img width="400" alt="image29" src="https://github.com/user-attachments/assets/17bf2204-83c7-4dd1-a204-b4ae9d849b07" />
 
 3. Click the **Duke University** button.
-<p align="center"><img width="500" src="https://github.com/user-attachments/assets/fef41803-1565-45a6-bf87-819029573d17" />
+<p align="center"><img width="400" src="https://github.com/user-attachments/assets/fef41803-1565-45a6-bf87-819029573d17" />
 
 4. Sign in with your NetID. If you are using your personal computer, you may check **Sign in automatically** in the bottom-left corner.
-<p align="center"><img width="500"  alt="image61" src="https://github.com/user-attachments/assets/342855a3-d29d-4506-b7a4-d7cde52992f3" />
+<p align="center"><img width="400"  alt="image61" src="https://github.com/user-attachments/assets/342855a3-d29d-4506-b7a4-d7cde52992f3" />
 
 5. Once signed in, you will be directed to the ArcGIS Pro **Home** page.
 
 ## Create a map project
 
 1. In the **Home** page, click on **Map**.
-<p align="center"><img width="500" alt="image19" src="https://github.com/user-attachments/assets/a265f578-860c-4a8e-b6f0-9747afdbac1b" />
+<p align="center"><img width="514" alt="image19" src="https://github.com/user-attachments/assets/a265f578-860c-4a8e-b6f0-9747afdbac1b" />
 
 2. Give the new map project a name in the **Name** field. For example, **Suzhou Bus Stop Map**.
 <p align="center"><img width="514" height="262" alt="image53" src="https://github.com/user-attachments/assets/e6c58fa8-96cd-4f04-9497-1e6c5ed282fb" />
@@ -166,7 +166,7 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 <p align="center"><img width="514" height="262" alt="image2" src="https://github.com/user-attachments/assets/19a6344a-de9e-42d7-9ada-35d47787e613" />
 
 5. This will open the project workspace, where you can start working on.
-<p align="center"><img width="1923" height="976" alt="image21" src="https://github.com/user-attachments/assets/47669a4a-8dea-4d1c-8883-2105cc698f8d" />
+<p align="center"><img width="700"  alt="image21" src="https://github.com/user-attachments/assets/47669a4a-8dea-4d1c-8883-2105cc698f8d" />
  
 6. The interface of ArcGIS Pro includes:
    1) Project tab
@@ -175,21 +175,21 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
    4) Contents pane
    5) Table view
    6) Catalog pane
-<p align="center"><img width="652" height="418" alt="image36" src="https://github.com/user-attachments/assets/53afe0e8-3078-4670-9422-444ca8c8d273" />
+<p align="center"><img width="650"  alt="image36" src="https://github.com/user-attachments/assets/53afe0e8-3078-4670-9422-444ca8c8d273" />
 
 7. If any panes are missing, you can reopen them by going to **View > Pane Sets**.
-<p align="center"><img width="552" height="283" alt="image52" src="https://github.com/user-attachments/assets/cb63857d-4470-4bfb-bb80-e09469c0b69e" />
+<p align="center"><img width="500"  alt="image52" src="https://github.com/user-attachments/assets/cb63857d-4470-4bfb-bb80-e09469c0b69e" />
 
 ## Change basemap
 
 1. Go to the **Map** tab, then click **Basemap**.
-<p align="center"><img width="527" height="134" alt="image32" src="https://github.com/user-attachments/assets/c885916f-7e2b-4e76-8ede-c04b7bc107d0" />
+<p align="center"><img width="500"  alt="image32" src="https://github.com/user-attachments/assets/c885916f-7e2b-4e76-8ede-c04b7bc107d0" />
    
 2. Choose a new style from the dropdown menu.
-<p align="center"><img width="859" height="827" alt="image57" src="https://github.com/user-attachments/assets/e1be7428-86b7-4b69-9796-5d5ebecd390c" />
+<p align="center"><img width="650"  alt="image57" src="https://github.com/user-attachments/assets/e1be7428-86b7-4b69-9796-5d5ebecd390c" />
   
 3. The basemap in the map view will update accordingly.
-<p align="center"><img width="1258" height="855" alt="image47" src="https://github.com/user-attachments/assets/ce979bbd-9d08-4a1d-a103-04f86795afee" />
+<p align="center"><img width="700"  alt="image47" src="https://github.com/user-attachments/assets/ce979bbd-9d08-4a1d-a103-04f86795afee" />
 
 # Import and Visualize Data
 
@@ -208,55 +208,55 @@ Despite its name, a shapefile is actually a collection of several related files 
 **suzhou_boundary** is a folder containing a shapefile and its supporting files. It provides provincial-level boundary data for China, with each province represented as a polygon. Let’s add this data to the map!
 
 1. Go to the **Map** tab, click **Add Data**.
-<p align="center"><img width="554" height="203" alt="image43" src="https://github.com/user-attachments/assets/4a33d27d-9fb3-41d5-8bae-80bf236b46be" />
+<p align="center"><img width="500"  alt="image43" src="https://github.com/user-attachments/assets/4a33d27d-9fb3-41d5-8bae-80bf236b46be" />
   
 2. Locate the project folder, then open **suzhou_boundary** folder.
-<p align="center"><img width="607" height="411" alt="image71" src="https://github.com/user-attachments/assets/c179fa28-1a03-4a9e-a3e0-7e742a35a137" />
+<p align="center"><img width="500"  alt="image71" src="https://github.com/user-attachments/assets/c179fa28-1a03-4a9e-a3e0-7e742a35a137" />
  
 3. Select the **citybase.shp** file and click **OK**.
-<p align="center"><img width="607" height="407" alt="image73" src="https://github.com/user-attachments/assets/3e720bff-d4de-46fe-a915-c14975ea7f35" />
+<p align="center"><img width="500"  alt="image73" src="https://github.com/user-attachments/assets/3e720bff-d4de-46fe-a915-c14975ea7f35" />
   
 4. Now, in the **Contents** pane, you should see the **citybase** layer.
-<p align="center"><img width="323" height="402" alt="image23" src="https://github.com/user-attachments/assets/ff90b2eb-51c6-47c6-8a23-19d60a663653" />
+<p align="center"><img width="300"  alt="image23" src="https://github.com/user-attachments/assets/ff90b2eb-51c6-47c6-8a23-19d60a663653" />
   
 5. For the imported data layer, you may toggle the visibility.
-<p align="center"><img width="319" height="387" alt="image69" src="https://github.com/user-attachments/assets/61f98aa7-824a-4da1-9534-c12f249bf80b" />
+<p align="center"><img width="300"  alt="image69" src="https://github.com/user-attachments/assets/61f98aa7-824a-4da1-9534-c12f249bf80b" />
   
 6. To change the visuals setting of the layer, select and right-click the layer, click **Symbology**.
-<p align="center"><img width="363" height="549" alt="image86" src="https://github.com/user-attachments/assets/e377388f-f483-4b5b-91bf-c38931cf0edb" />
+<p align="center"><img width="300"  alt="image86" src="https://github.com/user-attachments/assets/e377388f-f483-4b5b-91bf-c38931cf0edb" />
  
 7. You can choose an existing style for the features under the **Gallery** tab, or customize colors, symbols, and other settings under the **Properties** tab.
-<p align="center"><img width="545" height="614" alt="image93" src="https://github.com/user-attachments/assets/c4a820a5-f290-425f-874b-d384a2dfc42d" />
+<p align="center"><img width="500"  alt="image93" src="https://github.com/user-attachments/assets/c4a820a5-f290-425f-874b-d384a2dfc42d" />
 
 8. Remember to click **Apply** before closing the settings.
-<p align="center"><img width="538" height="257" alt="image75" src="https://github.com/user-attachments/assets/e31ba5df-c97b-4ac1-90bc-fd79166089e2" />
+<p align="center"><img width="500"  alt="image75" src="https://github.com/user-attachments/assets/e31ba5df-c97b-4ac1-90bc-fd79166089e2" />
 
 ## Table
 is a data table containing information about every airport in China, including their names,  addresses, coordinates, and year of construction. Let’s map this data on the map! Before we begin, make sure you have downloaded the file to your computer.
 
 1. First, drag and drop the **suzhou_bus_stops.csv** and **suzhou_population.csv** into the **Contents** pane. We will use **suzhou_population.csv** later
-<p align="center"><img width="326" height="408" alt="image95" src="https://github.com/user-attachments/assets/94994a5f-89fd-4775-bc4b-62c395a866b7" />
+<p align="center"><img width="300"  alt="image95" src="https://github.com/user-attachments/assets/94994a5f-89fd-4775-bc4b-62c395a866b7" />
  
 2. Go to the **Map** tab, click **XY Table to Point**.
-<p align="center"><img width="667" height="141" alt="image80" src="https://github.com/user-attachments/assets/492f7917-4374-47ba-86cf-8aac98506fbc" />
+<p align="center"><img width="600"  alt="image80" src="https://github.com/user-attachments/assets/492f7917-4374-47ba-86cf-8aac98506fbc" />
    
 3. In the **Geoprocessing** pane, for **Input Table**, select **suzhou_bus_stops.csv**.
  
 4. For **Output Feature Class**, keep the default name **suzhou_bus_stops**.
-<p align="center"><img width="548" height="595" alt="image35" src="https://github.com/user-attachments/assets/725b7888-f774-4d77-bd3d-bba29cbe4415" />
+<p align="center"><img width="450"  alt="image35" src="https://github.com/user-attachments/assets/725b7888-f774-4d77-bd3d-bba29cbe4415" />
    
 5. For **X Field**, select **Longitude**.
 
 6. For **Y Field**, select **Latitude**.
  
 7. Make sure **GCS_WGS_1984** is selected under the **Coordinate System**.
-<p align="center"><img width="548" height="595" alt="image16" src="https://github.com/user-attachments/assets/745d1fc0-6c43-47f3-8d39-f5ab75c3de81" />
+<p align="center"><img width="450"  alt="image16" src="https://github.com/user-attachments/assets/745d1fc0-6c43-47f3-8d39-f5ab75c3de81" />
    
 8. Click **Run**.
 <p align="center"><img width="192" height="101" alt="image55" src="https://github.com/user-attachments/assets/ee894c45-223e-4414-ae20-68ea9e70e452" />
   
 9. Now, in the **Contents** pane, you should see the **suzhou_bus_stops** layer.
-<p align="center"><img width="1253" height="780" alt="image22" src="https://github.com/user-attachments/assets/3907fd4a-45c0-4b15-a32f-c520dcffcbf1" />
+<p align="center"><img width="700" alt="image22" src="https://github.com/user-attachments/assets/3907fd4a-45c0-4b15-a32f-c520dcffcbf1" />
 
 ## Living Atlas
 
