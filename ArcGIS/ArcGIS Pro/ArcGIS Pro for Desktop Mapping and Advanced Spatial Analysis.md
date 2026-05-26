@@ -342,13 +342,13 @@ We are going to create a new layer showing only the buffer areas that fall withi
 <p align="center"><img width="335" height="505" alt="image48" src="https://github.com/user-attachments/assets/de2aaaeb-5fd3-439d-a976-63d137fb7aa8" />
    
 2. In the **Geoprocessing** pane, select **suzhou_bus_stops_Buffer** and **citybase** for **Input Features**.
-<p align="center"><img width="553" height="439" alt="image72" src="https://github.com/user-attachments/assets/4e772bb2-2ad6-48fb-a579-22863841c7ef" />
+<p align="center"><img width="500" alt="image72" src="https://github.com/user-attachments/assets/4e772bb2-2ad6-48fb-a579-22863841c7ef" />
  
 3. Next, for **Output Feature Class**, let's change the name to **suzhou_bus_stops_by_district**.
-<p align="center"><img width="553" height="439" alt="image81" src="https://github.com/user-attachments/assets/7a1afee1-4b52-4439-872d-a1b8f760fc05" />
+<p align="center"><img width="500"  alt="image81" src="https://github.com/user-attachments/assets/7a1afee1-4b52-4439-872d-a1b8f760fc05" />
 
 4. Set **Attributes To Join** to **All attributes**.
-<p align="center"><img width="553" height="439" alt="image37" src="https://github.com/user-attachments/assets/061c35ce-1b59-405a-a170-e22b9ee511d0" />
+<p align="center"><img width="500"  alt="image37" src="https://github.com/user-attachments/assets/061c35ce-1b59-405a-a170-e22b9ee511d0" />
   
 5. Set **Output Type** to **Same as input**.
 <p align="center"><img width="332" height="396" alt="image51" src="https://github.com/user-attachments/assets/7c78d3b3-0fff-4f30-a247-ab578b363c1c" />
@@ -356,91 +356,91 @@ We are going to create a new layer showing only the buffer areas that fall withi
 6. Click **Run**.
     
 7. Once the analysis is completed, a new layer **suzhou_bus_stops_by_district** should appear in the **Contents** pane. Right-click and select **Attribute Table** from the menu.
-<p align="center"><img width="556" height="507" alt="image91" src="https://github.com/user-attachments/assets/32d3ee48-c73f-4412-9b27-578eac86f404" />
+<p align="center"><img width="500"  alt="image91" src="https://github.com/user-attachments/assets/32d3ee48-c73f-4412-9b27-578eac86f404" />
     
 8. Make sure the **Population** and **Shape_Area** fields are included in the attribute table, as they will be used in later steps.
-<p align="center"><img width="750" height="326" alt="image103" src="https://github.com/user-attachments/assets/de15071d-1c8c-4f59-b7a4-039e6fe1938c" />
+<p align="center"><img width="700"  alt="image103" src="https://github.com/user-attachments/assets/de15071d-1c8c-4f59-b7a4-039e6fe1938c" />
 
 ## Calculate Coverage per District
 
 1. In the table view, click **Add**.
-<p align="center"><img width="1009" height="346" alt="image6" src="https://github.com/user-attachments/assets/7127d99e-6dda-4814-993f-858f30bbb921" />
+<p align="center"><img width="700"  alt="image6" src="https://github.com/user-attachments/assets/7127d99e-6dda-4814-993f-858f30bbb921" />
 
 2. Create a new field named **Coverage_pc** and set the data type to **Double**.
    
 3. Click the close icon of the new field tab, and **Save**.
-<p align="center"><img width="371" height="137" alt="image62" src="https://github.com/user-attachments/assets/4dabaae1-8808-44cd-a0af-1009805f00e8" />
+<p align="center"><img width="350"  alt="image62" src="https://github.com/user-attachments/assets/4dabaae1-8808-44cd-a0af-1009805f00e8" />
 
 4. In the table view, click Calculate.
-<p align="center"><img width="630" height="299" alt="image98" src="https://github.com/user-attachments/assets/abdb0871-e7c7-4ae0-903c-da5b28e11df0" />
+<p align="center"><img width="550"  alt="image98" src="https://github.com/user-attachments/assets/abdb0871-e7c7-4ae0-903c-da5b28e11df0" />
   
 5. Make sure **Coverage_pc** is selected under **Field Name**, and **Python** under **Expression Type**.
-<p align="center"><img width="393" height="596" alt="image50" src="https://github.com/user-attachments/assets/c4416a0d-8193-40a4-ae45-a172158127b2" />
+<p align="center"><img width="350"  alt="image50" src="https://github.com/user-attachments/assets/c4416a0d-8193-40a4-ae45-a172158127b2" />
     
 6. Next, copy and paste **“!Shape_Area! / !Population!”** in the **Coverage_pc** = field.
-<p align="center"><img width="398" height="591" alt="image64" src="https://github.com/user-attachments/assets/5319f385-4e73-4000-a27f-cbc95495f12a" />
+<p align="center"><img width="350"  alt="image64" src="https://github.com/user-attachments/assets/5319f385-4e73-4000-a27f-cbc95495f12a" />
 
 7. Click **Apply**, then **OK**.
-<p align="center"><img width="393" height="596" alt="image96" src="https://github.com/user-attachments/assets/7e6953ca-848f-4a7f-8124-1bb7b2deed7b" />
+<p align="center"><img width="350"  alt="image96" src="https://github.com/user-attachments/assets/7e6953ca-848f-4a7f-8124-1bb7b2deed7b" />
  
 8. You may notice a series of 0 values in the **Coverage_pc** field. This does not mean the calculation is incorrect; rather, the values are very small and are being rounded. You can double-click any cell to view the full value.
 <p align="center"><img width="161" height="51" alt="image97" src="https://github.com/user-attachments/assets/11f16713-489d-434b-8e58-52bcf4a44d34" />
   
 9. Since our goal is to identify which districts in Suzhou have the least bus service coverage relative to population, we can sort the field. Right-click the **Coverage_pc** field and select **Sort Ascending**.
-<p align="center"><img width="284" height="332" alt="image60" src="https://github.com/user-attachments/assets/57232b41-2981-4d68-9699-47a053e0e5f7" />
+<p align="center"><img width="280"  alt="image60" src="https://github.com/user-attachments/assets/57232b41-2981-4d68-9699-47a053e0e5f7" />
  
 10. The table will now be ordered from lowest to highest coverage. From this, we can see that the three districts with the lowest bus service coverage per capita are Wuzhong, Huqiu, and Gusu District.
-<p align="center"><img width="785" height="307" alt="image25" src="https://github.com/user-attachments/assets/35344e88-9229-4d0b-8e8f-849a6780e3ff" />
+<p align="center"><img width="700"  alt="image25" src="https://github.com/user-attachments/assets/35344e88-9229-4d0b-8e8f-849a6780e3ff" />
 
 ## Join coverage with citybase data
 
 We can further join the coverage data with the city boundary dataset to create a choropleth map that visualizes variations in bus stop service coverage across different districts in Suzhou. 
 
 1. In the Command Search box, enter **“Join Field”**, select **Join Field (Data Management Tools)**.
-<p align="center"><img width="342" height="381" alt="image12" src="https://github.com/user-attachments/assets/23140127-cb79-4c96-a329-e1e1d8ee4086" />
+<p align="center"><img width="350"  alt="image12" src="https://github.com/user-attachments/assets/23140127-cb79-4c96-a329-e1e1d8ee4086" />
   
 2. In the **Geoprocessing** pane, select **citybase** for **Input Table** and **ename** for **Input Field**.
-<p align="center"><img width="553" height="628" alt="image7" src="https://github.com/user-attachments/assets/f1cc2711-1c6e-4de9-95ad-f8c0ba335f2b" />
+<p align="center"><img width="450"  alt="image7" src="https://github.com/user-attachments/assets/f1cc2711-1c6e-4de9-95ad-f8c0ba335f2b" />
    
 3. Select **suzhou_bus_stops_by_district** for **Join Table** and **ename** for **Join Field**.
-<p align="center"><img width="553" height="628" alt="image59" src="https://github.com/user-attachments/assets/b6f78058-3332-43f4-9258-e4263c531ab1" />
+<p align="center"><img width="450"  alt="image59" src="https://github.com/user-attachments/assets/b6f78058-3332-43f4-9258-e4263c531ab1" />
  
 4. For **Transfer Method**, select **Select transfer fields**, and for **Transfer Fields**, select **Coverage_pc**.
-<p align="center"><img width="553" height="628" alt="image39" src="https://github.com/user-attachments/assets/05c3a572-abb1-4de7-a838-c60c6373a028" />
+<p align="center"><img width="450" alt="image39" src="https://github.com/user-attachments/assets/05c3a572-abb1-4de7-a838-c60c6373a028" />
  
 5. For **Index Join Fields**, select **Do not add indexes**.
-<p align="center"><img width="553" height="628" alt="image90" src="https://github.com/user-attachments/assets/8fbb847f-88a1-499e-ba91-7ff9b169d2f8" />
+<p align="center"><img width="450"  alt="image90" src="https://github.com/user-attachments/assets/8fbb847f-88a1-499e-ba91-7ff9b169d2f8" />
   
 6. Click **Run**.
 
 7. Once the analysis is completed, go to the Contents pane and make sure only the **citybase** is visible. Select it, then right-click and select **Attribute Table** from the menu.
-<p align="center"><img width="574" height="561" alt="image27" src="https://github.com/user-attachments/assets/25800ee9-5e5d-4f45-92e0-fb20904daf23" />
+<p align="center"><img width="450"  alt="image27" src="https://github.com/user-attachments/assets/25800ee9-5e5d-4f45-92e0-fb20904daf23" />
     
 8. In the table, right-click and select **Fields**. Rename **Coverage_p** to **Coverage by population (%)**.
-<p align="center"><img width="890" height="224" alt="image18" src="https://github.com/user-attachments/assets/0b6e1913-83dd-460b-934c-3bd5c60c7370" />
+<p align="center"><img width="700"  alt="image18" src="https://github.com/user-attachments/assets/0b6e1913-83dd-460b-934c-3bd5c60c7370" />
 
 9. Still in the table, click on the ellipsis (three-dot) icon next to **Numeric** under **Number Format**, lower the decimal places to **1**, click **OK** when finished.
-<p align="center"><img width="376" height="378" alt="image100" src="https://github.com/user-attachments/assets/82e6f367-2b6e-467f-95ed-19326fe0ec06" />
+<p align="center"><img width="350"  alt="image100" src="https://github.com/user-attachments/assets/82e6f367-2b6e-467f-95ed-19326fe0ec06" />
     
 10. Click the close icon of the **Fields** tab, and click **Save** before closing.
    
 11. Click **Calculate**, select **Coverag_p** as **Field Name**, then for the equation, write down **“!Coverage_p!*1000000 * 100”**, then click **Apply** and **OK**. This step converts the unit from per square kilometer (km²) to per square meter (m²) and expresses it as a percentage.
-<p align="center"><img width="394" height="585" alt="image105" src="https://github.com/user-attachments/assets/7fcd007b-278a-4f03-b079-f4d56e4231fd" />
+<p align="center"><img width="350"  alt="image105" src="https://github.com/user-attachments/assets/7fcd007b-278a-4f03-b079-f4d56e4231fd" />
  
 12. Go to the **Contents** pane again, select **citybase**, then right-click and select **Symbology** from the menu.
-<p align="center"><img width="551" height="552" alt="image24" src="https://github.com/user-attachments/assets/895943e9-b9bb-4868-8a6d-119917b99cf6" />
+<p align="center"><img width="450"  alt="image24" src="https://github.com/user-attachments/assets/895943e9-b9bb-4868-8a6d-119917b99cf6" />
 
 13. Click the arrow next to the **Single Symbol** dropdown, and switch to **Graduated Color**s.
-<p align="center"><img width="552" height="484" alt="image94" src="https://github.com/user-attachments/assets/e29c255e-1819-41d0-b015-438428a49453" />
+<p align="center"><img width="450"  alt="image94" src="https://github.com/user-attachments/assets/e29c255e-1819-41d0-b015-438428a49453" />
     
 14. For **Field**, switch to **Coverage_p**, and choose a color scheme to **Purple-Blue (Continuous)**.
-<p align="center"><img width="391" height="307" alt="image54" src="https://github.com/user-attachments/assets/2100813e-f7bf-4eb2-a393-5ee496edd30a" />
+<p align="center"><img width="350"  alt="image54" src="https://github.com/user-attachments/assets/2100813e-f7bf-4eb2-a393-5ee496edd30a" />
   
 15. If the current color scheme is reversed (for example, if you want areas with the least coverage to appear in the darkest color), you can adjust this by going to the **Classes** tab, **More > Reverse symbol order**.
-<p align="center"><img width="209" height="347" alt="image85" src="https://github.com/user-attachments/assets/37ec2515-d9a1-4ba5-9cd1-df6545f6d18f" />
+<p align="center"><img width="300"  alt="image85" src="https://github.com/user-attachments/assets/37ec2515-d9a1-4ba5-9cd1-df6545f6d18f" />
    
 16. You may further customize the color distribution under the **Histogram** or **Scale** tabs. For example, in the **Histogram** tab, double-click on the third breakpoint and enter **25.2**. After doing so, you will see that three districts (Wuzhong, Huqiu, and Gusu) are displayed in darkest colors, indicating that they have the lowest coverage rates.
-<p align="center"><img width="644" height="427" alt="image31" src="https://github.com/user-attachments/assets/dfc74bc9-faca-43a7-9e2b-8576585f36fd" />
+<p align="center"><img width="500"  alt="image31" src="https://github.com/user-attachments/assets/dfc74bc9-faca-43a7-9e2b-8576585f36fd" />
 
 # Save the project
 1. To save the project, go to the top-left corner, and click **Save Project** icon.
