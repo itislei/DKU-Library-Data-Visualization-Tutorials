@@ -437,7 +437,7 @@ We can further join the coverage data with the city boundary dataset to create a
 <p align="center"><img width="350"  alt="image54" src="https://github.com/user-attachments/assets/2100813e-f7bf-4eb2-a393-5ee496edd30a" />
   
 15. If the current color scheme is reversed (for example, if you want areas with the least coverage to appear in the darkest color), you can adjust this by going to the **Classes** tab, **More > Reverse symbol order**.
-<p align="center"><img width="300"  alt="image85" src="https://github.com/user-attachments/assets/37ec2515-d9a1-4ba5-9cd1-df6545f6d18f" />
+<p align="center"><img width="150"  alt="image85" src="https://github.com/user-attachments/assets/37ec2515-d9a1-4ba5-9cd1-df6545f6d18f" />
    
 16. You may further customize the color distribution under the **Histogram** or **Scale** tabs. For example, in the **Histogram** tab, double-click on the third breakpoint and enter **25.2**. After doing so, you will see that three districts (Wuzhong, Huqiu, and Gusu) are displayed in darkest colors, indicating that they have the lowest coverage rates.
 <p align="center"><img width="500"  alt="image31" src="https://github.com/user-attachments/assets/dfc74bc9-faca-43a7-9e2b-8576585f36fd" />
@@ -457,76 +457,76 @@ ArcGIS Pro supports the creation and export of maps with essential layout elemen
 ## New Layout
 
 1. Go to **Insert > New Layout** and choose a page size (e.g., Landscape, 8.5 × 11").
-<p align="center"><img width="877" height="800" alt="image102" src="https://github.com/user-attachments/assets/960b359a-f79d-4379-91bb-44a4185f973f" />
+<p align="center"><img width="650"  alt="image102" src="https://github.com/user-attachments/assets/960b359a-f79d-4379-91bb-44a4185f973f" />
  
 2. In the blank layout, go to the Insert tab again, click **Map Frame**, and select **Map** (the project you just created).
-<p align="center"><img width="444" height="480" alt="image9" src="https://github.com/user-attachments/assets/08ce62bb-fedf-46d3-bd88-4f5b3be2a111" />
+<p align="center"><img width="400" alt="image9" src="https://github.com/user-attachments/assets/08ce62bb-fedf-46d3-bd88-4f5b3be2a111" />
    
 3. Draw a box on the page to define where the map will be placed, the map will automatically appear in the layout. Be sure to leave enough space for essential elements (the title, legend, scale bar, and north arrow).
  
 4. To adjust the map’s extent, right-click the map frame, select **Activate**, and then pan or zoom as needed.
-<p align="center"><img width="331" height="704" alt="image68" src="https://github.com/user-attachments/assets/5ac63cfa-dc9a-461c-a0f7-8869395f5095" />
+<p align="center"><img width="300"  alt="image68" src="https://github.com/user-attachments/assets/5ac63cfa-dc9a-461c-a0f7-8869395f5095" />
 
 5. When you have finished adjusting the map extent, go to **Layout > Close Activation**.
 <p align="center"><img width="650" height="178" alt="image8" src="https://github.com/user-attachments/assets/7c87836a-d2ee-4b1a-8c80-d811aee339c7" />
 
 ## Map Title
 1. Go to **Insert > Dynamic Text**, select **Name of Map**, and draw a rectangle in the layout. Double-click the text box to rename the map to **“Bus Stop Service in Suzhou.”**
-<p align="center"><img width="527" height="802" alt="image108" src="https://github.com/user-attachments/assets/bcb57fa3-6d24-4794-b68a-b14f3fe594aa" />
+<p align="center"><img width="400"  alt="image108" src="https://github.com/user-attachments/assets/bcb57fa3-6d24-4794-b68a-b14f3fe594aa" />
    
 2. You can also edit the title in the **Element** pane on the right by updating the text under **Text**.
-<p align="center"><img width="314" height="203" alt="image67" src="https://github.com/user-attachments/assets/8e9416d9-0b4b-4ec4-9298-955a45ed4ecb" />
+<p align="center"><img width="300"  alt="image67" src="https://github.com/user-attachments/assets/8e9416d9-0b4b-4ec4-9298-955a45ed4ecb" />
    
 3. Go to the **Text Symbol** tab, where you can customize the appearance of the map title (e.g., font, size, color, and alignment).
-<p align="center"><img width="322" height="396" alt="image79" src="https://github.com/user-attachments/assets/5fa6a0e2-9cce-458d-868a-38b188f709ec" />
+<p align="center"><img width="300" height="396" alt="image79" src="https://github.com/user-attachments/assets/5fa6a0e2-9cce-458d-868a-38b188f709ec" />
  
 4. To delete any elements, right-click on the element and select **Delete** from the menu.
-<p align="center"><img width="366" height="217" alt="image92" src="https://github.com/user-attachments/assets/52596090-43fc-49ec-b3f9-431574714b44" />
+<p align="center"><img width="300"  alt="image92" src="https://github.com/user-attachments/assets/52596090-43fc-49ec-b3f9-431574714b44" />
 
 ## North Arrow and Legend
 
 1. Click **North Arrow**, select one from the menu, and draw a box in the layout or map to place it.
-<p align="center"><img width="228" height="394" alt="image58" src="https://github.com/user-attachments/assets/5fee20a0-98cc-4b2f-bee1-8883539a6bcd" />
+<p align="center"><img width="250"  alt="image58" src="https://github.com/user-attachments/assets/5fee20a0-98cc-4b2f-bee1-8883539a6bcd" />
 
 2. Next, repeat the same steps to add a scale bar, and move it to a suitable place on the map.
 
 3. Again, repeat the same steps to add a legend.
  
 4. Go to the **Element** pane to edit the legend. First, under the **Legend** tab, uncheck **Show** next to **Title**.
-<p align="center"><img width="334" height="561" alt="image106" src="https://github.com/user-attachments/assets/58bbb687-1521-4dc3-b0ba-9346fd4164c8" />
+<p align="center"><img width="300" alt="image106" src="https://github.com/user-attachments/assets/58bbb687-1521-4dc3-b0ba-9346fd4164c8" />
    
 5. Then, click on **show property…** button, uncheck **Layer Name** under **Show**.
-<p align="center"><img width="333" height="403" alt="image5" src="https://github.com/user-attachments/assets/5d3b2dc9-bb6a-47cc-88dd-9df51badde8d" />
+<p align="center"><img width="300"  alt="image5" src="https://github.com/user-attachments/assets/5d3b2dc9-bb6a-47cc-88dd-9df51badde8d" />
  
 6. Go to the **Text Symbol** tab to edit the text font.
-<p align="center"><img width="319" height="354" alt="image56" src="https://github.com/user-attachments/assets/46de54a4-b5b5-46d1-be87-d25f4f27d777" />
+<p align="center"><img width="300"  alt="image56" src="https://github.com/user-attachments/assets/46de54a4-b5b5-46d1-be87-d25f4f27d777" />
 
 7. For convenience, you can enable **Auto Apply** in the bottom-left corner to preview changes instantly.
-<p align="center"><img width="239" height="71" alt="image46" src="https://github.com/user-attachments/assets/15aa066c-c0bd-4e88-960a-6aefd8d055d2" />
+<p align="center"><img width="200" alt="image46" src="https://github.com/user-attachments/assets/15aa066c-c0bd-4e88-960a-6aefd8d055d2" />
 
 ## Additional Text 
 
 1. If you have supplementary information to add other than the essential map elements (e.g., data source, cartographer name, date of creation), you may go to **Dynamic Text**, then select **Description**.
-<p align="center"><img width="527" height="404" alt="image89" src="https://github.com/user-attachments/assets/033a649a-5ad0-4d46-816d-3d00934901bf" />
+<p align="center"><img width="450"  alt="image89" src="https://github.com/user-attachments/assets/033a649a-5ad0-4d46-816d-3d00934901bf" />
 
 2. Draw a box under the scale bar and add the text to it: “Source: 2020 Census, ChinaGeo-Explorer Cartographer: XXXX Date: 2026-04-22” separated by enter line space.
 
 ## Grid
 
 3. Grids are useful for indicating geographic location. To add one, select the map in the layout first, then go to the **Insert** tab, and click **Grid** under **Map Frame** group.
-<p align="center"><img width="289" height="103" alt="image63" src="https://github.com/user-attachments/assets/28aa5638-07c5-425b-a867-6873a52cd85e" />
+<p align="center"><img width="250"  alt="image63" src="https://github.com/user-attachments/assets/28aa5638-07c5-425b-a867-6873a52cd85e" />
  
 4. Select **Black Vertical Label Graticule**.
-<p align="center"><img width="652" height="408" alt="image107" src="https://github.com/user-attachments/assets/053b565e-d0f4-4bfc-b094-699f36b8d02b" />
+<p align="center"><img width="550"  alt="image107" src="https://github.com/user-attachments/assets/053b565e-d0f4-4bfc-b094-699f36b8d02b" />
    
 5. Go to the **Element** pane, click the arrow icon and switch from **Map Grid** to **Gridlines**.
-<p align="center"><img width="194" height="206" alt="image42" src="https://github.com/user-attachments/assets/49d9a974-aed5-4bc9-9caf-6ffb1dbf640b" />
+<p align="center"><img width="190"  alt="image42" src="https://github.com/user-attachments/assets/49d9a974-aed5-4bc9-9caf-6ffb1dbf640b" />
 
 6. To hide the grid lines across the map, switch the color from Black to No color.
-<p align="center"><img width="326" height="437" alt="image84" src="https://github.com/user-attachments/assets/6f4566b5-1ce6-4bce-91d1-96e8d6375e3d" />
+<p align="center"><img width="300" alt="image84" src="https://github.com/user-attachments/assets/6f4566b5-1ce6-4bce-91d1-96e8d6375e3d" />
     
 7. Note that all elements added to the layout will appear in the **Contents** pane. You may double-click on each element to rename it.
-<p align="center"><img width="237" height="475" alt="image45" src="https://github.com/user-attachments/assets/9f2d99e8-39bf-4849-952e-c0b6cbf3c6f7" />
+<p align="center"><img width="190"  alt="image45" src="https://github.com/user-attachments/assets/9f2d99e8-39bf-4849-952e-c0b6cbf3c6f7" />
 
 ## Export to PDF
 
