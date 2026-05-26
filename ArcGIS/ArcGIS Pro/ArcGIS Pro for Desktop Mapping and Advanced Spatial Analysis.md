@@ -186,7 +186,7 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 <p align="center"><img width="500"  alt="image32" src="https://github.com/user-attachments/assets/c885916f-7e2b-4e76-8ede-c04b7bc107d0" />
    
 2. Choose a new style from the dropdown menu.
-<p align="center"><img width="550"  alt="image57" src="https://github.com/user-attachments/assets/e1be7428-86b7-4b69-9796-5d5ebecd390c" />
+<p align="center"><img width="500"  alt="image57" src="https://github.com/user-attachments/assets/e1be7428-86b7-4b69-9796-5d5ebecd390c" />
   
 3. The basemap in the map view will update accordingly.
 <p align="center"><img width="800"  alt="image47" src="https://github.com/user-attachments/assets/ce979bbd-9d08-4a1d-a103-04f86795afee" />
@@ -226,10 +226,10 @@ Despite its name, a shapefile is actually a collection of several related files 
 <p align="center"><img width="300"  alt="image86" src="https://github.com/user-attachments/assets/e377388f-f483-4b5b-91bf-c38931cf0edb" />
  
 7. You can choose an existing style for the features under the **Gallery** tab, or customize colors, symbols, and other settings under the **Properties** tab.
-<p align="center"><img width="500"  alt="image93" src="https://github.com/user-attachments/assets/c4a820a5-f290-425f-874b-d384a2dfc42d" />
+<p align="center"><img width="400"  alt="image93" src="https://github.com/user-attachments/assets/c4a820a5-f290-425f-874b-d384a2dfc42d" />
 
 8. Remember to click **Apply** before closing the settings.
-<p align="center"><img width="500"  alt="image75" src="https://github.com/user-attachments/assets/e31ba5df-c97b-4ac1-90bc-fd79166089e2" />
+<p align="center"><img width="400"  alt="image75" src="https://github.com/user-attachments/assets/e31ba5df-c97b-4ac1-90bc-fd79166089e2" />
 
 ## Table
 is a data table containing information about every airport in China, including their names,  addresses, coordinates, and year of construction. Let’s map this data on the map! Before we begin, make sure you have downloaded the file to your computer.
@@ -243,14 +243,14 @@ is a data table containing information about every airport in China, including t
 3. In the **Geoprocessing** pane, for **Input Table**, select **suzhou_bus_stops.csv**.
  
 4. For **Output Feature Class**, keep the default name **suzhou_bus_stops**.
-<p align="center"><img width="450"  alt="image35" src="https://github.com/user-attachments/assets/725b7888-f774-4d77-bd3d-bba29cbe4415" />
+<p align="center"><img width="400"  alt="image35" src="https://github.com/user-attachments/assets/725b7888-f774-4d77-bd3d-bba29cbe4415" />
    
 5. For **X Field**, select **Longitude**.
 
 6. For **Y Field**, select **Latitude**.
  
 7. Make sure **GCS_WGS_1984** is selected under the **Coordinate System**.
-<p align="center"><img width="450"  alt="image16" src="https://github.com/user-attachments/assets/745d1fc0-6c43-47f3-8d39-f5ab75c3de81" />
+<p align="center"><img width="400"  alt="image16" src="https://github.com/user-attachments/assets/745d1fc0-6c43-47f3-8d39-f5ab75c3de81" />
    
 8. Click **Run**.
 <p align="center"><img width="192" height="101" alt="image55" src="https://github.com/user-attachments/assets/ee894c45-223e-4414-ae20-68ea9e70e452" />
@@ -268,10 +268,10 @@ In this tutorial, we will not use data from the Living Atlas. However, this sect
 <p align="center"><img width="800"  alt="image78" src="https://github.com/user-attachments/assets/ba606e3e-c211-4203-833b-ed7b7141eb0c" />
 
 2. In the top-right corner of the pop up where it says **Search Living Atlas**, enter **“China”**.
-<p align="center"><img width="600" alt="image82" src="https://github.com/user-attachments/assets/c7299412-7f4e-4598-9800-6e36d8f2cc52" />
+<p align="center"><img width="500" alt="image82" src="https://github.com/user-attachments/assets/c7299412-7f4e-4598-9800-6e36d8f2cc52" />
  
 3. In the result list, click the first option **China Prefecture Boundaries**.
-<p align="center"><img width="600" alt="image14" src="https://github.com/user-attachments/assets/1c8b345c-dfe2-4a3c-8dc9-c011612e1f0a" />
+<p align="center"><img width="500" alt="image14" src="https://github.com/user-attachments/assets/1c8b345c-dfe2-4a3c-8dc9-c011612e1f0a" />
  
 4. Now, in the **Contents** pane, you should see the **CHN_Prefectures** layer.
 <p align="center"><img width="317" height="490" alt="image70" src="https://github.com/user-attachments/assets/a5273c64-7e71-40f6-bce7-09d7f5e61624" />
@@ -291,10 +291,10 @@ For more instructions on importing different types of data, visit [Add data to a
 <p align="center"><img width="304" height="366" alt="image3" src="https://github.com/user-attachments/assets/bde1894b-fab3-4279-b4d2-64d2a3d4bcc7" />
 
 2. In the **Geoprocessing** pane, select **citybase** for **Input Table** and **ename** for **Input Field**.
-<p align="center"><img width="500"  alt="image66" src="https://github.com/user-attachments/assets/2566809c-7a8a-4f99-b4a7-d031a5d198bf" />
+<p align="center"><img width="450"  alt="image66" src="https://github.com/user-attachments/assets/2566809c-7a8a-4f99-b4a7-d031a5d198bf" />
 
 3. Select **suzhou_population.csv** for **Join Table** and **Area** for **Join Field**.
-<p align="center"><img width="500" alt="image77" src="https://github.com/user-attachments/assets/2a1ccaec-5fe3-4b5b-a4de-719956f67a8e" />
+<p align="center"><img width="450" alt="image77" src="https://github.com/user-attachments/assets/2a1ccaec-5fe3-4b5b-a4de-719956f67a8e" />
  
 4. For **Transfer Method**, select **Select transfer fields**, and for **Transfer Fields**, select **Population**.
    
@@ -304,7 +304,7 @@ For more instructions on importing different types of data, visit [Add data to a
 6. Click **Run**.
        
 7. Now, select **citybase** in the **Contents** pane and right-click, and select **Open (Table)**.
-<p align="center"><img width="500"  alt="image49" src="https://github.com/user-attachments/assets/84dd00b9-334a-41dd-951b-c769194e1d75" />
+<p align="center"><img width="450"  alt="image49" src="https://github.com/user-attachments/assets/84dd00b9-334a-41dd-951b-c769194e1d75" />
     
 8. **“Population”** field should now be joined to the dataset.
 <p align="center"><img width="350"  alt="image74" src="https://github.com/user-attachments/assets/8e15102d-bc6f-456a-b970-9956396cb393" />
