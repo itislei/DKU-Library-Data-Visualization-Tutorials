@@ -166,7 +166,7 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 <p align="center"><img width="514" height="262" alt="image2" src="https://github.com/user-attachments/assets/19a6344a-de9e-42d7-9ada-35d47787e613" />
 
 5. This will open the project workspace, where you can start working on.
-<p align="center"><img width="700"  alt="image21" src="https://github.com/user-attachments/assets/47669a4a-8dea-4d1c-8883-2105cc698f8d" />
+<p align="center"><img width="800"  alt="image21" src="https://github.com/user-attachments/assets/47669a4a-8dea-4d1c-8883-2105cc698f8d" />
  
 6. The interface of ArcGIS Pro includes:
    1) Project tab
@@ -186,10 +186,10 @@ If you haven’t downloaded ArcGIS Pro on your computer, follow the instructions
 <p align="center"><img width="500"  alt="image32" src="https://github.com/user-attachments/assets/c885916f-7e2b-4e76-8ede-c04b7bc107d0" />
    
 2. Choose a new style from the dropdown menu.
-<p align="center"><img width="650"  alt="image57" src="https://github.com/user-attachments/assets/e1be7428-86b7-4b69-9796-5d5ebecd390c" />
+<p align="center"><img width="550"  alt="image57" src="https://github.com/user-attachments/assets/e1be7428-86b7-4b69-9796-5d5ebecd390c" />
   
 3. The basemap in the map view will update accordingly.
-<p align="center"><img width="700"  alt="image47" src="https://github.com/user-attachments/assets/ce979bbd-9d08-4a1d-a103-04f86795afee" />
+<p align="center"><img width="800"  alt="image47" src="https://github.com/user-attachments/assets/ce979bbd-9d08-4a1d-a103-04f86795afee" />
 
 # Import and Visualize Data
 
@@ -256,7 +256,7 @@ is a data table containing information about every airport in China, including t
 <p align="center"><img width="192" height="101" alt="image55" src="https://github.com/user-attachments/assets/ee894c45-223e-4414-ae20-68ea9e70e452" />
   
 9. Now, in the **Contents** pane, you should see the **suzhou_bus_stops** layer.
-<p align="center"><img width="700" alt="image22" src="https://github.com/user-attachments/assets/3907fd4a-45c0-4b15-a32f-c520dcffcbf1" />
+<p align="center"><img width="800" alt="image22" src="https://github.com/user-attachments/assets/3907fd4a-45c0-4b15-a32f-c520dcffcbf1" />
 
 ## Living Atlas
 
@@ -265,13 +265,13 @@ You may also import data from ArcGIS’s Living Atlas into your project. ArcGIS 
 In this tutorial, we will not use data from the Living Atlas. However, this section is introduced to give you an understanding of how to obtain additional data directly within ArcGIS Pro when needed.
 
 1. To access Living Atlas, go to the **Map** tab, click **Add Data > Browse**.
-<p align="center"><img width="965" height="487" alt="image78" src="https://github.com/user-attachments/assets/ba606e3e-c211-4203-833b-ed7b7141eb0c" />
+<p align="center"><img width="800"  alt="image78" src="https://github.com/user-attachments/assets/ba606e3e-c211-4203-833b-ed7b7141eb0c" />
 
 2. In the top-right corner of the pop up where it says **Search Living Atlas**, enter **“China”**.
-<p align="center"><img width="603" height="413" alt="image82" src="https://github.com/user-attachments/assets/c7299412-7f4e-4598-9800-6e36d8f2cc52" />
+<p align="center"><img width="600" alt="image82" src="https://github.com/user-attachments/assets/c7299412-7f4e-4598-9800-6e36d8f2cc52" />
  
 3. In the result list, click the first option **China Prefecture Boundaries**.
-<p align="center"><img width="603" height="413" alt="image14" src="https://github.com/user-attachments/assets/1c8b345c-dfe2-4a3c-8dc9-c011612e1f0a" />
+<p align="center"><img width="600" alt="image14" src="https://github.com/user-attachments/assets/1c8b345c-dfe2-4a3c-8dc9-c011612e1f0a" />
  
 4. Now, in the **Contents** pane, you should see the **CHN_Prefectures** layer.
 <p align="center"><img width="317" height="490" alt="image70" src="https://github.com/user-attachments/assets/a5273c64-7e71-40f6-bce7-09d7f5e61624" />
@@ -291,23 +291,23 @@ For more instructions on importing different types of data, visit [Add data to a
 <p align="center"><img width="304" height="366" alt="image3" src="https://github.com/user-attachments/assets/bde1894b-fab3-4279-b4d2-64d2a3d4bcc7" />
 
 2. In the **Geoprocessing** pane, select **citybase** for **Input Table** and **ename** for **Input Field**.
-<p align="center"><img width="554" height="603" alt="image66" src="https://github.com/user-attachments/assets/2566809c-7a8a-4f99-b4a7-d031a5d198bf" />
+<p align="center"><img width="500"  alt="image66" src="https://github.com/user-attachments/assets/2566809c-7a8a-4f99-b4a7-d031a5d198bf" />
 
 3. Select **suzhou_population.csv** for **Join Table** and **Area** for **Join Field**.
-<p align="center"><img width="554" height="603" alt="image77" src="https://github.com/user-attachments/assets/2a1ccaec-5fe3-4b5b-a4de-719956f67a8e" />
+<p align="center"><img width="500" alt="image77" src="https://github.com/user-attachments/assets/2a1ccaec-5fe3-4b5b-a4de-719956f67a8e" />
  
 4. For **Transfer Method**, select **Select transfer fields**, and for **Transfer Fields**, select **Population**.
    
 5. For **Index Join Fields**, select **Do not add indexes**.
-<p align="center"><img width="320" height="515" alt="image109" src="https://github.com/user-attachments/assets/727ca093-a321-4298-b254-533f5a4a7ef1" />
+<p align="center"><img width="300"  alt="image109" src="https://github.com/user-attachments/assets/727ca093-a321-4298-b254-533f5a4a7ef1" />
 
 6. Click **Run**.
        
 7. Now, select **citybase** in the **Contents** pane and right-click, and select **Open (Table)**.
-<p align="center"><img width="602" height="621" alt="image49" src="https://github.com/user-attachments/assets/84dd00b9-334a-41dd-951b-c769194e1d75" />
+<p align="center"><img width="500"  alt="image49" src="https://github.com/user-attachments/assets/84dd00b9-334a-41dd-951b-c769194e1d75" />
     
 8. **“Population”** field should now be joined to the dataset.
-<p align="center"><img width="382" height="326" alt="image74" src="https://github.com/user-attachments/assets/8e15102d-bc6f-456a-b970-9956396cb393" />
+<p align="center"><img width="350"  alt="image74" src="https://github.com/user-attachments/assets/8e15102d-bc6f-456a-b970-9956396cb393" />
 
 ## Buffer
 
@@ -316,21 +316,21 @@ The Buffer tool creates polygons around input features at a specified distance, 
 In this tutorial, we will first create 500-meter buffers around each bus stop to visualize the current service areas (areas that are accessible to the bus stops). We will also set the Dissolve Type within the Buffer tool to combine all buffers into a single service area layer.
 
 1. In the Command Search box, enter **“Buffer”**, select **Buffer (Analysis Tools)**.
-<p align="center"><img width="340" height="529" alt="image30" src="https://github.com/user-attachments/assets/3f9d0f49-98d6-4b7d-ad5d-da6a053506ed" />
+<p align="center"><img width="300"  alt="image30" src="https://github.com/user-attachments/assets/3f9d0f49-98d6-4b7d-ad5d-da6a053506ed" />
  
 2. In the **Geoprocessing** pane, select **suzhou_bus_stops** for **Input Features**. This will automatically name the **Output Feature Class** by adding **“_Buffer”** to the end. You can change the name if needed, but in this tutorial we will keep the default.
-<p align="center"><img width="556" height="833" alt="image33" src="https://github.com/user-attachments/assets/837acc7f-6b56-4af5-ac06-697f5362587d" />
+<p align="center"><img width="300" alt="image33" src="https://github.com/user-attachments/assets/837acc7f-6b56-4af5-ac06-697f5362587d" />
 
 3. Set **Distance [value or field]** to **500, Linear Unit** to **Meters**.
-<p align="center"><img width="556" height="465" alt="image44" src="https://github.com/user-attachments/assets/c026c8b3-2dcd-47cd-9330-922be27d4a93" />
+<p align="center"><img width="500"  alt="image44" src="https://github.com/user-attachments/assets/c026c8b3-2dcd-47cd-9330-922be27d4a93" />
 
 4. Keep **Planar** as the **Method**, and set **Dissolve Type** to **Dissolve all output features into a single feature**. This will help us create a layer that merges all buffers into one continuous area.
-<p align="center"><img width="331" height="411" alt="image13" src="https://github.com/user-attachments/assets/20e24ec4-28d4-44e8-a46c-d33c67e58156" />
+<p align="center"><img width="300"  alt="image13" src="https://github.com/user-attachments/assets/20e24ec4-28d4-44e8-a46c-d33c67e58156" />
 
 5. Click **Run**.
 
 6. Once the analysis is completed, a new layer **suzhou_bus_stops_Buffer** should appear in the **Contents** pane. Uncheck the **suzhou_bus_stops** layer, and the map view should look like the one shown below.
-<p align="center"><img width="1130" height="674" alt="image11" src="https://github.com/user-attachments/assets/421676f1-1d26-4edc-af78-1956b101dfb8" />
+<p align="center"><img width="800"  alt="image11" src="https://github.com/user-attachments/assets/421676f1-1d26-4edc-af78-1956b101dfb8" />
 
 ## Intersect Tool
 
