@@ -225,25 +225,25 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 3. In the left pane of the new page, copy and paste the content from section \#6 in captions.docx into the table. Note that importing data from an existing file is not supported, and you cannot paste all content at once. You will need to enter the content into each cell individually. Adding multiple columns of data is supported.
 
-<p align="center"><img width="550" alt="charts 3" src="https://github.com/user-attachments/assets/bdcc56b4-bd0b-486e-a7b4-26b041e9f160" />
+<p align="center"><img width="400" alt="charts 3" src="https://github.com/user-attachments/assets/bdcc56b4-bd0b-486e-a7b4-26b041e9f160" />
 
 
 
 4. Switch to **Settings** from **Data** tab, copy and paste 
 
-<p align="center"><img width="550" alt="charts 4" src="https://github.com/user-attachments/assets/bc547363-21a0-4117-98e7-c855973dedeb" />
+<p align="center"><img width="400" alt="charts 4" src="https://github.com/user-attachments/assets/bc547363-21a0-4117-98e7-c855973dedeb" />
 
 
 
 5. Remove the values under **Chart title**, enter **Region of China** in the **Category axis title** field, and **Count of Provinces** in the **Value axis title** field.
 
-<p align="center"><img width="550" alt="charts 5" src="https://github.com/user-attachments/assets/5860737e-3d78-48b4-a1cb-d8a679669780" />
+<p align="center"><img width="400" alt="charts 5" src="https://github.com/user-attachments/assets/5860737e-3d78-48b4-a1cb-d8a679669780" />
 
 
 
 6. Toggle on **Customize axis**, and enter **3** in the field.
 
-<p align="center"><img width="550" alt="charts 6" src="https://github.com/user-attachments/assets/7e496919-1a8c-41b2-9e97-9e35d155705d" />
+<p align="center"><img width="400" alt="charts 6" src="https://github.com/user-attachments/assets/7e496919-1a8c-41b2-9e97-9e35d155705d" />
 
 
 7. Review the changes and click **Save** to confirm.
@@ -264,7 +264,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 10. Again, copy and paste the content under \#6 in captions.docx into the table on the left pane of the new page. Note that the donut chart can only work with two data columns.
 
-<p align="center"><img width="550" alt="charts 10" src="https://github.com/user-attachments/assets/b98a8638-6f6f-4243-b0cd-b06c8e70b3bf" />
+<p align="center"><img width="400" alt="charts 10" src="https://github.com/user-attachments/assets/b98a8638-6f6f-4243-b0cd-b06c8e70b3bf" />
 
 11. Switch to the **Settings** tab and delete all content in the **Chart title** field.
 
@@ -273,7 +273,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 12. Review the chart, then click **Save** when it's ready.
 
-<p align="center"><img width="650" alt="charts 12" src="https://github.com/user-attachments/assets/b77216b1-de99-449c-b9c9-0e0a15ffaa28" />
+<p align="center"><img width="550" alt="charts 12" src="https://github.com/user-attachments/assets/b77216b1-de99-449c-b9c9-0e0a15ffaa28" />
 
 
 
@@ -551,13 +551,13 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 10. Right-click and select **Copy**. Alternatively, press **Ctrl \+ C** on Windows (or **Command \+ C** on Mac) to copy.
 
-<p align="center"><img width="650"  alt="map tour 10" src="https://github.com/user-attachments/assets/d668016c-a64a-4658-ad6d-f885d0cf5216" />
+<p align="center"><img width="550"  alt="map tour 10" src="https://github.com/user-attachments/assets/d668016c-a64a-4658-ad6d-f885d0cf5216" />
 
 
 
 11. Go back to the StoryMap and click **Add location** on the **Duke Kunshan University** card.
 
-<p align="center"><img width="550"  alt="map tour 11" src="https://github.com/user-attachments/assets/b94cc270-9a02-4048-8867-0a2efd70375c" />
+<p align="center"><img width="450"  alt="map tour 11" src="https://github.com/user-attachments/assets/b94cc270-9a02-4048-8867-0a2efd70375c" />
 
 
 
@@ -649,23 +649,23 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 3. In the project, you may use the mouse wheel and cursor to scroll through and review the content.  
 4. Click the ellipsis (three-dot) icon in the top-right corner to check additional action options.
 
-<p align="center"><img width="550" alt="view and save 4" src="https://github.com/user-attachments/assets/78d39418-98ee-4994-a2ea-5598bd0ea89f" />
+<p align="center"><img width="400" alt="view and save 4" src="https://github.com/user-attachments/assets/78d39418-98ee-4994-a2ea-5598bd0ea89f" />
 
 
 5. Note that StoryMaps can be viewed in autoplay mode. To enable this feature, click the ellipsis (three-dot) icon and select **Turn autoplay on**.
 
-<p align="center"><img width="400"  alt="view and save 5" src="https://github.com/user-attachments/assets/37922675-9709-4572-9dea-8352aac8ee4f" />
+<p align="center"><img width="350"  alt="view and save 5" src="https://github.com/user-attachments/assets/37922675-9709-4572-9dea-8352aac8ee4f" />
 
 
 
 6. You can also export your project as a PDF by selecting **Print preview** from the same menu.
 
-<p align="center"><img width="400" alt="view and save 6" src="https://github.com/user-attachments/assets/6b8bc44a-4fbe-4636-9f50-37e61091d25a" />
+<p align="center"><img width="350" alt="view and save 6" src="https://github.com/user-attachments/assets/6b8bc44a-4fbe-4636-9f50-37e61091d25a" />
 
 
 7. Finally, you can save your project as a template by clicking **Save as template**. This allows you to reuse the same layout and assets in the future while simply replacing the content.
 
-<p align="center"><img width="400"  alt="view and save 7" src="https://github.com/user-attachments/assets/03a70e14-3959-4aca-8794-ce5ec0888806" />
+<p align="center"><img width="350"  alt="view and save 7" src="https://github.com/user-attachments/assets/03a70e14-3959-4aca-8794-ce5ec0888806" />
 
 
 
