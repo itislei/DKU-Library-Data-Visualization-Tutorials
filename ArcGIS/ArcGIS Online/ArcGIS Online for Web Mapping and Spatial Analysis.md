@@ -191,41 +191,41 @@ ArcGIS Online supports importing data from structured table formats such as comm
 
 2. Click **Your device** button, then select **China Airport Dataset.csv** file (downloaded from the setup files) from its saved location and click **Open**. Alternatively, drag and drop the file into the pop-up window.
 
-<p align="center"><img width="650"  alt="image11" src="https://github.com/user-attachments/assets/3c58feaf-daaa-4c91-868d-9e077eb43c56" />
+<p align="center"><img width="700"  alt="image11" src="https://github.com/user-attachments/assets/3c58feaf-daaa-4c91-868d-9e077eb43c56" />
 
 
 
 
 3. Select **Create a hosted feature layer and add it to the map**, click **Next**.
 
-<p align="center"><img width="650" alt="image37" src="https://github.com/user-attachments/assets/ef335169-f8b3-40ec-9ed2-bfa7d3c29e5a" />
+<p align="center"><img width="700" alt="image37" src="https://github.com/user-attachments/assets/ef335169-f8b3-40ec-9ed2-bfa7d3c29e5a" />
 
 
 
 
 4. Confirm data type for each variable, and click **Next**.
 
-<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/eae04bb4-85e5-48e8-8fcb-2b4d3ca91fd2" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/eae04bb4-85e5-48e8-8fcb-2b4d3ca91fd2" />
 
 
 
 5. Click the arrow icon to expand the options, select **Latitude and longtitude**, click **Next**.
 
-<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/2a25427c-2e0b-43d6-94af-8c1ffd51691d" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/2a25427c-2e0b-43d6-94af-8c1ffd51691d" />
 
 
 
 
 6. Open the dropdown, then select **LAT** for the “Latitude” field and **LNG** for the “Longitude” field, click **Next**.
 
-<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/c1796a19-e0bc-4251-871a-5ccd89607f5e" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/c1796a19-e0bc-4251-871a-5ccd89607f5e" />
 
 
 
 
 7. Name the new layer as **China Airport Dataset**, then click **Create and add to map**.
 
-<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/8986e596-025f-42fe-b786-034251b70d37" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/8986e596-025f-42fe-b786-034251b70d37" />
 
 
 
@@ -239,7 +239,7 @@ ArcGIS Online supports importing data from structured table formats such as comm
 
 9. Go to **Layers** in the contents toolbar to check the items that have been added to the project.
 
-<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/00407b26-6ea4-4d3e-bf2e-12e7989f350c" />
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/00407b26-6ea4-4d3e-bf2e-12e7989f350c" />
 
 
 ### Geospatial Data File
@@ -252,21 +252,21 @@ A shapefile is one of the most common geospatial data formats used in GIS, which
 
 1. After download, go to the contents toolbar, select **Add** \> **Add layer from file**.
 
-<p align="center"><img width="391" height="411" alt="image" src="https://github.com/user-attachments/assets/04f54bc4-d2ca-4859-adaf-6d9b3715be36" />
+<p align="center"><img width="200" alt="image" src="https://github.com/user-attachments/assets/04f54bc4-d2ca-4859-adaf-6d9b3715be36" />
 
 
 
 
 2. Select **Your device** option, then locate and click on the **China Province Boundaries.zip** file (downloaded from the setup files) from its saved location and click **Open**. Alternatively, drag and drop the file into the pop-up window. Click **Next** to continue.
 
-<p align="center"><img width="697" height="363" alt="image" src="https://github.com/user-attachments/assets/00916077-9fe7-464e-ae3d-48cad66acec4" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/00916077-9fe7-464e-ae3d-48cad66acec4" />
 
 
 
 
 3. Make sure “Shapefile” is selected, then click **Next**.
 
-<p align="center"><img width="707" height="366" alt="image" src="https://github.com/user-attachments/assets/e9d612f7-048a-484d-8a0b-2f5d6ac0160c" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/e9d612f7-048a-484d-8a0b-2f5d6ac0160c" />
 
 
 
