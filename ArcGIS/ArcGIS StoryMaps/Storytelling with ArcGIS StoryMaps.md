@@ -629,12 +629,12 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 5. You may also set some advanced options for the sharing, such as allowing others to duplicate or showing your project in the web search results if you set the project to be visible to the public.  
 6. When everything is set, click **Publish**.
 
-<p align="center"><img width="400" alt="publish storymap 6" src="https://github.com/user-attachments/assets/f3f85762-a4c1-4e52-ab35-947935314d26" />
+<p align="center"><img width="300" alt="publish storymap 6" src="https://github.com/user-attachments/assets/f3f85762-a4c1-4e52-ab35-947935314d26" />
 
 
 7. Now the project should be published. And there are several ways to share it to others and view.
 
-<p align="center"><img width="400"  alt="publish storymap 7" src="https://github.com/user-attachments/assets/d60f57e2-7e3b-48ae-be15-68d93c5913b5" />
+<p align="center"><img width="300"  alt="publish storymap 7" src="https://github.com/user-attachments/assets/d60f57e2-7e3b-48ae-be15-68d93c5913b5" />
 
 
 # **View and Save StoryMap**
@@ -649,7 +649,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 3. In the project, you may use the mouse wheel and cursor to scroll through and review the content.  
 4. Click the ellipsis (three-dot) icon in the top-right corner to check additional action options.
 
-<p align="center"><img width="400" alt="view and save 4" src="https://github.com/user-attachments/assets/78d39418-98ee-4994-a2ea-5598bd0ea89f" />
+<p align="center"><img width="350" alt="view and save 4" src="https://github.com/user-attachments/assets/78d39418-98ee-4994-a2ea-5598bd0ea89f" />
 
 
 5. Note that StoryMaps can be viewed in autoplay mode. To enable this feature, click the ellipsis (three-dot) icon and select **Turn autoplay on**.
