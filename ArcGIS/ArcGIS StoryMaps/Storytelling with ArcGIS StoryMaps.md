@@ -208,7 +208,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 6. Lastly, after entering all the data into the table, add a caption below the table using the content from section \#5 in captions.docx.
 
-<p align="center"><img width="650" alt="c table 6" src="https://github.com/user-attachments/assets/08312c21-3ae2-4800-b3ec-0eac53014a9f" />
+<p align="center"><img width="500" alt="c table 6" src="https://github.com/user-attachments/assets/08312c21-3ae2-4800-b3ec-0eac53014a9f" />
 
 
 
@@ -216,7 +216,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 1. Continue the Map 1 section, click on the **\+** icon and select **Chart** from the list.
 
-<p align="center"><img width="650" src="https://github.com/user-attachments/assets/be47aeff-f960-4241-849c-3006836ebcc5" />
+<p align="center"><img width="500" src="https://github.com/user-attachments/assets/be47aeff-f960-4241-849c-3006836ebcc5" />
 
 
 2. Select **Bar chart** from the options and click **Done**.
@@ -248,18 +248,18 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 7. Review the changes and click **Save** to confirm.
 
-<p align="center"><img width="650" alt="charts 7" src="https://github.com/user-attachments/assets/3066d530-dc32-4ee7-9812-a98487035137" />
+<p align="center"><img width="500" alt="charts 7" src="https://github.com/user-attachments/assets/3066d530-dc32-4ee7-9812-a98487035137" />
 
 
 
 8. Back to the project, click **Add another block** as we are going to add the donut chart.
 
-<p align="center"><img width="408" height="338" alt="charts 8" src="https://github.com/user-attachments/assets/1032ebbd-79f4-41a6-95db-9b9ae49ebda6" />
+<p align="center"><img width="300" alt="charts 8" src="https://github.com/user-attachments/assets/1032ebbd-79f4-41a6-95db-9b9ae49ebda6" />
 
 
 
 9. Select **Donut chart** from the options and click **Done**.
-<p align="center"><img width="550" alt="charts 9" src="https://github.com/user-attachments/assets/df90209b-7be7-4730-bfc6-cd32b9bc8c23" />
+<p align="center"><img width="400" alt="charts 9" src="https://github.com/user-attachments/assets/df90209b-7be7-4730-bfc6-cd32b9bc8c23" />
 
 
 10. Again, copy and paste the content under \#6 in captions.docx into the table on the left pane of the new page. Note that the donut chart can only work with two data columns.
@@ -268,7 +268,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 11. Switch to the **Settings** tab and delete all content in the **Chart title** field.
 
-<p align="center"><img width="550" alt="charts 11" src="https://github.com/user-attachments/assets/07860821-b78e-4a1d-8cd9-d10246525ad4" />
+<p align="center"><img width="400" alt="charts 11" src="https://github.com/user-attachments/assets/07860821-b78e-4a1d-8cd9-d10246525ad4" />
 
 
 12. Review the chart, then click **Save** when it's ready.
@@ -308,7 +308,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 4. Under **Layers** tab, make sure that **Count of airports in provinces** and **China Province Boundaries** layers are visible as all others are hidden.  
 5. Under **Layers** tab, make sure that **Chinese provinces with other 10 airports** and **China Province Boundaries** layers are visible as all others are hidden.
 
-<p align="center"><img width="550" alt="d web map 5" src="https://github.com/user-attachments/assets/1ef745fd-a973-4b52-9d05-a396627b6a30" />
+<p align="center"><img width="400" alt="d web map 5" src="https://github.com/user-attachments/assets/1ef745fd-a973-4b52-9d05-a396627b6a30" />
 
 
 
@@ -505,7 +505,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 1. Below the swipe, click the **\+** icon and select **Text** from the list. Copy and paste the content under \#15 in captions.docx into the text box. Then change the font style of **“Map 4”** from **Paragraph** to **Heading 1**, and change **“Three Closest Airports to DKU”** to **Heading 2**.  
 2. Below the text, click the \+ icon and select **Map tour**.
 
-<p align="center"><img width="550" alt="map tour 2" src="https://github.com/user-attachments/assets/4fa78fe7-b34a-4dc9-aaba-f0edce659b25" />
+<p align="center"><img width="400" alt="map tour 2" src="https://github.com/user-attachments/assets/4fa78fe7-b34a-4dc9-aaba-f0edce659b25" />
 
 
 3. From the options, select **Upload photos**.
@@ -528,13 +528,13 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 6. Make sure 4 images are selected, click **Add**.
 
-<p align="center"><img width="650" alt="map tour 6" src="https://github.com/user-attachments/assets/d1f13605-6995-4177-962a-9485c20847ff" />
+<p align="center"><img width="400" alt="map tour 6" src="https://github.com/user-attachments/assets/d1f13605-6995-4177-962a-9485c20847ff" />
 
 
 
 7. For the layout, select **List** under **Explorer tour**, and click **Save**.
 
-<p align="center"><img width="650" alt="map tour 7" src="https://github.com/user-attachments/assets/467c6224-faea-44b4-b968-3ade63a4762e" />
+<p align="center"><img width="400" alt="map tour 7" src="https://github.com/user-attachments/assets/467c6224-faea-44b4-b968-3ade63a4762e" />
 
 
 8. Copy and paste the content under \#16 in captions.docx as the title and \#17 as the description for the first image into the text box.
@@ -579,7 +579,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 15. Set the visibility level to **Use the current zoom level**, then click **Save**.
 
-<p align="center"><img width="400"  alt="map tour 15" src="https://github.com/user-attachments/assets/bf973679-4053-4968-8c76-152017c54a73" />
+<p align="center"><img width="350"  alt="map tour 15" src="https://github.com/user-attachments/assets/bf973679-4053-4968-8c76-152017c54a73" />
 
 
 16. Once editing is complete, switch to the second image from the bottom of the list, or use the mouse wheel to continue making changes.  
@@ -611,18 +611,18 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 2. You may change the title, subtitle, cover by clicking on the **Edit** on the left pane.
 
-<p align="center"><img width="500"  alt="publish storymap 2" src="https://github.com/user-attachments/assets/9b3d8f4d-b968-4564-95c7-25bb49df7f15" />
+<p align="center"><img width="400"  alt="publish storymap 2" src="https://github.com/user-attachments/assets/9b3d8f4d-b968-4564-95c7-25bb49df7f15" />
 
 
 
 3. On the right pane, set the sharing level to **Organization**.
 
-<p align="center"><img width="450" alt="publish storymap 3" src="https://github.com/user-attachments/assets/0033cdaa-f098-4062-b00d-9dc64bd592a9" />
+<p align="center"><img width="400" alt="publish storymap 3" src="https://github.com/user-attachments/assets/0033cdaa-f098-4062-b00d-9dc64bd592a9" />
 
 
 4. If you have a group or collaborating with others, you may set the **group sharing**.
 
-<p align="center"><img width="450" alt="publish storymap 4" src="https://github.com/user-attachments/assets/7512f5d3-211e-45b1-ad19-94c903bdd836" />
+<p align="center"><img width="400" alt="publish storymap 4" src="https://github.com/user-attachments/assets/7512f5d3-211e-45b1-ad19-94c903bdd836" />
 
 
 
@@ -641,7 +641,7 @@ Additionally, download the [Sample Dataset.zip](https://github.com/itislei/DKU-L
 
 1. After the project is completed, you may click on the View published story button, or copy the link and open in a new tab, or scan the QR code to open. You may also share the link or the QR code.
 
-<p align="center"><img width="450" alt="view and save 1" src="https://github.com/user-attachments/assets/94e40d23-7a49-4a7e-bd85-bd4228b13135" />
+<p align="center"><img width="400" alt="view and save 1" src="https://github.com/user-attachments/assets/94e40d23-7a49-4a7e-bd85-bd4228b13135" />
 
 
 
