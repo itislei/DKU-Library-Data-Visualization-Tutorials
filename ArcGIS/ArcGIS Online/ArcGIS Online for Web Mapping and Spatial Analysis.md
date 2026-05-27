@@ -347,14 +347,14 @@ Not just a tool, ArcGIS Online is also a rich source of map data, with contribut
 
 1. To customize the appearance of data points, lines, or polygons on the map, first make sure that you have selected the target layer under **Layers**. A blue strip will appear on the left of the selected layer’s title.
 
-<p align="center"><img width="450"  alt="image" src="https://github.com/user-attachments/assets/9b847049-3387-49d0-a01a-0866d52572b6" />
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/9b847049-3387-49d0-a01a-0866d52572b6" />
 
 
 
 
 2. Then, select **Styles** under the editing toolbar and use the settings to adjust the appearance of the data points according to your preference. For best practices in selecting colors or patterns for geospatial data and maps, refer to the [Select Visualization Elements](https://library.dukekunshan.edu.cn/data-visualization/#:~:text=4.%20Select%20Visualization%20Elements) section in the [Data Visualization guide](https://library.dukekunshan.edu.cn/data-visualization/). Click **Done** when the edits are complete. 
 
-<p align="center"><img width="450"  alt="image" src="https://github.com/user-attachments/assets/55796198-9f7c-4ffb-94e1-63320a6fb988" />
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/55796198-9f7c-4ffb-94e1-63320a6fb988" />
 
 
 
@@ -362,14 +362,14 @@ Not just a tool, ArcGIS Online is also a rich source of map data, with contribut
 
 1. You can configure labels for a map layer. To do so, first, make sure that you have selected the target layer under **Layers**. A blue strip will appear on the left of the selected layer’s title.
 
-<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/3bb66930-0894-4766-89ac-4166487bbdc1" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/3bb66930-0894-4766-89ac-4166487bbdc1" />
 
 
 
 
 2. Next, select **Labels** under the editing toolbar to start editing. Make sure you toggle on **Enable labels** and select **Name** field as the **Label field** to show the name of each province (since we turned them off in the basemap). You can also adjust the settings to customize their look.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/97e32f36-04af-4f8e-bbd8-cacd60fe6864" />
+<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/97e32f36-04af-4f8e-bbd8-cacd60fe6864" />
 
 
 
@@ -378,7 +378,7 @@ Not just a tool, ArcGIS Online is also a rich source of map data, with contribut
 
 1. Click on a random data point on the map — this will trigger a pop-up displaying all associated information for that specific point.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/3d1a6be5-f16d-4185-9591-4bd0e6b60fa2" />
+<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/3d1a6be5-f16d-4185-9591-4bd0e6b60fa2" />
 
 
 
@@ -410,7 +410,7 @@ ArcGIS Online does **not** save your map project automatically, so be sure to ma
 
 2. Name the project as **China Airport Map Project**, add other details if needed, and click **Save**.
 
-<p align="center"><img width="450"  alt="image" src="https://github.com/user-attachments/assets/d5680744-f35b-4442-96a6-65d04aea5fcc" />
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/d5680744-f35b-4442-96a6-65d04aea5fcc" />
 
 
 
@@ -436,42 +436,42 @@ You can also set up a group to make your project or items visible or editable to
 
 1. Go to **Content**, then **My content**. Locate the item you want to share, and click on its title.
 
-<p align="center"><img width="1007" height="410" alt="image" src="https://github.com/user-attachments/assets/858bc49d-92ee-4268-967a-d483ffca35e2" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/858bc49d-92ee-4268-967a-d483ffca35e2" />
 
 
 
 
 2. Alternatively, click on the ellipsis (3-dot) icon next to the item and select **View details**.
 
-<p align="center"><img width="402" height="460" alt="image" src="https://github.com/user-attachments/assets/2ef4f0a5-f32d-4628-afe7-0f31140b7fbf" />
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/2ef4f0a5-f32d-4628-afe7-0f31140b7fbf" />
 
 
 
 
 3. From the right-hand pane, click **Share** to open the sharing options.
 
-<p align="center"><img width="550" height="648" alt="image" src="https://github.com/user-attachments/assets/f7baeea1-00d3-415e-b828-0346c79af654" />
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/f7baeea1-00d3-415e-b828-0346c79af654" />
 
 
 
 
 4. Choose **Everyone (public)** under sharing options, and click **Save**.
 
-<p align="center"><img width="630" height="772" alt="image" src="https://github.com/user-attachments/assets/ca793e90-be83-47b1-95a5-5554a56a2f37" />
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/ca793e90-be83-47b1-95a5-5554a56a2f37" />
 
 
 
 
 5. Click **Review sharing** to check the items whose sharing permissions will be updated accordingly.
 
-<p align="center"><img width="915" height="321" alt="image" src="https://github.com/user-attachments/assets/a6e5e618-97ba-474c-a264-988885568a0b" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/a6e5e618-97ba-474c-a264-988885568a0b" />
 
 
 
 
 6. Click **Update sharing** to confirm the changes.
 
-<p align="center"><img width="979" height="444" alt="image" src="https://github.com/user-attachments/assets/68f38439-2bb0-4a75-aa7f-b2f92b1166ec" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/68f38439-2bb0-4a75-aa7f-b2f92b1166ec" />
 
 
 
@@ -495,49 +495,49 @@ For each layer created or added to a map project, you can export it as a shapefi
 
 1. Go to **Content**, then **My content**. Make sure the item you select is of the “Feature layer (hosted)” type \- otherwise, it will not support shapefile export.
 
-<p align="center"><img width="987" height="380" alt="image" src="https://github.com/user-attachments/assets/b269d42b-ee47-4f83-889c-677c1ac4cf0e" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/b269d42b-ee47-4f83-889c-677c1ac4cf0e" />
 
 
 
 
 2. Click on the ellipsis (3-dot) icon next to the item title, select **View details**. You can also do it by clicking on the item title.
 
-<p align="center"><img width="274" height="219" alt="image" src="https://github.com/user-attachments/assets/49c5e2b7-946e-4432-80a7-d6a4df30db55" />
+<p align="center"><img width="250"  alt="image" src="https://github.com/user-attachments/assets/49c5e2b7-946e-4432-80a7-d6a4df30db55" />
 
 
 
 
 3. Under the **Overview** tab, click **Export data** from the right pane.
 
-<p align="center"><img width="378" height="474" alt="image" src="https://github.com/user-attachments/assets/759b838b-f4b5-4901-9d15-15e4a4dcea1b" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/759b838b-f4b5-4901-9d15-15e4a4dcea1b" />
 
 
 
 
 4. Then, select **Export to shapefile** from the dropdown menu.
 
-<p align="center"><img width="390" height="414" alt="image" src="https://github.com/user-attachments/assets/10e97299-3a4e-44d4-adbb-a32cc22ff01e" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/10e97299-3a4e-44d4-adbb-a32cc22ff01e" />
 
 
 
 
 5. Name the new file as **China Airport Dataset**, add other details if needed, and click **Export**.
 
-<p align="center"><img width="639" height="706" alt="image" src="https://github.com/user-attachments/assets/dbde12b7-baf8-4cc8-83ae-861999ed29a7" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/dbde12b7-baf8-4cc8-83ae-861999ed29a7" />
 
 
 
 
 6. Once the export is complete, a new page will appear showing the file type as “Shapefile”. You can also find it under the **Content** tab.
 
-<p align="center"><img width="898" height="392" alt="image" src="https://github.com/user-attachments/assets/e6d412a4-1c1a-4b3d-9e01-166d6369e7e8" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/e6d412a4-1c1a-4b3d-9e01-166d6369e7e8" />
 
 
 
 
 7. Click **Download** on the right pane to save the file in your local computer.
 
-<p align="center"><img width="421" height="431" alt="image" src="https://github.com/user-attachments/assets/6b66da3c-c79e-4fa4-8582-ba308cc60a5c" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/6b66da3c-c79e-4fa4-8582-ba308cc60a5c" />
 
 
 
