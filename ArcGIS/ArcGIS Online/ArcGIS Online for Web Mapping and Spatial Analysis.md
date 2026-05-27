@@ -961,7 +961,7 @@ Lastly, the analysis tools allow exporting layers in CSV, file geodatabase, shap
 
 5. Under **Result layer,** select CSV as the output data format, name the new output as **Top 3 closest airports**, and select the designated folder to save the output.
 
-<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/891aebf7-76e4-45f2-9992-bee4c1e67f1e" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/891aebf7-76e4-45f2-9992-bee4c1e67f1e" />
 
 
 
@@ -975,21 +975,21 @@ Lastly, the analysis tools allow exporting layers in CSV, file geodatabase, shap
 
 7. Click on the history icon in the header menu to check the progress. Then, click on the ellipsis (3-dot) icon next to the processing record, and click **View details**.
 
-<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/e9d53d1e-bf7b-415c-ad5f-b57c5a514dd3" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/e9d53d1e-bf7b-415c-ad5f-b57c5a514dd3" />
 
 
 
 
 8. Click on the ellipsis (3-dot) icon next to **Top 3 closest airports**, then **Open item details**.
 
-<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/1d1e8bd4-b61b-4f97-8064-49ed2f21f2b7" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/1d1e8bd4-b61b-4f97-8064-49ed2f21f2b7" />
 
 
 
 
 9. A new item page will open. Click on the **Download** button in the right pane to download and save the file in your local computer.
 
-<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/3878a0a5-ad83-4b92-9482-a4cb9454a681" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/3878a0a5-ad83-4b92-9482-a4cb9454a681" />
 
 
 
@@ -1017,49 +1017,49 @@ In this demo, we will answer this question: which provinces in China have more t
 
 2. Click on **Analysis**.
 
-<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/49c063cb-7245-49ad-ac87-451a85dbb87c" />
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/49c063cb-7245-49ad-ac87-451a85dbb87c" />
 
 
 
 
 3. Select **ModelBuilder**. Alternatively, click the Model Builder icon in the header menu.
 
-<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/4902ad3a-3d04-475e-9f2b-21681fd03e3a" />
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/4902ad3a-3d04-475e-9f2b-21681fd03e3a" />
 
 
 
 
 4. Click **Connect** to continue.
 
-<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/454c72c5-bafe-4b8f-8a1d-b27973c9dd1c" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/454c72c5-bafe-4b8f-8a1d-b27973c9dd1c" />
 
 
 
 
 5. Make sure the **Disconnect** button is showing up, then click **Create model**.
 
-<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/343e85de-122f-48ab-b331-4d1002a6aa69" />
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/343e85de-122f-48ab-b331-4d1002a6aa69" />
 
 
 
 
 6. For the model, let’s call it **Provinces with over 10 airports**, then click **Save**.
 
-<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/27df2c1c-e2e5-4c83-969c-5eb10200e297" />
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/27df2c1c-e2e5-4c83-969c-5eb10200e297" />
 
 
 
 
 7. In the new window, click on the **Add tools** icon.
 
-<p align="center"><img width="150"  alt="image" src="https://github.com/user-attachments/assets/3591bc48-d179-426d-abce-eb8ed9029f07" />
+<p align="center"><img width="200"  alt="image" src="https://github.com/user-attachments/assets/3591bc48-d179-426d-abce-eb8ed9029f07" />
 
 
 
 
 8. Select 2 tools: **Join Features** and **Filter by Attributes**, then click **Add**. 
 
-<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/92e0edc9-2370-4151-b337-e21e1926eee5" />
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/92e0edc9-2370-4151-b337-e21e1926eee5" />
 
 
 
