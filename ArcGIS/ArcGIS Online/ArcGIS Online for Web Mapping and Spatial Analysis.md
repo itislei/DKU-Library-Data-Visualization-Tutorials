@@ -680,26 +680,31 @@ Since the two datasets we need to answer this question are currently separate, w
 
 18. Now that the analysis is complete, the layer is not yet visualized. To display it, first ensure that the **Count of airports in provinces** layer is selected in the Layer pane, then go to **Styles** in the right toolbar.
 
-<p align="center"><img width="383" height="127" alt="Screenshot 2026-03-10 at 9 41 10 PM" src="https://github.com/user-attachments/assets/6ea21e50-7abc-4093-8b34-a5ab59de631c" />
+<p align="center"><img width="398" height="132" alt="18" src="https://github.com/user-attachments/assets/059b1674-22ed-4c6a-b0f6-de55011f5956" />
+
 
 
 19. In the first section **Choose attribtues**, click on **+ Field**, then select **Join_count** from the list.
-<p align="center"><img width="337" height="135" alt="Screenshot 2026-03-10 at 9 41 56 PM" src="https://github.com/user-attachments/assets/42bb620e-c708-45c5-a191-19d2ca75f9ba" />
+<p align="center"><img width="366" height="150" alt="19" src="https://github.com/user-attachments/assets/552b4f6c-4497-4047-83c3-63aa73a5127d" />
+
 
 
 20. Next, in the second section **Pick a style**, switch to **Color and Size**.
 
-<p align="center"><img width="337" height="706" alt="Screenshot 2026-03-10 at 9 42 43 PM" src="https://github.com/user-attachments/assets/d341894e-e8a4-493a-8d0f-e9c9a0d07dcd" />
+<p align="center"><img width="342" height="720" alt="20" src="https://github.com/user-attachments/assets/edc250cf-97a5-4678-831e-f504f41af743" />
+
 
 
 21. You may configure the color palette and symbol size by clicking **Style options**.
 
-<p align="center"><img width="337" height="227" alt="Screenshot 2026-03-10 at 9 43 31 PM" src="https://github.com/user-attachments/assets/f944f0b2-1d80-46f6-a401-73669d9fed10" />
+<p align="center"><img width="340" height="229" alt="21" src="https://github.com/user-attachments/assets/8475c1fd-c87b-497c-8984-bf5ac89a3d5c" />
+
 
 
 22. Make sure you click **Done** to save all the changes.
 
-<p align="center"><img width="337" height="322" alt="Screenshot 2026-03-10 at 9 44 30 PM" src="https://github.com/user-attachments/assets/4dec798c-8d0b-449e-ab43-2d15a0fa1d6c" />
+<p align="center"><img width="351" height="327" alt="22" src="https://github.com/user-attachments/assets/39f58bca-5e1f-467c-acc0-d6a0324e1619" />
+
 
 
 
@@ -816,7 +821,8 @@ The third question we want to solve is: what are the 3 closest airports to DKU. 
 
 2. Click **Use current location**, Or, enter **Kunshan, Jiangsu**, and select the first option from the dropdown. This will locate you to the Kunshan region on the map. Then, navigate to the Duke Kunshan University.
 
-<p align="center"><img width="881" height="679" alt="image" src="https://github.com/user-attachments/assets/e1d5cb9b-7f3f-45c3-8e9a-975516e11ca3" />
+<p align="center"><img width="885" height="683" alt="fc2" src="https://github.com/user-attachments/assets/91877289-69cf-4643-9f19-7d12f99d5fa6" />
+
 
 
 
@@ -837,7 +843,8 @@ The third question we want to solve is: what are the 3 closest airports to DKU. 
 
 5. Make sure the stamp icon is selected in the sketch toolbar, and click on two random places in the campus area on the map.
 
-<p align="center"><img width="928" height="667" alt="image" src="https://github.com/user-attachments/assets/e88083a6-307d-4638-b98a-10f0ff150542" />
+<p align="center"><img width="931" height="673" alt="fc5" src="https://github.com/user-attachments/assets/b1029618-a953-4b7a-9f44-fdd152ad3c7f" />
+
 
 
 
