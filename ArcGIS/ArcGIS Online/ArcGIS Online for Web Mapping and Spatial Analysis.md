@@ -1017,35 +1017,35 @@ In this demo, we will answer this question: which provinces in China have more t
 
 2. Click on **Analysis**.
 
-<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/49c063cb-7245-49ad-ac87-451a85dbb87c" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/49c063cb-7245-49ad-ac87-451a85dbb87c" />
 
 
 
 
 3. Select **ModelBuilder**. Alternatively, click the Model Builder icon in the header menu.
 
-<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/4902ad3a-3d04-475e-9f2b-21681fd03e3a" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/4902ad3a-3d04-475e-9f2b-21681fd03e3a" />
 
 
 
 
 4. Click **Connect** to continue.
 
-<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/454c72c5-bafe-4b8f-8a1d-b27973c9dd1c" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/454c72c5-bafe-4b8f-8a1d-b27973c9dd1c" />
 
 
 
 
 5. Make sure the **Disconnect** button is showing up, then click **Create model**.
 
-<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/343e85de-122f-48ab-b331-4d1002a6aa69" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/343e85de-122f-48ab-b331-4d1002a6aa69" />
 
 
 
 
 6. For the model, let’s call it **Provinces with over 10 airports**, then click **Save**.
 
-<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/27df2c1c-e2e5-4c83-969c-5eb10200e297" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/27df2c1c-e2e5-4c83-969c-5eb10200e297" />
 
 
 
@@ -1094,40 +1094,40 @@ In this demo, we will answer this question: which provinces in China have more t
 
 13. Now, the canvas should show two additional items in blue, representing the datasets we just configured. In addition, the tool box appears in yellow, and the output box appears in green.
 
-<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/a8bb0b95-ce24-4fb8-b722-c22b45323900" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/a8bb0b95-ce24-4fb8-b722-c22b45323900" />
 
 
 
 
 14. Next, double-click on **Filter by Attributes**.
 
-<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/12b94550-8b68-4593-9a60-52686a2a72a3" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/12b94550-8b68-4593-9a60-52686a2a72a3" />
 
 
 
 
 15. For the **Input dataset**, select **Join result**. 
 
-<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/dadce1e4-1d8c-4a65-bf31-6e8d9d7e8eca" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/dadce1e4-1d8c-4a65-bf31-6e8d9d7e8eca" />
 
 
 
 
 16. Click on **\+ Build new query**.
 
-<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/e88013e5-284f-4816-aeeb-5c3dc35fcba3" />
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/e88013e5-284f-4816-aeeb-5c3dc35fcba3" />
 
 
 
 17. Select **Expression** and click **Next**.
 
-<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/7293f4ac-d884-4cc1-8c77-e2b734addaa5" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/7293f4ac-d884-4cc1-8c77-e2b734addaa5" />
 
 
 
 18. For **Where** fields, choose **All of the following are true** first. Then, set **Join Count** as the field, select **is greater than** as the operator, and select or enter **10** as the value. Once the condition is set, click **Add** to apply it.
 
-<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/d1c1cb6c-9bf0-466b-aeb6-fd534277da27" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/d1c1cb6c-9bf0-466b-aeb6-fd534277da27" />
 
 
 
@@ -1139,13 +1139,13 @@ In this demo, we will answer this question: which provinces in China have more t
 
 20. In the canvas, all items are now connected in a workflow with arrows and color-coded accordingly. Click **Run** to execute the model.
 
-<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/b129aac0-f2b0-4d4d-a957-074234a585eb" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/b129aac0-f2b0-4d4d-a957-074234a585eb" />
 
 
 
 21. Once the model runs successfully, a green check mark will appear on both the tool and output boxes. 
 
-<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/14328854-329c-494c-8600-b2694b78a4bf" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/14328854-329c-494c-8600-b2694b78a4bf" />
 
 
 
