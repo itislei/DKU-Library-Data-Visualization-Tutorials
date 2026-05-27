@@ -933,28 +933,28 @@ Lastly, the analysis tools allow exporting layers in CSV, file geodatabase, shap
 
 1. Go to the Editing toolbar, click on **Analysis**.
 
-<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/594f85e1-f73c-4488-a22e-e30e66169f42" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/594f85e1-f73c-4488-a22e-e30e66169f42" />
 
 
 
 
 2. Select **Tools**. Alternatively, click the tool icon in the header menu.
 
-<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/edb2a2e7-8276-4512-8aae-833c3116c15b" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/edb2a2e7-8276-4512-8aae-833c3116c15b" />
 
 
 
 
 3. Under **Manage Data**, select **Extra Data**.
 
-<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/ef1df760-5088-4e6a-9a0a-bef56dd1d3d0" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/ef1df760-5088-4e6a-9a0a-bef56dd1d3d0" />
 
 
 
 
 4. For **Input layers**, select **Closest airport to DKU \- Nearest Features** and **Closest airport to DKU \- Connecting Lines**. 
 
-<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/e89707b5-a6fd-4f21-9d56-223e5305cc39" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/e89707b5-a6fd-4f21-9d56-223e5305cc39" />
 
 
 
@@ -968,7 +968,7 @@ Lastly, the analysis tools allow exporting layers in CSV, file geodatabase, shap
 
 6. Click **Run** to start processing.
 
-<p align="center"><img width="200" alt="image" src="https://github.com/user-attachments/assets/45183db8-242b-4120-b52d-d22d5b424613" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/45183db8-242b-4120-b52d-d22d5b424613" />
 
 
 
@@ -982,14 +982,14 @@ Lastly, the analysis tools allow exporting layers in CSV, file geodatabase, shap
 
 8. Click on the ellipsis (3-dot) icon next to **Top 3 closest airports**, then **Open item details**.
 
-<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/1d1e8bd4-b61b-4f97-8064-49ed2f21f2b7" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/1d1e8bd4-b61b-4f97-8064-49ed2f21f2b7" />
 
 
 
 
 9. A new item page will open. Click on the **Download** button in the right pane to download and save the file in your local computer.
 
-<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/3878a0a5-ad83-4b92-9482-a4cb9454a681" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/3878a0a5-ad83-4b92-9482-a4cb9454a681" />
 
 
 
