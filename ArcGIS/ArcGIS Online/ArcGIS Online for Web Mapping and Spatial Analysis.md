@@ -436,42 +436,42 @@ You can also set up a group to make your project or items visible or editable to
 
 1. Go to **Content**, then **My content**. Locate the item you want to share, and click on its title.
 
-<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/858bc49d-92ee-4268-967a-d483ffca35e2" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/858bc49d-92ee-4268-967a-d483ffca35e2" />
 
 
 
 
 2. Alternatively, click on the ellipsis (3-dot) icon next to the item and select **View details**.
 
-<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/2ef4f0a5-f32d-4628-afe7-0f31140b7fbf" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/2ef4f0a5-f32d-4628-afe7-0f31140b7fbf" />
 
 
 
 
 3. From the right-hand pane, click **Share** to open the sharing options.
 
-<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/f7baeea1-00d3-415e-b828-0346c79af654" />
+<p align="center"><img width="250"  alt="image" src="https://github.com/user-attachments/assets/f7baeea1-00d3-415e-b828-0346c79af654" />
 
 
 
 
 4. Choose **Everyone (public)** under sharing options, and click **Save**.
 
-<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/ca793e90-be83-47b1-95a5-5554a56a2f37" />
+<p align="center"><img width="250"  alt="image" src="https://github.com/user-attachments/assets/ca793e90-be83-47b1-95a5-5554a56a2f37" />
 
 
 
 
 5. Click **Review sharing** to check the items whose sharing permissions will be updated accordingly.
 
-<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/a6e5e618-97ba-474c-a264-988885568a0b" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/a6e5e618-97ba-474c-a264-988885568a0b" />
 
 
 
 
 6. Click **Update sharing** to confirm the changes.
 
-<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/68f38439-2bb0-4a75-aa7f-b2f92b1166ec" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/68f38439-2bb0-4a75-aa7f-b2f92b1166ec" />
 
 
 
