@@ -1108,14 +1108,14 @@ In this demo, we will answer this question: which provinces in China have more t
 
 15. For the **Input dataset**, select **Join result**. 
 
-<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/dadce1e4-1d8c-4a65-bf31-6e8d9d7e8eca" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/dadce1e4-1d8c-4a65-bf31-6e8d9d7e8eca" />
 
 
 
 
 16. Click on **\+ Build new query**.
 
-<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/e88013e5-284f-4816-aeeb-5c3dc35fcba3" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/e88013e5-284f-4816-aeeb-5c3dc35fcba3" />
 
 
 
