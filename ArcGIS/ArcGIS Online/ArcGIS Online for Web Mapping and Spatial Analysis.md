@@ -767,14 +767,14 @@ To answer this, we can use the **Find by Attributes and Location** tool. This to
 
 8. Click **Run** to start processing.
 
-<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/43aad186-7d73-4795-a548-ae47318a850a" />
+<p align="center"><img width="320"  alt="image" src="https://github.com/user-attachments/assets/43aad186-7d73-4795-a548-ae47318a850a" />
 
 
 
 
 9. To check the progress, click on the history icon in the header menu.
 
-<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/4013f5a9-1167-40cc-923a-704f144dbd91" />
+<p align="center"><img width="320"  alt="image" src="https://github.com/user-attachments/assets/4013f5a9-1167-40cc-923a-704f144dbd91" />
 
 
 
@@ -851,7 +851,7 @@ The third question we want to solve is: what are the 3 closest airports to DKU. 
 
 6. We only need one data point actually, so let’s delete one of them. To do so, click **Select** (cursor icon) from the sketch toolbar. Then click on the point you want to delete, and click on **Delete** or hit **Backspace** on the keyboard.
 
-<p align="center"><img width="500" height="311" alt="image" src="https://github.com/user-attachments/assets/d7145cca-ab4c-48e6-8688-b7b5130bb4a8" />
+<p align="center"><img width="320" height="311" alt="image" src="https://github.com/user-attachments/assets/d7145cca-ab4c-48e6-8688-b7b5130bb4a8" />
 
 
 
