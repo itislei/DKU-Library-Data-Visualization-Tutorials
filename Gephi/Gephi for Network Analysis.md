@@ -333,7 +333,7 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 4. The system will automatically assign colors to different values. To adjust a single color, click the color block and choose a new color from the pop-up.
 
-<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/166afd19-91e6-4469-86f4-c1e2bcd3113e" /></p>
+<p align="center"><img width="450"  alt="image" src="https://github.com/user-attachments/assets/166afd19-91e6-4469-86f4-c1e2bcd3113e" /></p>
 
 
 5. Alternatively, you can click **Palette…** in the bottom-right corner and select a new color scale from the list.
@@ -378,7 +378,7 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 13. Double-click the arrows to adjust the colors, then click **OK** to confirm the changes. 
 
-<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/90ee92ce-219f-46a8-b4a9-7335961093cf" /></p>
+<p align="center"><img width="450"  alt="image" src="https://github.com/user-attachments/assets/90ee92ce-219f-46a8-b4a9-7335961093cf" /></p>
 
 
 14. The nodes should update their colors automatically. You can delete an arrow by selecting it and dragging it downward, or add a new arrow by clicking anywhere along the bar.
@@ -579,22 +579,22 @@ Gephi includes a range of built-in statistical tools that help you analyze the s
 
 1. Let’s say we want to analyze the network’s average degree. First, navigate to the **Statistics** tab in the bottom-right **Filters & Statistics** window. 
 
-<p align="center"><img width="975" height="475" alt="image" src="https://github.com/user-attachments/assets/31159a21-def0-4d22-a797-3a443c4cdba1" /></p>
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/31159a21-def0-4d22-a797-3a443c4cdba1" /></p>
 
 
 2. Then, click **Run** next to **Average Degree**.
 
-<p align="center"><img width="590" height="487" alt="image" src="https://github.com/user-attachments/assets/1fc95b18-ae3e-4b56-87fb-2b56a651eb50" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/1fc95b18-ae3e-4b56-87fb-2b56a651eb50" /></p>
 
 
 3. A pop-up window will appear displaying a line graph of the degree distribution.
 
-<p align="center"><img width="979" height="846" alt="image" src="https://github.com/user-attachments/assets/ba465657-7e95-4fb5-bc81-8ca182d98c5e" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/ba465657-7e95-4fb5-bc81-8ca182d98c5e" /></p>
 
 
 4. You can print, copy, or save the results from the pop-up window. Click **Close** when you’re finished.
 
-<p align="center"><img width="638" height="69" alt="image" src="https://github.com/user-attachments/assets/b681bffd-b0a3-4c1c-a457-b83f1bf354ad" /></p>
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/b681bffd-b0a3-4c1c-a457-b83f1bf354ad" /></p>
 
 
 # **Export the Graph** 
@@ -605,86 +605,86 @@ There are multiple ways to export a project from Gephi. You can export the graph
 
 1. Click on the **Take screenshot** icon (the camera symbol), then go **Configure**.
 
-<p align="center"><img width="296" height="123" alt="image" src="https://github.com/user-attachments/assets/4754e767-8481-4337-b65c-33724aca3062" /></p>
+<p align="center"><img width="220"  alt="image" src="https://github.com/user-attachments/assets/4754e767-8481-4337-b65c-33724aca3062" /></p>
 
 
 2. Configure the saving settings, such as adjusting the export size, enabling the **Transparent Background** option, and selecting a directory for **Autosave**. Once complete, click **Ok**.
 
-<p align="center"><img width="398" height="426" alt="image" src="https://github.com/user-attachments/assets/a615eae5-887f-43e3-a4e4-c0241b3121e3" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/a615eae5-887f-43e3-a4e4-c0241b3121e3" /></p>
 
 
 3. Go back to the toolbar and click on the **Take screenshot** icon (the camera symbol) again.
 
-<p align="center"><img width="257" height="109" alt="image" src="https://github.com/user-attachments/assets/878768c5-9b58-4910-b1b3-e1e96ee0b8ef" /></p>
+<p align="center"><img width="220"  alt="image" src="https://github.com/user-attachments/assets/878768c5-9b58-4910-b1b3-e1e96ee0b8ef" /></p>
 
 
 4. Go to the directory where saved as the saving path, you will find the image exported
 
-<p align="center"><img width="459" height="193" alt="image" src="https://github.com/user-attachments/assets/b3944375-ada4-45cf-a020-d9f6a0e0ce8a" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/b3944375-ada4-45cf-a020-d9f6a0e0ce8a" /></p>
 
 
 ## **Save the graph** 
 
 1. Go to **Preview** view first. 
 
-<p align="center"><img width="874" height="246" alt="image" src="https://github.com/user-attachments/assets/10531746-02b7-42f7-8f4f-050eb21ba4d0" /></p>
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/10531746-02b7-42f7-8f4f-050eb21ba4d0" /></p>
 
 
 2. Now you will see the graph has no label or colored edges we previously set. This is because some settings have not been applied, and we can configure those using the **Preview Settings** pane. 
 
-<p align="center"><img width="979" height="489" alt="image" src="https://github.com/user-attachments/assets/c67cfe5a-f1f2-4b3c-9c14-53c7303fe408" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/c67cfe5a-f1f2-4b3c-9c14-53c7303fe408" /></p>
 
 
 3. For example, let’s check **Show Labels**, and change the **Font** size to **3** and click **OK**.
 
-<p align="center"><img width="979" height="514" alt="image" src="https://github.com/user-attachments/assets/6f88858f-694f-4671-b07a-17f638b23c25" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/6f88858f-694f-4671-b07a-17f638b23c25" /></p>
 
 
 4. Click the **Refresh** button at the bottom. 
 
-<p align="center"><img width="515" height="118" alt="image" src="https://github.com/user-attachments/assets/4397fd3d-5ff7-42a8-9f2f-bd22c46188a6" /></p>
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/4397fd3d-5ff7-42a8-9f2f-bd22c46188a6" /></p>
 
 
 5. The graph is now updated with the characters’ names displayed as labels.
 
-<p align="center"><img width="979" height="585" alt="image" src="https://github.com/user-attachments/assets/921108e1-dba6-4df3-ae01-e49a269c3da7" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/921108e1-dba6-4df3-ae01-e49a269c3da7" /></p>
 
 
 6. Next, we will change the color of the edges. Under **Edges**, in the **Color** field, click the ellipsis (3-dot icon) next to **mixed**.
 
-<p align="center"><img width="506" height="307" alt="image" src="https://github.com/user-attachments/assets/d47105c1-443c-4fe8-b35a-a846627df459" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/d47105c1-443c-4fe8-b35a-a846627df459" /></p>
 
 
 7. In the pop-up, check **Original**, then click **OK**.
 
-<p align="center"><img width="822" height="414" alt="image" src="https://github.com/user-attachments/assets/9f8e6f0f-4aee-4311-bee4-61d380bb5093" /></p>
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/9f8e6f0f-4aee-4311-bee4-61d380bb5093" /></p>
 
 
 8. Click the **Refresh** button at the bottom again. 
 
-<p align="center"><img width="515" height="118" alt="image" src="https://github.com/user-attachments/assets/54c51f87-b851-4057-b70a-57ef7a23e08a" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/54c51f87-b851-4057-b70a-57ef7a23e08a" /></p>
 
 
 9. Now we have essentially recreated the visualization from the **Overview** tab, even though it may not be an exact match. The preview graph is ready to be exported. To export it, click the **SVG/PDF/PNG** button next to **Export** at the bottom of the **Preview Settings** pane.
 
-<p align="center"><img width="506" height="118" alt="image" src="https://github.com/user-attachments/assets/78542ca8-0eb5-4393-93ab-ca9078ed26a9" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/78542ca8-0eb5-4393-93ab-ca9078ed26a9" /></p>
 
 
 10. In the pop-up window, choose the save location, enter a file name, and select the desired format. Then click **Save**.
 
-<p align="center"><img width="794" height="596" alt="image" src="https://github.com/user-attachments/assets/77737222-2d14-44ee-98d2-5f45f05c6533" /></p>
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/77737222-2d14-44ee-98d2-5f45f05c6533" /></p>
 
 
 11. The file should now be saved in the designated location.
 
-<p align="center"><img width="834" height="343" alt="image" src="https://github.com/user-attachments/assets/342bf1d0-afba-48b3-98a9-92ba31343f77" /></p>
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/342bf1d0-afba-48b3-98a9-92ba31343f77" /></p>
 
 
 ## **Export as a website** 
 
 1. In the workspace, go to **File** \> **Export** \> **Sigma.js.template**.
 
-<p align="center"><img width="568" height="621" alt="image" src="https://github.com/user-attachments/assets/c7d4fbb6-fa95-4c63-948f-df664033ef5d" /></p>
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/c7d4fbb6-fa95-4c63-948f-df664033ef5d" /></p>
 
 
 2. In the pop-up window, set the saving path and fill in the details you want to include about the nodes, edges, colors, author, and the graph title. Next, complete the short and long descriptions, and then click **OK**.  
@@ -703,7 +703,7 @@ There are multiple ways to export a project from Gephi. You can export the graph
 
 1. In the workspace, go to **File** \> **Export** \> **Publish to the web**.
 
-<p align="center"><img width="507" height="613" alt="image" src="https://github.com/user-attachments/assets/600f1bc9-731f-413a-8b9b-370159c49ba8" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/600f1bc9-731f-413a-8b9b-370159c49ba8" /></p>
 
 
 2. First, complete the steps under the **Set up (to do just once)** tab.   
