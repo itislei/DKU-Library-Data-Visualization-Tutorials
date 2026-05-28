@@ -156,12 +156,12 @@ Gephi provides a series of plugins that allows better experience and function in
 
 8. Gephi will then relaunch on your computer. In the welcome window, click **New Project**.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/c674ee69-ea99-41ba-9974-072a55f62f4a" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/c674ee69-ea99-41ba-9974-072a55f62f4a" /></p>
 
 
 9. Next, go to **Tools** in the top menu and select **Plugins**. Under the **Installed** tab, you will find **Publish your network to the web**, **SigmaExporter**, and **Circular Layout** listed.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/3a03bb99-2864-4bf7-9f34-824bd1cfad0a" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/3a03bb99-2864-4bf7-9f34-824bd1cfad0a" /></p>
 
 
 # **Import Network Data**
@@ -170,7 +170,7 @@ Gephi allows you to import network data from various file types, including CSV f
 
 1. Go to the **File** tab, then select **Import spreadsheet** from the menu.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/4bee3314-ede1-45fc-9836-cb5f985b99ce" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/4bee3314-ede1-45fc-9836-cb5f985b99ce" /></p>
 
 
 2. Select the **nodes.csv** from the sample datasets downloaded in your computer, then click **Open**.
@@ -180,27 +180,27 @@ Gephi allows you to import network data from various file types, including CSV f
 
 3. Click **Next \>**.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/f2f59646-461a-49cc-abcf-1c4d9f393ad4" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/f2f59646-461a-49cc-abcf-1c4d9f393ad4" /></p>
 
 
 4. Review the data type for each column, then click **Finish**.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/0f776f2f-5dcc-4a41-825f-eb1567903b1a" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/0f776f2f-5dcc-4a41-825f-eb1567903b1a" /></p>
 
 
 5. Check **Append to existing workspace**, then click **OK**.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/07b930b2-f763-4cde-961f-32889dcb4c49" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/07b930b2-f763-4cde-961f-32889dcb4c49" /></p>
 
 
 6. A few dots will now appear on the canvas, with each dot representing a node. Note that the exact layout may differ, as the positioning of data is randomly assigned.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/03b328c4-b078-440d-bbac-dc4f1124d3dc" /></p>
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/03b328c4-b078-440d-bbac-dc4f1124d3dc" /></p>
 
 
 7. Next, go to the **File** tab again, select **Import spreadsheet** from the menu.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/b33ecf19-b0ba-405f-b7ff-8d617caef99c" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/b33ecf19-b0ba-405f-b7ff-8d617caef99c" /></p>
 
 
 8. Select the **edges.csv** from the sample datasets downloaded on your computer, then click **Open**.
@@ -210,22 +210,22 @@ Gephi allows you to import network data from various file types, including CSV f
 
 9. Click **Next \>**.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/d0f53007-3741-4ba3-a22d-cb1fd21e6aca" /></p>
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/d0f53007-3741-4ba3-a22d-cb1fd21e6aca" /></p>
 
 
 10. Review the data type for each column, then click **Finish**.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/f489021a-efa7-49a9-8dd6-034602fdd4e3" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/f489021a-efa7-49a9-8dd6-034602fdd4e3" /></p>
 
 
 11. Check **Append to existing workspace**, then click **OK**.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/cbd6ae86-a4e1-4fb5-9a69-3053d01b6d2d" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/cbd6ae86-a4e1-4fb5-9a69-3053d01b6d2d" /></p>
 
 
 12. Now, few connection lines will show up connecting each dot in the canvas. Each line represents one edge. Note that the exact layout may differ, as the positioning of data is randomly assigned.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/e5c82f0d-a5e8-4b07-abd4-4bf78449520d" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/e5c82f0d-a5e8-4b07-abd4-4bf78449520d" /></p>
 
 
 13. Click the arrow on the right side of the bottom panel.
@@ -235,7 +235,7 @@ Gephi allows you to import network data from various file types, including CSV f
 
 14. Drag the scale bar under **Zoom** to zoom in and view more detail. You can also use your mouse wheel to zoom. Note that you can also change the background color here.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/65758779-5612-436e-aa13-f3d186947c53" /></p>
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/65758779-5612-436e-aa13-f3d186947c53" /></p>
 
 
 15. Click the arrow on the right side of the bottom panel again to hide it.
@@ -245,7 +245,7 @@ Gephi allows you to import network data from various file types, including CSV f
 
 16. To reset the view, click on the **Center on graph** icon on the left-bottom toolbar. 
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/b1aa3075-c05b-4117-b898-513144655c85" /></p>
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/b1aa3075-c05b-4117-b898-513144655c85" /></p>
 
 
 # **Visualize Data** 
@@ -261,79 +261,79 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 2. Click on the **Rectangle selection** icon on the left toolbar. 
 
-<p align="center"><img width="120"  alt="image" src="https://github.com/user-attachments/assets/1bce6506-7974-4a9a-8550-a5c2439029c8" /></p>
+<p align="center"><img width="90"  alt="image" src="https://github.com/user-attachments/assets/1bce6506-7974-4a9a-8550-a5c2439029c8" /></p>
 
 
 3. Click and drag to draw a square that selects all the imported items.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/fc679c9d-4508-4bc0-bb24-91cdfd4db909" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/fc679c9d-4508-4bc0-bb24-91cdfd4db909" /></p>
 
 
 4. Select the Size icon in the toolbar.
 
-<p align="center"><img width="120"  alt="image" src="https://github.com/user-attachments/assets/c14e3876-0638-401f-86ed-5e91f6dabac7" /></p>
+<p align="center"><img width="90"  alt="image" src="https://github.com/user-attachments/assets/c14e3876-0638-401f-86ed-5e91f6dabac7" /></p>
 
 
 5. Click anywhere on the canvas, then drag the mouse vertically to adjust the node size. Click again to confirm the change. The updated size value will appear in the top-right corner.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/27553b86-829d-46e4-85da-939a2a02ba7b" /></p>
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/27553b86-829d-46e4-85da-939a2a02ba7b" /></p>
 
 
 6. Now, select the **Direct selection** icon and **Painter** icon in the toolbar. 
 
-<p align="center"><img width="120" alt="image" src="https://github.com/user-attachments/assets/feae4ec4-7808-4890-aa12-fe9239a8c646" /></p>
+<p align="center"><img width="90" alt="image" src="https://github.com/user-attachments/assets/feae4ec4-7808-4890-aa12-fe9239a8c646" /></p>
 
 
 7. Click on any node to apply a color to it.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/7825b4e4-e368-43ac-b72d-713ec51969b4" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/7825b4e4-e368-43ac-b72d-713ec51969b4" /></p>
 
 
 8. Double-click the same node to intensify the color. Each additional click makes the color more vibrant.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/71af8f0c-690f-4988-8b25-53f3d7a7b93e" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/71af8f0c-690f-4988-8b25-53f3d7a7b93e" /></p>
 
 
 9. Move the cursor away. The selected node and all edges directed toward it will now be highlighted in color.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/e002b921-c8fa-4f55-99c9-37363baa4d8b" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/e002b921-c8fa-4f55-99c9-37363baa4d8b" /></p>
 
 
 10. Click on the Reset color icon at the bottom of the toolbar. This will reset the color setting.
 
-<p align="center"><img width="120"  alt="image" src="https://github.com/user-attachments/assets/fcb72a58-c679-4d90-ac2b-7bd12ae5c38e" /></p>
+<p align="center"><img width="90"  alt="image" src="https://github.com/user-attachments/assets/fcb72a58-c679-4d90-ac2b-7bd12ae5c38e" /></p>
 
 
 11. Next, select the **Brush** icon and switch the color to green. Then click a node to apply the color. This will color the selected node, all connected nodes, and the edges between them.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/f0dac57b-05e9-472d-ae34-27a1e6cfbd94" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/f0dac57b-05e9-472d-ae34-27a1e6cfbd94" /></p>
 
 
 12. To reset the color setting, click on the **Reset colors** icon in the left-bottom toolbar.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/cd89d3ef-dd15-4162-8821-9b2eb2ef95b0" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/cd89d3ef-dd15-4162-8821-9b2eb2ef95b0" /></p>
 
 
 ## **Appearance** 
 
 1. As default, the **Appearance** window appears in the top left of the workplace.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/c7328082-38d1-4ec8-acf4-ab2dbaf2ed93" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/c7328082-38d1-4ec8-acf4-ab2dbaf2ed93" /></p>
 
 
 2. If you don’t have that open, go to the **Window** tab, then select **Appearance**. The **Appearance** window should appear in the workplace again. You can also select **Reset Windows** to go back to the default view.
 
-<p align="center"><img width="220" alt="image" src="https://github.com/user-attachments/assets/339009af-7c58-49cd-9e5d-bb01b941d69a" /></p>
+<p align="center"><img width="200" alt="image" src="https://github.com/user-attachments/assets/339009af-7c58-49cd-9e5d-bb01b941d69a" /></p>
 
 
 3. In the Appearance window, select **Nodes**, then **Partition**, choose the role types as the attribute.
 
-<p align="center"><img width="220"  alt="image" src="https://github.com/user-attachments/assets/3415fadb-bc3a-4cee-aa2c-be65c213b035" /></p>
+<p align="center"><img width="200"  alt="image" src="https://github.com/user-attachments/assets/3415fadb-bc3a-4cee-aa2c-be65c213b035" /></p>
 
 
 4. The system will automatically assign colors to different values. To adjust a single color, click the color block and choose a new color from the pop-up.
 
-<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/166afd19-91e6-4469-86f4-c1e2bcd3113e" /></p>
+<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/166afd19-91e6-4469-86f4-c1e2bcd3113e" /></p>
 
 
 5. Alternatively, you can click **Palette…** in the bottom-right corner and select a new color scale from the list.
@@ -358,7 +358,7 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 9. The graph should now appear similar to the example below. Note that the exact layout may differ, as the positioning of nodes and edges is randomly assigned.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/669d6907-107c-4b84-b235-9327eff58d8e" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/669d6907-107c-4b84-b235-9327eff58d8e" /></p>
 
 
 10. Now, switch to the **Ranking** tab, and select **Degree** as the attribute.
@@ -378,12 +378,12 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 13. Double-click the arrows to adjust the colors, then click **OK** to confirm the changes. 
 
-<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/90ee92ce-219f-46a8-b4a9-7335961093cf" /></p>
+<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/90ee92ce-219f-46a8-b4a9-7335961093cf" /></p>
 
 
 14. The nodes should update their colors automatically. You can delete an arrow by selecting it and dragging it downward, or add a new arrow by clicking anywhere along the bar.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/dc6f2dc9-065f-4a7a-9801-8d2e98dbb87d" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/dc6f2dc9-065f-4a7a-9801-8d2e98dbb87d" /></p>
 
 
 15. Next, we will configure and categorize the edges based on the relationship type, which is the **Label** field in our dataset. In the **Appearance** window, switch to **Edges**, then select **Partition**, and click the arrow to expand the attribute list.
@@ -393,7 +393,7 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 16. You will notice that **Label** is not in the list. This is because we did not set its data type during import (see Step 11 in **Import Data**). To correct this, we need to assign the appropriate data type to the column. Switch to the **Data Laboratory** view, where all imported datasets are displayed.
 
-<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/c532cc6d-be4e-4f62-8101-d286c633abd7" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/c532cc6d-be4e-4f62-8101-d286c633abd7" /></p>
 
 
 17. In the top-left corner, click **Edges** to switch to the edges data.
@@ -418,7 +418,7 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 21. Go back to the **Overview** tab. In the **Appearance** window, select **Edges** \> **Partition**, then choose **Label\_copy** as the attribute from the dropdown menu.
 
-<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/5bb03113-2a62-4473-8cdd-8a8e585cfb8e" /></p>
+<p align="center"><img width="360" alt="image" src="https://github.com/user-attachments/assets/5bb03113-2a62-4473-8cdd-8a8e585cfb8e" /></p>
 
 
 22. Confirm the color setting, then click **Apply**.
@@ -428,44 +428,44 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 23. The graph now displays edges in different colors representing different relationship categories. Thicker lines indicate higher weights.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/a6d0cac0-00c5-45b3-9416-1badc78cf15a" /></p>
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/a6d0cac0-00c5-45b3-9416-1badc78cf15a" /></p>
 
 
 ## **Bottom Toolbar**
 
 1. The bottom toolbar provides annotating tools for adding or deleting elements, such as the label and edges to the graph. We will only cover some of the tools here, but it is encouraging to explore and try them on your own after the tutorial.
 
-<p align="center"><img width="917" height="76" alt="image" src="https://github.com/user-attachments/assets/6d98bd79-90c6-4693-8e76-3f18d82508ea" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/6d98bd79-90c6-4693-8e76-3f18d82508ea" /></p>
 
 
 2. First, the **Background color** icon (the lightbulb symbol) allows you to switch the background from bright white to dark black.
 
-<p align="center"><img width="834" height="484" alt="image" src="https://github.com/user-attachments/assets/2ad8a6cf-b60a-4bd5-82d4-2dc840ab70ac" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/2ad8a6cf-b60a-4bd5-82d4-2dc840ab70ac" /></p>
 
 
 3. Click on the **Attributes** icon in the toolbar.
 
-<p align="center"><img width="345" height="104" alt="image" src="https://github.com/user-attachments/assets/c9fa2021-77b5-4c0e-9d88-97370649a079" /></p>
+<p align="center"><img width="250"  alt="image" src="https://github.com/user-attachments/assets/c9fa2021-77b5-4c0e-9d88-97370649a079" /></p>
 
 
 4. For the nodes, select **name** as the attributes, then click **OK**.
 
-<p align="center"><img width="523" height="535" alt="image" src="https://github.com/user-attachments/assets/03151390-a240-4696-be0e-909a607e95d7" /></p>
+<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/03151390-a240-4696-be0e-909a607e95d7" /></p>
 
 
 5. Next, click on the **Show Node Labels** icon.
 
-<p align="center"><img width="356" height="110" alt="image" src="https://github.com/user-attachments/assets/b8c0452e-cfd1-4f54-9b87-5ab6466072e9" /></p>
+<p align="center"><img width="250"  alt="image" src="https://github.com/user-attachments/assets/b8c0452e-cfd1-4f54-9b87-5ab6466072e9" /></p>
 
 
 6. You will notice that the labels appear too large in the graph, but we can adjust them. To do so, click on the font settings (**Arial Bold, 32**) or drag the scale bar next to it to change the label size.
 
-<p align="center"><img width="818" height="324" alt="image" src="https://github.com/user-attachments/assets/d04f128c-48b3-462d-b42d-164c91115c53" /></p>
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/d04f128c-48b3-462d-b42d-164c91115c53" /></p>
 
 
 7. If you click on the font settings (**Arial Bold, 32**), you can change the font, style, and size of the labels there. Let’s set the size to **10**, then click **OK**.
 
-<p align="center"><img width="663" height="640" alt="image" src="https://github.com/user-attachments/assets/b7d3f859-32ef-4767-82e3-34a35845ec8f" /></p>
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/b7d3f859-32ef-4767-82e3-34a35845ec8f" /></p>
 
 
 8. You can also use the **Size mode** or **Color mode** icons to control how the label size and color adjust based on the placement and size of the nodes.
@@ -477,100 +477,100 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 1. As default, the **Layout** window appears in the bottom left of the workplace. We will only cover some of the tools here, but it is encouraging to explore and try them on your own after the tutorial.
 
-<p align="center"><img width="979" height="483" alt="image" src="https://github.com/user-attachments/assets/7d6ed3e5-282c-4ca5-b65d-9a01cd57881e" /></p>
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/7d6ed3e5-282c-4ca5-b65d-9a01cd57881e" /></p>
 
 
 2. Click on the arrow to expand the menu, select **Circular Layout**. 
 
-<p align="center"><img width="524" height="685" alt="image" src="https://github.com/user-attachments/assets/2d42d29d-2649-4345-b35b-a9b2c42abbff" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/2d42d29d-2649-4345-b35b-a9b2c42abbff" /></p>
 
 
 3. Let’s say we want the nodes arranged alphabetically by the characters’ names, we can set **Order Nodes by (decreasing)** to the **name (Attribute)**. 
 
-<p align="center"><img width="521" height="679" alt="image" src="https://github.com/user-attachments/assets/5f23c457-ab7a-4c89-b17f-a29ff095de6b" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/5f23c457-ab7a-4c89-b17f-a29ff095de6b" /></p>
 
 
 4. Click **Run**. 
 
-<p align="center"><img width="521" height="679" alt="image" src="https://github.com/user-attachments/assets/fe1ac899-85bd-47e0-a3d8-cff7206538cb" /></p>
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/fe1ac899-85bd-47e0-a3d8-cff7206538cb" /></p>
 
 
 5. Now the nodes should be arranged in a circle, with the edges displayed within the circular arrangement.
 
-<p align="center"><img width="979" height="764" alt="image" src="https://github.com/user-attachments/assets/d322dad0-1615-4086-8b56-504bf3284803" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/d322dad0-1615-4086-8b56-504bf3284803" /></p>
 
 
 6. However, some labels may now overlap. To refine this, we can try another layout tool. Go to the **Layout** window, click the arrow to expand the menu, and select **Label Adjust**.
 
-<p align="center"><img width="515" height="687" alt="image" src="https://github.com/user-attachments/assets/7f049428-a3d5-4d52-a7d1-75fa6954f571" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/7f049428-a3d5-4d52-a7d1-75fa6954f571" /></p>
 
 
 7. Click **Run**. 
 
-<p align="center"><img width="517" height="673" alt="image" src="https://github.com/user-attachments/assets/fae355b4-9926-45fe-aa3d-4da563b4e4ae" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/fae355b4-9926-45fe-aa3d-4da563b4e4ae" /></p>
 
 
 8. The labels will now adjust to clearer positions, creating better spacing and improving readability.
 
-<p align="center"><img width="979" height="762" alt="image" src="https://github.com/user-attachments/assets/0991b6ca-fc21-46bf-ba7f-447f68def84b" /></p>
+<p align="center"><img width="700" = alt="image" src="https://github.com/user-attachments/assets/0991b6ca-fc21-46bf-ba7f-447f68def84b" /></p>
 
 
 9. Now the graph looks a bit squeezed. Let’s say we want to expand it, so go back to the **Layout** window, click the arrow to expand the menu, then select **Expansion**.
 
-<p align="center"><img width="520" height="765" alt="image" src="https://github.com/user-attachments/assets/1db57d27-92bf-43c5-9ec0-e612800d02f8" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/1db57d27-92bf-43c5-9ec0-e612800d02f8" /></p>
 
 
 10. Click **Run** once (or multiple times) to expand the layout and reduce the squeezed appearance.
 
-<p align="center"><img width="520" height="756" alt="image" src="https://github.com/user-attachments/assets/28f3202c-02cd-4924-90c8-53d0310a2b6b" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/28f3202c-02cd-4924-90c8-53d0310a2b6b" /></p>
 
 
 11. The graph now has a better spatial arrangement and is no longer squeezed.
 
-<p align="center"><img width="975" height="706" alt="image" src="https://github.com/user-attachments/assets/4272463a-2de0-4755-b702-8e0f00a28b95" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/4272463a-2de0-4755-b702-8e0f00a28b95" /></p>
 
 
 # **Filters & Statistics** 
 
 Gephi provides filtering and statistical tools that allow you to narrow down the data for closer examination and perform statistical calculations on the imported dataset. The **Filters & Statistics** window is located at the bottom right of the workspace.  
 
-<p align="center"><img width="975" height="479" alt="image" src="https://github.com/user-attachments/assets/e223a343-895e-49ae-9a62-090dd00272d5" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/e223a343-895e-49ae-9a62-090dd00272d5" /></p>
 
 ## **Filters** 
 
 1. Let’s say we want to look only at the network between protagonists and supporting characters instead of all role types. We can use the filtering tools to build a query to isolate and visualize just these connections. Go to **Filters** \> **Attributes** \> **Partition** \> **role type (Node)**.
 
-<p align="center"><img width="588" height="560" alt="image" src="https://github.com/user-attachments/assets/c5824af7-333e-482c-9e84-6eb11b60d23a" /></p>
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/c5824af7-333e-482c-9e84-6eb11b60d23a" /></p>
 
 
 2. Double-click on **role type (Node)**, then select **Supporting character (23.53%)** and **Protagonist (11.76%)**.
 
-<p align="center"><img width="585" height="437" alt="image" src="https://github.com/user-attachments/assets/52ff08c3-8d1e-4578-9ba7-b495848edf83" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/52ff08c3-8d1e-4578-9ba7-b495848edf83" /></p>
 
 
 3. Next, click on the **Select** button.
 
-<p align="center"><img width="584" height="437" alt="image" src="https://github.com/user-attachments/assets/acd3f05f-f224-4577-867f-f7c03b9240e0" /></p>
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/acd3f05f-f224-4577-867f-f7c03b9240e0" /></p>
 
 
 4. The selected roles will be highlighted, while the unselected ones will appear faded in the background.
 
-<p align="center"><img width="975" height="577" alt="image" src="https://github.com/user-attachments/assets/327af1db-ec8a-4470-934f-10e407f576a2" /></p>
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/327af1db-ec8a-4470-934f-10e407f576a2" /></p>
 
 
 5. Next, let’s try out the **Filter** button.
 
-<p align="center"><img width="584" height="437" alt="image" src="https://github.com/user-attachments/assets/c38a9198-156d-4316-acb4-af27b231378b" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/c38a9198-156d-4316-acb4-af27b231378b" /></p>
 
 
 6. Only the selected roles will now remain visible in the workspace. 
 
-<p align="center"><img width="979" height="581" alt="image" src="https://github.com/user-attachments/assets/988460a0-69fa-44ed-9200-7b10a6d52b69" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/988460a0-69fa-44ed-9200-7b10a6d52b69" /></p>
 
 
 7. Click **Stop** to return to the original, unfiltered graph.
 
-<p align="center"><img width="582" height="363" alt="image" src="https://github.com/user-attachments/assets/2c09fcd8-5d07-4237-bae6-f44c11935bc4" /></p>
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/2c09fcd8-5d07-4237-bae6-f44c11935bc4" /></p>
 
 
 ## **Statistics**
