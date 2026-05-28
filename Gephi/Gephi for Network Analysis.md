@@ -170,82 +170,82 @@ Gephi allows you to import network data from various file types, including CSV f
 
 1. Go to the **File** tab, then select **Import spreadsheet** from the menu.
 
-<p align="center"><img width="700" height="638" alt="image" src="https://github.com/user-attachments/assets/4bee3314-ede1-45fc-9836-cb5f985b99ce" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/4bee3314-ede1-45fc-9836-cb5f985b99ce" /></p>
 
 
 2. Select the **nodes.csv** from the sample datasets downloaded in your computer, then click **Open**.
 
-<p align="center"><img width="780" height="159" alt="image" src="https://github.com/user-attachments/assets/7ed5848f-2388-448d-a6ce-17c3aa709f60" /></p>
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/7ed5848f-2388-448d-a6ce-17c3aa709f60" /></p>
 
 
 3. Click **Next \>**.
 
-<p align="center"><img width="975" height="621" alt="image" src="https://github.com/user-attachments/assets/f2f59646-461a-49cc-abcf-1c4d9f393ad4" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/f2f59646-461a-49cc-abcf-1c4d9f393ad4" /></p>
 
 
 4. Review the data type for each column, then click **Finish**.
 
-<p align="center"><img width="975" height="625" alt="image" src="https://github.com/user-attachments/assets/0f776f2f-5dcc-4a41-825f-eb1567903b1a" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/0f776f2f-5dcc-4a41-825f-eb1567903b1a" /></p>
 
 
 5. Check **Append to existing workspace**, then click **OK**.
 
-<p align="center"><img width="975" height="675" alt="image" src="https://github.com/user-attachments/assets/07b930b2-f763-4cde-961f-32889dcb4c49" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/07b930b2-f763-4cde-961f-32889dcb4c49" /></p>
 
 
 6. A few dots will now appear on the canvas, with each dot representing a node. Note that the exact layout may differ, as the positioning of data is randomly assigned.
 
-<p align="center"><img width="979" height="637" alt="image" src="https://github.com/user-attachments/assets/03b328c4-b078-440d-bbac-dc4f1124d3dc" /></p>
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/03b328c4-b078-440d-bbac-dc4f1124d3dc" /></p>
 
 
 7. Next, go to the **File** tab again, select **Import spreadsheet** from the menu.
 
-<p align="center"><img width="975" height="652" alt="image" src="https://github.com/user-attachments/assets/b33ecf19-b0ba-405f-b7ff-8d617caef99c" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/b33ecf19-b0ba-405f-b7ff-8d617caef99c" /></p>
 
 
 8. Select the **edges.csv** from the sample datasets downloaded on your computer, then click **Open**.
 
-<p align="center"><img width="792" height="161" alt="image" src="https://github.com/user-attachments/assets/2c2c956b-ea2f-4702-a42c-66e0cd48a1ad" /></p>
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/2c2c956b-ea2f-4702-a42c-66e0cd48a1ad" /></p>
 
 
 9. Click **Next \>**.
 
-<p align="center"><img width="975" height="627" alt="image" src="https://github.com/user-attachments/assets/d0f53007-3741-4ba3-a22d-cb1fd21e6aca" /></p>
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/d0f53007-3741-4ba3-a22d-cb1fd21e6aca" /></p>
 
 
 10. Review the data type for each column, then click **Finish**.
 
-<p align="center"><img width="975" height="625" alt="image" src="https://github.com/user-attachments/assets/f489021a-efa7-49a9-8dd6-034602fdd4e3" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/f489021a-efa7-49a9-8dd6-034602fdd4e3" /></p>
 
 
 11. Check **Append to existing workspace**, then click **OK**.
 
-<p align="center"><img width="975" height="677" alt="image" src="https://github.com/user-attachments/assets/cbd6ae86-a4e1-4fb5-9a69-3053d01b6d2d" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/cbd6ae86-a4e1-4fb5-9a69-3053d01b6d2d" /></p>
 
 
 12. Now, few connection lines will show up connecting each dot in the canvas. Each line represents one edge. Note that the exact layout may differ, as the positioning of data is randomly assigned.
 
-<p align="center"><img width="979" height="639" alt="image" src="https://github.com/user-attachments/assets/e5c82f0d-a5e8-4b07-abd4-4bf78449520d" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/e5c82f0d-a5e8-4b07-abd4-4bf78449520d" /></p>
 
 
 13. Click the arrow on the right side of the bottom panel.
 
-<p align="center"><img width="951" height="146" alt="image" src="https://github.com/user-attachments/assets/bf5577b5-e072-4f06-a1f2-6b6e569ad446" /></p>
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/bf5577b5-e072-4f06-a1f2-6b6e569ad446" /></p>
 
 
 14. Drag the scale bar under **Zoom** to zoom in and view more detail. You can also use your mouse wheel to zoom. Note that you can also change the background color here.
 
-<p align="center"><img width="975" height="692" alt="image" src="https://github.com/user-attachments/assets/65758779-5612-436e-aa13-f3d186947c53" /></p>
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/65758779-5612-436e-aa13-f3d186947c53" /></p>
 
 
 15. Click the arrow on the right side of the bottom panel again to hide it.
 
-<p align="center"><img width="895" height="235" alt="image" src="https://github.com/user-attachments/assets/10a5a480-9e51-4437-b2ff-dad484807f66" /></p>
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/10a5a480-9e51-4437-b2ff-dad484807f66" /></p>
 
 
 16. To reset the view, click on the **Center on graph** icon on the left-bottom toolbar. 
 
-<p align="center"><img width="979" height="481" alt="image" src="https://github.com/user-attachments/assets/b1aa3075-c05b-4117-b898-513144655c85" /></p>
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/b1aa3075-c05b-4117-b898-513144655c85" /></p>
 
 
 # **Visualize Data** 
@@ -256,179 +256,179 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 1. The left toolbar provides editing tools for modifying the visuals of the nodes and edges in the graph. We will only cover some of the tools here, but it is encouraging to explore and try them on your own after the tutorial.
 
-<p align="center"><img width="472" height="510" alt="image" src="https://github.com/user-attachments/assets/e7d7ce47-5b58-4678-be09-ec7be4c4dfa8" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/e7d7ce47-5b58-4678-be09-ec7be4c4dfa8" /></p>
 
 
 2. Click on the **Rectangle selection** icon on the left toolbar. 
 
-<p align="center"><img width="228" height="495" alt="image" src="https://github.com/user-attachments/assets/1bce6506-7974-4a9a-8550-a5c2439029c8" /></p>
+<p align="center"><img width="120"  alt="image" src="https://github.com/user-attachments/assets/1bce6506-7974-4a9a-8550-a5c2439029c8" /></p>
 
 
 3. Click and drag to draw a square that selects all the imported items.
 
-<p align="center"><img width="490" height="334" alt="image" src="https://github.com/user-attachments/assets/fc679c9d-4508-4bc0-bb24-91cdfd4db909" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/fc679c9d-4508-4bc0-bb24-91cdfd4db909" /></p>
 
 
 4. Select the Size icon in the toolbar.
 
-<p align="center"><img width="190" height="625" alt="image" src="https://github.com/user-attachments/assets/c14e3876-0638-401f-86ed-5e91f6dabac7" /></p>
+<p align="center"><img width="120"  alt="image" src="https://github.com/user-attachments/assets/c14e3876-0638-401f-86ed-5e91f6dabac7" /></p>
 
 
 5. Click anywhere on the canvas, then drag the mouse vertically to adjust the node size. Click again to confirm the change. The updated size value will appear in the top-right corner.
 
-<p align="center"><img width="650" height="444" alt="image" src="https://github.com/user-attachments/assets/27553b86-829d-46e4-85da-939a2a02ba7b" /></p>
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/27553b86-829d-46e4-85da-939a2a02ba7b" /></p>
 
 
 6. Now, select the **Direct selection** icon and **Painter** icon in the toolbar. 
 
-<p align="center"><img width="98" height="410" alt="image" src="https://github.com/user-attachments/assets/feae4ec4-7808-4890-aa12-fe9239a8c646" /></p>
+<p align="center"><img width="120" alt="image" src="https://github.com/user-attachments/assets/feae4ec4-7808-4890-aa12-fe9239a8c646" /></p>
 
 
 7. Click on any node to apply a color to it.
 
-<p align="center"><img width="975" height="663" alt="image" src="https://github.com/user-attachments/assets/7825b4e4-e368-43ac-b72d-713ec51969b4" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/7825b4e4-e368-43ac-b72d-713ec51969b4" /></p>
 
 
 8. Double-click the same node to intensify the color. Each additional click makes the color more vibrant.
 
-<p align="center"><img width="975" height="663" alt="image" src="https://github.com/user-attachments/assets/71af8f0c-690f-4988-8b25-53f3d7a7b93e" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/71af8f0c-690f-4988-8b25-53f3d7a7b93e" /></p>
 
 
 9. Move the cursor away. The selected node and all edges directed toward it will now be highlighted in color.
 
-<p align="center"><img width="975" height="665" alt="image" src="https://github.com/user-attachments/assets/e002b921-c8fa-4f55-99c9-37363baa4d8b" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/e002b921-c8fa-4f55-99c9-37363baa4d8b" /></p>
 
 
 10. Click on the Reset color icon at the bottom of the toolbar. This will reset the color setting.
 
-<p align="center"><img width="291" height="762" alt="image" src="https://github.com/user-attachments/assets/fcb72a58-c679-4d90-ac2b-7bd12ae5c38e" /></p>
+<p align="center"><img width="120"  alt="image" src="https://github.com/user-attachments/assets/fcb72a58-c679-4d90-ac2b-7bd12ae5c38e" /></p>
 
 
 11. Next, select the **Brush** icon and switch the color to green. Then click a node to apply the color. This will color the selected node, all connected nodes, and the edges between them.
 
-<p align="center"><img width="975" height="665" alt="image" src="https://github.com/user-attachments/assets/f0dac57b-05e9-472d-ae34-27a1e6cfbd94" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/f0dac57b-05e9-472d-ae34-27a1e6cfbd94" /></p>
 
 
 12. To reset the color setting, click on the **Reset colors** icon in the left-bottom toolbar.
 
-<p align="center"><img width="979" height="481" alt="image" src="https://github.com/user-attachments/assets/cd89d3ef-dd15-4162-8821-9b2eb2ef95b0" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/cd89d3ef-dd15-4162-8821-9b2eb2ef95b0" /></p>
 
 
 ## **Appearance** 
 
 1. As default, the **Appearance** window appears in the top left of the workplace.
 
-<p align="center"><img width="975" height="477" alt="image" src="https://github.com/user-attachments/assets/c7328082-38d1-4ec8-acf4-ab2dbaf2ed93" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/c7328082-38d1-4ec8-acf4-ab2dbaf2ed93" /></p>
 
 
 2. If you don’t have that open, go to the **Window** tab, then select **Appearance**. The **Appearance** window should appear in the workplace again. You can also select **Reset Windows** to go back to the default view.
 
-<p align="center"><img width="331" height="646" alt="image" src="https://github.com/user-attachments/assets/339009af-7c58-49cd-9e5d-bb01b941d69a" /></p>
+<p align="center"><img width="220" alt="image" src="https://github.com/user-attachments/assets/339009af-7c58-49cd-9e5d-bb01b941d69a" /></p>
 
 
 3. In the Appearance window, select **Nodes**, then **Partition**, choose the role types as the attribute.
 
-<p align="center"><img width="376" height="657" alt="image" src="https://github.com/user-attachments/assets/3415fadb-bc3a-4cee-aa2c-be65c213b035" /></p>
+<p align="center"><img width="220"  alt="image" src="https://github.com/user-attachments/assets/3415fadb-bc3a-4cee-aa2c-be65c213b035" /></p>
 
 
 4. The system will automatically assign colors to different values. To adjust a single color, click the color block and choose a new color from the pop-up.
 
-<p align="center"><img width="695" height="709" alt="image" src="https://github.com/user-attachments/assets/166afd19-91e6-4469-86f4-c1e2bcd3113e" /></p>
+<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/166afd19-91e6-4469-86f4-c1e2bcd3113e" /></p>
 
 
 5. Alternatively, you can click **Palette…** in the bottom-right corner and select a new color scale from the list.
 
-<p align="center"><img width="376" height="312" alt="image" src="https://github.com/user-attachments/assets/f421ebf2-6cc2-4b10-9a2f-365fe6da97d5" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/f421ebf2-6cc2-4b10-9a2f-365fe6da97d5" /></p>
 
 
 6. Once the color selection is complete, click **Apply**. The nodes on the canvas should now be colored.
 
-<p align="center"><img width="374" height="660" alt="image" src="https://github.com/user-attachments/assets/001b4f10-bb99-4fab-b7be-f27e920b76a1" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/001b4f10-bb99-4fab-b7be-f27e920b76a1" /></p>
 
 
 7. Now, let’s switch to the **Size** tab, then **Ranking**, select **Degree** as the attribute. 
 
-<p align="center"><img width="374" height="359" alt="image" src="https://github.com/user-attachments/assets/13b63a96-3000-4a98-9fde-01eb5129ac81" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/13b63a96-3000-4a98-9fde-01eb5129ac81" /></p>
 
 
 8. Set the minimal size to **20**, and maximal size to **60**. Then, click **Apply**.
 
-<p align="center"><img width="367" height="656" alt="image" src="https://github.com/user-attachments/assets/be93b4f6-e6f3-4d68-a00f-20b37d90cf08" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/be93b4f6-e6f3-4d68-a00f-20b37d90cf08" /></p>
 
 
 9. The graph should now appear similar to the example below. Note that the exact layout may differ, as the positioning of nodes and edges is randomly assigned.
 
-<p align="center"><img width="975" height="633" alt="image" src="https://github.com/user-attachments/assets/669d6907-107c-4b84-b235-9327eff58d8e" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/669d6907-107c-4b84-b235-9327eff58d8e" /></p>
 
 
 10. Now, switch to the **Ranking** tab, and select **Degree** as the attribute.
 
-<p align="center"><img width="374" height="326" alt="image" src="https://github.com/user-attachments/assets/8949a26d-53ee-4c3e-8764-a22d184e0cd0" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/8949a26d-53ee-4c3e-8764-a22d184e0cd0" /></p>
 
 
 11. Click on the link icon next to the **Apply** button \- this will enable the auto apply feature.
 
-<p align="center"><img width="371" height="102" alt="image" src="https://github.com/user-attachments/assets/ac9fd2b1-223d-42bc-862c-9e43595d2b7e" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/ac9fd2b1-223d-42bc-862c-9e43595d2b7e" /></p>
 
 
 12. Click on **Auto Apply**. 
 
-<p align="center"><img width="374" height="101" alt="image" src="https://github.com/user-attachments/assets/3445dd11-bf10-4055-ae60-a38b113bfd3e" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/3445dd11-bf10-4055-ae60-a38b113bfd3e" /></p>
 
 
 13. Double-click the arrows to adjust the colors, then click **OK** to confirm the changes. 
 
-<p align="center"><img width="705" height="759" alt="image" src="https://github.com/user-attachments/assets/90ee92ce-219f-46a8-b4a9-7335961093cf" /></p>
+<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/90ee92ce-219f-46a8-b4a9-7335961093cf" /></p>
 
 
 14. The nodes should update their colors automatically. You can delete an arrow by selecting it and dragging it downward, or add a new arrow by clicking anywhere along the bar.
 
-<p align="center"><img width="979" height="544" alt="image" src="https://github.com/user-attachments/assets/dc6f2dc9-065f-4a7a-9801-8d2e98dbb87d" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/dc6f2dc9-065f-4a7a-9801-8d2e98dbb87d" /></p>
 
 
 15. Next, we will configure and categorize the edges based on the relationship type, which is the **Label** field in our dataset. In the **Appearance** window, switch to **Edges**, then select **Partition**, and click the arrow to expand the attribute list.
 
-<p align="center"><img width="371" height="281" alt="image" src="https://github.com/user-attachments/assets/e44e6209-21e7-46c7-b677-fd281c2fe9cd" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/e44e6209-21e7-46c7-b677-fd281c2fe9cd" /></p>
 
 
 16. You will notice that **Label** is not in the list. This is because we did not set its data type during import (see Step 11 in **Import Data**). To correct this, we need to assign the appropriate data type to the column. Switch to the **Data Laboratory** view, where all imported datasets are displayed.
 
-<p align="center"><img width="979" height="639" alt="image" src="https://github.com/user-attachments/assets/c532cc6d-be4e-4f62-8101-d286c633abd7" /></p>
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/c532cc6d-be4e-4f62-8101-d286c633abd7" /></p>
 
 
 17. In the top-left corner, click **Edges** to switch to the edges data.
 
-<p align="center"><img width="257" height="138" alt="image" src="https://github.com/user-attachments/assets/9b78e865-c3eb-43f5-a9cf-44b93609ceab" /></p>
+<p align="center"><img width="200"  alt="image" src="https://github.com/user-attachments/assets/9b78e865-c3eb-43f5-a9cf-44b93609ceab" /></p>
 
 
 18. In the button toolbar, click on the **Duplicate column**, then select **Label**.
 
-<p align="center"><img width="692" height="257" alt="image" src="https://github.com/user-attachments/assets/8d8608d8-7ac3-46db-a968-36eb5a146e45" /></p>
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/8d8608d8-7ac3-46db-a968-36eb5a146e45" /></p>
 
 
 19. In the pop-up, enter a new name for the column and set the type to **String**, then click **Ok**.
 
-<p align="center"><img width="501" height="332" alt="image" src="https://github.com/user-attachments/assets/12a7baeb-41d6-4093-95e3-8f82d25b039d" /></p>
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/12a7baeb-41d6-4093-95e3-8f82d25b039d" /></p>
 
 
 20. A new column **Label\_copy** now appears. You may delete the original **Label** column, but we will leave it in this tutorial.
 
-<p align="center"><img width="979" height="355" alt="image" src="https://github.com/user-attachments/assets/446fb8bf-353f-4f03-8de5-ee047cbcb67d" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/446fb8bf-353f-4f03-8de5-ee047cbcb67d" /></p>
 
 
 21. Go back to the **Overview** tab. In the **Appearance** window, select **Edges** \> **Partition**, then choose **Label\_copy** as the attribute from the dropdown menu.
 
-<p align="center"><img width="548" height="357" alt="image" src="https://github.com/user-attachments/assets/5bb03113-2a62-4473-8cdd-8a8e585cfb8e" /></p>
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/5bb03113-2a62-4473-8cdd-8a8e585cfb8e" /></p>
 
 
 22. Confirm the color setting, then click **Apply**.
 
-<p align="center"><img width="345" height="624" alt="image" src="https://github.com/user-attachments/assets/7856c2ca-6283-4493-9e48-fe48c5096b12" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/7856c2ca-6283-4493-9e48-fe48c5096b12" /></p>
 
 
 23. The graph now displays edges in different colors representing different relationship categories. Thicker lines indicate higher weights.
 
-<p align="center"><img width="979" height="623" alt="image" src="https://github.com/user-attachments/assets/a6d0cac0-00c5-45b3-9416-1badc78cf15a" /></p>
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/a6d0cac0-00c5-45b3-9416-1badc78cf15a" /></p>
 
 
 ## **Bottom Toolbar**
