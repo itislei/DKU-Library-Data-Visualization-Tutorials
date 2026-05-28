@@ -104,7 +104,7 @@ In network analysis, it is recommended to have a node table and an edge table th
 Each row in the node table describes a single node and should include a node label. You can also add a unique identifier (such as the **ID** column shown in the example sheet below), which helps simplify the creation of the edge table. Additional relevant attributes can be added as needed.
 
 Example:  
-<p align="center"><img width="981" height="469" alt="image" src="https://github.com/user-attachments/assets/fb5b4b92-606b-48ed-af2e-cdd220967146" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/fb5b4b92-606b-48ed-af2e-cdd220967146" /></p>
 
 
 ## **Edge Table** 
@@ -112,7 +112,7 @@ Example:
 Each row describes a single edge between a **Source** and a **Target** node. If you assigned unique identifiers in the node table, you can use those identifiers as the **Source** and **Target** (see  the example sheet below). If not, you can use the node labels instead.
 
 Example:  
-<p align="center"><img width="978" height="433" alt="image" src="https://github.com/user-attachments/assets/3680c55d-7ab2-4098-b74c-7166c5828320" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/3680c55d-7ab2-4098-b74c-7166c5828320" /></p>
 
 
 # **Install Plugins** 
@@ -121,47 +121,47 @@ Gephi provides a series of plugins that allows better experience and function in
 
 1. Open **Gephi** on your computer. In the welcome popup, click on **New Project**.
 
-<p align="center"><img width="975" height="540" alt="image" src="https://github.com/user-attachments/assets/17c955ad-9e20-4ec7-bf7f-8707c16f55f0" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/17c955ad-9e20-4ec7-bf7f-8707c16f55f0" /></p>
 
 
 2. In the top menu, click on **Tools** then select **Plugins**. Note that you can also change the language in the **Tools** menu.
 
-<p align="center"><img width="975" height="475" alt="image" src="https://github.com/user-attachments/assets/66f08a9a-7498-4a9d-9e36-cd4ae3462b06" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/66f08a9a-7498-4a9d-9e36-cd4ae3462b06" /></p>
 
 
 3. Under **Available Plugins**, select **Publish your network to the web**, **SigmaExporter**, and **Circular Layout**. Then click **Install**.
 
-<p align="center"><img width="975" height="598" alt="image" src="https://github.com/user-attachments/assets/bfca9c6f-5959-443a-a61f-a5f1d987382a" /></p>
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/bfca9c6f-5959-443a-a61f-a5f1d987382a" /></p>
 
 
 4. Click **Next**.
 
-<p align="center"><img width="819" height="738" alt="image" src="https://github.com/user-attachments/assets/a76b70e5-d049-4b75-aac0-af32db9d2d77" /></p>
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/a76b70e5-d049-4b75-aac0-af32db9d2d77" /></p>
 
 
 5. Check **I accept the terms in all of the license agreements**, then click **Install**.
 
-<p align="center"><img width="820" height="744" alt="image" src="https://github.com/user-attachments/assets/f8eb924e-3d16-49df-8352-32487fffa7b3" /></p>
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/f8eb924e-3d16-49df-8352-32487fffa7b3" /></p>
 
 
 6. When finished, select **Restart Now**, then click **Finish**.
 
-<p align="center"><img width="819" height="742" alt="image" src="https://github.com/user-attachments/assets/94cff951-4398-439c-a282-307f98cf6ac5" /></p>
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/94cff951-4398-439c-a282-307f98cf6ac5" /></p>
 
 
 7. In the new pop-up, click on **Do not save for** now.
 
-<p align="center"><img width="514" height="286" alt="image" src="https://github.com/user-attachments/assets/1e02a5a2-46ab-415a-bf55-0818a4ece5a7" /></p>
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/1e02a5a2-46ab-415a-bf55-0818a4ece5a7" /></p>
 
 
 8. Gephi will then relaunch on your computer. In the welcome window, click **New Project**.
 
-<p align="center"><img width="975" height="540" alt="image" src="https://github.com/user-attachments/assets/c674ee69-ea99-41ba-9974-072a55f62f4a" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/c674ee69-ea99-41ba-9974-072a55f62f4a" /></p>
 
 
 9. Next, go to **Tools** in the top menu and select **Plugins**. Under the **Installed** tab, you will find **Publish your network to the web**, **SigmaExporter**, and **Circular Layout** listed.
 
-<p align="center"><img width="975" height="600" alt="image" src="https://github.com/user-attachments/assets/3a03bb99-2864-4bf7-9f34-824bd1cfad0a" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/3a03bb99-2864-4bf7-9f34-824bd1cfad0a" /></p>
 
 
 # **Import Network Data**
@@ -170,7 +170,7 @@ Gephi allows you to import network data from various file types, including CSV f
 
 1. Go to the **File** tab, then select **Import spreadsheet** from the menu.
 
-<p align="center"><img width="975" height="638" alt="image" src="https://github.com/user-attachments/assets/4bee3314-ede1-45fc-9836-cb5f985b99ce" /></p>
+<p align="center"><img width="700" height="638" alt="image" src="https://github.com/user-attachments/assets/4bee3314-ede1-45fc-9836-cb5f985b99ce" /></p>
 
 
 2. Select the **nodes.csv** from the sample datasets downloaded in your computer, then click **Open**.
