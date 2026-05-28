@@ -126,7 +126,7 @@ Gephi provides a series of plugins that allows better experience and function in
 
 2. In the top menu, click on **Tools** then select **Plugins**. Note that you can also change the language in the **Tools** menu.
 
-<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/66f08a9a-7498-4a9d-9e36-cd4ae3462b06" /></p>
+<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/66f08a9a-7498-4a9d-9e36-cd4ae3462b06" /></p>
 
 
 3. Under **Available Plugins**, select **Publish your network to the web**, **SigmaExporter**, and **Circular Layout**. Then click **Install**.
@@ -136,17 +136,17 @@ Gephi provides a series of plugins that allows better experience and function in
 
 4. Click **Next**.
 
-<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/a76b70e5-d049-4b75-aac0-af32db9d2d77" /></p>
+<p align="center"><img width="450"  alt="image" src="https://github.com/user-attachments/assets/a76b70e5-d049-4b75-aac0-af32db9d2d77" /></p>
 
 
 5. Check **I accept the terms in all of the license agreements**, then click **Install**.
 
-<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/f8eb924e-3d16-49df-8352-32487fffa7b3" /></p>
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/f8eb924e-3d16-49df-8352-32487fffa7b3" /></p>
 
 
 6. When finished, select **Restart Now**, then click **Finish**.
 
-<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/94cff951-4398-439c-a282-307f98cf6ac5" /></p>
+<p align="center"><img width="450"  alt="image" src="https://github.com/user-attachments/assets/94cff951-4398-439c-a282-307f98cf6ac5" /></p>
 
 
 7. In the new pop-up, click on **Do not save for** now.
@@ -156,12 +156,12 @@ Gephi provides a series of plugins that allows better experience and function in
 
 8. Gephi will then relaunch on your computer. In the welcome window, click **New Project**.
 
-<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/c674ee69-ea99-41ba-9974-072a55f62f4a" /></p>
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/c674ee69-ea99-41ba-9974-072a55f62f4a" /></p>
 
 
 9. Next, go to **Tools** in the top menu and select **Plugins**. Under the **Installed** tab, you will find **Publish your network to the web**, **SigmaExporter**, and **Circular Layout** listed.
 
-<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/3a03bb99-2864-4bf7-9f34-824bd1cfad0a" /></p>
+<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/3a03bb99-2864-4bf7-9f34-824bd1cfad0a" /></p>
 
 
 # **Import Network Data**
