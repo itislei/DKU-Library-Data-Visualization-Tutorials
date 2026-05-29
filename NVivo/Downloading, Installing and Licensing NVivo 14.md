@@ -213,27 +213,27 @@ Licensing
 
 1.  Open NVivo 14, and click on **or provide enterprise key to activate**.
 
-<p align="center"><img width="800"  alt="23" src="https://github.com/user-attachments/assets/fd69dc26-6ea4-418d-86ba-be3f83d6751c" />
+<p align="center"><img width="500"  alt="23" src="https://github.com/user-attachments/assets/fd69dc26-6ea4-418d-86ba-be3f83d6751c" />
 
 
 2.  Copy and paste the **license key** from your order into the license key field. Read and **Agree** to user acknowledgement of license terms, then click **Next**.
 
-<p align="center"><img width="600"  alt="24" src="https://github.com/user-attachments/assets/d495c2cf-3614-460b-ad3f-46fa3dae50bc" />
+<p align="center"><img width="400"  alt="24" src="https://github.com/user-attachments/assets/d495c2cf-3614-460b-ad3f-46fa3dae50bc" />
 
 
 3.  Fill in the required fields, and click **Activate** to finish activation.
 
-<p align="center"><img width="600" alt="25" src="https://github.com/user-attachments/assets/5e3bd8b5-b3e9-42c5-9d4b-e2829c05a4c6" />
+<p align="center"><img width="400" alt="25" src="https://github.com/user-attachments/assets/5e3bd8b5-b3e9-42c5-9d4b-e2829c05a4c6" />
 
 
 4.  Once your license is successfully activated, click **OK**.
 
-<p align="center"><img width="320"  alt="26" src="https://github.com/user-attachments/assets/0271b108-78ed-4fa3-91a9-4c5dd6eec96d" />
+<p align="center"><img width="300"  alt="26" src="https://github.com/user-attachments/assets/0271b108-78ed-4fa3-91a9-4c5dd6eec96d" />
 
 
 5.  Complete your User Profile by entering your name and initials, then click **Continue**. Using initials is especially important in team projects, as it can be used to identify your contribution.
 
-<p align="center"><img width="430"  alt="27" src="https://github.com/user-attachments/assets/e1479b4b-7d7a-4cc5-98c0-f185102e94da" />
+<p align="center"><img width="300"  alt="27" src="https://github.com/user-attachments/assets/e1479b4b-7d7a-4cc5-98c0-f185102e94da" />
 
 
 Renewing License
@@ -242,7 +242,7 @@ Renewing License
 1.  To replace or update your NVivo license key, click on NVivo 14 in the Mac status bar and find **Licensing**.
 2.  Use the **Replace Licence** option.
 
-<p align="center"><img width="450" height="586" alt="28" src="https://github.com/user-attachments/assets/84663a86-b3d9-4405-81bb-f8ebe7d4c526" />
+<p align="center"><img width="300" alt="28" src="https://github.com/user-attachments/assets/84663a86-b3d9-4405-81bb-f8ebe7d4c526" />
 
 
 3.  Copy and paste the new license key in, and click **OK**.
