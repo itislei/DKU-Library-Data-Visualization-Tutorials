@@ -128,22 +128,22 @@ Licensing
 
 1.  Open NVivo 14, and click on **or provide enterprise key to activate**.
 
-<p align="center"><img width="650"  alt="10" src="https://github.com/user-attachments/assets/ef9729df-56f8-4b77-9642-262cfc844ef8" />
+<p align="center"><img width="550"  alt="10" src="https://github.com/user-attachments/assets/ef9729df-56f8-4b77-9642-262cfc844ef8" />
 
 
 2.  Copy and paste the **license key** from your [Duke Software License](https://software.duke.edu/) order into the license key field. Read and **Agree** to user acknowledgement of license terms, then click **Next**.
 
-<p align="center"><img width="550"  alt="11" src="https://github.com/user-attachments/assets/1d02ae24-6b42-4499-8009-b45b9d37924b" />
+<p align="center"><img width="400"  alt="11" src="https://github.com/user-attachments/assets/1d02ae24-6b42-4499-8009-b45b9d37924b" />
 
 
 3.  Fill in the required fields, and click **Activate** to finish activation.
 
-<p align="center"><img width="550" alt="12" src="https://github.com/user-attachments/assets/cdc6ecb1-0b41-44e7-b554-24730d973268" />
+<p align="center"><img width="400" alt="12" src="https://github.com/user-attachments/assets/cdc6ecb1-0b41-44e7-b554-24730d973268" />
 
 
 4.  Complete your User Profile by entering your name and initials, then click **OK**. Using initials is especially important in team projects, as it can be used to identify your contribution.
 
-<p align="center"><img width="550"  alt="13" src="https://github.com/user-attachments/assets/0309e1a5-2c51-4996-8c0d-a2e69add0714" />
+<p align="center"><img width="400"  alt="13" src="https://github.com/user-attachments/assets/0309e1a5-2c51-4996-8c0d-a2e69add0714" />
 
 
 Renewing License
