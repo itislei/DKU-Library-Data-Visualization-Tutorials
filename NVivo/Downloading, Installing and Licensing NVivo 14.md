@@ -30,7 +30,7 @@ Please note that Collaboration Cloud, Transcription, and the AI Assistant (avail
 
 1.  Go to [Duke Software License](https://software.duke.edu/) site and enter **NVivo** in the search box at the top. Hit **Enter** key or click the search icon to continue.
 
-<img width="1406" height="186" alt="1" src="https://github.com/user-attachments/assets/bea82fe3-8359-410d-92bf-1acf80f66a9c" />
+<p align="center"><img width="1406" height="186" alt="1" src="https://github.com/user-attachments/assets/bea82fe3-8359-410d-92bf-1acf80f66a9c" />
 
 
 2. Sign in using your Duke NetID and password.
