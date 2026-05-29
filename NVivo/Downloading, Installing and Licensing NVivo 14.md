@@ -12,7 +12,23 @@ Please note that Collaboration Cloud, Transcription, and the AI Assistant (avail
 
  - [Downloading, Installation, and Authorization (Windows)](#downloading-installation-and-authorization-windows)
 
+   -[Downloading](#downloading)
+
+   -[Installation](#installation)
+
+   -[licensing](#licensing)
+
+   -[Renewing License](#renewing-license)
+
  - [Downloading, Installation, and Authorization (Mac)](#downloading-installation-and-authorization-mac)
+   
+   -[Downloading](#downloading-1)
+
+   -[Installation](#installation-1)
+
+   -[licensing](#licensing-1)
+
+   -[Renewing License](#renewing-license-1)
 
  - [Troubleshooting](#troubleshooting)
 
