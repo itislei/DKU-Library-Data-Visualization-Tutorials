@@ -35,7 +35,7 @@ Please note that Collaboration Cloud, Transcription, and the AI Assistant (avail
 
 2. Sign in using your Duke NetID and password.
 
-<img width="423" height="422" alt="2" src="https://github.com/user-attachments/assets/29aa9078-bbf1-4343-8e49-e2ebb61b9253" />
+<p align="center"><img width="423" height="422" alt="2" src="https://github.com/user-attachments/assets/29aa9078-bbf1-4343-8e49-e2ebb61b9253" />
 
 
 3. Next, select **NVivo** from the search results.
