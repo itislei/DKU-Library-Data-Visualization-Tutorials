@@ -30,42 +30,42 @@ Please note that Collaboration Cloud, Transcription, and the AI Assistant (avail
 
 1.  Go to [Duke Software License](https://software.duke.edu/) site and enter **NVivo** in the search box at the top. Hit **Enter** key or click the search icon to continue.
 
-<p align="center"><img width="1406" height="186" alt="1" src="https://github.com/user-attachments/assets/bea82fe3-8359-410d-92bf-1acf80f66a9c" />
+<p align="center"><img width="800"  alt="1" src="https://github.com/user-attachments/assets/bea82fe3-8359-410d-92bf-1acf80f66a9c" />
 
 
 2. Sign in using your Duke NetID and password.
 
-<p align="center"><img width="423" height="422" alt="2" src="https://github.com/user-attachments/assets/29aa9078-bbf1-4343-8e49-e2ebb61b9253" />
+<p align="center"><img width="350"  alt="2" src="https://github.com/user-attachments/assets/29aa9078-bbf1-4343-8e49-e2ebb61b9253" />
 
 
 3. Next, select **NVivo** from the search results.
 
-<p align="center"><img width="1046" height="567" alt="3" src="https://github.com/user-attachments/assets/5d20ddb6-f1d6-4c21-b674-2015542d7d08" />
+<p align="center"><img width="800"  alt="3" src="https://github.com/user-attachments/assets/5d20ddb6-f1d6-4c21-b674-2015542d7d08" />
 
 
 4. Review the software description, then click **Add to Cart**.
 
-<p align="center"><img width="1377" height="901" alt="4" src="https://github.com/user-attachments/assets/3dbc3240-47c0-41d3-988d-febc3e57224b" />
+<p align="center"><img width="800"  alt="4" src="https://github.com/user-attachments/assets/3dbc3240-47c0-41d3-988d-febc3e57224b" />
 
 
 5. Go back to the ribbon menu and click the cart icon.
 
-<p align="center"><img width="1349" height="286" alt="5" src="https://github.com/user-attachments/assets/0af3e3f4-b09e-4e99-935d-f8b9d13a0ccf" />
+<p align="center"><img width="800" alt="5" src="https://github.com/user-attachments/assets/0af3e3f4-b09e-4e99-935d-f8b9d13a0ccf" />
 
 
 6. Make sure NVivo is in the cart, then click **CHECKOUT**.
 
-<p align="center"><img width="1376" height="469" alt="6" src="https://github.com/user-attachments/assets/f41e4445-b968-4854-89fb-b9935a5297c2" />
+<p align="center"><img width="800" alt="6" src="https://github.com/user-attachments/assets/f41e4445-b968-4854-89fb-b9935a5297c2" />
 
 
 7. Complete the order information, review the details, and submit your order. Once finished, click on **My Orders page**.
 
-<p align="center"><img width="865" height="401" alt="7" src="https://github.com/user-attachments/assets/17e00932-bc90-471f-af4a-8edbb49d5156" />
+<p align="center"><img width="600"  alt="7" src="https://github.com/user-attachments/assets/17e00932-bc90-471f-af4a-8edbb49d5156" />
 
 
 8. Click **Get Software** next to NVivo 14 to access the license key.
 
-<p align="center"><img width="1336" height="320" alt="8" src="https://github.com/user-attachments/assets/78f09ad7-4179-43b8-a058-f952c1b0e9bc" />
+<p align="center"><img width="800"  alt="8" src="https://github.com/user-attachments/assets/78f09ad7-4179-43b8-a058-f952c1b0e9bc" />
 
 
 # Downloading, Installation, and Authorization (Windows)
@@ -74,12 +74,12 @@ Please note that Collaboration Cloud, Transcription, and the AI Assistant (avail
 
 1.  Log in [myLumivero](https://www.google.com/url?q=https://my.lumivero.com/&sa=D&source=editors&ust=1770174213600583&usg=AOvVaw2Vq58YwuvVjUXBC4TYOGb6) account. Go to NVivo, select **Other Versions**.
 
-<p align="center"><img width="1897" height="857" alt="1" src="https://github.com/user-attachments/assets/f2f42238-4c06-46e9-8073-e16672ea3e19" />
+<p align="center"><img width="800"  alt="1" src="https://github.com/user-attachments/assets/f2f42238-4c06-46e9-8073-e16672ea3e19" />
 
 
 2.  Click on **Old Version**, and select **Mac** next to NVivo 14.
 
-<p align="center"><img width="1898" height="827" alt="2" src="https://github.com/user-attachments/assets/8bfbf859-c75c-4b81-b67d-040f19bd53b4" />
+<p align="center"><img width="800"  alt="2" src="https://github.com/user-attachments/assets/8bfbf859-c75c-4b81-b67d-040f19bd53b4" />
 
 3. Now you should have the NVivo 14 Windows installation package downloaded onto your computer.
 
@@ -90,37 +90,37 @@ Installing
 1.  After the download is complete, locate the NVivo installer in your **Downloads** and open it.
 2.  Select your preferred language for the installation process and click **OK**.
 
-<p align="center"><img width="445" height="195" alt="3" src="https://github.com/user-attachments/assets/887d660e-29ff-4eef-93ad-0eb97729aa8b" />
+<p align="center"><img width="350"  alt="3" src="https://github.com/user-attachments/assets/887d660e-29ff-4eef-93ad-0eb97729aa8b" />
 
 
 3.  Go through the instructions and click **Next**.
 
-<p align="center"><img width="628" height="480" alt="4" src="https://github.com/user-attachments/assets/5c07bc38-0866-48ca-b890-89dbb728b3b6" />
+<p align="center"><img width="350"  alt="4" src="https://github.com/user-attachments/assets/5c07bc38-0866-48ca-b890-89dbb728b3b6" />
 
 
 4.  Read through the License Agreement, select “I accept the terms in license agreement” and click **Next**.
 
-<p align="center"><img width="404" height="310" alt="5" src="https://github.com/user-attachments/assets/773282ec-3c59-4c25-be2b-d9a4d2d366cb" />
+<p align="center"><img width="350"  alt="5" src="https://github.com/user-attachments/assets/773282ec-3c59-4c25-be2b-d9a4d2d366cb" />
 
 
 5.  Change the destination folder and uncheck “Create a desktop shortcut” if needed, then click **Next**.
 
-<p align="center"><img width="626" height="477" alt="6" src="https://github.com/user-attachments/assets/6736e639-fd2d-47b4-9a68-f99eddbdb7c2" />
+<p align="center"><img width="350"  alt="6" src="https://github.com/user-attachments/assets/6736e639-fd2d-47b4-9a68-f99eddbdb7c2" />
 
 
 6.  Choose to install [NCapture](https://www.google.com/url?q=https://help-nv.qsrinternational.com/20/win/Content/ncapture/ncapture.htm&sa=D&source=editors&ust=1770174213603258&usg=AOvVaw2YltglA7rQy7aDY9pSulof), an add-on for NVivo, if needed, then click **Next**. We will cover NCapture in more detail during the tutorials.
 
-<p align="center"><img width="624" height="476" alt="7" src="https://github.com/user-attachments/assets/b7071846-d470-4493-8ada-01dffb310d25" />
+<p align="center"><img width="350" alt="7" src="https://github.com/user-attachments/assets/b7071846-d470-4493-8ada-01dffb310d25" />
 
 
 7.  Review your installation settings and click **Install**.
 
-<p align="center"><img width="624" height="479" alt="8" src="https://github.com/user-attachments/assets/68b8e212-83d4-4cb4-9cf0-b2c41e888d61" />
+<p align="center"><img width="350"  alt="8" src="https://github.com/user-attachments/assets/68b8e212-83d4-4cb4-9cf0-b2c41e888d61" />
 
 
 8.  Once the Installation is complete, select **Launch NVivo 14** and click **Finish**.
 
-<p align="center"><img width="624" height="475" alt="9" src="https://github.com/user-attachments/assets/c85e2fc7-c6b3-46a8-a9fb-43e610a340b2" />
+<p align="center"><img width="350"  alt="9" src="https://github.com/user-attachments/assets/c85e2fc7-c6b3-46a8-a9fb-43e610a340b2" />
 
 
 Licensing
