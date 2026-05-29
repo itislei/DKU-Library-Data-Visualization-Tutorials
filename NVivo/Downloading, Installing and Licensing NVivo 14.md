@@ -128,22 +128,22 @@ Licensing
 
 1.  Open NVivo 14, and click on **or provide enterprise key to activate**.
 
-<p align="center"><img width="700" height="437" alt="10" src="https://github.com/user-attachments/assets/ef9729df-56f8-4b77-9642-262cfc844ef8" />
+<p align="center"><img width="500"  alt="10" src="https://github.com/user-attachments/assets/ef9729df-56f8-4b77-9642-262cfc844ef8" />
 
 
 2.  Copy and paste the **license key** from your [Duke Software License](https://software.duke.edu/) order into the license key field. Read and **Agree** to user acknowledgement of license terms, then click **Next**.
 
-<p align="center"><img width="600" height="929" alt="11" src="https://github.com/user-attachments/assets/1d02ae24-6b42-4499-8009-b45b9d37924b" />
+<p align="center"><img width="400"  alt="11" src="https://github.com/user-attachments/assets/1d02ae24-6b42-4499-8009-b45b9d37924b" />
 
 
 3.  Fill in the required fields, and click **Activate** to finish activation.
 
-<p align="center"><img width="600" height="832" alt="12" src="https://github.com/user-attachments/assets/cdc6ecb1-0b41-44e7-b554-24730d973268" />
+<p align="center"><img width="400" alt="12" src="https://github.com/user-attachments/assets/cdc6ecb1-0b41-44e7-b554-24730d973268" />
 
 
 4.  Complete your User Profile by entering your name and initials, then click **OK**. Using initials is especially important in team projects, as it can be used to identify your contribution.
 
-<p align="center"><img width="600" height="755" alt="13" src="https://github.com/user-attachments/assets/0309e1a5-2c51-4996-8c0d-a2e69add0714" />
+<p align="center"><img width="400"  alt="13" src="https://github.com/user-attachments/assets/0309e1a5-2c51-4996-8c0d-a2e69add0714" />
 
 
 Renewing License
@@ -151,12 +151,12 @@ Renewing License
 
 1.  To replace or update your NVivo license key, navigate to the **start screen** and click **FILE**.
 
-<p align="center"><img width="600" height="926" alt="14" src="https://github.com/user-attachments/assets/5e17cc36-9c12-4752-b963-f3efb0d6a278" />
+<p align="center"><img width="400"  alt="14" src="https://github.com/user-attachments/assets/5e17cc36-9c12-4752-b963-f3efb0d6a278" />
 
 
 2.  Under **Product Info**, go to **Manage License**, and click **Replace Licence**.
 
-<p align="center"><img width="600" height="453" alt="15" src="https://github.com/user-attachments/assets/4d7f8098-0907-4785-b1df-f4e30b94e1c4" />
+<p align="center"><img width="400" alt="15" src="https://github.com/user-attachments/assets/4d7f8098-0907-4785-b1df-f4e30b94e1c4" />
 
 
 3.  Copy and paste the new license key in, and click **OK**.
@@ -169,12 +169,12 @@ Downloading
 
 1.  Log in [myLumivero](https://www.google.com/url?q=https://my.lumivero.com/&sa=D&source=editors&ust=1770174213607706&usg=AOvVaw2-3rEE2iZDJ7DXMte-HTV2) account. Go to **NVivo**, select **Other Versions**.
 
-<p align="center"><img width="2003" height="961" alt="16" src="https://github.com/user-attachments/assets/c44dd923-83ad-4246-95b7-53f305411a57" />
+<p align="center"><img width="800"  alt="16" src="https://github.com/user-attachments/assets/c44dd923-83ad-4246-95b7-53f305411a57" />
 
 
 2.  Click on **Old Version**, and select **Mac** next to NVivo 14.
 
-<p align="center"><img width="2003" height="961" alt="17" src="https://github.com/user-attachments/assets/5808088b-45fa-4982-9bf6-c0bb8058947f" />
+<p align="center"><img width="800"  alt="17" src="https://github.com/user-attachments/assets/5808088b-45fa-4982-9bf6-c0bb8058947f" />
 
 3. Now you should have the NVivo 14 Mac installation package downloaded onto your computer
 
@@ -184,28 +184,28 @@ Installing
 1.  After the download is complete, locate the NVivo installer in your **Downloads** and open it.
 2.  Drag the NVivo icon on the left to the folder on the right. This will make a copy in the Mac Launchpad.
 
-<p align="center"><img width="500" height="886" alt="18" src="https://github.com/user-attachments/assets/f32e02e4-8577-4cc2-99ca-246f749cc045" />
+<p align="center"><img width="400"  alt="18" src="https://github.com/user-attachments/assets/f32e02e4-8577-4cc2-99ca-246f749cc045" />
 
 
 3.  Once the copy is complete, go to the **Launchpad** and open NVivo 14.
 4.  You will be asked to confirm that you would like to open the application, select **Open**.
 
-<p align="center"><img width="400" height="714" alt="19" src="https://github.com/user-attachments/assets/2743975e-3e79-41ea-848e-9c429f8e415e" />
+<p align="center"><img width="400"  alt="19" src="https://github.com/user-attachments/assets/2743975e-3e79-41ea-848e-9c429f8e415e" />
 
 
 5.  You will be asked to give NVivo 14 permission to access data before it can run. Click to **Open Security & Privacy**.
 
-<p align="center"><img width="300" height="626" alt="20" src="https://github.com/user-attachments/assets/6833e773-976a-4407-944d-8a32f4d6947f" />
+<p align="center"><img width="300" alt="20" src="https://github.com/user-attachments/assets/6833e773-976a-4407-944d-8a32f4d6947f" />
 
 
 6.  Under **Full Disk Access**, turn the toggle next to NVivo 14 **ON**.
 
-<p align="center"><img width="600" height="732" alt="21" src="https://github.com/user-attachments/assets/c688fdf7-3f78-47ec-b4e6-f7509870fb34" />
+<p align="center"><img width="500"  alt="21" src="https://github.com/user-attachments/assets/c688fdf7-3f78-47ec-b4e6-f7509870fb34" />
 
 
 7.  Read through the License Agreement, then click **Agree**.
 
-<p align="center"><img width="600" height="968" alt="22" src="https://github.com/user-attachments/assets/b6ab989f-748c-4984-aa99-391eba90878c" />
+<p align="center"><img width="500"  alt="22" src="https://github.com/user-attachments/assets/b6ab989f-748c-4984-aa99-391eba90878c" />
 
 
 Licensing
