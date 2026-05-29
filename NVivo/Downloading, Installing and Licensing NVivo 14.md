@@ -6,11 +6,11 @@ Please note that Collaboration Cloud, Transcription, and the AI Assistant (avail
 
 ## Table of Contents
 
- - [Before we Start](#before-we-start)
+**[Before we Start](#before-we-start)**
 
- - [Requesting License](#requesting-license)
+**[Requesting License](#requesting-license)**
 
- - [Downloading, Installation, and Authorization (Windows)](#downloading-installation-and-authorization-windows)
+**[Downloading, Installation, and Authorization (Windows)](#downloading-installation-and-authorization-windows)**
 
    - [Downloading](#downloading)
 
@@ -20,7 +20,7 @@ Please note that Collaboration Cloud, Transcription, and the AI Assistant (avail
 
    - [Renewing License](#renewing-license)
 
- - [Downloading, Installation, and Authorization (Mac)](#downloading-installation-and-authorization-mac)
+   **[Downloading, Installation, and Authorization (Mac)](#downloading-installation-and-authorization-mac)**
    
    - [Downloading](#downloading-1)
 
@@ -30,7 +30,7 @@ Please note that Collaboration Cloud, Transcription, and the AI Assistant (avail
 
    - [Renewing License](#renewing-license-1)
 
- - [Troubleshooting](#troubleshooting)
+  **[Troubleshooting](#troubleshooting)**
 
 
 # Before we Start
