@@ -95,32 +95,32 @@ Installing
 
 3.  Go through the instructions and click **Next**.
 
-<p align="center"><img width="450"  alt="4" src="https://github.com/user-attachments/assets/5c07bc38-0866-48ca-b890-89dbb728b3b6" />
+<p align="center"><img width="500"  alt="4" src="https://github.com/user-attachments/assets/5c07bc38-0866-48ca-b890-89dbb728b3b6" />
 
 
 4.  Read through the License Agreement, select “I accept the terms in license agreement” and click **Next**.
 
-<p align="center"><img width="450"  alt="5" src="https://github.com/user-attachments/assets/773282ec-3c59-4c25-be2b-d9a4d2d366cb" />
+<p align="center"><img width="500"  alt="5" src="https://github.com/user-attachments/assets/773282ec-3c59-4c25-be2b-d9a4d2d366cb" />
 
 
 5.  Change the destination folder and uncheck “Create a desktop shortcut” if needed, then click **Next**.
 
-<p align="center"><img width="450"  alt="6" src="https://github.com/user-attachments/assets/6736e639-fd2d-47b4-9a68-f99eddbdb7c2" />
+<p align="center"><img width="500"  alt="6" src="https://github.com/user-attachments/assets/6736e639-fd2d-47b4-9a68-f99eddbdb7c2" />
 
 
 6.  Choose to install [NCapture](https://www.google.com/url?q=https://help-nv.qsrinternational.com/20/win/Content/ncapture/ncapture.htm&sa=D&source=editors&ust=1770174213603258&usg=AOvVaw2YltglA7rQy7aDY9pSulof), an add-on for NVivo, if needed, then click **Next**. We will cover NCapture in more detail during the tutorials.
 
-<p align="center"><img width="450" alt="7" src="https://github.com/user-attachments/assets/b7071846-d470-4493-8ada-01dffb310d25" />
+<p align="center"><img width="500" alt="7" src="https://github.com/user-attachments/assets/b7071846-d470-4493-8ada-01dffb310d25" />
 
 
 7.  Review your installation settings and click **Install**.
 
-<p align="center"><img width="450"  alt="8" src="https://github.com/user-attachments/assets/68b8e212-83d4-4cb4-9cf0-b2c41e888d61" />
+<p align="center"><img width="500"  alt="8" src="https://github.com/user-attachments/assets/68b8e212-83d4-4cb4-9cf0-b2c41e888d61" />
 
 
 8.  Once the Installation is complete, select **Launch NVivo 14** and click **Finish**.
 
-<p align="center"><img width="450"  alt="9" src="https://github.com/user-attachments/assets/c85e2fc7-c6b3-46a8-a9fb-43e610a340b2" />
+<p align="center"><img width="500"  alt="9" src="https://github.com/user-attachments/assets/c85e2fc7-c6b3-46a8-a9fb-43e610a340b2" />
 
 
 Licensing
