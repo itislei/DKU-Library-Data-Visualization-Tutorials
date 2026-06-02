@@ -492,7 +492,7 @@ Memos and annotations help capture your thoughts and insights during analysis. M
 
 12. Type some notes, such as “The project needs to be reviewed” and then close it to save. You can always double-click on **Project** from the list of memos to re-open it.
 
-<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/779d5025-5f49-4bd8-ba14-c9000d9edbda" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/779d5025-5f49-4bd8-ba14-c9000d9edbda" />
 
 
 # Image Coding
