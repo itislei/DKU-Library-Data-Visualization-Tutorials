@@ -99,7 +99,7 @@ Download and save the zip file in your computer: [Sample\_Dataset.zip](https://g
 
 1. Create a new folder in your computer and name it as **NVivo Workshop**. We will be using this folder to store all the files created in this tutorial.
 
-<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/0bfb412c-770a-4311-92d4-6bb995e33ada" />
+<p align="center"><img width="200" alt="image" src="https://github.com/user-attachments/assets/0bfb412c-770a-4311-92d4-6bb995e33ada" />
 
 
 2. Download the sample dataset [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/79daeb0cb2a7e7d5ae026831aefc32c82a4a1dea/NVivo/Dataset).
@@ -107,19 +107,19 @@ Download and save the zip file in your computer: [Sample\_Dataset.zip](https://g
 
 3. Go to the place where the dataset is saved, right-click on the zip file and select **Quick Look “Sample\_Dataset.zip”**.
 
-<p align="center"><img width="1582" height="966" alt="1" src="https://github.com/user-attachments/assets/31ff16f5-3a4a-40ae-8032-bbc4b3980a79" />
+<p align="center"><img width="700" alt="1" src="https://github.com/user-attachments/assets/31ff16f5-3a4a-40ae-8032-bbc4b3980a79" />
 
 
 
 4. Click on **Uncompress**.
 
-<p align="center"><img width="1144" height="656" alt="2" src="https://github.com/user-attachments/assets/848042a2-de52-44de-8862-eac34b089313" />
+<p align="center"><img width="800" alt="2" src="https://github.com/user-attachments/assets/848042a2-de52-44de-8862-eac34b089313" />
 
 
 
 5. Copy or move the unzipped **Sample\_Dataset** folder into the **NVivo Workshop** folder. 
 
-<p align="center"><img width="1768" height="550" alt="3" src="https://github.com/user-attachments/assets/24238ed5-b15d-4b7c-b810-86933b83404b" />
+<p align="center"><img width="800" alt="3" src="https://github.com/user-attachments/assets/24238ed5-b15d-4b7c-b810-86933b83404b" />
 
 
 
