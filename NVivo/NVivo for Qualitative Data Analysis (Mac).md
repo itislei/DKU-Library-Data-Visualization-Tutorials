@@ -375,7 +375,7 @@ Uncoding means removing a coded snippet from a code that disconnects that piece 
 
 2. Select the entire of one snippet, right-click and select **Uncode Selection** \> **From this Code**.
 
-<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/4561abd7-0ebc-48ea-8322-bb04a0ab8a7b" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/4561abd7-0ebc-48ea-8322-bb04a0ab8a7b" />
 
 
 3. The coded text will now be removed. Next, click the hamburger icon, then **Close All** to close all tabs.
@@ -391,17 +391,17 @@ The highlighter and coding stripes help visualize and track your coding work in 
 
 2. In the detail view, click on the **Highlight** icon, and select **All Coding**.
 
-<p align="center"><img width="353" height="233" alt="image" src="https://github.com/user-attachments/assets/0ab630c6-efa4-496a-aca6-3b64140505cb" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/0ab630c6-efa4-496a-aca6-3b64140505cb" />
 
 
 3. The snippet you’ve coded will be highlighted in yellow.
 
-<p align="center"><img width="795" height="272" alt="image" src="https://github.com/user-attachments/assets/8a97651c-0d02-4aec-991a-41a5a7b20c65" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/8a97651c-0d02-4aec-991a-41a5a7b20c65" />
 
 
 4. Next, in the detail view, click on the **Coding Stripes** icon, and select **All**.
 
-<p align="center"><img width="313" height="475" alt="image" src="https://github.com/user-attachments/assets/747a17c1-78fc-4269-98be-aa1ee7378c1c" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/747a17c1-78fc-4269-98be-aa1ee7378c1c" />
 
 
 5. Now, a new pane with multiple colored stripes alongside the file shows which part of the text has been coded and which codes were applied.
