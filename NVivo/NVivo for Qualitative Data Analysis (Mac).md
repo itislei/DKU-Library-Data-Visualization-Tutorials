@@ -442,7 +442,7 @@ Memos and annotations help capture your thoughts and insights during analysis. M
 
 2. Enter **Interview Memo** as the name in the pop-up and click **Done**.
 
-<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/311cc2d2-ae71-4383-a82e-5285192ecd48" />
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/311cc2d2-ae71-4383-a82e-5285192ecd48" />
 
 
 3. A blank page will appear where a detailed memo about the file can be written. For example, noting the interview was conducted in a noisy cafe shop. You can note that here.
@@ -477,7 +477,7 @@ Memos and annotations help capture your thoughts and insights during analysis. M
 
 9. To see memos and annotations you have created all in one place, using the left navigation menu, under **Notes**.
 
-<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/07746aea-d65b-4ce6-91e6-66070755d121" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/07746aea-d65b-4ce6-91e6-66070755d121" />
 
 
 10. Finally, you can also create a note that applies to the entire project. For example, maybe some ideas you have about how the research is going or new themes that are emerging. Double-click on **Memos** under **Notes**. In the detail view, right-click on the blank area and select **New Memo**.
