@@ -184,17 +184,17 @@ NVivo supports organizing files in a hierarchical structure and analyzing a wide
 
 1. Go to **Files** under **Data**, right-click on **Files** and select **New Folder…**.
 
-<p align="center"><img width="690" height="314" alt="image" src="https://github.com/user-attachments/assets/e2d52ba9-87ac-4d38-88a3-8963617fc8e4" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/e2d52ba9-87ac-4d38-88a3-8963617fc8e4" />
 
 
 2. In the pop-up, enter **Interview** in the “Name” field, and click **Done**.
 
-<p align="center"><img width="448" height="402" alt="image" src="https://github.com/user-attachments/assets/1e3c03d9-9a70-40f9-9098-8baeb947ec2d" />
+<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/1e3c03d9-9a70-40f9-9098-8baeb947ec2d" />
 
 
 3. Make sure the **Interview** under **Files** is selected, then go to the **Import** menu, click on **Files**.
 
-<p align="center"><img width="930" height="333" alt="image" src="https://github.com/user-attachments/assets/143bc23e-7f28-4908-bd3d-d900af1f4681" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/143bc23e-7f28-4908-bd3d-d900af1f4681" />
 
 
 4. In the dropdown, select **Documents…**.
@@ -204,19 +204,19 @@ NVivo supports organizing files in a hierarchical structure and analyzing a wide
 
 5. In the pop-up window, navigate to the workshop folder, open the Sample\_Dataset folder, select all items that begin with “Interview”, and click **Import**.
 
-<p align="center"><img width="1702" height="898" alt="5" src="https://github.com/user-attachments/assets/15ea23a3-2a87-4482-994e-747d5dab216e" />
+<p align="center"><img width="750" alt="5" src="https://github.com/user-attachments/assets/15ea23a3-2a87-4482-994e-747d5dab216e" />
 
 
 6. Repeat the same steps for the focus group files. Create a new folder named **Focus Group**, then go to **Import** \> **Files** \> **Documents**. In the Sample\_Dataset folder, select all items that begin with “FG”, and click **Import** to continue.
 
 7. The **Interview** and **Focus Group** folders should now appear under **Files**. Double-click each folder to view all the imported documents within it.
 
-<p align="center"><img width="635" height="247" alt="image" src="https://github.com/user-attachments/assets/60df74bc-d0a1-427e-8adb-79806dea79af" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/60df74bc-d0a1-427e-8adb-79806dea79af" />
 
 
 8. Hover over the icon next to each file title to see its corresponding file format appears as “Shortcut to \[file format\]”.
 
-<p align="center"><img width="384" height="118" alt="image" src="https://github.com/user-attachments/assets/952a03af-5624-4dd9-a2d7-36512f54505a" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/952a03af-5624-4dd9-a2d7-36512f54505a" />
 
 
 ## NCapture
