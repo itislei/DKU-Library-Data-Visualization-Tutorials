@@ -189,7 +189,7 @@ NVivo supports organizing files in a hierarchical structure and analyzing a wide
 
 2. In the pop-up, enter **Interview** in the “Name” field, and click **Done**.
 
-<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/1e3c03d9-9a70-40f9-9098-8baeb947ec2d" />
+<p align="center"><img width="360" alt="image" src="https://github.com/user-attachments/assets/1e3c03d9-9a70-40f9-9098-8baeb947ec2d" />
 
 
 3. Make sure the **Interview** under **Files** is selected, then go to the **Import** menu, click on **Files**.
@@ -204,7 +204,7 @@ NVivo supports organizing files in a hierarchical structure and analyzing a wide
 
 5. In the pop-up window, navigate to the workshop folder, open the Sample\_Dataset folder, select all items that begin with “Interview”, and click **Import**.
 
-<p align="center"><img width="750" alt="5" src="https://github.com/user-attachments/assets/15ea23a3-2a87-4482-994e-747d5dab216e" />
+<p align="center"><img width="800" alt="5" src="https://github.com/user-attachments/assets/15ea23a3-2a87-4482-994e-747d5dab216e" />
 
 
 6. Repeat the same steps for the focus group files. Create a new folder named **Focus Group**, then go to **Import** \> **Files** \> **Documents**. In the Sample\_Dataset folder, select all items that begin with “FG”, and click **Import** to continue.
