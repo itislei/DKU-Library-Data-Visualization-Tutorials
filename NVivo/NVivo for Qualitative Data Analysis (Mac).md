@@ -370,17 +370,17 @@ Uncoding means removing a coded snippet from a code that disconnects that piece 
 
 1. Double-click on **Chemicals** code \- the snippet of coded text will show up.
 
-<p align="center"><img width="527" height="213" alt="image" src="https://github.com/user-attachments/assets/085d8e3a-9ea8-41d0-b2dd-360ed50adbd0" />
+<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/085d8e3a-9ea8-41d0-b2dd-360ed50adbd0" />
 
 
 2. Select the entire of one snippet, right-click and select **Uncode Selection** \> **From this Code**.
 
-<p align="center"><img width="715" height="424" alt="image" src="https://github.com/user-attachments/assets/4561abd7-0ebc-48ea-8322-bb04a0ab8a7b" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/4561abd7-0ebc-48ea-8322-bb04a0ab8a7b" />
 
 
 3. The coded text will now be removed. Next, click the hamburger icon, then **Close All** to close all tabs.
 
-<p align="center"><img width="812" height="315" alt="image" src="https://github.com/user-attachments/assets/9eabb78d-9313-438d-b527-af5d610d311a" />
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/9eabb78d-9313-438d-b527-af5d610d311a" />
 
 
 # Highlighter & Coding Stripes
