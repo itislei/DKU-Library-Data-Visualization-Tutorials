@@ -119,7 +119,7 @@ Download and save the zip file in your computer: [Sample\_Dataset.zip](https://g
 
 5. Copy or move the unzipped **Sample\_Dataset** folder into the **NVivo Workshop** folder. 
 
-<p align="center"><img width="700" alt="3" src="https://github.com/user-attachments/assets/24238ed5-b15d-4b7c-b810-86933b83404b" />
+<p align="center"><img width="750" alt="3" src="https://github.com/user-attachments/assets/24238ed5-b15d-4b7c-b810-86933b83404b" />
 
 
 
@@ -149,17 +149,17 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
 
 5. For the “Project Title” field, enter **NVivo Workshop**.
 
-<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/fa0b9938-2ea5-4647-ad42-ab1e729f2b61" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/fa0b9938-2ea5-4647-ad42-ab1e729f2b61" />
 
 
 6. If the data you plan to analyze is not primarily in English, change the **Text Content Language** field accordingly. Then click **Create Project** to continue.
 
-<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/2dd96023-7fc3-440a-8cf9-800330c9cd76" />
+<p align="center"><img width="750"  alt="image" src="https://github.com/user-attachments/assets/2dd96023-7fc3-440a-8cf9-800330c9cd76" />
 
 
 7. When the welcome pop-up appears, click **SKIP TOUR** to close it.
 
-<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/f0ab6a66-dddd-46a2-be53-db7ab8ebd9fa" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/f0ab6a66-dddd-46a2-be53-db7ab8ebd9fa" />
 
 
 8. The interface of NVivo includes:  
@@ -171,7 +171,7 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
    6) Quick Coding Bar  
    7) Status Bar
 
-<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/2c4f3d66-bd68-493f-be68-dc6c32337a28" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/2c4f3d66-bd68-493f-be68-dc6c32337a28" />
 
 *Image Source: [The workspace](https://help-nv.qsrinternational.com/14/win/Content/about-nvivo/nvivo-workspace.htm)*
 
