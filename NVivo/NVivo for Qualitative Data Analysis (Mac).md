@@ -554,7 +554,7 @@ NVivo allows the import and analysis of audio and video files through coding spe
 
 2. Name the project as its default **Sample Project**. For the saving path, select the workshop folder, and click **Save**.
 
-<p align="center"><img width="650" alt="6" src="https://github.com/user-attachments/assets/200726f1-55b5-4035-8c8e-dfacd836eff1" />
+<p align="center"><img width="800" alt="6" src="https://github.com/user-attachments/assets/200726f1-55b5-4035-8c8e-dfacd836eff1" />
 
 
 3. When the welcome pop-up appears, click **SKIP TOUR** to close it.
@@ -569,7 +569,7 @@ NVivo allows the import and analysis of audio and video files through coding spe
 
 5. Opening this video recording gives us three panels: the audio waveform, the playback window, and a content panel showing timestamps along with the transcript. 
 
-<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/7acd8789-f7c9-4fb8-872d-aea5de377b8c" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/7acd8789-f7c9-4fb8-872d-aea5de377b8c" />
 
 
 6. Now, go back to the **Interviews** folder, double-click on the **Helen** file \- this is an audio format file. 
@@ -579,32 +579,32 @@ NVivo allows the import and analysis of audio and video files through coding spe
 
 7. Like a video format file, the audio recording gives us three panels: the audio waveform, the playback window, and a content panel showing timestamps along with the transcript. 
 
-<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/83e06559-bf6a-4738-b51c-f97789e6a274" />
+<p align="center"><img width="750"  alt="image" src="https://github.com/user-attachments/assets/83e06559-bf6a-4738-b51c-f97789e6a274" />
 
 
 8. To code the segment, drag the **playhead** in the waveform window to the starting point, then click the **Start Selection** icon at the bottom to begin selecting the segment.
 
-<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/b0af83f6-6d87-4a26-a91f-1f900529f59d" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/b0af83f6-6d87-4a26-a91f-1f900529f59d" />
 
 
 9. When it ends, click the **Finish Selection** icon to complete the coding range.
 
-<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/6de422fa-6b67-4635-ae5f-9e0768f27164" />
+<p align="center"><img width="450"  alt="image" src="https://github.com/user-attachments/assets/6de422fa-6b67-4635-ae5f-9e0768f27164" />
 
 
 10. Then, right-click and select **Code Selection**, then **At Existing Codes or Cases**.
 
-<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/f6c0dcf0-22db-4535-bdbe-7ee4ddc44529" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/f6c0dcf0-22db-4535-bdbe-7ee4ddc44529" />
 
 
 11. Select **Memorable quotes** in this case, and click **Select** to confirm.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/87273b13-5b04-457b-a7a4-6649914041e6" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/87273b13-5b04-457b-a7a4-6649914041e6" />
 
 
 12. Go to **Codes**, **Memorable quotes**. The timestamp of the segment we just coded will appear.
 
-<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/5f3cc0b9-783b-4248-ab90-86812c1f5a6b" />
+<p align="center"><img width="750"  alt="image" src="https://github.com/user-attachments/assets/5f3cc0b9-783b-4248-ab90-86812c1f5a6b" />
 
 
 13. To uncode a segment, click on the segment reference to go back to the source file.
