@@ -778,7 +778,7 @@ Word frequency query allows you to find the most commonly used words in your sou
 
 19. Close all tabs for now.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/56668358-e6c4-4e9a-aa35-522d187b8d36" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/56668358-e6c4-4e9a-aa35-522d187b8d36" />
 
 
 ## Text Search Query
