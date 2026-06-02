@@ -631,47 +631,47 @@ You can manually create case classifications and cases by using the left menu, u
 
 1. Under **Cases**, go to **Case Classifications**.
 
-<p align="center"><img width="319" height="327" alt="image" src="https://github.com/user-attachments/assets/b262b3cd-1a40-4271-9a50-680bd21161cc" />
+<p align="center"><img width="220" alt="image" src="https://github.com/user-attachments/assets/b262b3cd-1a40-4271-9a50-680bd21161cc" />
 
 
 2. Double-click to open **Person**, then switch the view from **Attributes** to **Classification Sheet**.
 
-<p align="center"><img width="913" height="394" alt="image" src="https://github.com/user-attachments/assets/230c452a-37bf-47eb-b427-e0d73f47fa2f" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/230c452a-37bf-47eb-b427-e0d73f47fa2f" />
 
 
 3. A table of all the information about the participants will appear, with different attributes about their background, like the neighborhood they live in, their gender, age range, etc. You can edit the data here.
 
-<p align="center"><img width="970" height="457" alt="image" src="https://github.com/user-attachments/assets/39bf091d-e40e-4b4e-8613-08cd6040dc58" />
+<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/39bf091d-e40e-4b4e-8613-08cd6040dc58" />
 
 
 4. We can take advantage of NVivo’s autocoding features to identify the parts of interviewee and interviewers in a file and code them automatically into the appropriate case. Using the left menu, under **Data**, then **Files**, go to the **Interviews** folder, and open the interview transcript titled “Barbara”. Then, go to **Home** menu \> **Autocode** \> **By Speaker**. You can also right-click on “Barbara” and select **Autocode** \> **By Speaker** to continue.
 
-<p align="center"><img width="943" height="527" alt="image" src="https://github.com/user-attachments/assets/9c252f53-4ac1-4fa9-812c-77d35a9a61aa" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/9c252f53-4ac1-4fa9-812c-77d35a9a61aa" />
 
 
 5. An **Autocode by Speaker** pop-up will appear.
 
-<p align="center"><img width="879" height="576" alt="image" src="https://github.com/user-attachments/assets/05fd8112-614f-468d-afe3-b11d5fe8a16c" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/05fd8112-614f-468d-afe3-b11d5fe8a16c" />
 
 
 6. The “Barbara” document is formatted in a consistent manner so we can always pick out who is speaking because the person’s name stands on its own line followed by the words they speak. We need to specify who the unique speakers are in this document. In the entering field in the **Autocode by Speaker** pop-up, type in **HENRY** and hit **Enter**. Then type in **BARBARA** and hit the **TAB** key. You should double-check the preview on the right pane to confirm that NVivo is picking up each unique speaker by highlighting them in different colours.
 
-<p align="center"><img width="861" height="406" alt="image" src="https://github.com/user-attachments/assets/7ee27e52-aaee-4ac5-a9e2-ddba7d3bc484" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/7ee27e52-aaee-4ac5-a9e2-ddba7d3bc484" />
 
 
 7. Make sure **Cases** is selected for the saving location (**Create cases in** field), and **Person** is selected under **Existing classification**. Then click on **Autocode**. This should code everything that Henry or Barbara said in the transcript with their cases. 
 
-<p align="center"><img width="877" height="575" alt="image" src="https://github.com/user-attachments/assets/2653012a-4c1f-42d2-b55d-72dfd8c6f2e8" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/2653012a-4c1f-42d2-b55d-72dfd8c6f2e8" />
 
 
 8. Go to **Cases** under **Cases**. 
 
-<p align="center"><img width="323" height="559" alt="image" src="https://github.com/user-attachments/assets/eac79088-dad7-4a00-8a91-cd8a3ad19c79" />
+<p align="center"><img width="220" alt="image" src="https://github.com/user-attachments/assets/eac79088-dad7-4a00-8a91-cd8a3ad19c79" />
 
 
 9. Double click on the **BARBARA** case. You should see everything that Barbara said in her interview. These words are coded to this case. The **BARBARA** case code is now linked to Barbara’s interview responses.
 
-<p align="center"><img width="756" height="448" alt="image" src="https://github.com/user-attachments/assets/b9896a11-0227-4906-9954-673e0580d47e" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/b9896a11-0227-4906-9954-673e0580d47e" />
 
 
 10. Close all the tabs.
