@@ -235,57 +235,57 @@ Deductive coding is a top-down qualitative analysis approach where you start wit
 
 1. To create codes, click **Codes** under **Coding**, then click **Close** to close the introduction page.
 
-<p align="center"><img width="789" height="482" alt="image" src="https://github.com/user-attachments/assets/d344043e-a987-435d-87e5-7e5bc0ca1f14" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/d344043e-a987-435d-87e5-7e5bc0ca1f14" />
 
 
 2. In the blank area, right-click and select **New Top-Level Code…**.
 
-<p align="center"><img width="317" height="341" alt="image" src="https://github.com/user-attachments/assets/7e4ec5dc-cf26-4c7a-92ff-2ed338d95fbf" />
+<p align="center"><img width="230" alt="image" src="https://github.com/user-attachments/assets/7e4ec5dc-cf26-4c7a-92ff-2ed338d95fbf" />
 
 
 3. In the pop-up, enter **Energy** in the “Name” field, and click **Done**.
 
-<p align="center"><img width="442" height="458" alt="image" src="https://github.com/user-attachments/assets/c93651f4-eaac-4b09-a0b0-7443c9ece722" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/c93651f4-eaac-4b09-a0b0-7443c9ece722" />
 
 
 4. Go to **Interview** under **Files**, and double-click to open the **Interview Transcript dec4\_2014 2\_02pm** file.
 
-<p align="center"><img width="690" height="282" alt="image" src="https://github.com/user-attachments/assets/22f4df89-c04e-4c8c-a009-11f4b6e53146" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/22f4df89-c04e-4c8c-a009-11f4b6e53146" />
 
 
 5. Files imported into NVivo are automatically opened in protected mode, meaning they cannot be edited. To make changes, check **Edit** to turn on editing view.
 
-<p align="center"><img width="346" height="103" alt="image" src="https://github.com/user-attachments/assets/0f355a5d-3b7c-496e-b77a-c9a7d87b6e3e" />
+<p align="center"><img width="220"  alt="image" src="https://github.com/user-attachments/assets/0f355a5d-3b7c-496e-b77a-c9a7d87b6e3e" />
 
 
 6. Remember to uncheck it once you’re finished editing.
 
-<p align="center"><img width="346" height="104" alt="image" src="https://github.com/user-attachments/assets/34a246da-54c2-4e50-8736-8ff315ffb78b" />
+<p align="center"><img width="220" alt="image" src="https://github.com/user-attachments/assets/34a246da-54c2-4e50-8736-8ff315ffb78b" />
 
 
 7. Now, select a text snippet in the **Interview Transcript dec4\_2014 2\_02pm** file, right-click, and select **Code Selection** \> **To Existing Codes or Cases…** from the menu.
 
-<p align="center"><img width="623" height="370" alt="image" src="https://github.com/user-attachments/assets/2173c4c1-d1a5-4c23-8ff9-931213c1bec1" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/2173c4c1-d1a5-4c23-8ff9-931213c1bec1" />
 
 
 8. In the pop-up, select **Imported Products,** and click **Code Selection to ‘Imported Pro…’**.
 
-<p align="center"><img width="784" height="434" alt="image" src="https://github.com/user-attachments/assets/2341ac71-f991-497b-8c14-dbee30233f2b" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/2341ac71-f991-497b-8c14-dbee30233f2b" />
 
 
 9. Select another snippet in the same file and right-click to open the content menu. This time, go to **Code Selection** \> **Energy (Codes)**.
 
-<p align="center"><img width="861" height="498" alt="image" src="https://github.com/user-attachments/assets/70b2329c-8289-4e88-a968-0b906508a97e" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/70b2329c-8289-4e88-a968-0b906508a97e" />
 
 
 10. Alternatively, you can drag and drop the text snippet directly onto the corresponding code in the code list. Let’s try this method with another new snippet.
 
-<p align="center"><img width="971" height="368" alt="image" src="https://github.com/user-attachments/assets/8a97e45e-f7ce-4881-8ac4-08b80f97e50c" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/8a97e45e-f7ce-4881-8ac4-08b80f97e50c" />
 
 
 11. Now, go to **Codes** in the navigation view, you should see the **Energy** code has 1 file and 3 references.
 
-<p align="center"><img width="645" height="155" alt="image" src="https://github.com/user-attachments/assets/b488c9ca-0f49-4341-897a-627accb99507" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/b488c9ca-0f49-4341-897a-627accb99507" />
 
 
 ## Inductive Coding
