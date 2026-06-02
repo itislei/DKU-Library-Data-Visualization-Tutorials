@@ -688,97 +688,97 @@ Word frequency query allows you to find the most commonly used words in your sou
 
 1. First, let’s see how queries can help with making sense of this project. Go to the **Explore** menu to see all available query options.
 
-<p align="center"><img width="681" height="163" alt="image" src="https://github.com/user-attachments/assets/f0b30ed6-653b-49c7-aa93-64061c41fc4b" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/f0b30ed6-653b-49c7-aa93-64061c41fc4b" />
 
 
 2. Select **Word Frequency** query, which helps with finding the most frequently used words in the data.
 
-<p align="center"><img width="666" height="160" alt="image" src="https://github.com/user-attachments/assets/d31a0bfd-e685-44d6-b945-f7881da94cbf" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/d31a0bfd-e685-44d6-b945-f7881da94cbf" />
 
 
 3. Let’s set the search scope limited to the interview script. Next to **Search in**, click on **Selected Items**.
 
-<p align="center"><img width="706" height="200" alt="image" src="https://github.com/user-attachments/assets/26715c76-84bf-4976-a9f6-4c9bcbf301b3" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/26715c76-84bf-4976-a9f6-4c9bcbf301b3" />
 
 
 4. In the pop-up, expand **Files**, then click on **Interviews** to select everything in the folder. Next, unselect 2 videos and 1 audio files (with different icons) so that only text transcripts are selected for our search. Click **Select** to continue.
 
-<p align="center"><img width="866" height="477" alt="image" src="https://github.com/user-attachments/assets/d3605753-95aa-4cbf-996c-ab6958671326" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/d3605753-95aa-4cbf-996c-ab6958671326" />
 
 
 5. The **Finding matches** option helps identify and organize similar or related terms in your text data to varying degrees. Stemmed words means words that share the same root or base form \- for example, talk, talking, talks, and talked all share the stem “talk.” Now, let’s check on **Include stemmed words**, which groups words by the same stem.
 
-<p align="center"><img width="946" height="175" alt="image" src="https://github.com/user-attachments/assets/d78f4cc7-6df8-48ad-9ca6-51606bf10aa9" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/d78f4cc7-6df8-48ad-9ca6-51606bf10aa9" />
 
 
 6. Set the “Display Words” field to **50**, and keep the “Minimum Word Length” field set to **3**. 
 
-<p align="center"><img width="952" height="175" alt="image" src="https://github.com/user-attachments/assets/d830d622-05f8-449d-990e-82db4b94ff1e" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/d830d622-05f8-449d-990e-82db4b94ff1e" />
 
 
 7. Click **Run Query**.
 
-<p align="center"><img width="954" height="176" alt="image" src="https://github.com/user-attachments/assets/5f8433e8-acd4-446c-9f9a-d85189a170ed" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/5f8433e8-acd4-446c-9f9a-d85189a170ed" />
 
 
 8. Now, we should see the results of our query.
 
-<p align="center"><img width="931" height="568" alt="image" src="https://github.com/user-attachments/assets/42593d60-208c-420a-9cdd-5b207d57f00b" />
+<p align="center"><img width="750"  alt="image" src="https://github.com/user-attachments/assets/42593d60-208c-420a-9cdd-5b207d57f00b" />
 
 
 9. Double-click on the word **people**, you will see the location of where the **people** appeared across all of the selected text transcripts.
 
-<p align="center"><img width="834" height="559" alt="image" src="https://github.com/user-attachments/assets/ad30c287-db7c-4a4f-8175-870ef976c125" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/ad30c287-db7c-4a4f-8175-870ef976c125" />
 
 
 10. Go back to the first **Unsaved Query**, and you will find out that words like ‘a’, ‘and’, ‘the’ are ignored \- these words are treated as **stop words**, which are those really common words and won’t be useful for analysis. When you see a word in the list and you don’t think they’d be helpful, for example, the word ‘things’, you can right-click on ‘things’ and select **Add to Stop Words List**.
 
-<p align="center"><img width="838" height="435" alt="image" src="https://github.com/user-attachments/assets/434f1751-da50-4977-ad31-acd39a677971" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/434f1751-da50-4977-ad31-acd39a677971" />
 
 
 11. To check or reset the stop words list, go to the top toolbar, hover over **Files** and select **Project Properties** from the menu. 
 
-<p align="center"><img width="487" height="563" alt="image" src="https://github.com/user-attachments/assets/0957ec1b-d6dd-49bb-83f3-328fe800c559" />
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/0957ec1b-d6dd-49bb-83f3-328fe800c559" />
 
 
 12. Under the **General** tab, you can select text content languages. The default is English (US), but you can switch to other languages. Click on **Stop Words…** to see the current list in use. 
 
-<p align="center"><img width="917" height="529" alt="image" src="https://github.com/user-attachments/assets/130d3c4b-a4e4-46be-8559-c2683cbb8f28" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/130d3c4b-a4e4-46be-8559-c2683cbb8f28" />
 
 
 13. From here, you can add stop words manually, or reset the list. But for now, let’s click **Cancel**, then **Cancel** again to close the two pop-ups and return back to the result list.
 
-<p align="center"><img width="873" height="473" alt="image" src="https://github.com/user-attachments/assets/a42659e8-359e-4643-bd0a-6e9e193de7d2" />
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/a42659e8-359e-4643-bd0a-6e9e193de7d2" />
 
 
 14. Now let's export the list, since the query results are not saved automatically \- once you close the tab, they will be lost. To save the list as a file on your computer, right-click any word in the list and select **Export**.
 
-<p align="center"><img width="963" height="554" alt="image" src="https://github.com/user-attachments/assets/76a76ef3-c254-41b0-8ecd-452970f7010b" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/76a76ef3-c254-41b0-8ecd-452970f7010b" />
 
 
 15. In the pop-up, give the file a name or keep the default, then browse to the workshop folder. Modify the file format if needed, and click on **Save**.
 
-<p align="center"><img width="1740" height="974" alt="7" src="https://github.com/user-attachments/assets/17903973-20f8-46e5-b473-2edbba786d3d" />
+<p align="center"><img width="750" alt="7" src="https://github.com/user-attachments/assets/17903973-20f8-46e5-b473-2edbba786d3d" />
 
 
 16. NVivo provides several visualization tools to help you explore your codes. For example, click the **Word Cloud** tab to view our results as a cloud visualization. The Mac version of NVivo offers limited visualization and style options for word frequency queries, whereas the Windows version includes additional visualizations such as Tree Map and Cluster Analysis diagrams.
 
-<p align="center"><img width="843" height="624" alt="image" src="https://github.com/user-attachments/assets/62863fb0-4331-4ddb-8da9-9c5416abe7f7" />
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/62863fb0-4331-4ddb-8da9-9c5416abe7f7" />
 
 
 17. Click **Gallery** to change the appearance of the visualization.
 
-<p align="center"><img width="831" height="672" alt="image" src="https://github.com/user-attachments/assets/69028deb-94a4-4c79-af97-dcc429cd4dce" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/69028deb-94a4-4c79-af97-dcc429cd4dce" />
 
 
 18. Right-click on the visual and select **Export** to save the word cloud in your computer.
 
-<p align="center"><img width="834" height="539" alt="image" src="https://github.com/user-attachments/assets/b8b642d7-a676-40d0-98d4-740ae022ffaf" />
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/b8b642d7-a676-40d0-98d4-740ae022ffaf" />
 
 
 19. Close all tabs for now.
 
-<p align="center"><img width="825" height="206" alt="image" src="https://github.com/user-attachments/assets/56668358-e6c4-4e9a-aa35-522d187b8d36" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/56668358-e6c4-4e9a-aa35-522d187b8d36" />
 
 
 ## Text Search Query
