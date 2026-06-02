@@ -235,12 +235,12 @@ Deductive coding is a top-down qualitative analysis approach where you start wit
 
 1. To create codes, click **Codes** under **Coding**, then click **Close** to close the introduction page.
 
-<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/d344043e-a987-435d-87e5-7e5bc0ca1f14" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/d344043e-a987-435d-87e5-7e5bc0ca1f14" />
 
 
 2. In the blank area, right-click and select **New Top-Level Code…**.
 
-<p align="center"><img width="230" alt="image" src="https://github.com/user-attachments/assets/7e4ec5dc-cf26-4c7a-92ff-2ed338d95fbf" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/7e4ec5dc-cf26-4c7a-92ff-2ed338d95fbf" />
 
 
 3. In the pop-up, enter **Energy** in the “Name” field, and click **Done**.
@@ -285,7 +285,7 @@ Deductive coding is a top-down qualitative analysis approach where you start wit
 
 11. Now, go to **Codes** in the navigation view, you should see the **Energy** code has 1 file and 3 references.
 
-<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/b488c9ca-0f49-4341-897a-627accb99507" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/b488c9ca-0f49-4341-897a-627accb99507" />
 
 
 ## Inductive Coding
