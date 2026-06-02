@@ -501,46 +501,46 @@ NVivo allows analyzing visual data by selecting and coding specific areas within
 
 1. Go to **Focus Group** under **Files** and click on **FG1 Questionnaire 14** to open the PDF file.
 
-<p align="center"><img width="663" height="256" alt="image" src="https://github.com/user-attachments/assets/c2e7dcc9-a7d8-4829-a44d-06143fa18c2f" />
+<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/c2e7dcc9-a7d8-4829-a44d-06143fa18c2f" />
 
 
 2. Note that NVivo 14 does not support **Optical Character Recognition (OCR)**. If your image files contain text that you want to code, make sure they are OCR-processed before importing them into NVivo. For text that cannot be OCRed (like handwriting or signatures), you can manually draw a square around the area you wish to code.
 
 3. Next to **Selection Mode**, select **Region**.
 
-<p align="center"><img width="379" height="161" alt="image" src="https://github.com/user-attachments/assets/99e49654-d00b-40c1-8e22-da5e39a5f7eb" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/99e49654-d00b-40c1-8e22-da5e39a5f7eb" />
 
 
 4. Draw a square around the area you want to code, then right-click and select **Code Selection**, then **To Existing Codes or Cases**.
 
-<p align="center"><img width="759" height="331" alt="image" src="https://github.com/user-attachments/assets/c26d9c76-80e9-48fa-93c2-12186da741cd" />
+<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/c26d9c76-80e9-48fa-93c2-12186da741cd" />
 
 
 5. Check **Energy**, and click **Select** to continue.
 
-<p align="center"><img width="918" height="507" alt="image" src="https://github.com/user-attachments/assets/9b361969-d6c5-48be-bdcb-c5ff06cbabde" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/9b361969-d6c5-48be-bdcb-c5ff06cbabde" />
 
 
 6. Now, go to **Codes** and select **Energy**. In the detail view, instead of showing the image snippet, NVivo will display a screenshot of the selected region. (On Windows, this will appear as the coordinates of the selected image area.)
 
-<p align="center"><img width="907" height="526" alt="image" src="https://github.com/user-attachments/assets/9ef521ed-3573-4435-8512-41f6c40a68b5" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/9ef521ed-3573-4435-8512-41f6c40a68b5" />
 
 
 # Save the Project
 
 1. Every time when you are done working on editing the project, it is important to remember to save manually. First, hover over the top toolbar and go to the **File** menu.
 
-<p align="center"><img width="577" height="244" alt="image" src="https://github.com/user-attachments/assets/529f6b29-c829-4eaf-b374-edfc62e44d03" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/529f6b29-c829-4eaf-b374-edfc62e44d03" />
 
 
 2. Select **Save** to save the current project.
 
-<p align="center"><img width="617" height="383" alt="image" src="https://github.com/user-attachments/assets/19b06a0d-26f3-45a0-bab0-15c5c2dbbda7" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/19b06a0d-26f3-45a0-bab0-15c5c2dbbda7" />
 
 
 3. Finally, you can close a project to return to the NVivo main screen. Once your project is saved, go to the **File** menu in the top toolbar and select **Close**.
 
-<p align="center"><img width="622" height="389" alt="image" src="https://github.com/user-attachments/assets/02adb649-a962-4d6c-8c34-88effbbee766" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/02adb649-a962-4d6c-8c34-88effbbee766" />
 
 
 # Audio & Video Coding
@@ -549,7 +549,7 @@ NVivo allows the import and analysis of audio and video files through coding spe
 
 1. Go to the **File** menu in the top toolbar and click on **Create Copy of Sample Project**. We will use this sample project for the rest of the workshop.
 
-<p align="center"><img width="375" height="438" alt="image" src="https://github.com/user-attachments/assets/9bef5a56-9245-49c7-be0e-08fd28c05c5e" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/9bef5a56-9245-49c7-be0e-08fd28c05c5e" />
 
 
 2. Name the project as its default **Sample Project**. For the saving path, select the workshop folder, and click **Save**.
