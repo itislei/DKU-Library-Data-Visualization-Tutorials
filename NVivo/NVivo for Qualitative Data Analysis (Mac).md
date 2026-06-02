@@ -753,7 +753,7 @@ Word frequency query allows you to find the most commonly used words in your sou
 
 14. Now let's export the list, since the query results are not saved automatically \- once you close the tab, they will be lost. To save the list as a file on your computer, right-click any word in the list and select **Export**.
 
-<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/76a76ef3-c254-41b0-8ecd-452970f7010b" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/76a76ef3-c254-41b0-8ecd-452970f7010b" />
 
 
 15. In the pop-up, give the file a name or keep the default, then browse to the workshop folder. Modify the file format if needed, and click on **Save**.
@@ -778,7 +778,7 @@ Word frequency query allows you to find the most commonly used words in your sou
 
 19. Close all tabs for now.
 
-<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/56668358-e6c4-4e9a-aa35-522d187b8d36" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/56668358-e6c4-4e9a-aa35-522d187b8d36" />
 
 
 ## Text Search Query
