@@ -406,29 +406,29 @@ The highlighter and coding stripes help visualize and track your coding work in 
 
 5. Now, a new pane with multiple colored stripes alongside the file shows which part of the text has been coded and which codes were applied.
 
-<p align="center"><img width="893" height="422" alt="image" src="https://github.com/user-attachments/assets/8cd10b15-a849-414a-ae07-a689bd56ff84" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/8cd10b15-a849-414a-ae07-a689bd56ff84" />
 
 
 6. We can change the color of these bars to visualize our coded content more clearly. To do this, go to **Codes** under **Coding**, select a code and right-click, go to **Color**, then select **Red** as the new color for the code Energy.
 
-<p align="center"><img width="598" height="673" alt="image" src="https://github.com/user-attachments/assets/761d98f9-b10d-4726-913a-a231cf07b02c" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/761d98f9-b10d-4726-913a-a231cf07b02c" />
 
 
 7. Repeat the same steps and change the colors of the child codes under the **Energy** code to colors other than red.
 
 8. Now, click the **Coding Stripes** icon again, and make sure **Item Colors** is selected.
 
-<p align="center"><img width="251" height="430" alt="image" src="https://github.com/user-attachments/assets/c6bd2acd-c856-4eec-90b1-29ac2ed867e2" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/c6bd2acd-c856-4eec-90b1-29ac2ed867e2" />
 
 
 9. The color of each code now will appear as the color you selected.
 
-<p align="center"><img width="363" height="697" alt="image" src="https://github.com/user-attachments/assets/eb2c9d5f-9d12-42f4-9f60-2d6ba7493f64" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/eb2c9d5f-9d12-42f4-9f60-2d6ba7493f64" />
 
 
 10. Let’s turn off the coding stripes and highlighter by clicking both icons and selecting **None** for now.
 
-<p align="center"><img width="338" height="455" alt="image" src="https://github.com/user-attachments/assets/b488c743-2058-48d2-a28f-8819876642a3" />
+<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/b488c743-2058-48d2-a28f-8819876642a3" />
 
 
 # Memos & Annotation
