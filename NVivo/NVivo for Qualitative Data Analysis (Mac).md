@@ -235,12 +235,12 @@ Deductive coding is a top-down qualitative analysis approach where you start wit
 
 1. To create codes, click **Codes** under **Coding**, then click **Close** to close the introduction page.
 
-<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/d344043e-a987-435d-87e5-7e5bc0ca1f14" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/d344043e-a987-435d-87e5-7e5bc0ca1f14" />
 
 
 2. In the blank area, right-click and select **New Top-Level Code…**.
 
-<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/7e4ec5dc-cf26-4c7a-92ff-2ed338d95fbf" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/7e4ec5dc-cf26-4c7a-92ff-2ed338d95fbf" />
 
 
 3. In the pop-up, enter **Energy** in the “Name” field, and click **Done**.
@@ -294,19 +294,19 @@ Inductive coding is a bottom-up approach where you may want to read through the 
 
 1. In the **Interview dec4\_2014 2\_02pm** file, select one text snippet and right-click, select **Code Selection**, then **To New Code…**.
 
-<p align="center"><img width="747" height="529" alt="image" src="https://github.com/user-attachments/assets/93296936-d070-40e6-9a32-c1b8583da93f" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/93296936-d070-40e6-9a32-c1b8583da93f" />
 
 
 2. In the pop-up, enter **Cost** in the “Name” field, and click **Done**.
 
-<p align="center"><img width="458" height="527" alt="image" src="https://github.com/user-attachments/assets/07b63300-41ff-4307-991e-f31733798c85" />
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/07b63300-41ff-4307-991e-f31733798c85" />
 
 
 3. Select another snippet in the same file, code it to **Cost**.
 
 4. Go to **Codes** in the navigation view, you should see the **Cost** code has 1 file and 2 references.
 
-<p align="center"><img width="728" height="175" alt="image" src="https://github.com/user-attachments/assets/7d18f75f-98a2-4b16-a0a3-77865dbca483" />
+<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/7d18f75f-98a2-4b16-a0a3-77865dbca483" />
 
 
 ## Mixed Coding
@@ -319,49 +319,49 @@ Within NVivo, codes can be organized hierarchically by creating parent and child
 
 1. Now, in the **Interview dec4\_2014 2\_02pm** file, select one text snippet and right-click, select **Code Selection**, then **To New Code…**.
 
-<p align="center"><img width="954" height="554" alt="image" src="https://github.com/user-attachments/assets/c763a71e-a714-4ff9-9800-6232785a925f" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/c763a71e-a714-4ff9-9800-6232785a925f" />
 
 
 2. Enter **Efficiency**, then click the arrow icon.
 
-<p align="center"><img width="500" height="581" alt="image" src="https://github.com/user-attachments/assets/47de0b1b-e83e-4a85-ad44-5eccd83d786f" />
+<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/47de0b1b-e83e-4a85-ad44-5eccd83d786f" />
 
 
 3. Then, expand **Codes** by clicking on the arrow icon, select **Energy**, and then click **Done**.
 
-<p align="center"><img width="553" height="606" alt="image" src="https://github.com/user-attachments/assets/cc92b517-f591-439b-9399-0aebd593d661" />
+<p align="center"><img width="360" alt="image" src="https://github.com/user-attachments/assets/cc92b517-f591-439b-9399-0aebd593d661" />
 
 
 4. Repeat the same steps to create another 2 child codes under **Energy**: **Network**, **Air**, and code 2 snippets under each newly created child code.
 
 5. Go to **Codes** in the navigation view. Click on the **\+** icon next to **Energy** \- 3 child codes will appear.
 
-<p align="center"><img width="615" height="283" alt="image" src="https://github.com/user-attachments/assets/fc7b44aa-ca9b-4c6a-b849-b321285e5b17" />
+<p align="center"><img width="360" alt="image" src="https://github.com/user-attachments/assets/fc7b44aa-ca9b-4c6a-b849-b321285e5b17" />
 
 
 6. Double click on a code, the snippet will show up in the detail view with some quantitative information about each snippet.
 
-<p align="center"><img width="979" height="368" alt="image" src="https://github.com/user-attachments/assets/1decea0e-b9f1-4fbf-92ea-580784162ee6" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/1decea0e-b9f1-4fbf-92ea-580784162ee6" />
 
 
 7. Now, although the 3 child codes (**Air, Efficiency, Network**) are underneath one parent code (**Energy**), the counts for **Files** and **References** are not aggregated \- this is because NVivo treats parent code and its child codes separately as defaults. 
 
-<p align="center"><img width="579" height="267" alt="image" src="https://github.com/user-attachments/assets/2f0c4da9-8706-4c6c-bab9-066f602fabc8" />
+<p align="center"><img width="360" alt="image" src="https://github.com/user-attachments/assets/2f0c4da9-8706-4c6c-bab9-066f602fabc8" />
 
 
 8. To aggregate them, right-click on **Energy**, then **Get Info**.
 
-<p align="center"><img width="622" height="300" alt="image" src="https://github.com/user-attachments/assets/d07c04c3-6d17-4e46-84ab-3091ec1fae0e" />
+<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/d07c04c3-6d17-4e46-84ab-3091ec1fae0e" />
 
 
 9. Check **Aggregate coding from child codes**, and click **Done**.
 
-<p align="center"><img width="653" height="587" alt="image" src="https://github.com/user-attachments/assets/184c987d-8af8-4cdf-8f38-857ee5c2258f" />
+<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/184c987d-8af8-4cdf-8f38-857ee5c2258f" />
 
 
 10. The count of files and references of **Energy** should be updated with the total counts.
 
-<p align="center"><img width="615" height="256" alt="image" src="https://github.com/user-attachments/assets/3c401277-4d6f-45a6-912b-4ef1ca06bf32" />
+<p align="center"><img width="360" alt="image" src="https://github.com/user-attachments/assets/3c401277-4d6f-45a6-912b-4ef1ca06bf32" />
 
 
 ## Uncoding
