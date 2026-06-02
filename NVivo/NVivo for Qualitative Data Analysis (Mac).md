@@ -868,7 +868,7 @@ For example, we can look at attitudes expressed by different interviewees based 
 
 1. Go to the **Explore** menu and click **Matrix Coding Query**.
 
-<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/139ee266-c7cd-42c9-bfae-541c26faecf5" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/139ee266-c7cd-42c9-bfae-541c26faecf5" />
 
 
 2. Under **Cases**, open **People**. In the list view, click the **\+** icon next to **Interview Participants** to expand the name list.
@@ -878,7 +878,7 @@ For example, we can look at attitudes expressed by different interviewees based 
 
 3. Select all participant names by dragging your cursor over them, then drag the selection into the **Rows** box.
 
-<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/eaac595e-b66c-42c9-bc23-4f97898eb5e6" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/eaac595e-b66c-42c9-bc23-4f97898eb5e6" />
 
 
 4. Next, under **Codes**, expand **Attitude** by clicking the **\+** icon.
@@ -888,27 +888,27 @@ For example, we can look at attitudes expressed by different interviewees based 
 
 5. Select all items under the **Attitudes** code and drag them into the **Columns** box.
 
-<p align="center"><img width="750"  alt="image" src="https://github.com/user-attachments/assets/a1f82220-4ca9-409d-b393-4b28d022a561" />
+<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/a1f82220-4ca9-409d-b393-4b28d022a561" />
 
 
 6. Make sure the search scope is set to **Files & Externals**, then click **Run Query**.
 
-<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/e496b349-e32b-4b89-b8ab-720654646da8" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/e496b349-e32b-4b89-b8ab-720654646da8" />
 
 
 7. A matrix table will appear, showing the number of times participants mentioned words related to each attitude.
 
-<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/01e5b48b-420e-42a4-922c-3e3674b52483" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/01e5b48b-420e-42a4-922c-3e3674b52483" />
 
 
 8. We can color-coded the table to make it more visual. To do that, right-click on the table and go to **Cell Shading**, then **Blue-White**. 
 
-<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/27f006d8-e505-4825-bc43-14fbf44cd797" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/27f006d8-e505-4825-bc43-14fbf44cd797" />
 
 
 9. Now the table is color-coded — the deeper the color, the higher the count of coded references.
 
-<p align="center"><img width="650" alt="1" src="https://github.com/user-attachments/assets/30fb2279-dcb0-4cb6-8ac6-2390c7355e1f" />
+<p align="center"><img width="550" alt="1" src="https://github.com/user-attachments/assets/30fb2279-dcb0-4cb6-8ac6-2390c7355e1f" />
 
 
 
@@ -920,7 +920,7 @@ For example, we can look at attitudes expressed by different interviewees based 
 
 11. This visualization shows the total number of files in which the coded snippet(s) appear.
 
-<p align="center"><img width="650" alt="3" src="https://github.com/user-attachments/assets/9c49e70f-072e-4152-b3eb-6bfe090087b3" />
+<p align="center"><img width="550" alt="3" src="https://github.com/user-attachments/assets/9c49e70f-072e-4152-b3eb-6bfe090087b3" />
 
 
 
