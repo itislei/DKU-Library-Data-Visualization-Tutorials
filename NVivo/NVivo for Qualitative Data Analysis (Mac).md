@@ -513,7 +513,7 @@ NVivo allows analyzing visual data by selecting and coding specific areas within
 
 4. Draw a square around the area you want to code, then right-click and select **Code Selection**, then **To Existing Codes or Cases**.
 
-<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/c26d9c76-80e9-48fa-93c2-12186da741cd" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/c26d9c76-80e9-48fa-93c2-12186da741cd" />
 
 
 5. Check **Energy**, and click **Select** to continue.
