@@ -778,7 +778,7 @@ Word frequency query allows you to find the most commonly used words in your sou
 
 19. Close all tabs for now.
 
-<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/56668358-e6c4-4e9a-aa35-522d187b8d36" />
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/56668358-e6c4-4e9a-aa35-522d187b8d36" />
 
 
 ## Text Search Query
@@ -787,75 +787,75 @@ Text Search Queries allow you to search for specific words or phrases across you
 
 1. Go to the **Explore** menu and select **Text Search Query**.
 
-<p align="center"><img width="762" height="174" alt="image" src="https://github.com/user-attachments/assets/1013a5d3-46f9-49f4-83c8-bfe837b947a1" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/1013a5d3-46f9-49f4-83c8-bfe837b947a1" />
 
 
 2. Keep the search scope as **Files & Externals** \- this includes all imported files in your project. In the search box, enter **water**, and check **Include stemmed words**.
 
-<p align="center"><img width="872" height="224" alt="image" src="https://github.com/user-attachments/assets/621516c3-de65-4720-b0f3-815c27dd4576" />
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/621516c3-de65-4720-b0f3-815c27dd4576" />
 
 
 3. Click **Run Query**.
 
-<p align="center"><img width="874" height="223" alt="image" src="https://github.com/user-attachments/assets/9e3a0e4d-241e-43b4-b4b8-57c98395678d" />
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/9e3a0e4d-241e-43b4-b4b8-57c98395678d" />
 
 
 4. A list of files containing the word **water** and its stemmed forms will appear. Double-click **Charles** to view the details.
 
-<p align="center"><img width="829" height="352" alt="image" src="https://github.com/user-attachments/assets/801428b5-5f57-4f58-aab9-cdb135fd479e" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/801428b5-5f57-4f58-aab9-cdb135fd479e" />
 
 
 5. In Charles’s interview transcript, you will see the term **water** highlighted.
 
-<p align="center"><img width="837" height="514" alt="image" src="https://github.com/user-attachments/assets/14ca9cf8-624e-4c71-896c-06e84df5d242" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/14ca9cf8-624e-4c71-896c-06e84df5d242" />
 
 
 6. We can store the results of this query as a new code. To do so, go back to the **Unsaved Query** tab and click **Save Results…**. 
 
-<p align="center"><img width="885" height="211" alt="image" src="https://github.com/user-attachments/assets/c6016f11-b363-4e11-95d9-1a6081e64907" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/c6016f11-b363-4e11-95d9-1a6081e64907" />
 
 
 7. In the pop-up, click on the **arrow** icon next to the **Location** field. 
 
-<p align="center"><img width="587" height="314" alt="image" src="https://github.com/user-attachments/assets/d72a1172-0e25-4dfd-aad2-85bbd684ce84" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/d72a1172-0e25-4dfd-aad2-85bbd684ce84" />
 
 
 8. Choose **Codes**, then click **Select**.
 
-<p align="center"><img width="502" height="484" alt="image" src="https://github.com/user-attachments/assets/7ea9b105-851e-43fd-a5e3-95d21105d477" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/7ea9b105-851e-43fd-a5e3-95d21105d477" />
 
 
 9. Rename the **Name** field to **Water**, and click **Save Results**.
 
-<p align="center"><img width="598" height="325" alt="image" src="https://github.com/user-attachments/assets/8b505a57-895f-4bb2-a224-fa98e189b14e" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/8b505a57-895f-4bb2-a224-fa98e189b14e" />
 
 
 10. Go to **Codes** in the navigation view. You will see a new code named **Water**, showing the corresponding files and reference counts from the query.
 
-<p align="center"><img width="906" height="490" alt="image" src="https://github.com/user-attachments/assets/747d77f1-8119-4bef-9a7f-416fab79169d" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/747d77f1-8119-4bef-9a7f-416fab79169d" />
 
 
 11. If your search phrase contains multiple words, make sure to enclose it in quotation marks (“”). Otherwise, NVivo will treat each word as a separate search term. For example, enter “salt water” in the search box and click **Run Query** again. This new query should return 3 results.  
     * For more tips about building search query, visit [Text Search Query](https://help-nv.qsrinternational.com/14/win/Content/queries/text-search-query.htm) page.
 
-<p align="center"><img width="924" height="486" alt="image" src="https://github.com/user-attachments/assets/135c2f9d-32a4-4f2f-bae8-cc68593d6df5" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/135c2f9d-32a4-4f2f-bae8-cc68593d6df5" />
 
 
 12. Let’s say you want to save this query for future use. To do so, click **Save Criteria…**.
 
-<p align="center"><img width="979" height="238" alt="image" src="https://github.com/user-attachments/assets/eac60957-e06e-4a8d-9b98-faf029fa08a8" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/eac60957-e06e-4a8d-9b98-faf029fa08a8" />
 
 
 13. Name the query as **Salt Water**, and click **Save Criteria**.
 
-<p align="center"><img width="520" height="271" alt="image" src="https://github.com/user-attachments/assets/54d9bdbe-af19-434c-866d-944d40f7eb41" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/54d9bdbe-af19-434c-866d-944d40f7eb41" />
 
 
 14. Then, close all tabs.
 
 15. Go to **Queries** under **Explore** in the navigation menu. Under **Query Criteria**, you will find **Salt Water** listed. Double-click it to reopen the saved query.
 
-<p align="center"><img width="530" height="492" alt="image" src="https://github.com/user-attachments/assets/8cb189ea-c0e9-4173-9ffd-a977ddba78a6" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/8cb189ea-c0e9-4173-9ffd-a977ddba78a6" />
 
 
 16. Close the tab to continue.
