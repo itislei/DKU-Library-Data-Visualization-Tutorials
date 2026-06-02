@@ -787,22 +787,22 @@ Text Search Queries allow you to search for specific words or phrases across you
 
 1. Go to the **Explore** menu and select **Text Search Query**.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/1013a5d3-46f9-49f4-83c8-bfe837b947a1" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/1013a5d3-46f9-49f4-83c8-bfe837b947a1" />
 
 
 2. Keep the search scope as **Files & Externals** \- this includes all imported files in your project. In the search box, enter **water**, and check **Include stemmed words**.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/621516c3-de65-4720-b0f3-815c27dd4576" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/621516c3-de65-4720-b0f3-815c27dd4576" />
 
 
 3. Click **Run Query**.
 
-<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/9e3a0e4d-241e-43b4-b4b8-57c98395678d" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/9e3a0e4d-241e-43b4-b4b8-57c98395678d" />
 
 
 4. A list of files containing the word **water** and its stemmed forms will appear. Double-click **Charles** to view the details.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/801428b5-5f57-4f58-aab9-cdb135fd479e" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/801428b5-5f57-4f58-aab9-cdb135fd479e" />
 
 
 5. In Charles’s interview transcript, you will see the term **water** highlighted.
@@ -812,7 +812,7 @@ Text Search Queries allow you to search for specific words or phrases across you
 
 6. We can store the results of this query as a new code. To do so, go back to the **Unsaved Query** tab and click **Save Results…**. 
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/c6016f11-b363-4e11-95d9-1a6081e64907" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/c6016f11-b363-4e11-95d9-1a6081e64907" />
 
 
 7. In the pop-up, click on the **arrow** icon next to the **Location** field. 
