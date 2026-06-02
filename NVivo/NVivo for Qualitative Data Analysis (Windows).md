@@ -100,7 +100,7 @@ Download and save the zip file in your computer: [Sample\_Dataset.zip](https://g
 
 1. Create a new folder in your computer and name it as **NVivo Workshop**.
 
-<img width="681" height="323" alt="image" src="https://github.com/user-attachments/assets/85f8de07-7692-492b-8b38-3963b3db16e8" />
+<p align="center"><img width="681" height="323" alt="image" src="https://github.com/user-attachments/assets/85f8de07-7692-492b-8b38-3963b3db16e8" />
 
 
 2. Download the sample dataset [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/aa6cad3a86a7a69a9ff490f1dbb7d2fc37376a38/NVivo/Dataset).
