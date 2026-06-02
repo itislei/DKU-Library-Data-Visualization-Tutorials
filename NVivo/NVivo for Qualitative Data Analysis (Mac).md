@@ -189,7 +189,7 @@ NVivo supports organizing files in a hierarchical structure and analyzing a wide
 
 2. In the pop-up, enter **Interview** in the “Name” field, and click **Done**.
 
-<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/1e3c03d9-9a70-40f9-9098-8baeb947ec2d" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/1e3c03d9-9a70-40f9-9098-8baeb947ec2d" />
 
 
 3. Make sure the **Interview** under **Files** is selected, then go to the **Import** menu, click on **Files**.
