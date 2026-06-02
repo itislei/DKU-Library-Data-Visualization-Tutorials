@@ -868,65 +868,65 @@ For example, we can look at attitudes expressed by different interviewees based 
 
 1. Go to the **Explore** menu and click **Matrix Coding Query**.
 
-<p align="center"><img width="654" height="197" alt="image" src="https://github.com/user-attachments/assets/139ee266-c7cd-42c9-bfae-541c26faecf5" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/139ee266-c7cd-42c9-bfae-541c26faecf5" />
 
 
 2. Under **Cases**, open **People**. In the list view, click the **\+** icon next to **Interview Participants** to expand the name list.
 
-<p align="center"><img width="917" height="609" alt="image" src="https://github.com/user-attachments/assets/72ac7d0f-f563-44bf-b73a-46ac36fb00f2" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/72ac7d0f-f563-44bf-b73a-46ac36fb00f2" />
 
 
 3. Select all participant names by dragging your cursor over them, then drag the selection into the **Rows** box.
 
-<p align="center"><img width="970" height="582" alt="image" src="https://github.com/user-attachments/assets/eaac595e-b66c-42c9-bc23-4f97898eb5e6" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/eaac595e-b66c-42c9-bc23-4f97898eb5e6" />
 
 
 4. Next, under **Codes**, expand **Attitude** by clicking the **\+** icon.
 
-<p align="center"><img width="953" height="560" alt="image" src="https://github.com/user-attachments/assets/719508b7-2864-4415-ab01-9e827889e27e" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/719508b7-2864-4415-ab01-9e827889e27e" />
 
 
 5. Select all items under the **Attitudes** code and drag them into the **Columns** box.
 
-<p align="center"><img width="972" height="615" alt="image" src="https://github.com/user-attachments/assets/a1f82220-4ca9-409d-b393-4b28d022a561" />
+<p align="center"><img width="750"  alt="image" src="https://github.com/user-attachments/assets/a1f82220-4ca9-409d-b393-4b28d022a561" />
 
 
 6. Make sure the search scope is set to **Files & Externals**, then click **Run Query**.
 
-<p align="center"><img width="935" height="450" alt="image" src="https://github.com/user-attachments/assets/e496b349-e32b-4b89-b8ab-720654646da8" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/e496b349-e32b-4b89-b8ab-720654646da8" />
 
 
 7. A matrix table will appear, showing the number of times participants mentioned words related to each attitude.
 
-<p align="center"><img width="713" height="612" alt="image" src="https://github.com/user-attachments/assets/01e5b48b-420e-42a4-922c-3e3674b52483" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/01e5b48b-420e-42a4-922c-3e3674b52483" />
 
 
 8. We can color-coded the table to make it more visual. To do that, right-click on the table and go to **Cell Shading**, then **Blue-White**. 
 
-<p align="center"><img width="848" height="618" alt="image" src="https://github.com/user-attachments/assets/27f006d8-e505-4825-bc43-14fbf44cd797" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/27f006d8-e505-4825-bc43-14fbf44cd797" />
 
 
 9. Now the table is color-coded — the deeper the color, the higher the count of coded references.
 
-<p align="center"><img width="1279" height="1333" alt="1" src="https://github.com/user-attachments/assets/30fb2279-dcb0-4cb6-8ac6-2390c7355e1f" />
+<p align="center"><img width="650" alt="1" src="https://github.com/user-attachments/assets/30fb2279-dcb0-4cb6-8ac6-2390c7355e1f" />
 
 
 
 10. We can also visualize other data within this table. To change data sources in the view, right-click anywhere on the table and select **Cell Content** \> **Files Coded** \> **All**. Note that the Windows version offers additional options for displaying data sources, such as words coded, coding presence, and more.
 
-<p align="center"><img width="2034" height="1216" alt="2" src="https://github.com/user-attachments/assets/f7ddb347-35bf-4ebd-a467-018299a1a11a" />
+<p align="center"><img width="700" alt="2" src="https://github.com/user-attachments/assets/f7ddb347-35bf-4ebd-a467-018299a1a11a" />
 
 
 
 11. This visualization shows the total number of files in which the coded snippet(s) appear.
 
-<p align="center"><img width="1305" height="1279" alt="3" src="https://github.com/user-attachments/assets/9c49e70f-072e-4152-b3eb-6bfe090087b3" />
+<p align="center"><img width="650" alt="3" src="https://github.com/user-attachments/assets/9c49e70f-072e-4152-b3eb-6bfe090087b3" />
 
 
 
 12. You can export the table by right-clicking the visualization and selecting **Share**. From the available options, choose **Print** to export the visual as a PDF file or **Spreadsheet** to visualize the data using other tools.
 
-<p align="center"><img width="782" height="539" alt="image" src="https://github.com/user-attachments/assets/6d50777a-a840-41fa-a162-afbbc2347ae5" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/6d50777a-a840-41fa-a162-afbbc2347ae5" />
 
 
 13. When finished, close all tabs to return to the main workspace.
