@@ -113,13 +113,13 @@ Download and save the zip file in your computer: [Sample\_Dataset.zip](https://g
 
 4. Click on **Uncompress**.
 
-<p align="center"><img width="800" alt="2" src="https://github.com/user-attachments/assets/848042a2-de52-44de-8862-eac34b089313" />
+<p align="center"><img width="700" alt="2" src="https://github.com/user-attachments/assets/848042a2-de52-44de-8862-eac34b089313" />
 
 
 
 5. Copy or move the unzipped **Sample\_Dataset** folder into the **NVivo Workshop** folder. 
 
-<p align="center"><img width="800" alt="3" src="https://github.com/user-attachments/assets/24238ed5-b15d-4b7c-b810-86933b83404b" />
+<p align="center"><img width="700" alt="3" src="https://github.com/user-attachments/assets/24238ed5-b15d-4b7c-b810-86933b83404b" />
 
 
 
