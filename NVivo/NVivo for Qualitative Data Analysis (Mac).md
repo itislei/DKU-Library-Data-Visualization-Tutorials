@@ -941,17 +941,17 @@ When your analysis is complete, you can export your codes from NVivo in various 
 
 2. From the **Share** menu, select **Export** \> **Export List**.
 
-<p align="center"><img width="359" height="340" alt="image" src="https://github.com/user-attachments/assets/49469ebd-81e3-465b-8310-386df57b3a32" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/49469ebd-81e3-465b-8310-386df57b3a32" />
 
 
 3. Keep the default file name (**Codes**), choose your workshop folder as the save location, and click **OK**.
 
-<p align="center"><img width="1740" height="974" alt="8" src="https://github.com/user-attachments/assets/d7b5795c-42ff-49ac-91b1-b81802eaca3f" />
+<p align="center"><img width="800" alt="8" src="https://github.com/user-attachments/assets/d7b5795c-42ff-49ac-91b1-b81802eaca3f" />
 
 
 4. Open the **Codes.docx** file in your workshop folder. You should see a list of all codes displayed in NVivo’s code list.
 
-<p align="center"><img width="979" height="604" alt="image" src="https://github.com/user-attachments/assets/a8231c5f-889f-4192-9ee9-8ad749a5a7da" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/a8231c5f-889f-4192-9ee9-8ad749a5a7da" />
 
 
 ## Codebook
@@ -960,39 +960,39 @@ When your analysis is complete, you can export your codes from NVivo in various 
 
 2. From the **Share** menu, select **Export** \> **Export Codebook**.
 
-<p align="center"><img width="372" height="356" alt="image" src="https://github.com/user-attachments/assets/1432f544-73af-44cc-b350-8774037078b6" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/1432f544-73af-44cc-b350-8774037078b6" />
 
 
 3. Keep the default file name (**Codebook \- Sample Project**) and make sure MS Word (.docx) is selected as the file format. Click **OK**.
 
-<p align="center"><img width="1740" height="974" alt="9" src="https://github.com/user-attachments/assets/9134c419-ce39-4fa2-8d5c-3e72213e0fda" />
+<p align="center"><img width="800" alt="9" src="https://github.com/user-attachments/assets/9134c419-ce39-4fa2-8d5c-3e72213e0fda" />
 
 
 4. Open the **Codebook – Environmental Change Down East.doc** file in your workshop folder. This file displays each code with its description, and the counts of files and references associated with it.
 
-<p align="center"><img width="979" height="584" alt="image" src="https://github.com/user-attachments/assets/9b21f033-38b1-496f-a394-8802741e3932" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/9b21f033-38b1-496f-a394-8802741e3932" />
 
 
 ## Individual Code
 
 1. Under **Codes**, select one or more codes to export.
 
-<p align="center"><img width="902" height="244" alt="image" src="https://github.com/user-attachments/assets/3aca5208-52ea-4bb9-818d-b63bac2bb211" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/3aca5208-52ea-4bb9-818d-b63bac2bb211" />
 
 
 2. From the **Share** menu, select **Export** \> **Export Item**.
 
-<p align="center"><img width="384" height="352" alt="image" src="https://github.com/user-attachments/assets/cfb373ba-46d1-456d-a0b5-712e4b89a38c" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/cfb373ba-46d1-456d-a0b5-712e4b89a38c" />
 
 
 3. Make sure the workshop folder is selected, then click **OK**.
 
-<p align="center"><img width="1704" height="894" alt="10" src="https://github.com/user-attachments/assets/83cad590-b2f3-41bb-b5ce-c2b9186fa986" />
+<p align="center"><img width="800" alt="10" src="https://github.com/user-attachments/assets/83cad590-b2f3-41bb-b5ce-c2b9186fa986" />
 
 
 4. Each selected code will be saved as a separate file in your workshop folder. For example, opening the **Water** file will display the related reference files, their locations, reference counts, and coverage.
 
-<p align="center"><img width="979" height="579" alt="image" src="https://github.com/user-attachments/assets/c17c8751-b3cf-464d-bd83-cff10cafbd5c" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/c17c8751-b3cf-464d-bd83-cff10cafbd5c" />
 
 
 # 
