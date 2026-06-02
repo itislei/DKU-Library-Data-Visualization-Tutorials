@@ -129,37 +129,37 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
 
 1. Go to Launchpad and find NVivo 14\. Double click on the icon to open NVivo 14\.
 
-<p align="center"><img width="410" height="198" alt="image" src="https://github.com/user-attachments/assets/cd083817-cb4d-4634-af04-f262e658da3f" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/cd083817-cb4d-4634-af04-f262e658da3f" />
 
 
 2. A launch window will appear. Click **Create New Project**.
 
-<p align="center"><img width="981" height="587" alt="image" src="https://github.com/user-attachments/assets/0bcf616f-e760-45f9-a34e-3d0199bf101b" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/0bcf616f-e760-45f9-a34e-3d0199bf101b" />
 
 
 3. If the window does not appear automatically, hover over the top toolbar. When the menu appears, click **File**, then **New Project**.
 
-<p align="center"><img width="624" height="554" alt="image" src="https://github.com/user-attachments/assets/a9565823-69a9-4565-a70c-a2b894f945b4" />
+<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/a9565823-69a9-4565-a70c-a2b894f945b4" />
 
 
 4. In the pop-up window, enter **NVivo Workshop** in the “Save As” field, and make sure that the workshop folder is selected as the save location.
 
-<p align="center"><img width="1744" height="532" alt="4" src="https://github.com/user-attachments/assets/41951bbd-47e8-4167-93e5-18b3e2549064" />
+<p align="center"><img width="750" alt="4" src="https://github.com/user-attachments/assets/41951bbd-47e8-4167-93e5-18b3e2549064" />
 
 
 5. For the “Project Title” field, enter **NVivo Workshop**.
 
-<p align="center"><img width="939" height="359" alt="image" src="https://github.com/user-attachments/assets/fa0b9938-2ea5-4647-ad42-ab1e729f2b61" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/fa0b9938-2ea5-4647-ad42-ab1e729f2b61" />
 
 
 6. If the data you plan to analyze is not primarily in English, change the **Text Content Language** field accordingly. Then click **Create Project** to continue.
 
-<p align="center"><img width="944" height="353" alt="image" src="https://github.com/user-attachments/assets/2dd96023-7fc3-440a-8cf9-800330c9cd76" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/2dd96023-7fc3-440a-8cf9-800330c9cd76" />
 
 
 7. When the welcome pop-up appears, click **SKIP TOUR** to close it.
 
-<p align="center"><img width="681" height="458" alt="image" src="https://github.com/user-attachments/assets/f0ab6a66-dddd-46a2-be53-db7ab8ebd9fa" />
+<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/f0ab6a66-dddd-46a2-be53-db7ab8ebd9fa" />
 
 
 8. The interface of NVivo includes:  
@@ -171,7 +171,7 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
    6) Quick Coding Bar  
    7) Status Bar
 
-<p align="center"><img width="663" height="463" alt="image" src="https://github.com/user-attachments/assets/2c4f3d66-bd68-493f-be68-dc6c32337a28" />
+<p align="center"><img width="500" alt="image" src="https://github.com/user-attachments/assets/2c4f3d66-bd68-493f-be68-dc6c32337a28" />
 
 *Image Source: [The workspace](https://help-nv.qsrinternational.com/14/win/Content/about-nvivo/nvivo-workspace.htm)*
 
