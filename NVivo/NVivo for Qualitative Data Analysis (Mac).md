@@ -908,17 +908,20 @@ For example, we can look at attitudes expressed by different interviewees based 
 
 9. Now the table is color-coded — the deeper the color, the higher the count of coded references.
 
-<p align="center"><img width="844" height="876" alt="image56" src="https://github.com/user-attachments/assets/6e6e6567-cb0c-46a3-bb68-f34029870878" />
+<p align="center"><img width="1279" height="1333" alt="1" src="https://github.com/user-attachments/assets/30fb2279-dcb0-4cb6-8ac6-2390c7355e1f" />
+
 
 
 10. We can also visualize other data within this table. To change data sources in the view, right-click anywhere on the table and select **Cell Content** \> **Files Coded** \> **All**. Note that the Windows version offers additional options for displaying data sources, such as words coded, coding presence, and more.
 
-<p align="center"><img width="1644" height="986" alt="image54" src="https://github.com/user-attachments/assets/9712b70c-e235-44f5-b5e0-b09a6f6e086a" />
+<p align="center"><img width="2034" height="1216" alt="2" src="https://github.com/user-attachments/assets/f7ddb347-35bf-4ebd-a467-018299a1a11a" />
+
 
 
 11. This visualization shows the total number of files in which the coded snippet(s) appear.
 
-<p align="center"><img width="834" height="828" alt="image59" src="https://github.com/user-attachments/assets/48e269ca-bfe3-45e8-9c41-79e5a9964993" />
+<p align="center"><img width="1305" height="1279" alt="3" src="https://github.com/user-attachments/assets/9c49e70f-072e-4152-b3eb-6bfe090087b3" />
+
 
 
 12. You can export the table by right-clicking the visualization and selecting **Share**. From the available options, choose **Print** to export the visual as a PDF file or **Spreadsheet** to visualize the data using other tools.
