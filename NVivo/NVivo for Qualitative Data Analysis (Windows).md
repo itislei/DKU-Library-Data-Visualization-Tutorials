@@ -275,24 +275,24 @@ Inductive coding is a bottom-up approach where you may want to read through the 
 
 1. In the **Interview dec4\_2014 2\_02pm** file, select one text snippet and right-click, select **Code Selection…** from the menu.
 
-<p align="center"><img width="796" height="193" alt="image" src="https://github.com/user-attachments/assets/c1b13fdc-1152-4d42-b958-02524ea789fe" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/c1b13fdc-1152-4d42-b958-02524ea789fe" />
 
 
 2. Go to **Top-Level Code** under **Create New**.
 
-<p align="center"><img width="445" height="617" alt="image" src="https://github.com/user-attachments/assets/52e6f0b0-923b-44d2-97fa-914d300f2be0" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/52e6f0b0-923b-44d2-97fa-914d300f2be0" />
 
 
 3. Enter **Cost** as the new code, and click **Code Selection to ‘Cost’**.
 
-<p align="center"><img width="450" height="619" alt="image" src="https://github.com/user-attachments/assets/99d82c14-a8c7-485d-be12-d4a576854878" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/99d82c14-a8c7-485d-be12-d4a576854878" />
 
 
 4. Select another snippet in the same file, code it to **Cost**.
 
 5. Go to **Codes** in the navigation view, see the **Cost** code has 1 file and 2 references.
 
-<p align="center"><img width="547" height="207" alt="image" src="https://github.com/user-attachments/assets/7ee587a4-8d1d-4f08-b4ea-9e393f2313f6" />
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/7ee587a4-8d1d-4f08-b4ea-9e393f2313f6" />
 
 
 ## Mixed Coding
