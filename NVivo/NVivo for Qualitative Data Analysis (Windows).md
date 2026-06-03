@@ -425,62 +425,62 @@ Memos and annotations help capture your thoughts and insights during analysis. M
 
 1. To create a memo, go to **Interview** under **Files**, right-click on **Interview dec4\_2014 2\_02pm**. Then, **select Link to New Memo…**.
 
-<p align="center"><img width="907" height="455" alt="image" src="https://github.com/user-attachments/assets/b282b1ea-6e46-4bf6-a252-f6f8593e2416" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/b282b1ea-6e46-4bf6-a252-f6f8593e2416" />
 
 
 2. Enter **Interview Memo** as the name and click **OK**.
 
-<p align="center"><img width="673" height="492" alt="image" src="https://github.com/user-attachments/assets/71902624-de85-4436-a0c8-cd226e035fb5" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/71902624-de85-4436-a0c8-cd226e035fb5" />
 
 
 3. A blank page will appear where a detailed memo about the file can be written. For example, noting the interview was conducted in a noisy cafe shop. You can note that here.
 
-<p align="center"><img width="736" height="212" alt="image" src="https://github.com/user-attachments/assets/f99f1222-10e4-4615-a27b-f0a1cd5c31cf" />
+<p align="center"><img width="600"  alt="image" src="https://github.com/user-attachments/assets/f99f1222-10e4-4615-a27b-f0a1cd5c31cf" />
 
 
 4. Once you close the window, the memo will be automatically saved and linked to this file. You should see a small icon next to the interview in the list for the memo link when you have the interview list opened completely (with no other files open to the right of it). 
 
-<p align="center"><img width="812" height="299" alt="image" src="https://github.com/user-attachments/assets/bbc9ea00-e204-45f3-a704-e804584c7089" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/bbc9ea00-e204-45f3-a704-e804584c7089" />
 
 
 5. To view the memo link, right-click on the file again, select **Memo Link** and then **Open Linked Memo**.
 
-<p align="center"><img width="881" height="593" alt="image" src="https://github.com/user-attachments/assets/97f66c9c-5e68-492c-b78e-5b4997aea5ab" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/97f66c9c-5e68-492c-b78e-5b4997aea5ab" />
 
 
 6. To create an annotation for a snippet, go to **Interview** under **Files**, double-click on **Interview may13\_2015**.
 
-<p align="center"><img width="830" height="530" alt="image" src="https://github.com/user-attachments/assets/6afae701-0454-4d4b-b4b0-0a7adb77256d" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/6afae701-0454-4d4b-b4b0-0a7adb77256d" />
 
 
 7. In the detail view, select a text snippet, then select **New Annotation**.
 
-<p align="center"><img width="842" height="288" alt="image" src="https://github.com/user-attachments/assets/f8d08130-5951-4ead-a90f-12be8e444394" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/f8d08130-5951-4ead-a90f-12be8e444394" />
 
 
 8. A new box will appear at the bottom. Enter your annotation for this snippet. For example, “This part hasn't been cleaned yet.” Click anywhere outside of the box to save the annotation.
 
-<p align="center"><img width="685" height="209" alt="image" src="https://github.com/user-attachments/assets/8b9e00c0-7d39-4e04-9943-10ed20d49a4f" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/8b9e00c0-7d39-4e04-9943-10ed20d49a4f" />
 
 
 9. To see memos and annotations you have created all in one place, using the left navigation menu, under **Notes**.
 
-<p align="center"><img width="422" height="235" alt="image" src="https://github.com/user-attachments/assets/1bf8ea5c-8722-4bc6-9792-9f0370cbd0aa" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/1bf8ea5c-8722-4bc6-9792-9f0370cbd0aa" />
 
 
 10. Finally, you can also create a note that applies to the entire project, for example, maybe some ideas you have about how the research is going or new themes that are emerging. Right-click on **Memos** and select **New Memo**.
 
-<p align="center"><img width="638" height="188" alt="image" src="https://github.com/user-attachments/assets/f2f8115e-3225-4e2c-a820-14b960a141e5" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/f2f8115e-3225-4e2c-a820-14b960a141e5" />
 
 
 11. Give it a name, such as **Project Memo** and click **OK**.
 
-<p align="center"><img width="911" height="609" alt="image" src="https://github.com/user-attachments/assets/7d1dba68-19fc-49c0-93b2-cf2d06dd5d7b" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/7d1dba68-19fc-49c0-93b2-cf2d06dd5d7b" />
 
 
 12. Type some notes, such as “The project needs to be reviewed” and then close it to save. You can always double click on it from the list of memos to re-open it.
 
-<p align="center"><img width="855" height="242" alt="image" src="https://github.com/user-attachments/assets/595903e6-8583-4c53-8e7d-9e6954ebe3d4" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/595903e6-8583-4c53-8e7d-9e6954ebe3d4" />
 
 
 # Image Coding
