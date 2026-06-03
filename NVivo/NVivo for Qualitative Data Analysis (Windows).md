@@ -489,24 +489,24 @@ NVivo allows analyzing visual data by selecting and coding specific areas within
 
 1. Go to **Files** and click on **FG1 Questionnaire 14** to open the PDF file.
 
-<p align="center"><img width="979" height="300" alt="image" src="https://github.com/user-attachments/assets/fba10c70-6e63-4943-9c27-efef75a70f2b" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/fba10c70-6e63-4943-9c27-efef75a70f2b" />
 
 
 2. Note that NVivo 14 does not support **Optical Character Recognition (OCR)**. If your image files contain text that you want to code, make sure they are OCR-processed before importing them into NVivo. For text that cannot be OCRed (like handwriting or signatures), you can manually draw a square around the area you wish to code.
 
 3. Under the **PDF** menu, select **Region**.
 
-<p align="center"><img width="445" height="218" alt="image" src="https://github.com/user-attachments/assets/dc2d25d7-dcd0-4c4b-b2bc-872f9034e5d7" />
+<p align="center"><img width="240" alt="image" src="https://github.com/user-attachments/assets/dc2d25d7-dcd0-4c4b-b2bc-872f9034e5d7" />
 
 
 4. Draw a square around the area you want to code, then right-click and select **Code to Recent Codes**, then **Energy (Codes)**.
 
-<p align="center"><img width="951" height="217" alt="image" src="https://github.com/user-attachments/assets/7ca0ba16-95da-4bca-bd17-23567ec16031" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/7ca0ba16-95da-4bca-bd17-23567ec16031" />
 
 
 5. Now, go to **Codes** and double-click on **Energy**. In the detail view, instead of showing the image snippet, NVivo will display the coordinates of the selected image area. (On Mac, this will appear as a screenshot of the selected region.)
 
-<p align="center"><img width="821" height="460" alt="image" src="https://github.com/user-attachments/assets/b29169e5-cea4-4dc3-bce0-b4a9eb251bcd" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/b29169e5-cea4-4dc3-bce0-b4a9eb251bcd" />
 
 
 # **Save the Project**
