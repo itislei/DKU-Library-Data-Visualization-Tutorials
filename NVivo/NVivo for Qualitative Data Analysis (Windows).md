@@ -251,7 +251,7 @@ Deductive coding is a top-down qualitative analysis approach where you start wit
 
 8. In the pop-up, select **Energy,** and click **Code Selection to ‘Energy’**.
 
-<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/cbbe6afc-06d1-4cbd-956b-469e5c9d104d" />
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/cbbe6afc-06d1-4cbd-956b-469e5c9d104d" />
 
 
 9. Select another snippet in the same file and right-click to open the content menu. This time, go to **Code to Recent Codes** \> **Energy**.
@@ -266,7 +266,7 @@ Deductive coding is a top-down qualitative analysis approach where you start wit
 
 11. Go to **Codes** in the navigation view, you should see the **Imported Products** code has 1 file and 3 references.
 
-<p align="center"><img width="300"  alt="image" src="https://github.com/user-attachments/assets/315bfc97-e3c1-4938-9ead-fee50ba469fc" />
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/315bfc97-e3c1-4938-9ead-fee50ba469fc" />
 
 
 ## Inductive Coding
