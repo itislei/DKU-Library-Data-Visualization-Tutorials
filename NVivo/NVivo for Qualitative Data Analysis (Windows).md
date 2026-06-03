@@ -307,49 +307,49 @@ Within NVivo, codes can be organized hierarchically by creating parent and child
 
 2. Now, select a text snippet and right-click, select **Code Selection…** from the menu.
 
-<p align="center"><img width="896" height="182" alt="image" src="https://github.com/user-attachments/assets/0b2f3c21-8093-4039-b65e-8b2e2d51630f" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/0b2f3c21-8093-4039-b65e-8b2e2d51630f" />
 
 
 3. Select **Energy**, then click on **Child Code** on the right pane.
 
-<p align="center"><img width="447" height="613" alt="image" src="https://github.com/user-attachments/assets/198565b7-7e3d-4aa0-9904-da0aa97e997c" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/198565b7-7e3d-4aa0-9904-da0aa97e997c" />
 
 
 4. Enter **Efficiency** as the new code, then click **Code Selection to ‘Efficiency’**.
 
-<p align="center"><img width="450" height="619" alt="image" src="https://github.com/user-attachments/assets/b4fcc64b-9ec4-4905-a449-e980a00f9132" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/b4fcc64b-9ec4-4905-a449-e980a00f9132" />
 
 
 5. Repeat the same steps to create another 2 child codes under **Energy**: **Network**, **Air**, and code 2 snippets under each newly created child code.
 
 6. Go to **Codes** in the navigation view. Click on the **\+** icon next to **Energy** \- 3 child codes will appear.
 
-<p align="center"><img width="552" height="308" alt="image" src="https://github.com/user-attachments/assets/5bed19e4-b550-4b11-a392-5d690b413575" />
+<p align="center"><img width="400" height="308" alt="image" src="https://github.com/user-attachments/assets/5bed19e4-b550-4b11-a392-5d690b413575" />
 
 
 7. Double click on a code, the snippet will show up in the detail view with some quantitative information about each snippet.
 
-<p align="center"><img width="979" height="308" alt="image" src="https://github.com/user-attachments/assets/deeb650b-93ac-47ec-b4bf-d64b355729ce" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/deeb650b-93ac-47ec-b4bf-d64b355729ce" />
 
 
 8. Now, although the 3 child codes (**Air**, **Efficiency**, **Network**) are underneath one parent code (**Energy**), the counts for **Files** and **References** are not aggregated \- this is because NVivo treats parent code and its child codes separately as defaults. 
 
-<p align="center"><img width="576" height="318" alt="image" src="https://github.com/user-attachments/assets/2622865b-fa5b-43b2-b86d-3bd53db09428" />
+<p align="center"><img width="400" height="318" alt="image" src="https://github.com/user-attachments/assets/2622865b-fa5b-43b2-b86d-3bd53db09428" />
 
 
 9. To aggregate them, right-click on **Energy**, then **Code Properties**.
 
-<p align="center"><img width="610" height="449" alt="image" src="https://github.com/user-attachments/assets/028d351c-fed4-40a8-af24-046f03d2b936" />
+<p align="center"><img width="500" height="449" alt="image" src="https://github.com/user-attachments/assets/028d351c-fed4-40a8-af24-046f03d2b936" />
 
 
 10. Check **Aggregate coding from children**, and click **OK**.
 
-<p align="center"><img width="703" height="410" alt="image" src="https://github.com/user-attachments/assets/4ac6b07b-ab77-42bb-b7b0-c523caf0bb5a" />
+<p align="center"><img width="600" height="410" alt="image" src="https://github.com/user-attachments/assets/4ac6b07b-ab77-42bb-b7b0-c523caf0bb5a" />
 
 
 11. The count of files and references of **Energy** should be updated with the total counts.
 
-<p align="center"><img width="551" height="295" alt="image" src="https://github.com/user-attachments/assets/56b67d30-ceae-45ed-afdb-44224463d4a2" />
+<p align="center"><img width="400" height="295" alt="image" src="https://github.com/user-attachments/assets/56b67d30-ceae-45ed-afdb-44224463d4a2" />
 
 
 ## Uncoding
