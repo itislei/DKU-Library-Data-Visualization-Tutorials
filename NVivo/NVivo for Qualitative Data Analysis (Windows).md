@@ -127,7 +127,7 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
 
 1. Open NVivo 14 on your desktop. Then, click on **\+ New Project**. Note that NVivo runs locally in your device, so you don’t have to login to your NVivo account to use the software.
 
-<p align="center"><img width="933" height="631" alt="image" src="https://github.com/user-attachments/assets/363435bb-1e76-4364-907d-7c346b1fc679" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/363435bb-1e76-4364-907d-7c346b1fc679" />
 
 
 2. First, enter **NVivo Workshop** as the project title.
@@ -136,17 +136,17 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
 
 4. If the content you plan to analyze is not primarily in English, change the **Text content language** accordingly. Then click **Next** to continue.
 
-<p align="center"><img width="949" height="602" alt="image" src="https://github.com/user-attachments/assets/a8977401-b0d8-444a-89b1-d0fa64788ff9" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/a8977401-b0d8-444a-89b1-d0fa64788ff9" />
 
 
 5. In the next pop-up window, review or adjust your saving options as needed, then click **Create Project** to continue.
 
-<p align="center"><img width="950" height="596" alt="image" src="https://github.com/user-attachments/assets/b545c40e-4070-4be3-b1bb-c8d5c21ada08" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/b545c40e-4070-4be3-b1bb-c8d5c21ada08" />
 
 
 6. When the welcome pop-up appears, click **SKIP TOUR** to close it.
 
-<p align="center"><img width="707" height="475" alt="image" src="https://github.com/user-attachments/assets/1c0def21-16ef-4173-bd3a-7253d47fd01f" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/1c0def21-16ef-4173-bd3a-7253d47fd01f" />
 
 
 7. The interface of NVivo includes:  
