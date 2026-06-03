@@ -609,7 +609,7 @@ Please note that the **Transcription** feature in NVivo is not included in our s
 
 14. Select and check **Memorable quotes** from the pop-up, and click **OK**.
 
-<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/83915421-59a1-4a82-8b4b-1a274d699d51" />
+<p align="center"><img width="850" alt="image" src="https://github.com/user-attachments/assets/83915421-59a1-4a82-8b4b-1a274d699d51" />
 
 
 15. Now the coded segment should be removed.
@@ -626,47 +626,47 @@ You can manually create case classifications and cases by using the left menu, u
 
 1. Under **Cases**, go to **Cases**, then **People.** Expand **Interview Participants** \- this will give us a list of interview participants.
 
-<p align="center"><img width="979" height="673" alt="image" src="https://github.com/user-attachments/assets/c47202d6-a0fa-4f4e-b3aa-0851be7065b3" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/c47202d6-a0fa-4f4e-b3aa-0851be7065b3" />
 
 
 2. Right-click on the name **Barbara**, select **Open Classification Sheet**.
 
-<p align="center"><img width="979" height="404" alt="image" src="https://github.com/user-attachments/assets/e4c8e097-9bd7-4606-8b8f-bf10a12a4607" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/e4c8e097-9bd7-4606-8b8f-bf10a12a4607" />
 
 
 3. A table of all the information about the participants will appear, with different attributes about their background, like the neighborhood they live in, their gender, age range, etc. You can edit the data here.
 
-<p align="center"><img width="979" height="595" alt="image" src="https://github.com/user-attachments/assets/21628576-c97c-4138-9de6-512df4d68bc3" />
+<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/21628576-c97c-4138-9de6-512df4d68bc3" />
 
 
 4. We can take advantage of NVivo’s autocoding features to identify the parts of interviewee and interviewers in a file and code them automatically into the appropriate case. Using the left menu, under **Data**, then **Files**, go to the **Interviews** folder and right-click on the interview transcript titled “Barbara”. Select **Autocode…**.
 
-<p align="center"><img width="979" height="473" alt="image" src="https://github.com/user-attachments/assets/11159aa4-2fbe-429f-9d6e-182edfd5b149" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/11159aa4-2fbe-429f-9d6e-182edfd5b149" />
 
 
 5. A wizard with different autocoding features will appear, which I encourage you to explore on your own. For now, let’s select the **Speaker name**. This is going to automatically code text based on the speaker name. Then click **Next**.
 
-<p align="center"><img width="746" height="661" alt="image" src="https://github.com/user-attachments/assets/1871c00c-bd07-425c-8821-a2bb667d6c72" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/1871c00c-bd07-425c-8821-a2bb667d6c72" />
 
 
 6. The “Barbara” document is formatted in a consistent manner so we can always pick out who is speaking because the person’s name is bolded followed by the words they speak. We need to specify who the unique speakers are in this document. Under **Enter all speakers**, type in **HENRY** and hit **Enter**. Then type in **BARBARA** and hit the **TAB** key. You should check the preview below to confirm that NVivo is picking up each unique speaker by highlighting them in different colours. If it looks correct, click on **Next**.
 
-<p align="center"><img width="620" height="592" alt="image" src="https://github.com/user-attachments/assets/f6432558-0cce-47c6-a032-bd843f2bfee2" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/f6432558-0cce-47c6-a032-bd843f2bfee2" />
 
 
 7. Make sure **Add to existing classification** is selected and from the drop-down next to it, **Person** is selected. Then click on **Finish**. This should code everything that Henry or Barbara said in the transcript with their cases.
 
-<p align="center"><img width="652" height="588" alt="image" src="https://github.com/user-attachments/assets/722ab68e-d9b2-4770-9515-455daa9ff1f4" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/722ab68e-d9b2-4770-9515-455daa9ff1f4" />
 
 
 8. Go to **Cases**, then go to **Cases**. 
 
-<p align="center"><img width="373" height="168" alt="image" src="https://github.com/user-attachments/assets/f89a26bc-3be4-4b3e-81b4-e79de4156318" />
+<p align="center"><img width="200" alt="image" src="https://github.com/user-attachments/assets/f89a26bc-3be4-4b3e-81b4-e79de4156318" />
 
 
 9. Double click on the **BARBARA** case. You should see everything that Barbara said in her interview. These words are coded to this case. The BARBARA case code is now linked to Barbara’s interview responses.
 
-<p align="center"><img width="979" height="492" alt="image" src="https://github.com/user-attachments/assets/03f3c2df-d030-45ab-afe9-1adecc848bfd" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/03f3c2df-d030-45ab-afe9-1adecc848bfd" />
 
 
 10. Close all the tabs.
