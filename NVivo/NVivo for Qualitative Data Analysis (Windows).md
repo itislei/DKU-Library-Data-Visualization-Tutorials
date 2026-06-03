@@ -513,27 +513,27 @@ NVivo allows analyzing visual data by selecting and coding specific areas within
 
 1. During your work, the **Save Reminder** pop-up will appear periodically to remind you about the saving. Click **Yes** to confirm.
 
-<p align="center"><img width="607" height="274" alt="image" src="https://github.com/user-attachments/assets/117cc2ad-e728-4da5-98dd-ebab1b79e546" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/117cc2ad-e728-4da5-98dd-ebab1b79e546" />
 
 
 2. When you are done working on a project it is important to remember to save manually. First, go to the **File** menu.
 
-<p align="center"><img width="748" height="225" alt="image" src="https://github.com/user-attachments/assets/28b61042-be30-4b3f-82cf-5dad258aca6f" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/28b61042-be30-4b3f-82cf-5dad258aca6f" />
 
 
 3. Select **Save** to save the current project.
 
-<p align="center"><img width="866" height="401" alt="image" src="https://github.com/user-attachments/assets/cbc72e38-9d36-4ccb-a535-d96bd06cc3a6" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/cbc72e38-9d36-4ccb-a535-d96bd06cc3a6" />
 
 
 4. Alternatively, you can save a project by clicking on the floppy disk icon on the top right of the menu bar, or pressing **CTRL+S** on your keyboard.
 
-<p align="center"><img width="930" height="118" alt="image" src="https://github.com/user-attachments/assets/ad8540e4-62a6-465d-91f3-3210b0eff725" />
+<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/ad8540e4-62a6-465d-91f3-3210b0eff725" />
 
 
 5. Finally, you can close a project to return to the NVivo main screen. Once your project is saved, go back to the **File** menu and select **Close**.
 
-<p align="center"><img width="883" height="442" alt="image" src="https://github.com/user-attachments/assets/9c3197b2-e8b5-4bb1-a88e-d5fbc9d9585f" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/9c3197b2-e8b5-4bb1-a88e-d5fbc9d9585f" />
 
 
 # Audio & Video Coding
