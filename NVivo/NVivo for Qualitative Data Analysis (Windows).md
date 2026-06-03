@@ -807,78 +807,78 @@ Text Search Queries allow you to search for specific words or phrases across you
 
 1. Go to the **Explore** menu and select **Text Search Query**.
 
-<p align="center"><img width="558" height="189" alt="image" src="https://github.com/user-attachments/assets/da9cad72-c45a-4e77-9901-e11c4f91f04a" />
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/da9cad72-c45a-4e77-9901-e11c4f91f04a" />
 
 
 2. Keep the search scope as **Files & Externals** \- this includes all imported files in your project. In the search box, enter **water**, and drag the slider to **With stemmed words**.
 
-<p align="center"><img width="979" height="264" alt="image" src="https://github.com/user-attachments/assets/9cbd7e4c-245d-4043-bb74-b5b2e563dc63" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/9cbd7e4c-245d-4043-bb74-b5b2e563dc63" />
 
 
 3. Click **Run Query**.
 
-<p align="center"><img width="979" height="264" alt="image" src="https://github.com/user-attachments/assets/828a3d29-67c9-405f-b959-8ce42736eb65" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/828a3d29-67c9-405f-b959-8ce42736eb65" />
 
 
 4. A list of files containing the word **water** and its stemmed forms will appear. Double-click **Charles** to view the details.
 
-<p align="center"><img width="795" height="593" alt="image" src="https://github.com/user-attachments/assets/c3ed0a6f-b138-4f47-90f4-08d8dd12e1ea" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/c3ed0a6f-b138-4f47-90f4-08d8dd12e1ea" />
 
 
 5. In Charles’s interview transcript, you will see the term **water** highlighted.
 
-<p align="center"><img width="882" height="549" alt="image" src="https://github.com/user-attachments/assets/e86a6981-e6b5-4443-adfe-c5520d26e09e" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/e86a6981-e6b5-4443-adfe-c5520d26e09e" />
 
 
 6. We can store the results of this query as a new code. To do so, go back to the **Text Search Query – Results Preview** tab and click **Save Results…**. 
 
-<p align="center"><img width="979" height="264" alt="image" src="https://github.com/user-attachments/assets/7019d7a3-cc31-4183-bd23-8cdf5c7e6302" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/7019d7a3-cc31-4183-bd23-8cdf5c7e6302" />
 
 
 7. In the pop-up, click **Select** next to the **Location** field. 
 
-<p align="center"><img width="755" height="361" alt="image" src="https://github.com/user-attachments/assets/bf524f2c-721e-43e8-9291-7a71aa392e03" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/bf524f2c-721e-43e8-9291-7a71aa392e03" />
 
 
 8. Choose **Codes**, then click **OK**.
 
-<p align="center"><img width="500" height="483" alt="image" src="https://github.com/user-attachments/assets/6d192b89-e79d-4e92-aa9c-0979882fcdd8" />
+<p align="center"><img width="364"  alt="image" src="https://github.com/user-attachments/assets/6d192b89-e79d-4e92-aa9c-0979882fcdd8" />
 
 
 9. Rename the **Name** field to **Water**, and click **OK** again.
 
-<p align="center"><img width="616" height="296" alt="image" src="https://github.com/user-attachments/assets/c60eb100-64e0-48e2-a621-4a1bf1e7df1d" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/c60eb100-64e0-48e2-a621-4a1bf1e7df1d" />
 
 
 10. Go to **Codes** in the navigation view. You will see a new code named **Water**, showing the corresponding files and reference counts from the query.
 
-<p align="center"><img width="798" height="350" alt="image" src="https://github.com/user-attachments/assets/03f071b5-7ff1-4b85-a267-10a88140c254" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/03f071b5-7ff1-4b85-a267-10a88140c254" />
 
 
 11. If your search phrase contains multiple words, make sure to enclose it in quotation marks (“”). Otherwise, NVivo will treat each word as a separate search term. For example, enter “salt water” in the search box and click **Run Query** again.  
     * For more tips about building search query, visit [Text Search Query](https://help-nv.qsrinternational.com/14/win/Content/queries/text-search-query.htm) page.
 
-<p align="center"><img width="979" height="371" alt="image" src="https://github.com/user-attachments/assets/14ade321-edd5-4164-8c85-ea39a1424731" />
+<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/14ade321-edd5-4164-8c85-ea39a1424731" />
 
 
 12. Let’s say you want to save this query for future use. To do so, click **Save Criteria…**.
 
-<p align="center"><img width="979" height="223" alt="image" src="https://github.com/user-attachments/assets/f31aa46b-af3d-4b81-91bf-9ec021e75030" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/f31aa46b-af3d-4b81-91bf-9ec021e75030" />
 
 
 13. Name the query as **Salt Water**, and click **OK**.
 
-<p align="center"><img width="755" height="687" alt="image" src="https://github.com/user-attachments/assets/6d9349e3-1867-47c5-b226-d57e5e5a4523" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/6d9349e3-1867-47c5-b226-d57e5e5a4523" />
 
 
 14. Then, close the query tab.
 
-<p align="center"><img width="833" height="172" alt="image" src="https://github.com/user-attachments/assets/ea32b86c-d50d-49d9-8df3-e54beb354827" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/ea32b86c-d50d-49d9-8df3-e54beb354827" />
 
 
 15. Go to **Queries** in the navigation menu. Under **Query Criteria**, you can find **Salt Water** in the list. Double-click **Salt Water** to reopen the query we just saved.
 
-<p align="center"><img width="979" height="364" alt="image" src="https://github.com/user-attachments/assets/b27d3479-947b-4c45-ab8f-1391f57f97ca" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/b27d3479-947b-4c45-ab8f-1391f57f97ca" />
 
 
 ## **Matrix Coding Query**
