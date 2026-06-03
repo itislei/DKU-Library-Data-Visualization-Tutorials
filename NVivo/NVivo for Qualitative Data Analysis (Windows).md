@@ -100,25 +100,25 @@ Download and save the zip file in your computer: [Sample\_Dataset.zip](https://g
 
 1. Create a new folder in your computer and name it as **NVivo Workshop**.
 
-<p align="center"><img width="681" height="323" alt="image" src="https://github.com/user-attachments/assets/85f8de07-7692-492b-8b38-3963b3db16e8" />
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/85f8de07-7692-492b-8b38-3963b3db16e8" />
 
 
 2. Download the sample dataset [Sample\_Dataset.zip](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/tree/aa6cad3a86a7a69a9ff490f1dbb7d2fc37376a38/NVivo/Dataset).
 
 3. Unzip the file by right-clicking and select **Extra All**. Select where the files are extracted.
 
-<p align="center"><img width="669" height="428" alt="image" src="https://github.com/user-attachments/assets/8d6c894d-02d8-4735-a147-37d03f58ad5b" />
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/8d6c894d-02d8-4735-a147-37d03f58ad5b" />
 
 
 4. Click on **Browse** if you need to adjust the saving path. Once it’s finished, click **Extract**.  
    * Alternatively, you might first install a great little program called [7-Zip](https://www.7-zip.org/) \-  that is helpful to use when working with zip files. Then you should be able to right-click on the zip file and select **7-Zip**, then **Extract** **Here** to extract its files
 
-<p align="center"><img width="700" height="587" alt="1" src="https://github.com/user-attachments/assets/054a2811-71e7-41d7-924c-ecb9093c6033" />
+<p align="center"><img width="500"  alt="1" src="https://github.com/user-attachments/assets/054a2811-71e7-41d7-924c-ecb9093c6033" />
 
 
 5. Copy or move the unzipped sample data folder into the **NVivo Workshop** folder. 
 
-<p align="center"><img width="552" height="205" alt="2" src="https://github.com/user-attachments/assets/60d21db3-0ea8-4634-b546-e92e95026231" />
+<p align="center"><img width="400" alt="2" src="https://github.com/user-attachments/assets/60d21db3-0ea8-4634-b546-e92e95026231" />
 
 
 # **Create a Project**
