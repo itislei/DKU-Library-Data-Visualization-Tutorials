@@ -523,7 +523,7 @@ NVivo allows analyzing visual data by selecting and coding specific areas within
 
 3. Select **Save** to save the current project.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/cbc72e38-9d36-4ccb-a535-d96bd06cc3a6" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/cbc72e38-9d36-4ccb-a535-d96bd06cc3a6" />
 
 
 4. Alternatively, you can save a project by clicking on the floppy disk icon on the top right of the menu bar, or pressing **CTRL+S** on your keyboard.
@@ -533,7 +533,7 @@ NVivo allows analyzing visual data by selecting and coding specific areas within
 
 5. Finally, you can close a project to return to the NVivo main screen. Once your project is saved, go back to the **File** menu and select **Close**.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/9c3197b2-e8b5-4bb1-a88e-d5fbc9d9585f" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/9c3197b2-e8b5-4bb1-a88e-d5fbc9d9585f" />
 
 
 # Audio & Video Coding
