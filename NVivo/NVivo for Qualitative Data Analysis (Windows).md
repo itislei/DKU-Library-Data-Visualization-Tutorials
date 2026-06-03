@@ -358,17 +358,17 @@ Uncoding means removing a coded snippet from a code that disconnects that piece 
 
 1. Double-click on **Network** code \- the snippet of coded text will show up.
 
-<p align="center"><img width="494" height="282" alt="image" src="https://github.com/user-attachments/assets/3375044b-b198-4c0b-89c8-4243e1afcc57" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/3375044b-b198-4c0b-89c8-4243e1afcc57" />
 
 
 2. Select the entire of one snippets, right-click, then select **Uncode From This Code**.
 
-<p align="center"><img width="689" height="405" alt="image" src="https://github.com/user-attachments/assets/a8a482a3-2c82-439f-821d-d53661e7ec33" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/a8a482a3-2c82-439f-821d-d53661e7ec33" />
 
 
 3. The coded text will now be removed. Next, click the **×** on each of the file title tabs to close all open windows.
 
-<p align="center"><img width="726" height="286" alt="image" src="https://github.com/user-attachments/assets/8bc80cc9-8bf6-4f62-82c8-052e62a56bbd" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/8bc80cc9-8bf6-4f62-82c8-052e62a56bbd" />
 
 
 # Highlighter & Coding Stripes
@@ -379,44 +379,44 @@ The highlighter and coding stripes help visualize and track your coding work in 
 
 2. In the detail view, click on the highlighter icon, and select **All Coding**.
 
-<p align="center"><img width="256" height="300" alt="image" src="https://github.com/user-attachments/assets/c7988caa-2e4c-4df7-9bbb-65392853e495" />
+<p align="center"><img width="200" alt="image" src="https://github.com/user-attachments/assets/c7988caa-2e4c-4df7-9bbb-65392853e495" />
 
 
 3. The snippet you’ve coded will be highlighted in yellow.
 
-<p align="center"><img width="831" height="350" alt="image" src="https://github.com/user-attachments/assets/aa998369-dffb-4989-8473-07332c896d52" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/aa998369-dffb-4989-8473-07332c896d52" />
 
 
 4. In the detail view, click on the coding stripes icon, and select **All**.
 
-<p align="center"><img width="424" height="267" alt="image" src="https://github.com/user-attachments/assets/0f81e43e-006b-43ae-ac48-40209c565fed" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/0f81e43e-006b-43ae-ac48-40209c565fed" />
 
 
 5. Now, a new pane with multiple colored bars alongside the file shows which part of the text has been coded and which codes were applied.
 
-<p align="center"><img width="840" height="623" alt="image" src="https://github.com/user-attachments/assets/b33724aa-69a1-4180-b170-c45c66af5d86" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/b33724aa-69a1-4180-b170-c45c66af5d86" />
 
 
 6. To change the color of each code, go to **Codes** under **Coding**, select **Energy** code and right-click, go **Color**, and select **Red** as the new color.
 
-<p align="center"><img width="816" height="547" alt="image" src="https://github.com/user-attachments/assets/2baa2092-d82e-408c-91c2-cdb27a648c10" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/2baa2092-d82e-408c-91c2-cdb27a648c10" />
 
 
 7. Repeat the same steps and change the colors of the Cost code to a color other than red.
 
 8. Now, click the coding stripes icon again, and select **Item Colors**.
 
-<p align="center"><img width="370" height="469" alt="image" src="https://github.com/user-attachments/assets/09e24ed8-95c7-47aa-b8c8-92d9e72ead4d" />
+<p align="center"><img width="350"  alt="image" src="https://github.com/user-attachments/assets/09e24ed8-95c7-47aa-b8c8-92d9e72ead4d" />
 
 
 9. The color of each code now will appear as the color you selected.
 
-<p align="center"><img width="245" height="664" alt="image" src="https://github.com/user-attachments/assets/43093dce-6b61-4f07-92e9-6936a41317ed" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/43093dce-6b61-4f07-92e9-6936a41317ed" />
 
 
 10. Let’s turn off the coding stripes and highlighter by clicking both icons and selecting **None** for now, and close the **Interview dec4\_2014 2\_02pm** file.
 
-<p align="center"><img width="266" height="329" alt="image" src="https://github.com/user-attachments/assets/e09bca7d-edf1-4e8b-a1af-8e5940255873" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/e09bca7d-edf1-4e8b-a1af-8e5940255873" />
 
 
 # Memos & Annotation
