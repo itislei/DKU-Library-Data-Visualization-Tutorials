@@ -980,17 +980,17 @@ When your analysis is complete, you can export your codes from NVivo in various 
 
 2. From the **Share** menu, select **Export**, **Export List**.
 
-<p align="center"><img width="873" height="458" alt="image" src="https://github.com/user-attachments/assets/5599bfec-9fae-44a7-a019-c7bbb1a0bd08" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/5599bfec-9fae-44a7-a019-c7bbb1a0bd08" />
 
 
 3. Keep the default file name (**Codes**), choose your workshop folder as the save location, and click **Save**.
 
-<p align="center"><img width="1071" height="652" alt="5" src="https://github.com/user-attachments/assets/9d7e868b-81d2-493d-a6df-bf478ecee573" />
+<p align="center"><img width="800" alt="5" src="https://github.com/user-attachments/assets/9d7e868b-81d2-493d-a6df-bf478ecee573" />
 
 
 4. Open the **Codes.xlsx** file in your workshop folder. You should see a list of all codes displayed in NVivo’s code list.
 
-<p align="center"><img width="979" height="506" alt="image" src="https://github.com/user-attachments/assets/435af290-3549-4fe5-9195-b763bbcf623d" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/435af290-3549-4fe5-9195-b763bbcf623d" />
 
 
 ## **Codebook**
@@ -999,17 +999,17 @@ When your analysis is complete, you can export your codes from NVivo in various 
 
 2. From the **Share** menu, select **Export**, **Export Codebook**.
 
-<p align="center"><img width="829" height="422" alt="image" src="https://github.com/user-attachments/assets/cdbac5dd-d274-4435-b38b-35157f0b4999" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/cdbac5dd-d274-4435-b38b-35157f0b4999" />
 
 
 3. Keep the default file name (**Codebook – Environmental Change Down East**), check **Include number of files and references**, and click **OK**.
 
-<p align="center"><img width="624" height="643" alt="image" src="https://github.com/user-attachments/assets/fd8af6b2-51ec-46f9-9014-c00ea1adc77e" />
+<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/fd8af6b2-51ec-46f9-9014-c00ea1adc77e" />
 
 
 4. Open the **Codebook – Environmental Change Down East.doc** file in your workshop folder. This file displays each code with its description, and the counts of files and references associated with it.
 
-<p align="center"><img width="979" height="552" alt="image" src="https://github.com/user-attachments/assets/03d86ca3-97c7-4e8a-9910-dccb28273569" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/03d86ca3-97c7-4e8a-9910-dccb28273569" />
 
 
 ## **Individual Code** 
@@ -1018,17 +1018,17 @@ When your analysis is complete, you can export your codes from NVivo in various 
 
 2. Right-click on the selected area and choose **Export,** **Export Codes**.
 
-<p align="center"><img width="902" height="349" alt="image" src="https://github.com/user-attachments/assets/c2aaa44b-7684-4bbd-89c0-d7391ee35833" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/c2aaa44b-7684-4bbd-89c0-d7391ee35833" />
 
 
 3. In the **Export Options** pop-up, check **Summary View**, then click **OK**.
 
-<p align="center"><img width="527" height="662" alt="image" src="https://github.com/user-attachments/assets/bce17436-f0a0-4169-a514-24b365fd3dd0" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/bce17436-f0a0-4169-a514-24b365fd3dd0" />
 
 
 4. Each selected code will be saved as a separate file in your workshop folder. For example, opening the **Water** file will display the related reference files, their locations, reference counts, and coverage.
 
-<p align="center"><img width="979" height="508" alt="image" src="https://github.com/user-attachments/assets/0056130c-480d-4e03-942c-acbc14cb4010" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/0056130c-480d-4e03-942c-acbc14cb4010" />
 
 
 # **Resources**
