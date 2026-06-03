@@ -878,7 +878,7 @@ Text Search Queries allow you to search for specific words or phrases across you
 
 15. Go to **Queries** in the navigation menu. Under **Query Criteria**, you can find **Salt Water** in the list. Double-click **Salt Water** to reopen the query we just saved.
 
-<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/b27d3479-947b-4c45-ab8f-1391f57f97ca" />
+<p align="center"><img width="850" alt="image" src="https://github.com/user-attachments/assets/b27d3479-947b-4c45-ab8f-1391f57f97ca" />
 
 
 ## **Matrix Coding Query**
@@ -889,85 +889,85 @@ For example, we can look at attitudes expressed by different interviewees based 
 
 1. Go to the **Explore** menu and click **Matrix Coding Query**.
 
-<p align="center"><img width="625" height="213" alt="image" src="https://github.com/user-attachments/assets/4976dd3e-f681-48f5-a1fe-2186306017f9" />
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/4976dd3e-f681-48f5-a1fe-2186306017f9" />
 
 
 2. Under **Cases**, open **People**. In the list view, click the **\+** icon next to **Interview Participants** to expand the name list.
 
-<p align="center"><img width="893" height="665" alt="image" src="https://github.com/user-attachments/assets/d7f4c676-12d4-4cd9-a48f-8f4650a6eb77" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/d7f4c676-12d4-4cd9-a48f-8f4650a6eb77" />
 
 
 3. Select all participant names by dragging your cursor over them, then drag the selection into the **Rows** box.
 
-<p align="center"><img width="979" height="533" alt="image" src="https://github.com/user-attachments/assets/78df278e-1803-4a58-89de-667d624b168f" />
+<p align="center"><img width="700"  alt="image" src="https://github.com/user-attachments/assets/78df278e-1803-4a58-89de-667d624b168f" />
 
 
 4. Next, under **Codes**, expand **Attitude** by clicking the **\+** icon.
 
-<p align="center"><img width="933" height="576" alt="image" src="https://github.com/user-attachments/assets/2c76e8bf-356c-46c0-93ab-f9271588c05a" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/2c76e8bf-356c-46c0-93ab-f9271588c05a" />
 
 
 5. Select all items under the **Attitudes** code and drag them into the **Columns** box.
 
-<p align="center"><img width="979" height="534" alt="image" src="https://github.com/user-attachments/assets/12f7ee13-7cc8-46b9-bb32-8c473e13a24c" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/12f7ee13-7cc8-46b9-bb32-8c473e13a24c" />
 
 
 6. Make sure the search scope is set to **Files & Externals**, then click **Run Query**.
 
-<p align="center"><img width="969" height="345" alt="image" src="https://github.com/user-attachments/assets/30c32bf6-17d2-427d-9aa4-eae930b08636" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/30c32bf6-17d2-427d-9aa4-eae930b08636" />
 
 
 7. A matrix table will appear, showing the number of times participants mentioned words related to each attitude.
 
-<p align="center"><img width="964" height="688" alt="image" src="https://github.com/user-attachments/assets/6256e2c0-d2c3-4a04-8828-d9477bc8c3f7" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/6256e2c0-d2c3-4a04-8828-d9477bc8c3f7" />
 
 
 8. At the top-left of the page, click the **purple gradient palette** icon to apply color coding for easier visualization.
 
-<p align="center"><img width="921" height="657" alt="image" src="https://github.com/user-attachments/assets/a315710d-5f74-4313-820e-ef00eab89568" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/a315710d-5f74-4313-820e-ef00eab89568" />
 
 
 9. The table currently shows the total count of files where participants mentioned each attitude. To change the view, right-click anywhere on the table, select **Cell Content**, **Words Coded**.
 
-<p align="center"><img width="979" height="387" alt="image" src="https://github.com/user-attachments/assets/54cb56d6-7baf-4fad-b9c8-402e3858b8bd" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/54cb56d6-7baf-4fad-b9c8-402e3858b8bd" />
 
 
 10. This view displays the total count of coded words for each participant and attitude.
 
-<p align="center"><img width="830" height="379" alt="image" src="https://github.com/user-attachments/assets/346728cc-becd-4d59-98ae-ec01d47b8fc5" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/346728cc-becd-4d59-98ae-ec01d47b8fc5" />
 
 
 
 11. Try another view: right-click again, choose **Cell Content**, **Coding Presence**.
 
-<p align="center"><img width="943" height="368" alt="image" src="https://github.com/user-attachments/assets/4f8ca574-8d80-4e10-8c04-0249b0bea03c" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/4f8ca574-8d80-4e10-8c04-0249b0bea03c" />
 
 
 12. The table now shows **Yes** or **No**, indicating whether a participant mentioned that attitude or not.
 
-<p align="center"><img width="837" height="383" alt="image" src="https://github.com/user-attachments/assets/1c53013b-d784-4b74-af3c-c2d137625d9b" />
+<p align="center"><img width="650"  alt="image" src="https://github.com/user-attachments/assets/1c53013b-d784-4b74-af3c-c2d137625d9b" />
 
 
 13. To improve readability, right-click once more, select **Cell Shading**, **Green-Yellow-Red**.
 
-<p align="center"><img width="942" height="351" alt="image" src="https://github.com/user-attachments/assets/bf75f79b-6dd3-4713-b76b-da7db7649b85" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/bf75f79b-6dd3-4713-b76b-da7db7649b85" />
 
 
 14. The table now shows **Yes** in green and **No** in red.
 
-<p align="center"><img width="776" height="352" alt="image" src="https://github.com/user-attachments/assets/e134fad0-162b-4af1-bd00-2abe128d9106" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/e134fad0-162b-4af1-bd00-2abe128d9106" />
 
 
 15. You can select other visualization. Let’s click on the **Chart** tab to explore this visualization.
 
-<p align="center"><img width="944" height="413" alt="image" src="https://github.com/user-attachments/assets/9fdee341-b13e-4a9b-ad9c-731a21f05411" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/9fdee341-b13e-4a9b-ad9c-731a21f05411" />
 
 
 16. While 3D visualizations may look appealing, they can distort data interpretation and obscure important details. For clearer and more accurate results, consider exporting the query data and visualizing it using dedicated tools. See the [Data Visualization](https://library.dukekunshan.edu.cn/data-visualization/) guide for more information.
 
 17. When finished, close the query tab to return to the main workspace.
 
-<p align="center"><img width="861" height="188" alt="image" src="https://github.com/user-attachments/assets/b3e5dbfa-b4b1-4308-9671-915071f28676" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/b3e5dbfa-b4b1-4308-9671-915071f28676" />
 
 
 # **Export Codes** 
