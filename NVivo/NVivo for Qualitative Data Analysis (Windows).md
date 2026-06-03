@@ -544,12 +544,12 @@ Please note that the **Transcription** feature in NVivo is not included in our s
 
 1. From the main screen, click on **Sample Project (Multi-method)**. We will use this sample project for the rest of the workshop.
 
-<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/edf42407-3cbb-457f-9a04-b4f9034a6bac" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/edf42407-3cbb-457f-9a04-b4f9034a6bac" />
 
 
 2. When the welcome pop-up appears, click **SKIP TOUR** to close it.
 
-<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/0f04cf93-1e11-4461-87a3-8316559301c6" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/0f04cf93-1e11-4461-87a3-8316559301c6" />
 
 
 3. Go to **Files**, then **Interviews** folder. Double click to open the **Betty and Paul** file \- this is a video recording from an interview.
@@ -564,7 +564,7 @@ Please note that the **Transcription** feature in NVivo is not included in our s
 
 5. Now, go back to the **Interviews** folder, double-click on the **Helen** file \- this is an audio format file. 
 
-<p align="center"><img width="450" height="496" alt="image" src="https://github.com/user-attachments/assets/b6581961-7225-4e57-ae70-77d6e6dc373a" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/b6581961-7225-4e57-ae70-77d6e6dc373a" />
 
 
 6. Unlike the video format file, the audio recording gives us two panels: the audio waveform and a content panel showing timestamps along with the transcript. 
