@@ -324,7 +324,7 @@ Within NVivo, codes can be organized hierarchically by creating parent and child
 
 6. Go to **Codes** in the navigation view. Click on the **\+** icon next to **Energy** \- 3 child codes will appear.
 
-<p align="center"><img width="400" height="308" alt="image" src="https://github.com/user-attachments/assets/5bed19e4-b550-4b11-a392-5d690b413575" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/5bed19e4-b550-4b11-a392-5d690b413575" />
 
 
 7. Double click on a code, the snippet will show up in the detail view with some quantitative information about each snippet.
@@ -334,22 +334,22 @@ Within NVivo, codes can be organized hierarchically by creating parent and child
 
 8. Now, although the 3 child codes (**Air**, **Efficiency**, **Network**) are underneath one parent code (**Energy**), the counts for **Files** and **References** are not aggregated \- this is because NVivo treats parent code and its child codes separately as defaults. 
 
-<p align="center"><img width="400" height="318" alt="image" src="https://github.com/user-attachments/assets/2622865b-fa5b-43b2-b86d-3bd53db09428" />
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/2622865b-fa5b-43b2-b86d-3bd53db09428" />
 
 
 9. To aggregate them, right-click on **Energy**, then **Code Properties**.
 
-<p align="center"><img width="500" height="449" alt="image" src="https://github.com/user-attachments/assets/028d351c-fed4-40a8-af24-046f03d2b936" />
+<p align="center"><img width="500"  alt="image" src="https://github.com/user-attachments/assets/028d351c-fed4-40a8-af24-046f03d2b936" />
 
 
 10. Check **Aggregate coding from children**, and click **OK**.
 
-<p align="center"><img width="600" height="410" alt="image" src="https://github.com/user-attachments/assets/4ac6b07b-ab77-42bb-b7b0-c523caf0bb5a" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/4ac6b07b-ab77-42bb-b7b0-c523caf0bb5a" />
 
 
 11. The count of files and references of **Energy** should be updated with the total counts.
 
-<p align="center"><img width="400" height="295" alt="image" src="https://github.com/user-attachments/assets/56b67d30-ceae-45ed-afdb-44224463d4a2" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/56b67d30-ceae-45ed-afdb-44224463d4a2" />
 
 
 ## Uncoding
