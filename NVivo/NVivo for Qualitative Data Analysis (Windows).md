@@ -113,12 +113,12 @@ Download and save the zip file in your computer: [Sample\_Dataset.zip](https://g
 4. Click on **Browse** if you need to adjust the saving path. Once it’s finished, click **Extract**.  
    * Alternatively, you might first install a great little program called [7-Zip](https://www.7-zip.org/) \-  that is helpful to use when working with zip files. Then you should be able to right-click on the zip file and select **7-Zip**, then **Extract** **Here** to extract its files
 
-<p align="center"><img width="500"  alt="1" src="https://github.com/user-attachments/assets/054a2811-71e7-41d7-924c-ecb9093c6033" />
+<p align="center"><img width="550"  alt="1" src="https://github.com/user-attachments/assets/054a2811-71e7-41d7-924c-ecb9093c6033" />
 
 
 5. Copy or move the unzipped sample data folder into the **NVivo Workshop** folder. 
 
-<p align="center"><img width="400" alt="2" src="https://github.com/user-attachments/assets/60d21db3-0ea8-4634-b546-e92e95026231" />
+<p align="center"><img width="500" alt="2" src="https://github.com/user-attachments/assets/60d21db3-0ea8-4634-b546-e92e95026231" />
 
 
 # **Create a Project**
