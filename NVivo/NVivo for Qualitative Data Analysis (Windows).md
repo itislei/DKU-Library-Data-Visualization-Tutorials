@@ -688,32 +688,32 @@ Word frequency query allows you to identify and analyze the most frequently used
 
 2. For Windows users, NVivo includes a feature called the **Query Wizard**, which assists in choosing the right query for your task and breaks down each option to help you understand how it works. Let’s try that first. Click on **Query Wizard**.
 
-<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/25d988a2-3d24-4947-83e3-64551a3a76ef" />
+<p align="center"><img width="250" alt="image" src="https://github.com/user-attachments/assets/25d988a2-3d24-4947-83e3-64551a3a76ef" />
 
 
 3. The pop-up gives 4 options corresponding to the four query types. Let’s select the second option \- **Word Frequency** query, which is described as “Identify frequently occurring terms in content.” You can also use Work Frequency query by clicking on **Work Frequency** under the **Explore** menu.
 
-<p align="center"><img width="450" lt="image" src="https://github.com/user-attachments/assets/7f92b73a-a2cc-429a-915b-889a3d0638a6" />
+<p align="center"><img width="350" lt="image" src="https://github.com/user-attachments/assets/7f92b73a-a2cc-429a-915b-889a3d0638a6" />
 
 
 4. But now, let’s use **Query Wizard**. Select the second option, and click **Next**.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/c2111ac7-16fe-4983-9079-58199c876e30" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/c2111ac7-16fe-4983-9079-58199c876e30" />
 
 
 5. Set the “Display Words” field to 50, and keep the “Minimum Word Length” field set to 3\.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/f4a9307c-d1b5-49a9-9d2c-335c55dd7282" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/f4a9307c-d1b5-49a9-9d2c-335c55dd7282" />
 
 
 6. The **Grouping** option helps identify and organize similar or related terms in your text data to varying degrees. Same stem means words that share the same root or base form \- for example, talk, talking, talks, and talked all share the stem “talk.” Now, drag the bar to the second level, which groups words by the same stem, and click **Next**.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/f4a111d9-5d40-4971-bcf9-5118a456bf6e" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/f4a111d9-5d40-4971-bcf9-5118a456bf6e" />
 
 
 7. For the query scope, check **Selected Items**, then click on **Select…**
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/cba6959a-7434-4426-8b94-a310986c2f11" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/cba6959a-7434-4426-8b94-a310986c2f11" />
 
 
 8. In the pop-up, expand **Files**, then click on **Interviews** to select everything in the folder. Next, unselect 2 videos and 1 audio files (with different icons) so that only text transcripts should be selected for our search. Click **OK**.
@@ -723,22 +723,22 @@ Word frequency query allows you to identify and analyze the most frequently used
 
 9. Click **Next**.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/219f9d17-3fd9-4bd7-981a-ebd6654498aa" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/219f9d17-3fd9-4bd7-981a-ebd6654498aa" />
 
 
 10. The last window asks you if you just want to run the query once or if you want to save it in your project so that you can later revisit. Let’s leave it as defaults for now and click **Run**.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/9bde35a7-11ad-4990-91b4-bf7f99480542" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/9bde35a7-11ad-4990-91b4-bf7f99480542" />
 
 
 11. Now we should see the results of our query.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/90d0aff0-27e7-4a3c-b9ec-45de1c264ffc" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/90d0aff0-27e7-4a3c-b9ec-45de1c264ffc" />
 
 
 12. Double-click on the word **people**, you will see the location of where the **people** appeared across all of the selected text transcripts.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/89780b9d-4357-4b93-8c98-54d2c664466c" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/89780b9d-4357-4b93-8c98-54d2c664466c" />
 
 
 13. Go back to the **Word Frequency Query Results**, and you will find out that words like ‘a’, ‘and’, ‘the’ are ignored \- these words are treated as **stop words**, which are those really common words and won’t be useful for analysis. When you see a word in the list and you don’t think they’d be helpful, for example, the word ‘things’, you can right-click on ‘things’ and select **Add to Stop Words List**.
@@ -753,17 +753,17 @@ Word frequency query allows you to identify and analyze the most frequently used
 
 15. Under the **General** tab, you can select text content languages. The default is English (US), but you can switch to other languages. Then, click on **Stop Words…** to see the current list in use. 
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/995ae5b2-d003-4a84-94c8-20aa8dff1b1b" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/995ae5b2-d003-4a84-94c8-20aa8dff1b1b" />
 
 
 16. From here, you can add stop words manually, or reset the list. But for now, let’s click **Cancel**, then **Cancel** again to close the two pop-ups and return back to the result list.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/350641cf-979d-494d-a6a8-a5b3f1b50653" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/350641cf-979d-494d-a6a8-a5b3f1b50653" />
 
 
 17. Now let's export the list since we only selected **Run the query for once** in the past step. To do that, right-click on any word in the list, and select **Export List**. 
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/af2d8ee4-59e0-4cae-8ef4-cf7e9df26724" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/af2d8ee4-59e0-4cae-8ef4-cf7e9df26724" />
 
 
 18. Browse to the workshop folder, give the file a name or keep the default and click on **Save**.
@@ -773,7 +773,7 @@ Word frequency query allows you to identify and analyze the most frequently used
 
 19. NVivo provides several visualization options for word frequency results. For example, click **Word Cloud** in the side tabs to view your results as a cloud.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/497663fd-cb7c-42f6-8772-b3329fba8bd5" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/497663fd-cb7c-42f6-8772-b3329fba8bd5" />
 
 
 20. Under the **Word Frequency Query** menu, you can choose to use another color palette and font style.
@@ -788,17 +788,17 @@ Word frequency query allows you to identify and analyze the most frequently used
 
 22. Try out the **Tree Map** to see block-sized proportions by term.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/095785dc-8024-48a7-9801-a7192379b713" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/095785dc-8024-48a7-9801-a7192379b713" />
 
 
 23. Next, try out the **Cluster Analysis** to view relationships between terms.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/6a596f2e-fafb-41b1-b682-43b594f7541a" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/6a596f2e-fafb-41b1-b682-43b594f7541a" />
 
 
 24. Close the query to return to the main workspace for now.
 
-<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/264be9c2-3507-4da3-afba-844eaeb5df1e" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/264be9c2-3507-4da3-afba-844eaeb5df1e" />
 
 
 ## **Text Search Query** 
