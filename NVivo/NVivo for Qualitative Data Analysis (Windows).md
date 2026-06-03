@@ -226,7 +226,7 @@ Deductive coding is a top-down qualitative analysis approach where you start wit
 
 3. Enter **Energy** in the ‘Name’ field, then click **OK**. Our first code **Energy** is now created.
 
-<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/a612c663-a1fa-470f-a6a4-2323debebce3" />
+<p align="center"><img width="600" alt="image" src="https://github.com/user-attachments/assets/a612c663-a1fa-470f-a6a4-2323debebce3" />
 
 
 4. Now, go to **Interview** under the **Files**. Double-click on **Interview dec4\_2014 2\_02pm** to open the file located at the top.
@@ -236,22 +236,22 @@ Deductive coding is a top-down qualitative analysis approach where you start wit
 
 5. Files imported into NVivo are automatically opened in protected mode, meaning they cannot be edited. To make changes, select **Edit** to turn on editing view.
 
-<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/0b54a203-f05f-418b-81a9-b45aa45455e0" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/0b54a203-f05f-418b-81a9-b45aa45455e0" />
 
 
 6. Remember to uncheck it once you’re finished.
 
-<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/50128933-b599-43ae-95be-1a0b48c8eb33" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/50128933-b599-43ae-95be-1a0b48c8eb33" />
 
 
 7. Now, select a text snippet in the **Interview dec4\_2014 2\_02pm** file right-click, and select **Code Selection** from the menu.
 
-<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/60f18096-bf4a-4ea5-9ab9-a26b5c323b88" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/60f18096-bf4a-4ea5-9ab9-a26b5c323b88" />
 
 
 8. In the pop-up, select **Energy,** and click **Code Selection to ‘Energy’**.
 
-<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/cbbe6afc-06d1-4cbd-956b-469e5c9d104d" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/cbbe6afc-06d1-4cbd-956b-469e5c9d104d" />
 
 
 9. Select another snippet in the same file and right-click to open the content menu. This time, go to **Code to Recent Codes** \> **Energy**.
