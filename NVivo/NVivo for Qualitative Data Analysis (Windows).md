@@ -406,7 +406,7 @@ The highlighter and coding stripes help visualize and track your coding work in 
 
 8. Now, click the coding stripes icon again, and select **Item Colors**.
 
-<p align="center"><img width="260"  alt="image" src="https://github.com/user-attachments/assets/09e24ed8-95c7-47aa-b8c8-92d9e72ead4d" />
+<p align="center"><img width="330"  alt="image" src="https://github.com/user-attachments/assets/09e24ed8-95c7-47aa-b8c8-92d9e72ead4d" />
 
 
 9. The color of each code now will appear as the color you selected.
