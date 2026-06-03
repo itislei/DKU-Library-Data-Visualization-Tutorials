@@ -544,72 +544,72 @@ Please note that the **Transcription** feature in NVivo is not included in our s
 
 1. From the main screen, click on **Sample Project (Multi-method)**. We will use this sample project for the rest of the workshop.
 
-<p align="center"><img width="825" height="396" alt="image" src="https://github.com/user-attachments/assets/edf42407-3cbb-457f-9a04-b4f9034a6bac" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/edf42407-3cbb-457f-9a04-b4f9034a6bac" />
 
 
 2. When the welcome pop-up appears, click **SKIP TOUR** to close it.
 
-<p align="center"><img width="697" height="485" alt="image" src="https://github.com/user-attachments/assets/0f04cf93-1e11-4461-87a3-8316559301c6" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/0f04cf93-1e11-4461-87a3-8316559301c6" />
 
 
 3. Go to **Files**, then **Interviews** folder. Double click to open the **Betty and Paul** file \- this is a video recording from an interview.
 
-<p align="center"><img width="640" height="439" alt="image" src="https://github.com/user-attachments/assets/374a90df-9245-4cbc-b126-fc7d509b76b7" />
+<p align="center"><img width="450" alt="image" src="https://github.com/user-attachments/assets/374a90df-9245-4cbc-b126-fc7d509b76b7" />
 
 
 4. Opening this video recording gives us three panels: the audio waveform, the video playback window, and a content panel showing timestamps along with the transcript. Note that the layout may vary depending on the video \- some files may not include a transcript or have timestamps.
 
-<p align="center"><img width="831" height="624" alt="image" src="https://github.com/user-attachments/assets/eb8fa2ae-2202-4ca8-a471-38068d4ecae0" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/eb8fa2ae-2202-4ca8-a471-38068d4ecae0" />
 
 
 5. Now, go back to the **Interviews** folder, double-click on the **Helen** file \- this is an audio format file. 
 
-<p align="center"><img width="690" height="496" alt="image" src="https://github.com/user-attachments/assets/b6581961-7225-4e57-ae70-77d6e6dc373a" />
+<p align="center"><img width="450" height="496" alt="image" src="https://github.com/user-attachments/assets/b6581961-7225-4e57-ae70-77d6e6dc373a" />
 
 
 6. Unlike the video format file, the audio recording gives us two panels: the audio waveform and a content panel showing timestamps along with the transcript. 
 
-<p align="center"><img width="916" height="641" alt="image" src="https://github.com/user-attachments/assets/7cbadba7-80f7-4fe5-94ed-18dfbc423219" />
+<p align="center"><img width="750" alt="image" src="https://github.com/user-attachments/assets/7cbadba7-80f7-4fe5-94ed-18dfbc423219" />
 
 
 7. To code the segment, drag the **playhead** in the waveform window to the starting point, then click the **Start Selection** icon at the bottom to begin selecting the segment.
 
-<p align="center"><img width="720" height="217" alt="image" src="https://github.com/user-attachments/assets/2c5c39a6-e63b-4587-b984-c5b58bc642fc" />
+<p align="center"><img width="360" alt="image" src="https://github.com/user-attachments/assets/2c5c39a6-e63b-4587-b984-c5b58bc642fc" />
 
 
 8. When it ends, click the **Finish Selection** icon to complete the coding range.
 
-<p align="center"><img width="722" height="223" alt="image" src="https://github.com/user-attachments/assets/eb275c0f-f4b7-4f02-ba48-5c9499960c4d" />
+<p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/eb275c0f-f4b7-4f02-ba48-5c9499960c4d" />
 
 
 9. Then, right-click and select **Code Selection**. 
 
-<p align="center"><img width="685" height="413" alt="image" src="https://github.com/user-attachments/assets/5643ffad-3088-4f09-b646-71b3aafca594" />
+<p align="center"><img width="400"  alt="image" src="https://github.com/user-attachments/assets/5643ffad-3088-4f09-b646-71b3aafca594" />
 
 
 10. Select the code. For example, let’s select **Memorable quotes** in this case, and click **Code Selection to ‘Memorable qu…’** to confirm.
 
-<p align="center"><img width="422" height="567" alt="image" src="https://github.com/user-attachments/assets/bb6eb6c2-ad51-41f0-a9eb-d2efee69e25d" />
+<p align="center"><img width="360" alt="image" src="https://github.com/user-attachments/assets/bb6eb6c2-ad51-41f0-a9eb-d2efee69e25d" />
 
 
 11. Go to **Codes**, **Memorable quotes**. The timestamp of the segment we just coded will appear.
 
-<p align="center"><img width="995" height="606" alt="image" src="https://github.com/user-attachments/assets/cefa0792-b5d5-4cf5-b0c1-98f27be66ca3" />
+<p align="center"><img width="650" alt="image" src="https://github.com/user-attachments/assets/cefa0792-b5d5-4cf5-b0c1-98f27be66ca3" />
 
 
 12. To uncode a segment, click on the segment reference and go back to the source file.
 
-<p align="center"><img width="622" height="204" alt="image" src="https://github.com/user-attachments/assets/5d805391-48bc-413f-a619-f37ac478c451" />
+<p align="center"><img width="360" alt="image" src="https://github.com/user-attachments/assets/5d805391-48bc-413f-a619-f37ac478c451" />
 
 
 13. From the audio wavement, locate to the coded segment, right-click it and select **Uncode** from the menu.
 
-<p align="center"><img width="676" height="283" alt="image" src="https://github.com/user-attachments/assets/c529f69e-9c1d-4251-a174-9427412e9641" />
+<p align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/c529f69e-9c1d-4251-a174-9427412e9641" />
 
 
 14. Select and check **Memorable quotes** from the pop-up, and click **OK**.
 
-<p align="center"><img width="979" height="429" alt="image" src="https://github.com/user-attachments/assets/83915421-59a1-4a82-8b4b-1a274d699d51" />
+<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/83915421-59a1-4a82-8b4b-1a274d699d51" />
 
 
 15. Now the coded segment should be removed.
