@@ -158,7 +158,7 @@ NVivo projects are saved **locally** on your computer. They are not automaticall
    6) Quick Coding Bar  
    7) Status Bar
 
-<p align="center"><img width="663" height="463" alt="image" src="https://github.com/user-attachments/assets/d3069b29-a569-48f1-8c41-f31fffcd5e24" />
+<p align="center"><img width="550"  alt="image" src="https://github.com/user-attachments/assets/d3069b29-a569-48f1-8c41-f31fffcd5e24" />
  
 *Image Source: [The workspace](https://help-nv.qsrinternational.com/14/win/Content/about-nvivo/nvivo-workspace.htm)*
 
@@ -170,34 +170,34 @@ NVivo supports organizing files in a hierarchical structure and analyzing a wide
 
 1. Go to **Files** under **Data**, right-click on **Files** and select **New Folder…**.
 
-<p align="center"><img width="461" height="276" alt="image" src="https://github.com/user-attachments/assets/0bb9f4d2-d232-48e7-82c6-0ad387771017" />
+<p align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/0bb9f4d2-d232-48e7-82c6-0ad387771017" />
 
 
 2. In the pop-up, enter **Interview** in the “Name” field, and click **OK**.
 
-<p align="center"><img width="656" height="282" alt="image" src="https://github.com/user-attachments/assets/2043ccde-0b34-4ba4-9ec4-8f44be521433" />
+<p align="center"><img width="450"  alt="image" src="https://github.com/user-attachments/assets/2043ccde-0b34-4ba4-9ec4-8f44be521433" />
 
 
 3. Make sure the **Interview** under **Files** is selected, then go to the **Import** menu, click on **Files**.
 
-<p align="center"><img width="953" height="325" alt="image" src="https://github.com/user-attachments/assets/cef3e668-c3c5-47ac-b5e8-c8035a2c32ec" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/cef3e668-c3c5-47ac-b5e8-c8035a2c32ec" />
 
 
 4. Under ‘File Type’, make sure **Support Files** is selected.
 
-<p align="center"><img width="938" height="286" alt="image" src="https://github.com/user-attachments/assets/5376ef21-c8cc-4559-a6fe-cf767979e65a" />
+<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/5376ef21-c8cc-4559-a6fe-cf767979e65a" />
 
 
 5. In the pop-up window, navigate to the workshop folder, open the Sample\_Dataset folder, select all items that begin with “Interview”, and click **Import**.
 
-<p align="center"><img width="1071" height="787" alt="3" src="https://github.com/user-attachments/assets/b1a5d1c4-1832-47f8-bd42-8c006dc41ab1" />
+<p align="center"><img width="800" alt="3" src="https://github.com/user-attachments/assets/b1a5d1c4-1832-47f8-bd42-8c006dc41ab1" />
 
 
 6. Repeat the same steps for the focus group files. Create a new folder named **Focus Group**, then go to **Import** \> **Files** \> **Documents**. In the Sample\_Dataset folder, select all items that begin with “FG”, and click **Import** to continue.
 
 7. The **Interview** and **Focus Group** folders should now appear under **Files**. Double-click each folder to view all the imported documents within it.
 
-<p align="center"><img width="788" height="432" alt="image" src="https://github.com/user-attachments/assets/f9cb5d6f-b93e-42a7-9c9e-ea0ae829df27" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/f9cb5d6f-b93e-42a7-9c9e-ea0ae829df27" />
 
 
 ## NCapture
