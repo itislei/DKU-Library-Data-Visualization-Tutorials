@@ -631,7 +631,7 @@ You can manually create case classifications and cases by using the left menu, u
 
 2. Right-click on the name **Barbara**, select **Open Classification Sheet**.
 
-<p align="center"><img width="700" alt="image" src="https://github.com/user-attachments/assets/e4c8e097-9bd7-4606-8b8f-bf10a12a4607" />
+<p align="center"><img width="550" alt="image" src="https://github.com/user-attachments/assets/e4c8e097-9bd7-4606-8b8f-bf10a12a4607" />
 
 
 3. A table of all the information about the participants will appear, with different attributes about their background, like the neighborhood they live in, their gender, age range, etc. You can edit the data here.
@@ -661,7 +661,7 @@ You can manually create case classifications and cases by using the left menu, u
 
 8. Go to **Cases**, then go to **Cases**. 
 
-<p align="center"><img width="200" alt="image" src="https://github.com/user-attachments/assets/f89a26bc-3be4-4b3e-81b4-e79de4156318" />
+<p align="center"><img width="350" alt="image" src="https://github.com/user-attachments/assets/f89a26bc-3be4-4b3e-81b4-e79de4156318" />
 
 
 9. Double click on the **BARBARA** case. You should see everything that Barbara said in her interview. These words are coded to this case. The BARBARA case code is now linked to Barbara’s interview responses.
