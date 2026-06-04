@@ -170,7 +170,7 @@ Gephi allows you to import network data from various file types, including CSV f
 
 1. Go to the **File** tab, then select **Import spreadsheet** from the menu.
 
-<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/4bee3314-ede1-45fc-9836-cb5f985b99ce" /></p>
+<p align="center"><img width="940"  alt="image" src="https://github.com/user-attachments/assets/4bee3314-ede1-45fc-9836-cb5f985b99ce" /></p>
 
 
 2. Select the **nodes.csv** from the sample datasets downloaded in your computer, then click **Open**.
@@ -318,7 +318,7 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 1. As default, the **Appearance** window appears in the top left of the workplace.
 
-<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/c7328082-38d1-4ec8-acf4-ab2dbaf2ed93" /></p>
+<p align="center"><img width="940"  alt="image" src="https://github.com/user-attachments/assets/c7328082-38d1-4ec8-acf4-ab2dbaf2ed93" /></p>
 
 
 2. If you don’t have that open, go to the **Window** tab, then select **Appearance**. The **Appearance** window should appear in the workplace again. You can also select **Reset Windows** to go back to the default view.
@@ -477,7 +477,7 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 1. As default, the **Layout** window appears in the bottom left of the workplace. We will only cover some of the tools here, but it is encouraging to explore and try them on your own after the tutorial.
 
-<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/7d6ed3e5-282c-4ca5-b65d-9a01cd57881e" /></p>
+<p align="center"><img width="940" alt="image" src="https://github.com/user-attachments/assets/7d6ed3e5-282c-4ca5-b65d-9a01cd57881e" /></p>
 
 
 2. Click on the arrow to expand the menu, select **Circular Layout**. 
@@ -534,7 +534,7 @@ In Gephi, you can customize the visual appearance of your network by adjusting t
 
 Gephi provides filtering and statistical tools that allow you to narrow down the data for closer examination and perform statistical calculations on the imported dataset. The **Filters & Statistics** window is located at the bottom right of the workspace.  
 
-<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/e223a343-895e-49ae-9a62-090dd00272d5" /></p>
+<p align="center"><img width="940"  alt="image" src="https://github.com/user-attachments/assets/e223a343-895e-49ae-9a62-090dd00272d5" /></p>
 
 ## **Filters** 
 
@@ -579,7 +579,7 @@ Gephi includes a range of built-in statistical tools that help you analyze the s
 
 1. Let’s say we want to analyze the network’s average degree. First, navigate to the **Statistics** tab in the bottom-right **Filters & Statistics** window. 
 
-<p align="center"><img width="800" alt="image" src="https://github.com/user-attachments/assets/31159a21-def0-4d22-a797-3a443c4cdba1" /></p>
+<p align="center"><img width="940" alt="image" src="https://github.com/user-attachments/assets/31159a21-def0-4d22-a797-3a443c4cdba1" /></p>
 
 
 2. Then, click **Run** next to **Average Degree**.
@@ -632,7 +632,7 @@ There are multiple ways to export a project from Gephi. You can export the graph
 
 2. Now you will see the graph has no label or colored edges we previously set. This is because some settings have not been applied, and we can configure those using the **Preview Settings** pane. 
 
-<p align="center"><img width="800"  alt="image" src="https://github.com/user-attachments/assets/c67cfe5a-f1f2-4b3c-9c14-53c7303fe408" /></p>
+<p align="center"><img width="940"  alt="image" src="https://github.com/user-attachments/assets/c67cfe5a-f1f2-4b3c-9c14-53c7303fe408" /></p>
 
 
 3. For example, let’s check **Show Labels**, and change the **Font** size to **3** and click **OK**.
