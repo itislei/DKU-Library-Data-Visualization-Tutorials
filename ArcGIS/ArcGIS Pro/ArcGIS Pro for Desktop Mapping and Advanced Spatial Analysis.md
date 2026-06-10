@@ -3,7 +3,7 @@
 *Siti Lei*  
 *Data and Visualization Librarian, Duke Kunshan University*  
 
-*Last updated: 2026*
+*Last updated: June 10, 2026*
 
 This tutorial introduces how to import data, visualize geographic information, perform spatial analysis, and export professional maps using ArcGIS Pro.
 
@@ -45,9 +45,9 @@ This tutorial introduces how to import data, visualize geographic information, p
 
 - [Buffer ](#buffer)
 
-- [Intersect Tool  ](#intersect-tool)
+- [Intersect](#intersect-tool)
 
-- [Calculate Coverage per District](#calculate-coverage-per-district)
+- [Calculate coverage per district](#calculate-coverage-per-district)
 
 - [Join coverage with citybase data](#join-coverage-with-citybase-data )
 
@@ -55,13 +55,13 @@ This tutorial introduces how to import data, visualize geographic information, p
 
 **[Export map ](#export-map )**
 
-- [New Layout ](#new-layout)
+- [New layout ](#new-layout)
 
-- [Map Title ](#map-title)
+- [Map title ](#map-title)
 
-- [North Arrow and Legend ](#north-arrow-and-legend)
+- [North arrow and legend ](#north-arrow-and-legend)
 
-- [Additional Text](#additional-text)
+- [Additional text](#additional-text)
 
 - [Grid ](#grid)
 
@@ -100,7 +100,7 @@ ArcGIS Pro will be used in the tutorial. Visit and follow the [Downloading, Inst
 
 ## Datasets
 
-[The sample dataset](</ArcGIS/ArcGIS Pro/Dataset/ArcGIS Pro Tutorial Sample Dataset.zip>) is sourced from China Geo-Explore and Figshare, and the data has been cleaned and edited for the purpose of demonstration. The folder contains three files:
+[The sample dataset](</ArcGIS/ArcGIS Pro/Dataset/ArcGIS Pro Tutorial Sample Dataset.zip>) is sourced from [China Geo-Explore](https://login.proxy.lib.duke.edu/login?url=http://chinageoexplorer.com/)  and [Figshare](https://pmc.ncbi.nlm.nih.gov/articles/PMC12886901/), and the data has been cleaned and edited for the purpose of demonstration. The folder contains three files:
 
 - [suzhou_boundary](https://login.proxy.lib.duke.edu/login?url=http://chinageoexplorer.com/)
 - [suzhou_population.csv](https://login.proxy.lib.duke.edu/login?url=http://chinageoexplorer.com/) 
@@ -332,7 +332,7 @@ In this tutorial, we will first create 500-meter buffers around each bus stop to
 6. Once the analysis is completed, a new layer **suzhou_bus_stops_Buffer** should appear in the **Contents** pane. Uncheck the **suzhou_bus_stops** layer, and the map view should look like the one shown below.
 <p align="center"><img width="800"  alt="image11" src="https://github.com/user-attachments/assets/421676f1-1d26-4edc-af78-1956b101dfb8" />
 
-## Intersect Tool
+## Intersect
 
 The Intersect tool combines multiple layers and retains only the areas where they overlap. It also preserves attributes from both input layers, making it useful for spatial analysis.
 
@@ -361,7 +361,7 @@ We are going to create a new layer showing only the buffer areas that fall withi
 8. Make sure the **Population** and **Shape_Area** fields are included in the attribute table, as they will be used in later steps.
 <p align="center"><img width="700"  alt="image103" src="https://github.com/user-attachments/assets/de15071d-1c8c-4f59-b7a4-039e6fe1938c" />
 
-## Calculate Coverage per District
+## Calculate coverage per district
 
 1. In the table view, click **Add**.
 <p align="center"><img width="700"  alt="image6" src="https://github.com/user-attachments/assets/7127d99e-6dda-4814-993f-858f30bbb921" />
@@ -454,7 +454,7 @@ We can further join the coverage data with the city boundary dataset to create a
 
 ArcGIS Pro supports the creation and export of maps with essential layout elements such as a title, legend, scale bar, and north arrow. [Example final map](</ArcGIS/ArcGIS Pro/Example final map.pdf>) is the one we will create and export.
 
-## New Layout
+## New layout
 
 1. Go to **Insert > New Layout** and choose a page size (e.g., Landscape, 8.5 × 11").
 <p align="center"><img width="650"  alt="image102" src="https://github.com/user-attachments/assets/960b359a-f79d-4379-91bb-44a4185f973f" />
@@ -470,7 +470,7 @@ ArcGIS Pro supports the creation and export of maps with essential layout elemen
 5. When you have finished adjusting the map extent, go to **Layout > Close Activation**.
 <p align="center"><img width="650" height="178" alt="image8" src="https://github.com/user-attachments/assets/7c87836a-d2ee-4b1a-8c80-d811aee339c7" />
 
-## Map Title
+## Map title
 1. Go to **Insert > Dynamic Text**, select **Name of Map**, and draw a rectangle in the layout. Double-click the text box to rename the map to **“Bus Stop Service in Suzhou.”**
 <p align="center"><img width="400"  alt="image108" src="https://github.com/user-attachments/assets/bcb57fa3-6d24-4794-b68a-b14f3fe594aa" />
    
@@ -483,7 +483,7 @@ ArcGIS Pro supports the creation and export of maps with essential layout elemen
 4. To delete any elements, right-click on the element and select **Delete** from the menu.
 <p align="center"><img width="300"  alt="image92" src="https://github.com/user-attachments/assets/52596090-43fc-49ec-b3f9-431574714b44" />
 
-## North Arrow and Legend
+## North arrow and legend
 
 1. Click **North Arrow**, select one from the menu, and draw a box in the layout or map to place it.
 <p align="center"><img width="250"  alt="image58" src="https://github.com/user-attachments/assets/5fee20a0-98cc-4b2f-bee1-8883539a6bcd" />
@@ -504,7 +504,7 @@ ArcGIS Pro supports the creation and export of maps with essential layout elemen
 7. For convenience, you can enable **Auto Apply** in the bottom-left corner to preview changes instantly.
 <p align="center"><img width="200" alt="image46" src="https://github.com/user-attachments/assets/15aa066c-c0bd-4e88-960a-6aefd8d055d2" />
 
-## Additional Text 
+## Additional text 
 
 1. If you have supplementary information to add other than the essential map elements (e.g., data source, cartographer name, date of creation), you may go to **Dynamic Text**, then select **Description**.
 <p align="center"><img width="450"  alt="image89" src="https://github.com/user-attachments/assets/033a649a-5ad0-4d46-816d-3d00934901bf" />
