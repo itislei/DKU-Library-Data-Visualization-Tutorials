@@ -90,7 +90,7 @@ We will use NVivo 14 in this tutorial. Visit the [Qualitative Data Analysis guid
 
 ## Setup
 
-Follow the instructions in [Downloading, Installing and Licensing NVivo 14](https://library.dukekunshan.edu.cn/downloading-installing-and-licensing-nvivo-14/) to download the NVivo 14 Windows version on your computer.
+Follow the instructions in [Downloading, Installing and Licensing NVivo 14](https://github.com/itislei/DKU-Library-Data-Visualization-Tutorials/blob/main/NVivo/Downloading%2C%20Installing%20and%20Licensing%20NVivo%2014.md) to download the NVivo 14 Windows version on your computer.
 
 ## Dataset
 
