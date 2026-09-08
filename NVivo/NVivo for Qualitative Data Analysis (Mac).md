@@ -368,7 +368,7 @@ Within NVivo, codes can be organized hierarchically by creating parent and child
 
 Uncoding means removing a coded snippet from a code that disconnects that piece of data from the theme or category it was assigned to.
 
-1. Double-click on **Chemicals** code \- the snippet of coded text will show up.
+1. Double-click on **Network** code \- the snippet of coded text will show up.
 
 <p align="center"><img width="360"  alt="image" src="https://github.com/user-attachments/assets/085d8e3a-9ea8-41d0-b2dd-360ed50adbd0" />
 
