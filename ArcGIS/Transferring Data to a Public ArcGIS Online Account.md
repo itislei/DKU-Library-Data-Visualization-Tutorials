@@ -88,35 +88,35 @@ Before you begin, make sure you have access to two accounts: your **source accou
 
 1. Go to [ArcGIS Online](https://www.arcgis.com/) and click **Sign In**.
 
-<p align="center"><img width="517" alt="Go to ArcGIS Online and click Sign In" src="images/arcgis-transfer/screenshot-01.png" /></p>
+<p align="center"><img width="517" alt="Go to ArcGIS Online and click Sign In" src="https://github.com/user-attachments/assets/29bc5928-1246-4618-9505-5e1bd1e590f4" /></p>
 
 2. At the bottom of the sign-in window, click **Create an account**.
 
-<p align="center"><img width="317" alt="At the bottom of the sign-in window, click Create an account" src="images/arcgis-transfer/screenshot-02.png" /></p>
+<p align="center"><img width="317" alt="At the bottom of the sign-in window, click Create an account" src="https://github.com/user-attachments/assets/32bb5f8d-c9c8-466c-a6d1-109d51793174" /></p>
 
 3. Under **Create a public account**, click **Create an account**.
 
-<p align="center"><img width="517" alt="Under Create a public account, click Create an account" src="images/arcgis-transfer/screenshot-03.png" /></p>
+<p align="center"><img width="517" alt="Under Create a public account, click Create an account" src="https://github.com/user-attachments/assets/f4c71c38-da39-4d70-8a8d-010a22de2e01" /></p>
 
 4. Enter your **first name**, **last name**, and **email address**. Accept the Esri Master License Agreement and Privacy Statement, then click **Next**.
 
-<p align="center"><img width="317" alt="Enter your first name, last name, and email address. Accept the Esri Master License Agr..." src="images/arcgis-transfer/screenshot-04.png" /></p>
+<p align="center"><img width="317" alt="Enter your first name, last name, and email address. Accept the Esri Master License Agreement and Privacy Statement, then click Next." src="https://github.com/user-attachments/assets/aa7ade5c-e00a-4d42-bb6f-e094d684b62c" /></p>
 
 5. ArcGIS will send an activation email to the email address you entered. Open your **email inbox** to continue.
 
-<p align="center"><img width="317" alt="ArcGIS will send an activation email to the email address you entered. Open your email..." src="images/arcgis-transfer/screenshot-05.png" /></p>
+<p align="center"><img width="317" alt="ArcGIS will send an activation email to the email address you entered. Open your email inbox to continue." src="https://github.com/user-attachments/assets/f15b8121-a972-4615-91fc-3ca9d41ef9af" /></p>
 
 6. Open the email from the ArcGIS Accounts Team and click the **activation link**. The link expires after 24 hours.
 
-<p align="center"><img width="517" alt="Open the email from the ArcGIS Accounts Team and click the activation link. The link ex..." src="images/arcgis-transfer/screenshot-06.png" /></p>
+<p align="center"><img width="517" alt="Open the email from the ArcGIS Accounts Team and click the activation link. The link expires after 24 hours." src="https://github.com/user-attachments/assets/cc2c80d0-f48b-487f-995e-d68e74eedaed" /></p>
 
 7. Create a **username** and **password**, select a **security question**, and enter your answer. Then click **Create account**.
 
-<p align="center"><img width="317" alt="Create a username and password, select a security question, and enter your answer. Then..." src="images/arcgis-transfer/screenshot-07.png" /></p>
+<p align="center"><img width="317" alt="Create a username and password, select a security question, and enter your answer. Then click Create account." src="https://github.com/user-attachments/assets/c0f7d891-8fd2-4b93-b037-0156b09acb5b" /></p>
 
 8. After the account is created, open the account menu in the upper-right corner and confirm that you are signed in to your new ArcGIS public account.
 
-<p align="center"><img width="317" alt="After the account is created, open the account menu in the upper-right corner and confi..." src="images/arcgis-transfer/screenshot-08.png" /></p>
+<p align="center"><img width="317" alt="After the account is created, open the account menu in the upper-right corner and confirm that you are signed in to your new ArcGIS public account." src="https://github.com/user-attachments/assets/d930cced-a209-4db8-91af-a808e40c96ff" /></p>
 
 ### **Download Items Directly from ArcGIS Online**
 
@@ -132,43 +132,43 @@ For this section, we use a **Feature layer (hosted)** as an example.
 
 2. Open **Content**, then select a **Feature layer (hosted)** item that you own.
 
-<p align="center"><img width="317" alt="Open Content, then select a Feature layer (hosted) item that you own" src="images/arcgis-transfer/screenshot-09.png" /></p>
+<p align="center"><img width="317" alt="Open Content, then select a Feature layer (hosted) item that you own." src="https://github.com/user-attachments/assets/0485d5be-1a11-46a7-8938-83db0ff8def4" /></p>
 
 3. On the item page, open **Overview**, select **Export Data**, and choose **Export to GeoJSON**.
 
-<p align="center"><img width="317" alt="On the item page, open Overview, select Export Data, and choose Export to GeoJSON" src="images/arcgis-transfer/screenshot-10.png" /></p>
+<p align="center"><img width="317" alt="On the item page, open Overview, select Export Data, and choose Export to GeoJSON." src="https://github.com/user-attachments/assets/a6f3802d-3908-42bf-9d0c-e4b669f47e19" /></p>
 
 4. Enter a **Title**, choose a folder, and click **Export**.
 
-<p align="center"><img width="317" alt="Enter a Title, choose a folder, and click Export" src="images/arcgis-transfer/screenshot-11.png" /></p>
+<p align="center"><img width="317" alt="Enter a Title, choose a folder, and click Export." src="https://github.com/user-attachments/assets/713fb0c1-4889-48c7-ba50-4345d26030b7" /></p>
 
 5. On the new item page, open **Overview** and click **Download**. Make sure the file is saved on your computer.
 
-<p align="center"><img width="317" alt="On the new item page, open Overview and click Download. Make sure the file is saved on..." src="images/arcgis-transfer/screenshot-12.png" /></p>
+<p align="center"><img width="317" alt="On the new item page, open Overview and click Download. Make sure the file is saved on your computer." src="https://github.com/user-attachments/assets/55fcdaee-7b89-438e-a344-42f70e24fbc2" /></p>
 
 6. Next, sign in to your personal public account in ArcGIS Online.
 
 7. Select **Map** tab to open Map Viewer.
 
-<p align="center"><img width="517" alt="Select Map tab to open Map Viewer" src="images/arcgis-transfer/screenshot-13.png" /></p>
+<p align="center"><img width="517" alt="Select the Map tab to open Map Viewer." src="https://github.com/user-attachments/assets/10874154-174b-4969-a825-098ad78a7c27" /></p>
 
 8. On the left toolbar, select **Add**, then choose **Add layer from file**.
 
-<p align="center"><img width="517" alt="On the left toolbar, select Add, then choose Add layer from file" src="images/arcgis-transfer/screenshot-14.png" /></p>
+<p align="center"><img width="517" alt="On the left toolbar, select Add, then choose Add layer from file." src="https://github.com/user-attachments/assets/4c74af82-4145-49e3-8f31-fa671e4300e5" /></p>
 
 9. Find the location where GeoJSON file was saved, then select the downloaded **.geojson** file and click **Open**.
 
-<p align="center"><img width="517" alt="Find the location where GeoJSON file was saved, then select the downloaded .geojson fil..." src="images/arcgis-transfer/screenshot-15.png" /></p>
+<p align="center"><img width="517" alt="Find the location where the GeoJSON file was saved, select the downloaded .geojson file, and click Open." src="https://github.com/user-attachments/assets/09a3790d-b924-439e-8ccf-004c51899318" /></p>
 
 10. In the pop-up, click **Create and add to map**, and wait for the process to complete. Larger files may take longer to process.
 
 11. On the left toolbar, select **Save and open**, then select **Save as**.
 
-<p align="center"><img width="517" alt="On the left toolbar, select Save and open, then select Save as" src="images/arcgis-transfer/screenshot-16.png" /></p>
+<p align="center"><img width="517" alt="On the left toolbar, select Save and open, then select Save as." src="https://github.com/user-attachments/assets/6380bdcb-08e9-4520-99e7-195d7defc2f8" /></p>
 
 12. Enter a **Title** and click **Save**.
 
-<p align="center"><img width="317" alt="Enter a Title and click Save" src="images/arcgis-transfer/screenshot-17.png" /></p>
+<p align="center"><img width="317" alt="Enter a Title and click Save." src="https://github.com/user-attachments/assets/0fffb354-78c1-4674-a361-86811d36f30f" /></p>
 
 13. Go to **Content**. The file should be now saved in your public account.
 
@@ -178,11 +178,11 @@ For this section, we use a **Microsoft Excel spreadsheet** as an example.
 
 1. In ArcGIS Online, log in to your institutional account. Then, go to **Content**, locate an **Excel item**, and then click **Preview**.
 
-<p align="center"><img width="517" alt="In ArcGIS Online, log in to your institutional account. Then, go to Content, locate an..." src="images/arcgis-transfer/screenshot-18.png" /></p>
+<p align="center"><img width="517" alt="In ArcGIS Online, log in to your institutional account. Then, go to Content, locate an Excel item, and click Preview." src="https://github.com/user-attachments/assets/6293cdf5-d02c-4d5a-ba9a-6f75e86c1e23" /></p>
 
 2. Go to the **details**, then click **Download**. The .xlsx file will be saved on your computer.
 
-<p align="center"><img width="317" alt="Go to the details, then click Download. The .xlsx file will be saved on your computer" src="images/arcgis-transfer/screenshot-19.png" /></p>
+<p align="center"><img width="317" alt="Go to the details, then click Download. The .xlsx file will be saved on your computer." src="https://github.com/user-attachments/assets/b290152e-13f9-4ff9-9a5f-a4f3ff5c8afa" /></p>
 
 ### **Convert and Upload a Dataset**
 
@@ -192,31 +192,31 @@ Use Microsoft Excel to convert the downloaded **.xlsx** workbook to a **CSV UTF-
 
 1. Open Microsoft Excel on your computer, and select the downloaded **.xlsx** workbook under Recent.
 
-<p align="center"><img width="517" alt="Open Microsoft Excel on your computer, and select the downloaded .xlsx workbook under R..." src="images/arcgis-transfer/screenshot-20.png" /></p>
+<p align="center"><img width="517" alt="Open Microsoft Excel on your computer, and select the downloaded .xlsx workbook under Recent." src="https://github.com/user-attachments/assets/869c33cd-51cd-420d-a008-4f9fc549f8ab" /></p>
 
 2. After the workbook opens, click **File**.
 
-<p align="center"><img width="517" alt="After the workbook opens, click File" src="images/arcgis-transfer/screenshot-21.png" /></p>
+<p align="center"><img width="517" alt="After the workbook opens, click File." src="https://github.com/user-attachments/assets/81b47e9c-d666-45f9-8112-0e2cc2e65ffc" /></p>
 
 3. Select **Save As**.
 
-<p align="center"><img width="317" alt="Select Save As" src="images/arcgis-transfer/screenshot-22.png" /></p>
+<p align="center"><img width="317" alt="Select Save As." src="https://github.com/user-attachments/assets/62cb2061-2fe1-4dcb-a578-cc5e841d7dca" /></p>
 
 4. Choose a save location, enter a clear file name, and open the file-format menu.
 
-<p align="center"><img width="517" alt="Choose a save location, enter a clear file name, and open the file-format menu" src="images/arcgis-transfer/screenshot-23.png" /></p>
+<p align="center"><img width="517" alt="Choose a save location, enter a clear file name, and open the file-format menu." src="https://github.com/user-attachments/assets/8ef6790f-27d6-4d4f-b34d-abe972d6161d" /></p>
 
 5. Select **CSV UTF-8 (Comma delimited) (.csv)**. UTF-8 helps preserve Chinese and other non-English characters.
 
-<p align="center"><img width="517" alt="Select CSV UTF-8 (Comma delimited) (.csv). UTF-8 helps preserve Chinese and other non-E..." src="images/arcgis-transfer/screenshot-24.png" /></p>
+<p align="center"><img width="517" alt="Select CSV UTF-8 (Comma delimited) (.csv). UTF-8 helps preserve Chinese and other non-English characters." src="https://github.com/user-attachments/assets/bc688c60-2ef1-49a6-8748-8e99231d2e0e" /></p>
 
 6. Click **Save**.
 
-<p align="center"><img width="517" alt="Click Save" src="images/arcgis-transfer/screenshot-25.png" /></p>
+<p align="center"><img width="517" alt="Click Save." src="https://github.com/user-attachments/assets/164a9172-48f5-4d85-b565-691066cfeb4c" /></p>
 
 7. If Excel explains that CSV does not support multiple sheets, click **OK** to save the active sheet.
 
-<p align="center"><img width="517" alt="If Excel explains that CSV does not support multiple sheets, click OK to save the activ..." src="images/arcgis-transfer/screenshot-26.png" /></p>
+<p align="center"><img width="517" alt="If Excel explains that CSV does not support multiple sheets, click OK to save the active sheet." src="https://github.com/user-attachments/assets/2dfc505d-c35c-4485-8bdf-ce7c42e30ad3" /></p>
 
 CSV files save only the active worksheet and the values shown in its cells. If the workbook contains **multiple worksheets**, save each worksheet as **a separate CSV file**. Formatting, charts, and other Excel features are not included. Keep the original **.xlsx** file as a backup.
 
@@ -228,13 +228,13 @@ Use this method when the CSV contains location information and you want to displ
 
 2. Open **Layers**, click the arrow next to **Add**, and select **Add layer from file**.
 
-<p align="center"><img width="517" alt="Open Layers, click the arrow next to Add, and select Add layer from file" src="images/arcgis-transfer/screenshot-27.png" /></p>
+<p align="center"><img width="517" alt="Open Layers, click the arrow next to Add, and select Add layer from file." src="https://github.com/user-attachments/assets/382a8914-2d8a-40dc-af50-4616b3050f70" /></p>
 
 3. Select the CSV file saved from Excel. If ArcGIS asks how to locate the data, check that the correct latitude and longitude or address fields are selected.
 
 4. Enter a **Title**, choose a folder, and click **Create and add to map**.
 
-<p align="center"><img width="517" alt="Enter a Title, choose a folder, and click Create and add to map" src="images/arcgis-transfer/screenshot-28.png" /></p>
+<p align="center"><img width="517" alt="Enter a Title, choose a folder, and click Create and add to map." src="https://github.com/user-attachments/assets/265fe83a-4584-4893-873c-4bc9773a059f" /></p>
 
 5. Confirm that the new CSV layer appears in the **Layers** panel and displays correctly on the map.
 
@@ -244,15 +244,15 @@ This optional method is useful if you only want to store the CSV in your account
 
 1. In your public account, open **Content**, select **My content**, and click **New item**.
 
-<p align="center"><img width="517" alt="In your public account, open Content, select My content, and click New item" src="images/arcgis-transfer/screenshot-29.png" /></p>
+<p align="center"><img width="517" alt="In your public account, open Content, select My content, and click New item." src="https://github.com/user-attachments/assets/df3951d8-7ee5-4c40-860c-d77521c34cec" /></p>
 
 2. Select **Your device** and choose the CSV file.
 
-<p align="center"><img width="517" alt="Select Your device and choose the CSV file" src="images/arcgis-transfer/screenshot-30.png" /></p>
+<p align="center"><img width="517" alt="Select Your device and choose the CSV file." src="https://github.com/user-attachments/assets/2a613929-4e9f-41df-950b-787387786ed6" /></p>
 
 3. Enter a **Title**, choose a folder, add tags or a summary if needed, and click **Save**.
 
-<p align="center"><img width="517" alt="Enter a Title, choose a folder, add tags or a summary if needed, and click Save" src="images/arcgis-transfer/screenshot-31.png" /></p>
+<p align="center"><img width="517" alt="Enter a Title, choose a folder, add tags or a summary if needed, and click Save." src="https://github.com/user-attachments/assets/5a001abb-9e38-4825-81da-aed36924fc85" /></p>
 
 Other spreadsheet applications and file-conversion tools can also create CSV files. Before using an online converter, consider whether the data contains **private, sensitive, or restricted information** and review the tool's **privacy and security practices**.
 
@@ -266,29 +266,29 @@ In this section, we will use **ArcGIS Assistant** to transfer items between ArcG
 
 1. Open **ArcGIS Assistant** at [https://assistant.esri-ps.com/](https://assistant.esri-ps.com/) and click **Sign in** at the top right corner.
 
-<p align="center"><img width="517" alt="Open ArcGIS Assistant at https://assistant.esri-ps.com/ and click Sign in at the top ri..." src="images/arcgis-transfer/screenshot-32.png" /></p>
+<p align="center"><img width="517" alt="Open ArcGIS Assistant at https://assistant.esri-ps.com/ and click Sign in at the top right." src="https://github.com/user-attachments/assets/7df9208f-564c-474b-aa3d-3a6bccacc57f" /></p>
 
 2. Type **“Dukeuniv”** to sign in to your institutional ArcGIS Online account.
 
-<p align="center"><img width="317" alt="Type “Dukeuniv” to sign in to your institutional ArcGIS Online account" src="images/arcgis-transfer/screenshot-33.png" /></p>
+<p align="center"><img width="317" alt="Type “Dukeuniv” to sign in to your institutional ArcGIS Online account." src="https://github.com/user-attachments/assets/d753ae4e-9349-4a64-80ad-27371642d12f" /></p>
 
-<p align="center"><img width="317" alt="Type “Dukeuniv” to sign in to your institutional ArcGIS Online account" src="images/arcgis-transfer/screenshot-34.png" /></p>
+<p align="center"><img width="317" alt="Select Duke University to continue signing in to your institutional ArcGIS Online account." src="https://github.com/user-attachments/assets/e137e034-2b06-440c-87b8-0b11ff5f13cb" /></p>
 
 3. Select **My Content**.
 
-<p align="center"><img width="517" alt="Select My Content" src="images/arcgis-transfer/screenshot-35.png" /></p>
+<p align="center"><img width="517" alt="Select My Content." src="https://github.com/user-attachments/assets/2daadb3c-80fc-47b1-ace9-931e78ba95ac" /></p>
 
 4. Click the **account icon** in the upper-right corner.
 
-<p align="center"><img width="517" alt="Click the account icon in the upper-right corner" src="images/arcgis-transfer/screenshot-36.png" /></p>
+<p align="center"><img width="517" alt="Click the account icon in the upper-right corner." src="https://github.com/user-attachments/assets/a0a055e3-e9da-4280-bacc-7f7f65ca8f33" /></p>
 
 5. If your personal account is not listed under **Recent accounts**, select **Add ArcGIS Online Account**.
 
-<p align="center"><img width="317" alt="If your personal account is not listed under Recent accounts, select Add ArcGIS Online..." src="images/arcgis-transfer/screenshot-37.png" /></p>
+<p align="center"><img width="317" alt="If your personal account is not listed under Recent accounts, select Add ArcGIS Online Account." src="https://github.com/user-attachments/assets/6cab6f8a-ae6f-430d-8d0d-cb617760bae6" /></p>
 
 6. Sign in with your personal account. If you have a public account, use **ArcGIS login**.
 
-<p align="center"><img width="317" alt="Sign in with your personal account. If you have a public account, use ArcGIS login" src="images/arcgis-transfer/screenshot-38.png" /></p>
+<p align="center"><img width="317" alt="Sign in with your personal account. If you have a public account, use ArcGIS login." src="https://github.com/user-attachments/assets/c26cb1dc-d665-4802-b81b-f80133cc68f3" /></p>
 
 #### **Copy Items to Your Personal Account**
 
@@ -296,45 +296,45 @@ This approach applies to CSV, Shapefile, GeoJSON, CSV Collection, web map, and S
 
 1. Make sure your institutional account is **active** and that you are logged in to ArcGIS Assistant.
 
-<p align="center"><img width="317" alt="Make sure your institutional account is active and that you are logged in to ArcGIS Ass..." src="images/arcgis-transfer/screenshot-39.png" /></p>
+<p align="center"><img width="317" alt="Make sure your institutional account is active and that you are logged in to ArcGIS Assistant." src="https://github.com/user-attachments/assets/85a4cfe2-b408-4362-8490-ad7918b938d5" /></p>
 
 2. If another account is active, click the three dots next to your institutional account and select **Switch active account**.
 
-<p align="center"><img width="317" alt="If another account is active, click the three dots next to your institutional account a..." src="images/arcgis-transfer/screenshot-40.png" /></p>
+<p align="center"><img width="317" alt="If another account is active, click the three dots next to your institutional account and select Switch active account." src="https://github.com/user-attachments/assets/0b5b865f-6cea-41f3-a736-711d47d0be6d" /></p>
 
 3. Under **My Content**, locate the item you want to migrate.
 
-<p align="center"><img width="517" alt="Under My Content, locate the item you want to migrate" src="images/arcgis-transfer/screenshot-41.png" /></p>
+<p align="center"><img width="517" alt="Under My Content, locate the item you want to migrate." src="https://github.com/user-attachments/assets/d0a9a19e-7bd1-4ca4-9bdd-801bd8a8fea4" /></p>
 
 4. Check the **Title** and **Type**.
 
 5. Select the **checkbox** beside the item.
 
-<p align="center"><img width="517" alt="Select the checkbox beside the item" src="images/arcgis-transfer/screenshot-42.png" /></p>
+<p align="center"><img width="517" alt="Select the checkbox beside the item." src="https://github.com/user-attachments/assets/01ad842a-13a7-4d41-a6a0-d0b1cbeceeb6" /></p>
 
 6. Click **Copy Items**.
 
-<p align="center"><img width="517" alt="Click Copy Items" src="images/arcgis-transfer/screenshot-43.png" /></p>
+<p align="center"><img width="517" alt="Click Copy Items." src="https://github.com/user-attachments/assets/44814e8b-d551-42ee-a9e8-a918116be2bd" /></p>
 
 7. Under **Copy Destination**, select your personal account.
 
-<p align="center"><img width="317" alt="Under Copy Destination, select your personal account" src="images/arcgis-transfer/screenshot-44.png" /></p>
+<p align="center"><img width="317" alt="Under Copy Destination, select your personal account." src="https://github.com/user-attachments/assets/76556e5f-b8b7-4cf7-b256-8d038dabe166" /></p>
 
 8. Click **Select Account**.
 
 9. Select a folder and click **Select Folder**.
 
-<p align="center"><img width="317" alt="Select a folder and click Select Folder" src="images/arcgis-transfer/screenshot-45.png" /></p>
+<p align="center"><img width="317" alt="Select a folder and click Select Folder." src="https://github.com/user-attachments/assets/206fd737-bdf4-4491-a924-33964cc7c8a7" /></p>
 
 10. Check that the **Item Title** is correct.
 
-<p align="center"><img width="317" alt="Check that the Item Title is correct" src="images/arcgis-transfer/screenshot-46.png" /></p>
+<p align="center"><img width="317" alt="Check that the Item Title is correct." src="https://github.com/user-attachments/assets/792f308b-12da-4131-a7bc-d4743e9ed088" /></p>
 
 11. Click **Copy Item**.
 
 12. When the copy is complete, click **Open in ArcGIS Online**.
 
-<p align="center"><img width="317" alt="When the copy is complete, click Open in ArcGIS Online" src="images/arcgis-transfer/screenshot-47.png" /></p>
+<p align="center"><img width="317" alt="When the copy is complete, click Open in ArcGIS Online." src="https://github.com/user-attachments/assets/fc0227ca-8fe9-4077-a216-56460fb563eb" /></p>
 
 #### **Transfer Items That Cannot Be Copied Directly**
 
@@ -342,33 +342,33 @@ Some item types, such as feature services, hosted feature layers, feature layers
 
 1. In ArcGIS Assistant under **My Content**, find the hosted layer. ArcGIS Assistant may show its **Type** as **Feature Service**.
 
-<p align="center"><img width="517" alt="In ArcGIS Assistant under My Content, find the hosted layer. ArcGIS Assistant may show..." src="images/arcgis-transfer/screenshot-48.png" /></p>
+<p align="center"><img width="517" alt="In ArcGIS Assistant under My Content, find the hosted layer. ArcGIS Assistant may show its Type as Feature Service." src="https://github.com/user-attachments/assets/cbf27d89-84b5-4105-a345-cf0a14f71bfd" /></p>
 
 2. Select the checkbox beside the item and click **Copy Items**.
 
 3. Under **Copy Destination**, select **your personal account**.
 
-<p align="center"><img width="317" alt="Under Copy Destination, select your personal account" src="images/arcgis-transfer/screenshot-49.png" /></p>
+<p align="center"><img width="317" alt="Under Copy Destination, select your personal account." src="https://github.com/user-attachments/assets/c7f09b33-1201-4ce8-afc1-74f6e13baa6a" /></p>
 
 4. Click **Select Account**.
 
 5. Select a folder and click **Select Folder**.
 
-<p align="center"><img width="317" alt="Select a folder and click Select Folder" src="images/arcgis-transfer/screenshot-50.png" /></p>
+<p align="center"><img width="317" alt="Select a folder and click Select Folder." src="https://github.com/user-attachments/assets/1e2a6add-7fae-455d-9c9f-2b80206da0aa" /></p>
 
 6. Check that the **Item Title** is correct.
 
-<p align="center"><img width="317" alt="Check that the Item Title is correct" src="images/arcgis-transfer/screenshot-51.png" /></p>
+<p align="center"><img width="317" alt="Check that the Item Title is correct." src="https://github.com/user-attachments/assets/aa27be92-df12-4d77-b93c-4978e655010b" /></p>
 
 7. Select **Copy by reference**.
 
-<p align="center"><img width="317" alt="Select Copy by reference" src="images/arcgis-transfer/screenshot-52.png" /></p>
+<p align="center"><img width="317" alt="Select Copy by reference." src="https://github.com/user-attachments/assets/3fe44335-769d-445b-a8f0-f89b949b44c4" /></p>
 
 8. Once everything is ready, click **Copy Item**.
 
 9. When the copy is complete, click **Open in ArcGIS Online**.
 
-<p align="center"><img width="317" alt="When the copy is complete, click Open in ArcGIS Online" src="images/arcgis-transfer/screenshot-53.png" /></p>
+<p align="center"><img width="317" alt="When the copy is complete, click Open in ArcGIS Online." src="https://github.com/user-attachments/assets/ef7edf0f-1785-41d8-b372-79c2ad551723" /></p>
 
 *Note:* **Copy by reference** creates an item in the personal account, but the data and service remain in the institutional account. **Leave the URL unchanged** unless the same layer has been published at a new service URL.
 
