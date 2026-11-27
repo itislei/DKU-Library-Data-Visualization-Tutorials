@@ -3,7 +3,7 @@
 *Siti Lei*  
 *Data and Visualization Librarian, Duke Kunshan University*
 
-*Last updated: Februaru 3, 2026*
+*Last updated: February 3, 2026*
 
 This 1.5-hour tutorial introduces how to conduct qualitative data analysis using a tool called NVivo in Mac devices, starting from importing qualitative data files, coding, running queries, to analyzing and visualizing codes. For demonstration, we will use a selection of text and image files from the project [Data Center Energy Efficiency Focus Groups and Interviews](https://catalog.data.gov/dataset/data-center-energy-efficiency-focus-groups-and-interviews) by U.S. Environmental Protection Agency and the sample project in NVivo in this tutorial. 
 
